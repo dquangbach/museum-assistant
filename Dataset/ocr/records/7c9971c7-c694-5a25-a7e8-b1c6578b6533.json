@@ -1,0 +1,967 @@
+{
+  "asset_id": "7c9971c7-c694-5a25-a7e8-b1c6578b6533",
+  "filename": "IMG_8785.JPG",
+  "source_path": "topics/01_tong_quan_va_tu_nhien/TOPIC001_khai_quat_bao_tang_da_nang/IMG_8785.JPG",
+  "source_sha256": "826114c2b8b24b41ba1cd09875935cac2923e474fd8e5f5579325d4a126dbde1",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "Ù\n\nN11111011,\n\nm1\n\nSANH A | LOBBYA-\n\npli\n\nKHU TRUNG BAY CHINH\n\nMAIN EXHIBITION\n\nL\n\nKHU TRUN\n\nG BAY THIEU NHI\n\nCHILDREN'S MUSEUM\n\nVAN PHONG\n\nOFFICE\n\nKHU TRUNG BAY CHINH\n\nfi\n\nL2\n\nMAIN EXHIBITION „\n\nKHU NGHIEN\n\nCUU & PHAT TRIEN\n\nDIRECTORY 2\n\nKHU TR\n\nUNG BAY KHO MO\n\nHIGH DENSITY EXHIBITION\n\nTHONGTIN & BAN VE\n\n® 8\n\nL1\n\nINFORMATION & TICKETING\n\nKHU TRUNG BAY\n\nCO THỜI HAN ïí\n\nTEMPORARY GALLERY\n\nNG B\n\nAY THIEU NHI\n\npd\n\nKHU TR\n\nCHILDREN'S MUSEUM\n\n©\n\nB1\n\nHẦM GỬI XE\n\nBASEMENT\n\nXƯƠN\n\nG PHỤC CHẾ\n\nRESTORATION ATELIER il",
+  "words": [
+    {
+      "text": "Ù",
+      "confidence": 68.547539,
+      "box": [
+        1628,
+        0,
+        32,
+        54
+      ]
+    },
+    {
+      "text": "N11111011,",
+      "confidence": 0.0,
+      "box": [
+        1840,
+        66,
+        55,
+        10
+      ]
+    },
+    {
+      "text": "m1",
+      "confidence": 71.430511,
+      "box": [
+        1803,
+        68,
+        106,
+        53
+      ]
+    },
+    {
+      "text": "SANH",
+      "confidence": 93.115753,
+      "box": [
+        110,
+        532,
+        658,
+        246
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 91.513779,
+      "box": [
+        802,
+        497,
+        116,
+        348
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 92.627441,
+      "box": [
+        1034,
+        572,
+        1,
+        179
+      ]
+    },
+    {
+      "text": "LOBBYA-",
+      "confidence": 49.341118,
+      "box": [
+        1220,
+        534,
+        1115,
+        265
+      ]
+    },
+    {
+      "text": "pli",
+      "confidence": 51.814785,
+      "box": [
+        2260,
+        781,
+        77,
+        88
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 87.555885,
+      "box": [
+        464,
+        841,
+        239,
+        92
+      ]
+    },
+    {
+      "text": "TRUNG",
+      "confidence": 92.575623,
+      "box": [
+        740,
+        817,
+        406,
+        107
+      ]
+    },
+    {
+      "text": "BAY",
+      "confidence": 92.714592,
+      "box": [
+        1191,
+        794,
+        217,
+        116
+      ]
+    },
+    {
+      "text": "CHINH",
+      "confidence": 91.351097,
+      "box": [
+        1444,
+        780,
+        364,
+        120
+      ]
+    },
+    {
+      "text": "MAIN",
+      "confidence": 96.16275,
+      "box": [
+        477,
+        960,
+        171,
+        55
+      ]
+    },
+    {
+      "text": "EXHIBITION",
+      "confidence": 96.16275,
+      "box": [
+        675,
+        949,
+        351,
+        60
+      ]
+    },
+    {
+      "text": "L",
+      "confidence": 91.983223,
+      "box": [
+        136,
+        859,
+        120,
+        168
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 92.590523,
+      "box": [
+        486,
+        1040,
+        234,
+        88
+      ]
+    },
+    {
+      "text": "TRUN",
+      "confidence": 92.137802,
+      "box": [
+        757,
+        1017,
+        315,
+        102
+      ]
+    },
+    {
+      "text": "G",
+      "confidence": 93.274788,
+      "box": [
+        1082,
+        1026,
+        72,
+        84
+      ]
+    },
+    {
+      "text": "BAY",
+      "confidence": 93.270447,
+      "box": [
+        1197,
+        994,
+        212,
+        112
+      ]
+    },
+    {
+      "text": "THIEU",
+      "confidence": 91.130257,
+      "box": [
+        1441,
+        973,
+        322,
+        122
+      ]
+    },
+    {
+      "text": "NHI",
+      "confidence": 96.237801,
+      "box": [
+        1807,
+        990,
+        198,
+        89
+      ]
+    },
+    {
+      "text": "CHILDREN'S",
+      "confidence": 95.851646,
+      "box": [
+        502,
+        1148,
+        361,
+        59
+      ]
+    },
+    {
+      "text": "MUSEUM",
+      "confidence": 96.421005,
+      "box": [
+        888,
+        1139,
+        273,
+        78
+      ]
+    },
+    {
+      "text": "VAN",
+      "confidence": 96.526543,
+      "box": [
+        509,
+        1210,
+        241,
+        105
+      ]
+    },
+    {
+      "text": "PHONG",
+      "confidence": 96.448898,
+      "box": [
+        792,
+        1216,
+        392,
+        91
+      ]
+    },
+    {
+      "text": "OFFICE",
+      "confidence": 96.316887,
+      "box": [
+        523,
+        1339,
+        206,
+        52
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 91.008324,
+      "box": [
+        536,
+        1471,
+        223,
+        81
+      ]
+    },
+    {
+      "text": "TRUNG",
+      "confidence": 91.008324,
+      "box": [
+        794,
+        1449,
+        375,
+        93
+      ]
+    },
+    {
+      "text": "BAY",
+      "confidence": 96.505432,
+      "box": [
+        1210,
+        1427,
+        200,
+        100
+      ]
+    },
+    {
+      "text": "CHINH",
+      "confidence": 91.014801,
+      "box": [
+        1443,
+        1414,
+        340,
+        103
+      ]
+    },
+    {
+      "text": "fi",
+      "confidence": 62.888893,
+      "box": [
+        2209,
+        1407,
+        72,
+        76
+      ]
+    },
+    {
+      "text": "L2",
+      "confidence": 89.082268,
+      "box": [
+        228,
+        1480,
+        225,
+        153
+      ]
+    },
+    {
+      "text": "MAIN",
+      "confidence": 96.042892,
+      "box": [
+        548,
+        1574,
+        159,
+        49
+      ]
+    },
+    {
+      "text": "EXHIBITION",
+      "confidence": 88.991257,
+      "box": [
+        732,
+        1561,
+        325,
+        55
+      ]
+    },
+    {
+      "text": "„",
+      "confidence": 85.665665,
+      "box": [
+        1090,
+        1606,
+        37,
+        18
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 89.741669,
+      "box": [
+        555,
+        1642,
+        218,
+        78
+      ]
+    },
+    {
+      "text": "NGHIEN",
+      "confidence": 91.60817,
+      "box": [
+        815,
+        1625,
+        398,
+        85
+      ]
+    },
+    {
+      "text": "CUU",
+      "confidence": 90.643326,
+      "box": [
+        1251,
+        1598,
+        212,
+        94
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 90.226379,
+      "box": [
+        1502,
+        1610,
+        85,
+        72
+      ]
+    },
+    {
+      "text": "PHAT",
+      "confidence": 90.142448,
+      "box": [
+        1624,
+        1576,
+        275,
+        101
+      ]
+    },
+    {
+      "text": "TRIEN",
+      "confidence": 90.142448,
+      "box": [
+        1930,
+        1553,
+        295,
+        110
+      ]
+    },
+    {
+      "text": "DIRECTORY",
+      "confidence": 96.193123,
+      "box": [
+        566,
+        1734,
+        320,
+        54
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 96.686638,
+      "box": [
+        908,
+        1732,
+        29,
+        42
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 92.15374,
+      "box": [
+        573,
+        1806,
+        214,
+        76
+      ]
+    },
+    {
+      "text": "TR",
+      "confidence": 95.721863,
+      "box": [
+        820,
+        1800,
+        134,
+        71
+      ]
+    },
+    {
+      "text": "UNG",
+      "confidence": 96.316429,
+      "box": [
+        955,
+        1784,
+        226,
+        82
+      ]
+    },
+    {
+      "text": "BAY",
+      "confidence": 92.691246,
+      "box": [
+        1220,
+        1762,
+        193,
+        93
+      ]
+    },
+    {
+      "text": "KHO",
+      "confidence": 91.89254,
+      "box": [
+        1449,
+        1770,
+        212,
+        75
+      ]
+    },
+    {
+      "text": "MO",
+      "confidence": 91.067902,
+      "box": [
+        1700,
+        1739,
+        176,
+        96
+      ]
+    },
+    {
+      "text": "HIGH",
+      "confidence": 96.802368,
+      "box": [
+        583,
+        1902,
+        142,
+        46
+      ]
+    },
+    {
+      "text": "DENSITY",
+      "confidence": 96.653427,
+      "box": [
+        749,
+        1890,
+        231,
+        51
+      ]
+    },
+    {
+      "text": "EXHIBITION",
+      "confidence": 95.624748,
+      "box": [
+        1002,
+        1876,
+        309,
+        53
+      ]
+    },
+    {
+      "text": "THONGTIN",
+      "confidence": 90.067505,
+      "box": [
+        595,
+        1996,
+        562,
+        92
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 89.004807,
+      "box": [
+        1194,
+        1995,
+        81,
+        67
+      ]
+    },
+    {
+      "text": "BAN",
+      "confidence": 96.025681,
+      "box": [
+        1310,
+        1968,
+        200,
+        90
+      ]
+    },
+    {
+      "text": "VE",
+      "confidence": 96.776711,
+      "box": [
+        1545,
+        1959,
+        117,
+        88
+      ]
+    },
+    {
+      "text": "®",
+      "confidence": 88.659683,
+      "box": [
+        2024,
+        1962,
+        71,
+        65
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 85.804565,
+      "box": [
+        2171,
+        1957,
+        53,
+        66
+      ]
+    },
+    {
+      "text": "L1",
+      "confidence": 95.504967,
+      "box": [
+        307,
+        2026,
+        189,
+        138
+      ]
+    },
+    {
+      "text": "INFORMATION",
+      "confidence": 79.894226,
+      "box": [
+        605,
+        2095,
+        397,
+        57
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 92.871841,
+      "box": [
+        1026,
+        2093,
+        45,
+        40
+      ]
+    },
+    {
+      "text": "TICKETING",
+      "confidence": 95.659447,
+      "box": [
+        1086,
+        2080,
+        278,
+        59
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 92.385368,
+      "box": [
+        611,
+        2167,
+        204,
+        71
+      ]
+    },
+    {
+      "text": "TRUNG",
+      "confidence": 88.709915,
+      "box": [
+        847,
+        2149,
+        346,
+        78
+      ]
+    },
+    {
+      "text": "BAY",
+      "confidence": 96.573692,
+      "box": [
+        1231,
+        2141,
+        186,
+        70
+      ]
+    },
+    {
+      "text": "CO",
+      "confidence": 94.322464,
+      "box": [
+        1447,
+        2115,
+        130,
+        87
+      ]
+    },
+    {
+      "text": "THỜI",
+      "confidence": 90.935272,
+      "box": [
+        1609,
+        2107,
+        234,
+        88
+      ]
+    },
+    {
+      "text": "HAN",
+      "confidence": 71.185951,
+      "box": [
+        1882,
+        2112,
+        212,
+        84
+      ]
+    },
+    {
+      "text": "ïí",
+      "confidence": 76.497734,
+      "box": [
+        2166,
+        2107,
+        37,
+        63
+      ]
+    },
+    {
+      "text": "TEMPORARY",
+      "confidence": 96.769508,
+      "box": [
+        620,
+        2246,
+        335,
+        53
+      ]
+    },
+    {
+      "text": "GALLERY",
+      "confidence": 96.688606,
+      "box": [
+        974,
+        2235,
+        229,
+        48
+      ]
+    },
+    {
+      "text": "NG",
+      "confidence": 91.269958,
+      "box": [
+        1062,
+        2293,
+        227,
+        70
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 91.269958,
+      "box": [
+        1234,
+        2289,
+        56,
+        96
+      ]
+    },
+    {
+      "text": "AY",
+      "confidence": 90.734985,
+      "box": [
+        1292,
+        2272,
+        126,
+        81
+      ]
+    },
+    {
+      "text": "THIEU",
+      "confidence": 90.734985,
+      "box": [
+        1446,
+        2254,
+        277,
+        92
+      ]
+    },
+    {
+      "text": "NHI",
+      "confidence": 95.434639,
+      "box": [
+        1762,
+        2265,
+        170,
+        68
+      ]
+    },
+    {
+      "text": "pd",
+      "confidence": 19.621849,
+      "box": [
+        2139,
+        2252,
+        65,
+        63
+      ]
+    },
+    {
+      "text": "KHU",
+      "confidence": 92.641365,
+      "box": [
+        626,
+        2313,
+        200,
+        69
+      ]
+    },
+    {
+      "text": "TR",
+      "confidence": 96.06041,
+      "box": [
+        858,
+        2307,
+        126,
+        64
+      ]
+    },
+    {
+      "text": "CHILDREN'S",
+      "confidence": 95.801491,
+      "box": [
+        636,
+        2391,
+        310,
+        50
+      ]
+    },
+    {
+      "text": "MUSEUM",
+      "confidence": 96.547531,
+      "box": [
+        967,
+        2380,
+        236,
+        47
+      ]
+    },
+    {
+      "text": "©",
+      "confidence": 78.535385,
+      "box": [
+        2123,
+        2439,
+        67,
+        58
+      ]
+    },
+    {
+      "text": "B1",
+      "confidence": 95.609505,
+      "box": [
+        379,
+        2508,
+        200,
+        122
+      ]
+    },
+    {
+      "text": "HẦM",
+      "confidence": 89.920509,
+      "box": [
+        646,
+        2483,
+        223,
+        82
+      ]
+    },
+    {
+      "text": "GỬI",
+      "confidence": 89.619957,
+      "box": [
+        903,
+        2472,
+        165,
+        82
+      ]
+    },
+    {
+      "text": "XE",
+      "confidence": 96.15004,
+      "box": [
+        1100,
+        2484,
+        111,
+        62
+      ]
+    },
+    {
+      "text": "BASEMENT",
+      "confidence": 92.726837,
+      "box": [
+        655,
+        2576,
+        276,
+        55
+      ]
+    },
+    {
+      "text": "XƯƠN",
+      "confidence": 88.423294,
+      "box": [
+        663,
+        2626,
+        278,
+        71
+      ]
+    },
+    {
+      "text": "G",
+      "confidence": 93.053429,
+      "box": [
+        949,
+        2628,
+        61,
+        58
+      ]
+    },
+    {
+      "text": "PHỤC",
+      "confidence": 89.344627,
+      "box": [
+        1057,
+        2616,
+        218,
+        75
+      ]
+    },
+    {
+      "text": "CHẾ",
+      "confidence": 96.954742,
+      "box": [
+        1331,
+        2586,
+        177,
+        84
+      ]
+    },
+    {
+      "text": "RESTORATION",
+      "confidence": 91.060776,
+      "box": [
+        669,
+        2703,
+        354,
+        48
+      ]
+    },
+    {
+      "text": "ATELIER",
+      "confidence": 91.469391,
+      "box": [
+        1043,
+        2695,
+        194,
+        42
+      ]
+    },
+    {
+      "text": "il",
+      "confidence": 31.617813,
+      "box": [
+        2001,
+        2685,
+        213,
+        19
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4284,
+    5712
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.947,
+  "mean_confidence": 88.11,
+  "status": "text_detected"
+}

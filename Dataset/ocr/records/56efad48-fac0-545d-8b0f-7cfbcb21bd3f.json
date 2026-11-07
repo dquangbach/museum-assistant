@@ -1,0 +1,57 @@
+{
+  "asset_id": "56efad48-fac0-545d-8b0f-7cfbcb21bd3f",
+  "filename": "IMG_8821.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC006_da_nang_thoi_ky_van_hoa_champa/IMG_8821.JPG",
+  "source_sha256": "52c2a79d983771c2844e81901e7354b64e9fe312db34e065d4e9058e47ce3fe1",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "ho\n\nš\n\nbg",
+  "words": [
+    {
+      "text": "ho",
+      "confidence": 20.333267,
+      "box": [
+        844,
+        2182,
+        23,
+        15
+      ]
+    },
+    {
+      "text": "š",
+      "confidence": 0.0,
+      "box": [
+        2362,
+        2189,
+        5,
+        8
+      ]
+    },
+    {
+      "text": "bg",
+      "confidence": 5.760559,
+      "box": [
+        2294,
+        2220,
+        11,
+        12
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.0,
+  "mean_confidence": 8.7,
+  "status": "needs_manual_transcription"
+}

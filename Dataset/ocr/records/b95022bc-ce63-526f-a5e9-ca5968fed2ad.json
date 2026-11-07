@@ -1,0 +1,337 @@
+{
+  "asset_id": "b95022bc-ce63-526f-a5e9-ca5968fed2ad",
+  "filename": "IMG_8933.JPG",
+  "source_path": "topics/03_lich_su_dau_tranh_va_cach_mang/TOPIC018_biet_dong_thanh_da_nang/IMG_8933.JPG",
+  "source_sha256": "e777223f8cf348efb9227ff3dc0a5031419338cff107e80c4790722dd813fff1",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "¬——..-.\n\n`\n\nnn eee\n\n”9002nb222netr\n\n=..\n\n—\n\n——\n\nm7====s....\n\n=\n\n¬————==-------\n\n——\n\nmate\n\nTr nh non nề\n\n=\n\n_——\n\n=\n\nGa\n\nCD\n\n—————.-\n\na\n\n—\n\nne ry es CNC TENT\n\ncoed",
+  "words": [
+    {
+      "text": "¬——..-.",
+      "confidence": 16.857719,
+      "box": [
+        1792,
+        0,
+        1246,
+        107
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 96.743172,
+      "box": [
+        166,
+        190,
+        10,
+        10
+      ]
+    },
+    {
+      "text": "nn",
+      "confidence": 13.770454,
+      "box": [
+        1385,
+        282,
+        111,
+        28
+      ]
+    },
+    {
+      "text": "eee",
+      "confidence": 25.626892,
+      "box": [
+        1509,
+        282,
+        43,
+        28
+      ]
+    },
+    {
+      "text": "”9002nb222netr",
+      "confidence": 0.0,
+      "box": [
+        3124,
+        336,
+        73,
+        8
+      ]
+    },
+    {
+      "text": "=..",
+      "confidence": 34.556496,
+      "box": [
+        1694,
+        461,
+        43,
+        2
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 68.970245,
+      "box": [
+        2044,
+        470,
+        33,
+        1
+      ]
+    },
+    {
+      "text": "——",
+      "confidence": 19.139267,
+      "box": [
+        2319,
+        472,
+        84,
+        6
+      ]
+    },
+    {
+      "text": "m7====s....",
+      "confidence": 0.0,
+      "box": [
+        375,
+        582,
+        387,
+        51
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 92.855125,
+      "box": [
+        846,
+        622,
+        11,
+        5
+      ]
+    },
+    {
+      "text": "¬————==-------",
+      "confidence": 18.112251,
+      "box": [
+        954,
+        625,
+        369,
+        9
+      ]
+    },
+    {
+      "text": "——",
+      "confidence": 50.859505,
+      "box": [
+        1352,
+        633,
+        42,
+        3
+      ]
+    },
+    {
+      "text": "mate",
+      "confidence": 22.307007,
+      "box": [
+        1910,
+        627,
+        69,
+        2
+      ]
+    },
+    {
+      "text": "Tr",
+      "confidence": 17.847443,
+      "box": [
+        2082,
+        644,
+        102,
+        4
+      ]
+    },
+    {
+      "text": "nh",
+      "confidence": 23.780151,
+      "box": [
+        2304,
+        626,
+        40,
+        28
+      ]
+    },
+    {
+      "text": "non",
+      "confidence": 18.056915,
+      "box": [
+        2379,
+        626,
+        54,
+        28
+      ]
+    },
+    {
+      "text": "nề",
+      "confidence": 0.0,
+      "box": [
+        2437,
+        626,
+        64,
+        28
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 91.051575,
+      "box": [
+        2305,
+        648,
+        20,
+        2
+      ]
+    },
+    {
+      "text": "_——",
+      "confidence": 44.938503,
+      "box": [
+        2364,
+        649,
+        68,
+        3
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 77.123245,
+      "box": [
+        2496,
+        652,
+        10,
+        2
+      ]
+    },
+    {
+      "text": "Ga",
+      "confidence": 0.0,
+      "box": [
+        2516,
+        646,
+        17,
+        2
+      ]
+    },
+    {
+      "text": "CD",
+      "confidence": 9.827469,
+      "box": [
+        2542,
+        649,
+        212,
+        9
+      ]
+    },
+    {
+      "text": "—————.-",
+      "confidence": 30.523132,
+      "box": [
+        2887,
+        656,
+        254,
+        9
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 33.462936,
+      "box": [
+        149,
+        759,
+        27,
+        1
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 66.632233,
+      "box": [
+        1290,
+        778,
+        24,
+        2
+      ]
+    },
+    {
+      "text": "ne",
+      "confidence": 13.834015,
+      "box": [
+        1800,
+        1602,
+        288,
+        7
+      ]
+    },
+    {
+      "text": "ry",
+      "confidence": 25.165245,
+      "box": [
+        1924,
+        1590,
+        29,
+        28
+      ]
+    },
+    {
+      "text": "es",
+      "confidence": 10.15197,
+      "box": [
+        1966,
+        1590,
+        8,
+        28
+      ]
+    },
+    {
+      "text": "CNC",
+      "confidence": 18.547752,
+      "box": [
+        1982,
+        1590,
+        29,
+        28
+      ]
+    },
+    {
+      "text": "TENT",
+      "confidence": 10.004395,
+      "box": [
+        2017,
+        1590,
+        76,
+        28
+      ]
+    },
+    {
+      "text": "coed",
+      "confidence": 32.064247,
+      "box": [
+        2656,
+        1856,
+        36,
+        9
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.194,
+  "mean_confidence": 31.7,
+  "status": "needs_manual_transcription"
+}

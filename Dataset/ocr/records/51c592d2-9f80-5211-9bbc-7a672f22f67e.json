@@ -1,0 +1,1677 @@
+{
+  "asset_id": "51c592d2-9f80-5211-9bbc-7a672f22f67e",
+  "filename": "IMG_8805.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC005_da_nang_thoi_tien_so_su_van_hoa_sa_huynh/IMG_8805.JPG",
+  "source_sha256": "76add4e367899f4c736b1f042c28783c3f4581da8d387380217e090a7cb86a7a",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": ">>~ò ¬~*‹\n\n—\n\n——_\n\nem\n\nẬ\n\nine\n\n=\n\n——\n\nĐỒ TRANG Sức\n\nif\n\nADORNMENTS\n\nCu dân Văn hóa Sa Hu\n\nlỳnh dùng đồ trang sức để lam đẹp,\n\nthể hiện sự giàu có, đị\n\naT\n\na vị xã hội và tuân theo các phong tục,\n\non ¬5\n\nVÌ\n\n~c\n\ntín ngưỡng. Họ đã sáng tạo những sản phẩm tình xảo có trình\n\nvu\n\nđộ nghệ thuật cao, tiêu biểu nhất là khuyên tai hai đầu thú,\n\nỲ\n\nban 2\n\nkhuyên tai hình vành khăn, khuyên tai ba mấu, vòng đeo tay\n\n“+\n\nthủy tinh, chuỗi hat cườm, trang sức mã não...\n\nThe Sa Huynh people wore adornments to enhance their beauty,\n\nGG\n\nor to express their wealth and social status, and in accordance\n\nwith their customs and beliefs. They created delicate pieces of\n\na\n\nadornments with a high level of artistry,\n\nmost notably the\n\ntwo-headed animal earrings, h\n\noop earrings, three-pronged\n\nagate ornaments...\n\nearrings,\n\nglass bracelets, beaded necklaces,\n\n————————————\n\n—_\n\nes\n\n———\n\npete\n\n: ae",
+  "words": [
+    {
+      "text": ">>~ò",
+      "confidence": 9.988693,
+      "box": [
+        3040,
+        0,
+        72,
+        35
+      ]
+    },
+    {
+      "text": "¬~*‹",
+      "confidence": 0.0,
+      "box": [
+        3149,
+        0,
+        51,
+        35
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 82.146599,
+      "box": [
+        1944,
+        234,
+        28,
+        6
+      ]
+    },
+    {
+      "text": "——_",
+      "confidence": 16.016464,
+      "box": [
+        2864,
+        382,
+        179,
+        43
+      ]
+    },
+    {
+      "text": "em",
+      "confidence": 36.176216,
+      "box": [
+        2586,
+        435,
+        33,
+        30
+      ]
+    },
+    {
+      "text": "Ậ",
+      "confidence": 77.138306,
+      "box": [
+        1488,
+        575,
+        36,
+        59
+      ]
+    },
+    {
+      "text": "ine",
+      "confidence": 29.343643,
+      "box": [
+        1128,
+        709,
+        37,
+        5
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 32.623741,
+      "box": [
+        2415,
+        901,
+        16,
+        2
+      ]
+    },
+    {
+      "text": "——",
+      "confidence": 46.956726,
+      "box": [
+        2519,
+        909,
+        47,
+        4
+      ]
+    },
+    {
+      "text": "ĐỒ",
+      "confidence": 96.215759,
+      "box": [
+        351,
+        845,
+        99,
+        53
+      ]
+    },
+    {
+      "text": "TRANG",
+      "confidence": 96.264107,
+      "box": [
+        470,
+        861,
+        230,
+        51
+      ]
+    },
+    {
+      "text": "Sức",
+      "confidence": 84.58783,
+      "box": [
+        720,
+        870,
+        131,
+        51
+      ]
+    },
+    {
+      "text": "if",
+      "confidence": 50.502327,
+      "box": [
+        98,
+        887,
+        41,
+        61
+      ]
+    },
+    {
+      "text": "ADORNMENTS",
+      "confidence": 92.258728,
+      "box": [
+        347,
+        938,
+        399,
+        51
+      ]
+    },
+    {
+      "text": "Cu",
+      "confidence": 96.024628,
+      "box": [
+        343,
+        1073,
+        46,
+        22
+      ]
+    },
+    {
+      "text": "dân",
+      "confidence": 96.45816,
+      "box": [
+        402,
+        1074,
+        58,
+        23
+      ]
+    },
+    {
+      "text": "Văn",
+      "confidence": 96.68058,
+      "box": [
+        473,
+        1077,
+        60,
+        22
+      ]
+    },
+    {
+      "text": "hóa",
+      "confidence": 96.210716,
+      "box": [
+        548,
+        1078,
+        57,
+        24
+      ]
+    },
+    {
+      "text": "Sa",
+      "confidence": 96.558006,
+      "box": [
+        618,
+        1082,
+        38,
+        21
+      ]
+    },
+    {
+      "text": "Hu",
+      "confidence": 96.141891,
+      "box": [
+        670,
+        1084,
+        41,
+        21
+      ]
+    },
+    {
+      "text": "lỳnh",
+      "confidence": 82.193199,
+      "box": [
+        712,
+        1084,
+        53,
+        27
+      ]
+    },
+    {
+      "text": "dùng",
+      "confidence": 96.516396,
+      "box": [
+        779,
+        1087,
+        73,
+        28
+      ]
+    },
+    {
+      "text": "đồ",
+      "confidence": 96.799469,
+      "box": [
+        865,
+        1089,
+        37,
+        23
+      ]
+    },
+    {
+      "text": "trang",
+      "confidence": 96.249329,
+      "box": [
+        913,
+        1094,
+        76,
+        25
+      ]
+    },
+    {
+      "text": "sức",
+      "confidence": 97.003311,
+      "box": [
+        1001,
+        1096,
+        52,
+        21
+      ]
+    },
+    {
+      "text": "để",
+      "confidence": 95.097145,
+      "box": [
+        1064,
+        1096,
+        34,
+        23
+      ]
+    },
+    {
+      "text": "lam",
+      "confidence": 85.529419,
+      "box": [
+        1109,
+        1099,
+        50,
+        23
+      ]
+    },
+    {
+      "text": "đẹp,",
+      "confidence": 96.973564,
+      "box": [
+        1171,
+        1103,
+        56,
+        26
+      ]
+    },
+    {
+      "text": "thể",
+      "confidence": 96.974869,
+      "box": [
+        340,
+        1109,
+        54,
+        25
+      ]
+    },
+    {
+      "text": "hiện",
+      "confidence": 96.640503,
+      "box": [
+        403,
+        1112,
+        67,
+        28
+      ]
+    },
+    {
+      "text": "sự",
+      "confidence": 97.015121,
+      "box": [
+        480,
+        1120,
+        42,
+        21
+      ]
+    },
+    {
+      "text": "giàu",
+      "confidence": 96.992577,
+      "box": [
+        529,
+        1117,
+        67,
+        26
+      ]
+    },
+    {
+      "text": "có,",
+      "confidence": 93.305519,
+      "box": [
+        605,
+        1119,
+        45,
+        25
+      ]
+    },
+    {
+      "text": "đị",
+      "confidence": 92.729622,
+      "box": [
+        659,
+        1120,
+        28,
+        26
+      ]
+    },
+    {
+      "text": "aT",
+      "confidence": 16.676697,
+      "box": [
+        2625,
+        1037,
+        110,
+        107
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 92.941696,
+      "box": [
+        690,
+        1126,
+        17,
+        16
+      ]
+    },
+    {
+      "text": "vị",
+      "confidence": 96.862175,
+      "box": [
+        715,
+        1123,
+        25,
+        25
+      ]
+    },
+    {
+      "text": "xã",
+      "confidence": 96.717941,
+      "box": [
+        749,
+        1124,
+        34,
+        21
+      ]
+    },
+    {
+      "text": "hội",
+      "confidence": 96.458481,
+      "box": [
+        792,
+        1124,
+        45,
+        26
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.418297,
+      "box": [
+        845,
+        1126,
+        35,
+        21
+      ]
+    },
+    {
+      "text": "tuân",
+      "confidence": 96.702431,
+      "box": [
+        886,
+        1128,
+        67,
+        21
+      ]
+    },
+    {
+      "text": "theo",
+      "confidence": 96.766106,
+      "box": [
+        960,
+        1129,
+        65,
+        22
+      ]
+    },
+    {
+      "text": "các",
+      "confidence": 96.262878,
+      "box": [
+        1033,
+        1132,
+        50,
+        21
+      ]
+    },
+    {
+      "text": "phong",
+      "confidence": 96.141899,
+      "box": [
+        1090,
+        1134,
+        86,
+        28
+      ]
+    },
+    {
+      "text": "tục,",
+      "confidence": 96.485863,
+      "box": [
+        1181,
+        1139,
+        51,
+        23
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 17.390839,
+      "box": [
+        2148,
+        1171,
+        17,
+        7
+      ]
+    },
+    {
+      "text": "¬5",
+      "confidence": 28.907715,
+      "box": [
+        2175,
+        1159,
+        42,
+        24
+      ]
+    },
+    {
+      "text": "VÌ",
+      "confidence": 25.870697,
+      "box": [
+        2455,
+        1069,
+        86,
+        110
+      ]
+    },
+    {
+      "text": "~c",
+      "confidence": 58.79734,
+      "box": [
+        3026,
+        1175,
+        35,
+        8
+      ]
+    },
+    {
+      "text": "tín",
+      "confidence": 96.848022,
+      "box": [
+        338,
+        1150,
+        42,
+        23
+      ]
+    },
+    {
+      "text": "ngưỡng.",
+      "confidence": 96.260414,
+      "box": [
+        394,
+        1153,
+        128,
+        28
+      ]
+    },
+    {
+      "text": "Họ",
+      "confidence": 96.41465,
+      "box": [
+        533,
+        1155,
+        43,
+        27
+      ]
+    },
+    {
+      "text": "đã",
+      "confidence": 96.906326,
+      "box": [
+        585,
+        1156,
+        38,
+        22
+      ]
+    },
+    {
+      "text": "sáng",
+      "confidence": 84.78389,
+      "box": [
+        634,
+        1157,
+        71,
+        29
+      ]
+    },
+    {
+      "text": "tạo",
+      "confidence": 96.754402,
+      "box": [
+        714,
+        1161,
+        49,
+        24
+      ]
+    },
+    {
+      "text": "những",
+      "confidence": 96.685562,
+      "box": [
+        772,
+        1161,
+        92,
+        28
+      ]
+    },
+    {
+      "text": "sản",
+      "confidence": 96.759491,
+      "box": [
+        873,
+        1162,
+        51,
+        23
+      ]
+    },
+    {
+      "text": "phẩm",
+      "confidence": 95.767075,
+      "box": [
+        933,
+        1163,
+        79,
+        28
+      ]
+    },
+    {
+      "text": "tình",
+      "confidence": 94.950897,
+      "box": [
+        1019,
+        1167,
+        52,
+        22
+      ]
+    },
+    {
+      "text": "xảo",
+      "confidence": 96.935051,
+      "box": [
+        1079,
+        1167,
+        48,
+        24
+      ]
+    },
+    {
+      "text": "có",
+      "confidence": 96.935051,
+      "box": [
+        1135,
+        1171,
+        32,
+        21
+      ]
+    },
+    {
+      "text": "trình",
+      "confidence": 96.951324,
+      "box": [
+        1170,
+        1166,
+        66,
+        36
+      ]
+    },
+    {
+      "text": "vu",
+      "confidence": 50.001038,
+      "box": [
+        2684,
+        1172,
+        35,
+        26
+      ]
+    },
+    {
+      "text": "độ",
+      "confidence": 96.829956,
+      "box": [
+        338,
+        1190,
+        41,
+        28
+      ]
+    },
+    {
+      "text": "nghệ",
+      "confidence": 96.618378,
+      "box": [
+        394,
+        1192,
+        78,
+        28
+      ]
+    },
+    {
+      "text": "thuật",
+      "confidence": 96.780083,
+      "box": [
+        483,
+        1193,
+        85,
+        28
+      ]
+    },
+    {
+      "text": "cao,",
+      "confidence": 96.986198,
+      "box": [
+        580,
+        1200,
+        64,
+        21
+      ]
+    },
+    {
+      "text": "tiêu",
+      "confidence": 96.674339,
+      "box": [
+        655,
+        1196,
+        58,
+        22
+      ]
+    },
+    {
+      "text": "biểu",
+      "confidence": 96.86982,
+      "box": [
+        726,
+        1195,
+        63,
+        25
+      ]
+    },
+    {
+      "text": "nhất",
+      "confidence": 96.83242,
+      "box": [
+        802,
+        1198,
+        66,
+        23
+      ]
+    },
+    {
+      "text": "là",
+      "confidence": 96.874161,
+      "box": [
+        879,
+        1200,
+        26,
+        22
+      ]
+    },
+    {
+      "text": "khuyên",
+      "confidence": 96.700294,
+      "box": [
+        917,
+        1200,
+        101,
+        28
+      ]
+    },
+    {
+      "text": "tai",
+      "confidence": 96.790909,
+      "box": [
+        1028,
+        1204,
+        36,
+        20
+      ]
+    },
+    {
+      "text": "hai",
+      "confidence": 96.475639,
+      "box": [
+        1075,
+        1204,
+        41,
+        22
+      ]
+    },
+    {
+      "text": "đầu",
+      "confidence": 96.910385,
+      "box": [
+        1128,
+        1204,
+        51,
+        23
+      ]
+    },
+    {
+      "text": "thú,",
+      "confidence": 96.7304,
+      "box": [
+        1189,
+        1207,
+        53,
+        25
+      ]
+    },
+    {
+      "text": "Ỳ",
+      "confidence": 86.545052,
+      "box": [
+        2363,
+        1053,
+        84,
+        179
+      ]
+    },
+    {
+      "text": "ban",
+      "confidence": 77.790733,
+      "box": [
+        2451,
+        1211,
+        28,
+        18
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 78.997437,
+      "box": [
+        2476,
+        1207,
+        6,
+        32
+      ]
+    },
+    {
+      "text": "khuyên",
+      "confidence": 96.413727,
+      "box": [
+        336,
+        1230,
+        119,
+        30
+      ]
+    },
+    {
+      "text": "tai",
+      "confidence": 96.778236,
+      "box": [
+        465,
+        1234,
+        42,
+        21
+      ]
+    },
+    {
+      "text": "hình",
+      "confidence": 96.602257,
+      "box": [
+        519,
+        1233,
+        69,
+        23
+      ]
+    },
+    {
+      "text": "vành",
+      "confidence": 96.474281,
+      "box": [
+        599,
+        1234,
+        76,
+        23
+      ]
+    },
+    {
+      "text": "khăn,",
+      "confidence": 96.474281,
+      "box": [
+        686,
+        1235,
+        83,
+        27
+      ]
+    },
+    {
+      "text": "khuyên",
+      "confidence": 96.727852,
+      "box": [
+        780,
+        1236,
+        109,
+        29
+      ]
+    },
+    {
+      "text": "tai",
+      "confidence": 96.720245,
+      "box": [
+        897,
+        1239,
+        39,
+        21
+      ]
+    },
+    {
+      "text": "ba",
+      "confidence": 93.301888,
+      "box": [
+        946,
+        1238,
+        37,
+        23
+      ]
+    },
+    {
+      "text": "mấu,",
+      "confidence": 90.944992,
+      "box": [
+        993,
+        1238,
+        70,
+        27
+      ]
+    },
+    {
+      "text": "vòng",
+      "confidence": 84.290108,
+      "box": [
+        1071,
+        1241,
+        69,
+        28
+      ]
+    },
+    {
+      "text": "đeo",
+      "confidence": 96.82769,
+      "box": [
+        1149,
+        1242,
+        51,
+        23
+      ]
+    },
+    {
+      "text": "tay",
+      "confidence": 96.962929,
+      "box": [
+        1205,
+        1246,
+        41,
+        25
+      ]
+    },
+    {
+      "text": "“+",
+      "confidence": 57.630913,
+      "box": [
+        1950,
+        1269,
+        24,
+        14
+      ]
+    },
+    {
+      "text": "thủy",
+      "confidence": 96.783524,
+      "box": [
+        332,
+        1270,
+        72,
+        32
+      ]
+    },
+    {
+      "text": "tinh,",
+      "confidence": 93.225182,
+      "box": [
+        412,
+        1273,
+        68,
+        27
+      ]
+    },
+    {
+      "text": "chuỗi",
+      "confidence": 96.761345,
+      "box": [
+        490,
+        1271,
+        85,
+        26
+      ]
+    },
+    {
+      "text": "hat",
+      "confidence": 93.295425,
+      "box": [
+        586,
+        1274,
+        49,
+        28
+      ]
+    },
+    {
+      "text": "cườm,",
+      "confidence": 91.092453,
+      "box": [
+        644,
+        1275,
+        95,
+        27
+      ]
+    },
+    {
+      "text": "trang",
+      "confidence": 96.891815,
+      "box": [
+        747,
+        1278,
+        78,
+        26
+      ]
+    },
+    {
+      "text": "sức",
+      "confidence": 96.746925,
+      "box": [
+        835,
+        1277,
+        55,
+        22
+      ]
+    },
+    {
+      "text": "mã",
+      "confidence": 96.532616,
+      "box": [
+        898,
+        1277,
+        46,
+        22
+      ]
+    },
+    {
+      "text": "não...",
+      "confidence": 87.95591,
+      "box": [
+        953,
+        1278,
+        73,
+        22
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 96.732643,
+      "box": [
+        329,
+        1400,
+        60,
+        24
+      ]
+    },
+    {
+      "text": "Sa",
+      "confidence": 96.489349,
+      "box": [
+        398,
+        1401,
+        40,
+        23
+      ]
+    },
+    {
+      "text": "Huynh",
+      "confidence": 93.305084,
+      "box": [
+        448,
+        1398,
+        101,
+        31
+      ]
+    },
+    {
+      "text": "people",
+      "confidence": 91.98806,
+      "box": [
+        557,
+        1398,
+        107,
+        31
+      ]
+    },
+    {
+      "text": "wore",
+      "confidence": 91.47644,
+      "box": [
+        673,
+        1404,
+        74,
+        18
+      ]
+    },
+    {
+      "text": "adornments",
+      "confidence": 91.615067,
+      "box": [
+        755,
+        1397,
+        178,
+        24
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 93.287392,
+      "box": [
+        942,
+        1398,
+        28,
+        21
+      ]
+    },
+    {
+      "text": "enhance",
+      "confidence": 92.381577,
+      "box": [
+        979,
+        1395,
+        118,
+        23
+      ]
+    },
+    {
+      "text": "their",
+      "confidence": 91.181747,
+      "box": [
+        1105,
+        1394,
+        62,
+        23
+      ]
+    },
+    {
+      "text": "beauty,",
+      "confidence": 91.456421,
+      "box": [
+        1173,
+        1394,
+        93,
+        28
+      ]
+    },
+    {
+      "text": "GG",
+      "confidence": 36.442543,
+      "box": [
+        2152,
+        1370,
+        127,
+        64
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 96.567238,
+      "box": [
+        324,
+        1451,
+        37,
+        18
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.430725,
+      "box": [
+        371,
+        1447,
+        31,
+        22
+      ]
+    },
+    {
+      "text": "express",
+      "confidence": 95.780869,
+      "box": [
+        415,
+        1448,
+        126,
+        26
+      ]
+    },
+    {
+      "text": "their",
+      "confidence": 96.374611,
+      "box": [
+        552,
+        1442,
+        72,
+        24
+      ]
+    },
+    {
+      "text": "wealth",
+      "confidence": 96.595268,
+      "box": [
+        634,
+        1440,
+        101,
+        25
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.585938,
+      "box": [
+        746,
+        1439,
+        57,
+        24
+      ]
+    },
+    {
+      "text": "social",
+      "confidence": 96.992409,
+      "box": [
+        812,
+        1437,
+        89,
+        25
+      ]
+    },
+    {
+      "text": "status,",
+      "confidence": 96.999908,
+      "box": [
+        911,
+        1439,
+        97,
+        23
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 95.341782,
+      "box": [
+        1018,
+        1435,
+        53,
+        23
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.88427,
+      "box": [
+        1080,
+        1435,
+        24,
+        22
+      ]
+    },
+    {
+      "text": "accordance",
+      "confidence": 96.087303,
+      "box": [
+        1114,
+        1433,
+        158,
+        24
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.599915,
+      "box": [
+        324,
+        1489,
+        68,
+        25
+      ]
+    },
+    {
+      "text": "their",
+      "confidence": 96.057587,
+      "box": [
+        401,
+        1488,
+        80,
+        25
+      ]
+    },
+    {
+      "text": "customs",
+      "confidence": 95.464905,
+      "box": [
+        490,
+        1488,
+        139,
+        24
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 95.464905,
+      "box": [
+        640,
+        1483,
+        59,
+        26
+      ]
+    },
+    {
+      "text": "beliefs.",
+      "confidence": 96.720314,
+      "box": [
+        708,
+        1481,
+        110,
+        26
+      ]
+    },
+    {
+      "text": "They",
+      "confidence": 96.889687,
+      "box": [
+        831,
+        1480,
+        72,
+        30
+      ]
+    },
+    {
+      "text": "created",
+      "confidence": 96.569908,
+      "box": [
+        912,
+        1476,
+        110,
+        27
+      ]
+    },
+    {
+      "text": "delicate",
+      "confidence": 96.891533,
+      "box": [
+        1032,
+        1475,
+        111,
+        24
+      ]
+    },
+    {
+      "text": "pieces",
+      "confidence": 96.789139,
+      "box": [
+        1152,
+        1475,
+        88,
+        28
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.919434,
+      "box": [
+        1250,
+        1472,
+        29,
+        23
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 68.32637,
+      "box": [
+        2577,
+        1475,
+        34,
+        39
+      ]
+    },
+    {
+      "text": "adornments",
+      "confidence": 96.132256,
+      "box": [
+        319,
+        1534,
+        203,
+        27
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.479996,
+      "box": [
+        545,
+        1529,
+        65,
+        26
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 96.345108,
+      "box": [
+        632,
+        1535,
+        18,
+        18
+      ]
+    },
+    {
+      "text": "high",
+      "confidence": 96.345108,
+      "box": [
+        672,
+        1526,
+        66,
+        32
+      ]
+    },
+    {
+      "text": "level",
+      "confidence": 90.756302,
+      "box": [
+        760,
+        1524,
+        70,
+        26
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 94.233002,
+      "box": [
+        850,
+        1522,
+        33,
+        26
+      ]
+    },
+    {
+      "text": "artistry,",
+      "confidence": 94.233002,
+      "box": [
+        900,
+        1521,
+        109,
+        28
+      ]
+    },
+    {
+      "text": "most",
+      "confidence": 96.755135,
+      "box": [
+        1029,
+        1519,
+        74,
+        23
+      ]
+    },
+    {
+      "text": "notably",
+      "confidence": 96.063278,
+      "box": [
+        1121,
+        1514,
+        102,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.781441,
+      "box": [
+        1239,
+        1513,
+        43,
+        23
+      ]
+    },
+    {
+      "text": "two-headed",
+      "confidence": 92.279037,
+      "box": [
+        318,
+        1576,
+        199,
+        32
+      ]
+    },
+    {
+      "text": "animal",
+      "confidence": 96.17057,
+      "box": [
+        544,
+        1573,
+        110,
+        28
+      ]
+    },
+    {
+      "text": "earrings,",
+      "confidence": 93.243317,
+      "box": [
+        680,
+        1571,
+        133,
+        30
+      ]
+    },
+    {
+      "text": "h",
+      "confidence": 93.238007,
+      "box": [
+        841,
+        1567,
+        17,
+        25
+      ]
+    },
+    {
+      "text": "oop",
+      "confidence": 87.849472,
+      "box": [
+        861,
+        1571,
+        56,
+        25
+      ]
+    },
+    {
+      "text": "earrings,",
+      "confidence": 93.224869,
+      "box": [
+        944,
+        1562,
+        125,
+        29
+      ]
+    },
+    {
+      "text": "three-pronged",
+      "confidence": 92.704803,
+      "box": [
+        1094,
+        1553,
+        193,
+        33
+      ]
+    },
+    {
+      "text": "agate",
+      "confidence": 96.431,
+      "box": [
+        1030,
+        1604,
+        81,
+        30
+      ]
+    },
+    {
+      "text": "ornaments...",
+      "confidence": 93.46286,
+      "box": [
+        1119,
+        1595,
+        170,
+        37
+      ]
+    },
+    {
+      "text": "earrings,",
+      "confidence": 96.553024,
+      "box": [
+        316,
+        1628,
+        145,
+        31
+      ]
+    },
+    {
+      "text": "glass",
+      "confidence": 93.308662,
+      "box": [
+        473,
+        1623,
+        89,
+        34
+      ]
+    },
+    {
+      "text": "bracelets,",
+      "confidence": 96.220665,
+      "box": [
+        572,
+        1617,
+        154,
+        29
+      ]
+    },
+    {
+      "text": "beaded",
+      "confidence": 96.799164,
+      "box": [
+        737,
+        1611,
+        116,
+        29
+      ]
+    },
+    {
+      "text": "necklaces,",
+      "confidence": 96.799164,
+      "box": [
+        862,
+        1607,
+        157,
+        29
+      ]
+    },
+    {
+      "text": "————————————",
+      "confidence": 23.538673,
+      "box": [
+        1762,
+        1669,
+        563,
+        22
+      ]
+    },
+    {
+      "text": "—_",
+      "confidence": 42.979805,
+      "box": [
+        2295,
+        1716,
+        133,
+        8
+      ]
+    },
+    {
+      "text": "es",
+      "confidence": 28.3013,
+      "box": [
+        2473,
+        1707,
+        123,
+        7
+      ]
+    },
+    {
+      "text": "———",
+      "confidence": 31.391434,
+      "box": [
+        875,
+        1918,
+        39,
+        3
+      ]
+    },
+    {
+      "text": "pete",
+      "confidence": 27.434631,
+      "box": [
+        2096,
+        2232,
+        22,
+        4
+      ]
+    },
+    {
+      "text": ":",
+      "confidence": 45.701683,
+      "box": [
+        2171,
+        2381,
+        5,
+        19
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 47.311512,
+      "box": [
+        2204,
+        2396,
+        7,
+        4
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.861,
+  "mean_confidence": 85.92,
+  "status": "text_detected"
+}

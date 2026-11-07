@@ -1,0 +1,197 @@
+{
+  "asset_id": "dc8aa90d-8ded-59d7-b22a-2f9472fec272",
+  "filename": "IMG_9033.JPG",
+  "source_path": "topics/04_chung_tich_chien_tranh_va_phat_trien_sau_1975/TOPIC029_chat_khai_quang_va_hiem_hoa_da_cam_khac_phuc_hau_qua_chien_tranh/IMG_9033.JPG",
+  "source_sha256": "ad17d016676d3364f4e72605adb7b914f1e5b7a65a17c8e7018075fd4f9b2376",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "IL “VI TNAN\n\nÑ\n\n7\n\n—\n\nAS NOSTRA (0(ENH\n\n————\n\n1s\n\nWe\n\nHil |\n\nFED) om\n\nae",
+  "words": [
+    {
+      "text": "IL",
+      "confidence": 89.963791,
+      "box": [
+        679,
+        126,
+        366,
+        372
+      ]
+    },
+    {
+      "text": "“VI",
+      "confidence": 24.156715,
+      "box": [
+        1183,
+        204,
+        737,
+        346
+      ]
+    },
+    {
+      "text": "TNAN",
+      "confidence": 35.444962,
+      "box": [
+        1958,
+        196,
+        536,
+        350
+      ]
+    },
+    {
+      "text": "Ñ",
+      "confidence": 78.65242,
+      "box": [
+        2681,
+        535,
+        99,
+        129
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 73.74086,
+      "box": [
+        313,
+        183,
+        330,
+        660
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 81.321533,
+      "box": [
+        389,
+        755,
+        14,
+        3
+      ]
+    },
+    {
+      "text": "AS",
+      "confidence": 7.613815,
+      "box": [
+        665,
+        543,
+        224,
+        265
+      ]
+    },
+    {
+      "text": "NOSTRA",
+      "confidence": 7.613815,
+      "box": [
+        992,
+        576,
+        820,
+        350
+      ]
+    },
+    {
+      "text": "(0(ENH",
+      "confidence": 37.335854,
+      "box": [
+        1885,
+        541,
+        842,
+        327
+      ]
+    },
+    {
+      "text": "————",
+      "confidence": 27.4039,
+      "box": [
+        1587,
+        876,
+        123,
+        4
+      ]
+    },
+    {
+      "text": "1s",
+      "confidence": 3.242477,
+      "box": [
+        1357,
+        980,
+        33,
+        14
+      ]
+    },
+    {
+      "text": "We",
+      "confidence": 30.369751,
+      "box": [
+        1484,
+        973,
+        42,
+        31
+      ]
+    },
+    {
+      "text": "Hil",
+      "confidence": 62.32822,
+      "box": [
+        946,
+        1273,
+        3,
+        22
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 63.718674,
+      "box": [
+        985,
+        1265,
+        2,
+        17
+      ]
+    },
+    {
+      "text": "FED)",
+      "confidence": 59.002708,
+      "box": [
+        1196,
+        1461,
+        149,
+        78
+      ]
+    },
+    {
+      "text": "om",
+      "confidence": 47.770798,
+      "box": [
+        1369,
+        1495,
+        55,
+        36
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 20.96817,
+      "box": [
+        1874,
+        1912,
+        78,
+        14
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.353,
+  "mean_confidence": 44.16,
+  "status": "needs_manual_transcription"
+}

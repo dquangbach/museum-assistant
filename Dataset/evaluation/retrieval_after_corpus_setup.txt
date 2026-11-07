@@ -1,0 +1,59 @@
+
+Q001: Người cổ ở Bàu Dũ sinh sống bằng phương thức nào?
+Kết quả: ['DOC001_v1_001', 'DOC002_v1_001', 'DOC002_v1_002']
+Đoạn mong đợi: ['DOC001_v1_001']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q002: Các di chỉ Sa Huỳnh tiêu biểu gồm những nơi nào?
+Kết quả: ['DOC002_v1_002', 'DOC001_v1_003', 'DOC001_v1_002']
+Đoạn mong đợi: ['DOC002_v1_002']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q003: Di chỉ Bàu Dũ được phát hiện bởi nhà khảo cổ nào?
+Kết quả: ['DOC001_v1_001', 'DOC002_v1_002', 'DOC001_v1_003']
+Không có đáp án trong kho tư liệu. Kết quả tìm kiếm chỉ là các đoạn liên quan, không chứng minh có thể trả lời.
+
+Q004: Người xưa tại Bàu Dũ kiếm thức ăn bằng cách nào?
+Kết quả: ['DOC001_v1_001', 'DOC002_v1_001', 'DOC001_v1_003']
+Đoạn mong đợi: ['DOC001_v1_001']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q005: Cư dân Sa Huỳnh thường định cư ở những khu vực nào?
+Kết quả: ['DOC001_v1_002', 'DOC001_v1_003', 'DOC002_v1_001']
+Đoạn mong đợi: ['DOC001_v1_002']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q006: Người Sa Huỳnh chôn người chết theo hình thức gì?
+Kết quả: ['DOC001_v1_001', 'DOC001_v1_003', 'DOC002_v1_001']
+Đoạn mong đợi: ['DOC002_v1_001']
+Đúng ở vị trí đầu: KHÔNG
+Có trong 3 kết quả: CÓ
+
+Q007: Di chỉ Vườn Đình Khuê Bắc có niên đại bao nhiêu năm?
+Kết quả: ['DOC001_v1_003', 'DOC002_v1_002', 'DOC001_v1_001']
+Đoạn mong đợi: ['DOC001_v1_003']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q008: Văn hóa Sa Huỳnh có thành tựu nổi bật nào về chế tác thủy tinh?
+Kết quả: ['DOC002_v1_001', 'DOC001_v1_002', 'DOC001_v1_003']
+Đoạn mong đợi: ['DOC002_v1_001']
+Đúng ở vị trí đầu: CÓ
+Có trong 3 kết quả: CÓ
+
+Q009: Giá vé tham quan bảo tàng là bao nhiêu?
+Kết quả: ['DOC002_v1_001']
+Không có đáp án trong kho tư liệu. Kết quả tìm kiếm chỉ là các đoạn liên quan, không chứng minh có thể trả lời.
+
+Q010: Di chỉ Bàu Dũ đã phát hiện tổng cộng bao nhiêu bộ di cốt người?
+Kết quả: ['DOC001_v1_001', 'DOC001_v1_002', 'DOC001_v1_003']
+Không có đáp án trong kho tư liệu. Kết quả tìm kiếm chỉ là các đoạn liên quan, không chứng minh có thể trả lời.
+
+--- TỔNG KẾT ---
+Số câu có đáp án: 7
+Hit@1: 6/7 (86%)
+Hit@3: 7/7 (100%)

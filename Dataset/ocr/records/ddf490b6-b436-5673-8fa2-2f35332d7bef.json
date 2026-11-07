@@ -1,0 +1,3037 @@
+{
+  "asset_id": "ddf490b6-b436-5673-8fa2-2f35332d7bef",
+  "filename": "IMG_9054.JPG",
+  "source_path": "topics/05_van_hoa_sinh_ke_va_nghe_thuat/TOPIC035_nghe_nong_truyen_thong/IMG_9054.JPG",
+  "source_sha256": "bc496a79c4df40a4b48e9b89c4fcab4e4d93d5017511ab4aa208e97d7c3d5570",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "GHE NONG TRUYEN TH\n\nRADITIONAL AGRICULTURE\n\nBeainohiéo Cổ truyền với nghề trồng lúa nước là hoạt động kinh tế chủ đạo của người dân đất Q\n\nich sản xuất hàng năm tính theo âm lịch, bắt đầu từ tháng 10 năm này đến tháng 8 năm sau, gồm\n\nụ mùa Đông Xuân và Hè Thu, với các khâu từ làm đất, bắc mạ, cấy lúa đến chăm sóc và thu hoạch.\n\nPhương thức sản xuất thô sơ, thủ công và phụ thuộc nhiều vào thiên nhiên. Điểm nổi bật của nghề nông\n\ntruyền thống xứ Quảng là sự kết hợp giữa trị thủy với\n\n“dẫn thủy nhập điền” bằng hệ thống kênh mương\n\nnội đồng.\n\nVào lúc nông nhàn, người nông dân tranh thủ đánh bắt thủy sản nước ngọt trên đồng ruộng ngap nusc,\n\nao hồ và vùng ven sông. Cách thức đánh bat rất đa dạng với nhiều loại dụng cụ như: đăng, đó, nơm, lờ,\n\ncâu, lưới, giỏ đựng cá...\n\nWet rice cultivation is the main, traditional economy of the people in Quang region. The schedule of\n\nannual rice crops, based on the lunar calendar, lasts from the tenth lunar month of one year until the\n\neighth lunar month of the next. Two crops are grown: winter-spring and summer-autumn, in a sequence\n\nof tilling the land, sowing seeds, transplanting seedlings and caring for the rice paddies until harvest.\n\nProduction methods were rudimentary, manual, and highly dependent on nature. A notable feature of\n\ntraditional agriculture in the Quang region was the combination of water management with “irrigation”\n\nusing a network of canals.\n\nDuring the off-season, farmers took advantage of the time to catch freshwater fish in flooded fields,\n\nponds, and riverbanks. Fishing methods were diverse, using a variety of tools such as heckles, nets,\n\nfishing-tackles, fishing rods and baskets.",
+  "words": [
+    {
+      "text": "GHE",
+      "confidence": 91.722504,
+      "box": [
+        474,
+        393,
+        259,
+        105
+      ]
+    },
+    {
+      "text": "NONG",
+      "confidence": 91.625076,
+      "box": [
+        773,
+        402,
+        363,
+        106
+      ]
+    },
+    {
+      "text": "TRUYEN",
+      "confidence": 91.625076,
+      "box": [
+        1177,
+        412,
+        500,
+        106
+      ]
+    },
+    {
+      "text": "TH",
+      "confidence": 96.613182,
+      "box": [
+        1719,
+        421,
+        170,
+        101
+      ]
+    },
+    {
+      "text": "RADITIONAL",
+      "confidence": 92.703209,
+      "box": [
+        437,
+        579,
+        587,
+        88
+      ]
+    },
+    {
+      "text": "AGRICULTURE",
+      "confidence": 96.353447,
+      "box": [
+        1051,
+        594,
+        663,
+        87
+      ]
+    },
+    {
+      "text": "Beainohiéo",
+      "confidence": 0.0,
+      "box": [
+        389,
+        890,
+        197,
+        77
+      ]
+    },
+    {
+      "text": "Cổ",
+      "confidence": 76.874199,
+      "box": [
+        597,
+        926,
+        44,
+        34
+      ]
+    },
+    {
+      "text": "truyền",
+      "confidence": 96.667099,
+      "box": [
+        649,
+        928,
+        111,
+        41
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 97.012596,
+      "box": [
+        772,
+        933,
+        51,
+        31
+      ]
+    },
+    {
+      "text": "nghề",
+      "confidence": 96.999748,
+      "box": [
+        836,
+        932,
+        86,
+        41
+      ]
+    },
+    {
+      "text": "trồng",
+      "confidence": 96.908859,
+      "box": [
+        932,
+        934,
+        93,
+        43
+      ]
+    },
+    {
+      "text": "lúa",
+      "confidence": 97.008156,
+      "box": [
+        1039,
+        938,
+        49,
+        32
+      ]
+    },
+    {
+      "text": "nước",
+      "confidence": 96.811653,
+      "box": [
+        1102,
+        941,
+        88,
+        31
+      ]
+    },
+    {
+      "text": "là",
+      "confidence": 96.874512,
+      "box": [
+        1202,
+        942,
+        28,
+        31
+      ]
+    },
+    {
+      "text": "hoạt",
+      "confidence": 96.596344,
+      "box": [
+        1243,
+        943,
+        78,
+        38
+      ]
+    },
+    {
+      "text": "động",
+      "confidence": 96.398849,
+      "box": [
+        1332,
+        944,
+        89,
+        40
+      ]
+    },
+    {
+      "text": "kinh",
+      "confidence": 96.930382,
+      "box": [
+        1433,
+        946,
+        71,
+        31
+      ]
+    },
+    {
+      "text": "tế",
+      "confidence": 96.983849,
+      "box": [
+        1515,
+        945,
+        38,
+        34
+      ]
+    },
+    {
+      "text": "chủ",
+      "confidence": 96.992683,
+      "box": [
+        1560,
+        946,
+        63,
+        34
+      ]
+    },
+    {
+      "text": "đạo",
+      "confidence": 96.933655,
+      "box": [
+        1636,
+        949,
+        66,
+        38
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.439499,
+      "box": [
+        1713,
+        948,
+        62,
+        34
+      ]
+    },
+    {
+      "text": "người",
+      "confidence": 96.875534,
+      "box": [
+        1788,
+        953,
+        99,
+        38
+      ]
+    },
+    {
+      "text": "dân",
+      "confidence": 96.98172,
+      "box": [
+        1898,
+        925,
+        64,
+        61
+      ]
+    },
+    {
+      "text": "đất",
+      "confidence": 93.303078,
+      "box": [
+        1973,
+        954,
+        58,
+        34
+      ]
+    },
+    {
+      "text": "Q",
+      "confidence": 93.206161,
+      "box": [
+        2041,
+        958,
+        26,
+        35
+      ]
+    },
+    {
+      "text": "ich",
+      "confidence": 44.366016,
+      "box": [
+        381,
+        983,
+        51,
+        38
+      ]
+    },
+    {
+      "text": "sản",
+      "confidence": 97.014526,
+      "box": [
+        445,
+        982,
+        63,
+        34
+      ]
+    },
+    {
+      "text": "xuất",
+      "confidence": 97.000267,
+      "box": [
+        521,
+        983,
+        78,
+        35
+      ]
+    },
+    {
+      "text": "hàng",
+      "confidence": 96.874641,
+      "box": [
+        612,
+        987,
+        86,
+        40
+      ]
+    },
+    {
+      "text": "năm",
+      "confidence": 96.988731,
+      "box": [
+        713,
+        990,
+        76,
+        32
+      ]
+    },
+    {
+      "text": "tính",
+      "confidence": 96.699043,
+      "box": [
+        801,
+        992,
+        67,
+        31
+      ]
+    },
+    {
+      "text": "theo",
+      "confidence": 97.004959,
+      "box": [
+        881,
+        993,
+        79,
+        33
+      ]
+    },
+    {
+      "text": "âm",
+      "confidence": 96.88517,
+      "box": [
+        974,
+        996,
+        54,
+        31
+      ]
+    },
+    {
+      "text": "lịch,",
+      "confidence": 96.88517,
+      "box": [
+        1043,
+        997,
+        69,
+        37
+      ]
+    },
+    {
+      "text": "bắt",
+      "confidence": 96.957893,
+      "box": [
+        1126,
+        997,
+        55,
+        34
+      ]
+    },
+    {
+      "text": "đầu",
+      "confidence": 97.007919,
+      "box": [
+        1194,
+        998,
+        65,
+        34
+      ]
+    },
+    {
+      "text": "từ",
+      "confidence": 97.017303,
+      "box": [
+        1271,
+        1002,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "tháng",
+      "confidence": 96.766502,
+      "box": [
+        1321,
+        1003,
+        100,
+        40
+      ]
+    },
+    {
+      "text": "10",
+      "confidence": 96.601463,
+      "box": [
+        1436,
+        1006,
+        42,
+        30
+      ]
+    },
+    {
+      "text": "năm",
+      "confidence": 96.601463,
+      "box": [
+        1492,
+        1006,
+        75,
+        31
+      ]
+    },
+    {
+      "text": "này",
+      "confidence": 96.802498,
+      "box": [
+        1582,
+        1007,
+        62,
+        39
+      ]
+    },
+    {
+      "text": "đến",
+      "confidence": 96.578194,
+      "box": [
+        1656,
+        1005,
+        64,
+        34
+      ]
+    },
+    {
+      "text": "tháng",
+      "confidence": 97.015961,
+      "box": [
+        1732,
+        1009,
+        101,
+        40
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 97.013947,
+      "box": [
+        1847,
+        1012,
+        21,
+        30
+      ]
+    },
+    {
+      "text": "năm",
+      "confidence": 96.661217,
+      "box": [
+        1882,
+        1012,
+        75,
+        32
+      ]
+    },
+    {
+      "text": "sau,",
+      "confidence": 96.464203,
+      "box": [
+        1970,
+        1021,
+        71,
+        30
+      ]
+    },
+    {
+      "text": "gồm",
+      "confidence": 96.898232,
+      "box": [
+        2053,
+        1012,
+        78,
+        42
+      ]
+    },
+    {
+      "text": "ụ",
+      "confidence": 93.178307,
+      "box": [
+        377,
+        1050,
+        20,
+        29
+      ]
+    },
+    {
+      "text": "mùa",
+      "confidence": 96.980721,
+      "box": [
+        410,
+        1042,
+        76,
+        32
+      ]
+    },
+    {
+      "text": "Đông",
+      "confidence": 96.015366,
+      "box": [
+        497,
+        1044,
+        94,
+        40
+      ]
+    },
+    {
+      "text": "Xuân",
+      "confidence": 96.956673,
+      "box": [
+        603,
+        1046,
+        90,
+        32
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 97.015556,
+      "box": [
+        706,
+        1048,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "Hè",
+      "confidence": 96.398369,
+      "box": [
+        760,
+        1049,
+        47,
+        32
+      ]
+    },
+    {
+      "text": "Thu,",
+      "confidence": 94.873756,
+      "box": [
+        818,
+        1051,
+        77,
+        37
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.675034,
+      "box": [
+        906,
+        1053,
+        51,
+        31
+      ]
+    },
+    {
+      "text": "các",
+      "confidence": 96.625717,
+      "box": [
+        970,
+        1055,
+        62,
+        31
+      ]
+    },
+    {
+      "text": "khâu",
+      "confidence": 96.613785,
+      "box": [
+        1045,
+        1056,
+        83,
+        32
+      ]
+    },
+    {
+      "text": "từ",
+      "confidence": 96.913223,
+      "box": [
+        1139,
+        1058,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "làm",
+      "confidence": 96.99353,
+      "box": [
+        1190,
+        1059,
+        62,
+        32
+      ]
+    },
+    {
+      "text": "đất,",
+      "confidence": 96.579262,
+      "box": [
+        1266,
+        1058,
+        64,
+        39
+      ]
+    },
+    {
+      "text": "bắc",
+      "confidence": 96.835098,
+      "box": [
+        1343,
+        1059,
+        63,
+        34
+      ]
+    },
+    {
+      "text": "mạ,",
+      "confidence": 96.328522,
+      "box": [
+        1419,
+        1071,
+        62,
+        30
+      ]
+    },
+    {
+      "text": "cấy",
+      "confidence": 96.961777,
+      "box": [
+        1493,
+        1062,
+        61,
+        41
+      ]
+    },
+    {
+      "text": "lúa",
+      "confidence": 96.862679,
+      "box": [
+        1566,
+        1065,
+        51,
+        31
+      ]
+    },
+    {
+      "text": "đến",
+      "confidence": 96.911179,
+      "box": [
+        1630,
+        1063,
+        64,
+        34
+      ]
+    },
+    {
+      "text": "chăm",
+      "confidence": 96.779533,
+      "box": [
+        1707,
+        1067,
+        97,
+        32
+      ]
+    },
+    {
+      "text": "sóc",
+      "confidence": 96.940163,
+      "box": [
+        1817,
+        1069,
+        64,
+        31
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 97.021286,
+      "box": [
+        1891,
+        1070,
+        39,
+        31
+      ]
+    },
+    {
+      "text": "thu",
+      "confidence": 96.579659,
+      "box": [
+        1941,
+        1071,
+        57,
+        32
+      ]
+    },
+    {
+      "text": "hoạch.",
+      "confidence": 95.800583,
+      "box": [
+        2011,
+        1066,
+        123,
+        49
+      ]
+    },
+    {
+      "text": "Phương",
+      "confidence": 96.578857,
+      "box": [
+        354,
+        1158,
+        138,
+        41
+      ]
+    },
+    {
+      "text": "thức",
+      "confidence": 97.011208,
+      "box": [
+        500,
+        1160,
+        84,
+        33
+      ]
+    },
+    {
+      "text": "sản",
+      "confidence": 96.990677,
+      "box": [
+        593,
+        1160,
+        64,
+        35
+      ]
+    },
+    {
+      "text": "xuất",
+      "confidence": 96.495636,
+      "box": [
+        667,
+        1162,
+        78,
+        35
+      ]
+    },
+    {
+      "text": "thô",
+      "confidence": 96.903717,
+      "box": [
+        761,
+        1166,
+        58,
+        33
+      ]
+    },
+    {
+      "text": "sơ,",
+      "confidence": 96.912529,
+      "box": [
+        830,
+        1175,
+        50,
+        30
+      ]
+    },
+    {
+      "text": "thủ",
+      "confidence": 96.912529,
+      "box": [
+        889,
+        1168,
+        56,
+        34
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 94.080185,
+      "box": [
+        956,
+        1171,
+        86,
+        41
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.991562,
+      "box": [
+        1052,
+        1174,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "phụ",
+      "confidence": 97.009338,
+      "box": [
+        1103,
+        1175,
+        64,
+        38
+      ]
+    },
+    {
+      "text": "thuộc",
+      "confidence": 96.980492,
+      "box": [
+        1175,
+        1176,
+        102,
+        38
+      ]
+    },
+    {
+      "text": "nhiều",
+      "confidence": 96.944519,
+      "box": [
+        1287,
+        1176,
+        95,
+        34
+      ]
+    },
+    {
+      "text": "vào",
+      "confidence": 96.9897,
+      "box": [
+        1391,
+        1180,
+        63,
+        31
+      ]
+    },
+    {
+      "text": "thiên",
+      "confidence": 97.016975,
+      "box": [
+        1462,
+        1180,
+        88,
+        32
+      ]
+    },
+    {
+      "text": "nhiên.",
+      "confidence": 96.71418,
+      "box": [
+        1562,
+        1182,
+        105,
+        32
+      ]
+    },
+    {
+      "text": "Điểm",
+      "confidence": 95.839897,
+      "box": [
+        1676,
+        1181,
+        93,
+        34
+      ]
+    },
+    {
+      "text": "nổi",
+      "confidence": 96.836647,
+      "box": [
+        1780,
+        1181,
+        53,
+        35
+      ]
+    },
+    {
+      "text": "bật",
+      "confidence": 96.988228,
+      "box": [
+        1844,
+        1185,
+        56,
+        38
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.988228,
+      "box": [
+        1909,
+        1184,
+        63,
+        34
+      ]
+    },
+    {
+      "text": "nghề",
+      "confidence": 96.922287,
+      "box": [
+        1983,
+        1186,
+        85,
+        41
+      ]
+    },
+    {
+      "text": "nông",
+      "confidence": 96.659409,
+      "box": [
+        2078,
+        1190,
+        86,
+        40
+      ]
+    },
+    {
+      "text": "truyền",
+      "confidence": 96.834732,
+      "box": [
+        350,
+        1214,
+        112,
+        43
+      ]
+    },
+    {
+      "text": "thống",
+      "confidence": 96.815315,
+      "box": [
+        473,
+        1216,
+        104,
+        43
+      ]
+    },
+    {
+      "text": "xứ",
+      "confidence": 96.894844,
+      "box": [
+        589,
+        1222,
+        48,
+        31
+      ]
+    },
+    {
+      "text": "Quảng",
+      "confidence": 96.657234,
+      "box": [
+        646,
+        1221,
+        115,
+        42
+      ]
+    },
+    {
+      "text": "là",
+      "confidence": 97.014412,
+      "box": [
+        774,
+        1225,
+        29,
+        32
+      ]
+    },
+    {
+      "text": "sự",
+      "confidence": 97.021202,
+      "box": [
+        816,
+        1234,
+        47,
+        30
+      ]
+    },
+    {
+      "text": "kết",
+      "confidence": 96.259819,
+      "box": [
+        873,
+        1226,
+        54,
+        34
+      ]
+    },
+    {
+      "text": "hợp",
+      "confidence": 96.70874,
+      "box": [
+        938,
+        1229,
+        65,
+        40
+      ]
+    },
+    {
+      "text": "giữa",
+      "confidence": 96.997726,
+      "box": [
+        1016,
+        1233,
+        76,
+        37
+      ]
+    },
+    {
+      "text": "trị",
+      "confidence": 96.980301,
+      "box": [
+        1103,
+        1235,
+        36,
+        35
+      ]
+    },
+    {
+      "text": "thủy",
+      "confidence": 96.992737,
+      "box": [
+        1150,
+        1232,
+        77,
+        42
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.954651,
+      "box": [
+        1237,
+        1236,
+        50,
+        31
+      ]
+    },
+    {
+      "text": "“dẫn",
+      "confidence": 96.076736,
+      "box": [
+        1300,
+        1234,
+        78,
+        34
+      ]
+    },
+    {
+      "text": "thủy",
+      "confidence": 96.825806,
+      "box": [
+        1389,
+        1236,
+        77,
+        41
+      ]
+    },
+    {
+      "text": "nhập",
+      "confidence": 96.825806,
+      "box": [
+        1478,
+        1239,
+        86,
+        39
+      ]
+    },
+    {
+      "text": "điền”",
+      "confidence": 96.519348,
+      "box": [
+        1576,
+        1238,
+        91,
+        34
+      ]
+    },
+    {
+      "text": "bằng",
+      "confidence": 96.241417,
+      "box": [
+        1679,
+        1239,
+        86,
+        42
+      ]
+    },
+    {
+      "text": "hệ",
+      "confidence": 96.241417,
+      "box": [
+        1778,
+        1243,
+        42,
+        37
+      ]
+    },
+    {
+      "text": "thống",
+      "confidence": 96.868134,
+      "box": [
+        1830,
+        1241,
+        102,
+        43
+      ]
+    },
+    {
+      "text": "kênh",
+      "confidence": 96.727242,
+      "box": [
+        1945,
+        1245,
+        83,
+        32
+      ]
+    },
+    {
+      "text": "mương",
+      "confidence": 91.340515,
+      "box": [
+        2041,
+        1242,
+        123,
+        50
+      ]
+    },
+    {
+      "text": "nội",
+      "confidence": 96.38195,
+      "box": [
+        350,
+        1275,
+        54,
+        39
+      ]
+    },
+    {
+      "text": "đồng.",
+      "confidence": 96.869194,
+      "box": [
+        416,
+        1273,
+        101,
+        44
+      ]
+    },
+    {
+      "text": "Vào",
+      "confidence": 96.107368,
+      "box": [
+        346,
+        1393,
+        70,
+        33
+      ]
+    },
+    {
+      "text": "lúc",
+      "confidence": 97.01741,
+      "box": [
+        428,
+        1394,
+        52,
+        33
+      ]
+    },
+    {
+      "text": "nông",
+      "confidence": 96.532669,
+      "box": [
+        492,
+        1396,
+        88,
+        40
+      ]
+    },
+    {
+      "text": "nhàn,",
+      "confidence": 96.981392,
+      "box": [
+        592,
+        1397,
+        96,
+        38
+      ]
+    },
+    {
+      "text": "người",
+      "confidence": 97.020638,
+      "box": [
+        701,
+        1401,
+        101,
+        38
+      ]
+    },
+    {
+      "text": "nông",
+      "confidence": 97.02269,
+      "box": [
+        814,
+        1403,
+        88,
+        39
+      ]
+    },
+    {
+      "text": "dân",
+      "confidence": 97.005089,
+      "box": [
+        914,
+        1404,
+        63,
+        32
+      ]
+    },
+    {
+      "text": "tranh",
+      "confidence": 97.008575,
+      "box": [
+        988,
+        1407,
+        92,
+        31
+      ]
+    },
+    {
+      "text": "thủ",
+      "confidence": 96.864441,
+      "box": [
+        1090,
+        1406,
+        57,
+        33
+      ]
+    },
+    {
+      "text": "đánh",
+      "confidence": 96.945946,
+      "box": [
+        1159,
+        1409,
+        86,
+        32
+      ]
+    },
+    {
+      "text": "bắt",
+      "confidence": 96.679611,
+      "box": [
+        1258,
+        1409,
+        55,
+        33
+      ]
+    },
+    {
+      "text": "thủy",
+      "confidence": 96.613846,
+      "box": [
+        1322,
+        1410,
+        77,
+        42
+      ]
+    },
+    {
+      "text": "sản",
+      "confidence": 96.613846,
+      "box": [
+        1409,
+        1411,
+        62,
+        34
+      ]
+    },
+    {
+      "text": "nước",
+      "confidence": 96.993118,
+      "box": [
+        1484,
+        1415,
+        88,
+        31
+      ]
+    },
+    {
+      "text": "ngọt",
+      "confidence": 97.013863,
+      "box": [
+        1584,
+        1420,
+        79,
+        34
+      ]
+    },
+    {
+      "text": "trên",
+      "confidence": 96.771935,
+      "box": [
+        1672,
+        1417,
+        70,
+        32
+      ]
+    },
+    {
+      "text": "đồng",
+      "confidence": 96.670692,
+      "box": [
+        1754,
+        1415,
+        90,
+        43
+      ]
+    },
+    {
+      "text": "ruộng",
+      "confidence": 96.703819,
+      "box": [
+        1857,
+        1420,
+        101,
+        40
+      ]
+    },
+    {
+      "text": "ngap",
+      "confidence": 90.190117,
+      "box": [
+        1970,
+        1422,
+        87,
+        39
+      ]
+    },
+    {
+      "text": "nusc,",
+      "confidence": 26.117081,
+      "box": [
+        2068,
+        1423,
+        97,
+        38
+      ]
+    },
+    {
+      "text": "ao",
+      "confidence": 97.021523,
+      "box": [
+        345,
+        1460,
+        43,
+        24
+      ]
+    },
+    {
+      "text": "hồ",
+      "confidence": 97.010597,
+      "box": [
+        401,
+        1450,
+        43,
+        35
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.999748,
+      "box": [
+        455,
+        1454,
+        40,
+        32
+      ]
+    },
+    {
+      "text": "vùng",
+      "confidence": 96.999748,
+      "box": [
+        508,
+        1455,
+        86,
+        40
+      ]
+    },
+    {
+      "text": "ven",
+      "confidence": 93.226166,
+      "box": [
+        606,
+        1465,
+        62,
+        24
+      ]
+    },
+    {
+      "text": "sông.",
+      "confidence": 96.525352,
+      "box": [
+        681,
+        1459,
+        98,
+        40
+      ]
+    },
+    {
+      "text": "Cách",
+      "confidence": 96.525352,
+      "box": [
+        793,
+        1461,
+        89,
+        32
+      ]
+    },
+    {
+      "text": "thức",
+      "confidence": 96.981102,
+      "box": [
+        893,
+        1462,
+        82,
+        33
+      ]
+    },
+    {
+      "text": "đánh",
+      "confidence": 96.990929,
+      "box": [
+        986,
+        1464,
+        87,
+        32
+      ]
+    },
+    {
+      "text": "bat",
+      "confidence": 94.901909,
+      "box": [
+        1086,
+        1464,
+        56,
+        34
+      ]
+    },
+    {
+      "text": "rất",
+      "confidence": 97.021011,
+      "box": [
+        1153,
+        1465,
+        47,
+        34
+      ]
+    },
+    {
+      "text": "đa",
+      "confidence": 97.012085,
+      "box": [
+        1211,
+        1469,
+        43,
+        31
+      ]
+    },
+    {
+      "text": "dạng",
+      "confidence": 96.859116,
+      "box": [
+        1267,
+        1469,
+        86,
+        40
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.997757,
+      "box": [
+        1364,
+        1471,
+        51,
+        31
+      ]
+    },
+    {
+      "text": "nhiều",
+      "confidence": 96.993599,
+      "box": [
+        1427,
+        1470,
+        95,
+        34
+      ]
+    },
+    {
+      "text": "loại",
+      "confidence": 96.999176,
+      "box": [
+        1535,
+        1473,
+        62,
+        38
+      ]
+    },
+    {
+      "text": "dụng",
+      "confidence": 96.955582,
+      "box": [
+        1610,
+        1474,
+        87,
+        40
+      ]
+    },
+    {
+      "text": "cụ",
+      "confidence": 96.988678,
+      "box": [
+        1709,
+        1484,
+        41,
+        29
+      ]
+    },
+    {
+      "text": "như:",
+      "confidence": 96.988678,
+      "box": [
+        1764,
+        1477,
+        76,
+        31
+      ]
+    },
+    {
+      "text": "đăng,",
+      "confidence": 96.938858,
+      "box": [
+        1853,
+        1478,
+        97,
+        40
+      ]
+    },
+    {
+      "text": "đó,",
+      "confidence": 93.302315,
+      "box": [
+        1962,
+        1480,
+        54,
+        36
+      ]
+    },
+    {
+      "text": "nơm,",
+      "confidence": 93.232361,
+      "box": [
+        2028,
+        1488,
+        86,
+        30
+      ]
+    },
+    {
+      "text": "lờ,",
+      "confidence": 97.012589,
+      "box": [
+        2126,
+        1482,
+        39,
+        37
+      ]
+    },
+    {
+      "text": "câu,",
+      "confidence": 96.817009,
+      "box": [
+        343,
+        1512,
+        72,
+        37
+      ]
+    },
+    {
+      "text": "lưới,",
+      "confidence": 96.878922,
+      "box": [
+        429,
+        1512,
+        75,
+        38
+      ]
+    },
+    {
+      "text": "giỏ",
+      "confidence": 96.97567,
+      "box": [
+        516,
+        1512,
+        55,
+        42
+      ]
+    },
+    {
+      "text": "đựng",
+      "confidence": 96.829994,
+      "box": [
+        584,
+        1515,
+        93,
+        41
+      ]
+    },
+    {
+      "text": "cá...",
+      "confidence": 96.673195,
+      "box": [
+        690,
+        1518,
+        73,
+        31
+      ]
+    },
+    {
+      "text": "Wet",
+      "confidence": 96.530075,
+      "box": [
+        340,
+        1691,
+        67,
+        31
+      ]
+    },
+    {
+      "text": "rice",
+      "confidence": 96.921112,
+      "box": [
+        421,
+        1692,
+        66,
+        31
+      ]
+    },
+    {
+      "text": "cultivation",
+      "confidence": 96.552856,
+      "box": [
+        504,
+        1693,
+        186,
+        32
+      ]
+    },
+    {
+      "text": "is",
+      "confidence": 96.279282,
+      "box": [
+        707,
+        1696,
+        30,
+        30
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.99234,
+      "box": [
+        753,
+        1695,
+        56,
+        32
+      ]
+    },
+    {
+      "text": "main,",
+      "confidence": 96.686348,
+      "box": [
+        824,
+        1698,
+        94,
+        35
+      ]
+    },
+    {
+      "text": "traditional",
+      "confidence": 96.814346,
+      "box": [
+        936,
+        1698,
+        181,
+        33
+      ]
+    },
+    {
+      "text": "economy",
+      "confidence": 96.153954,
+      "box": [
+        1131,
+        1709,
+        161,
+        32
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.992065,
+      "box": [
+        1305,
+        1703,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.019333,
+      "box": [
+        1356,
+        1704,
+        55,
+        32
+      ]
+    },
+    {
+      "text": "people",
+      "confidence": 96.821068,
+      "box": [
+        1424,
+        1707,
+        120,
+        38
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.829117,
+      "box": [
+        1559,
+        1709,
+        30,
+        30
+      ]
+    },
+    {
+      "text": "Quang",
+      "confidence": 96.564095,
+      "box": [
+        1608,
+        1710,
+        113,
+        39
+      ]
+    },
+    {
+      "text": "region.",
+      "confidence": 96.66468,
+      "box": [
+        1736,
+        1713,
+        119,
+        38
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 96.76992,
+      "box": [
+        1877,
+        1714,
+        63,
+        32
+      ]
+    },
+    {
+      "text": "schedule",
+      "confidence": 96.99865,
+      "box": [
+        1955,
+        1716,
+        158,
+        33
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.791168,
+      "box": [
+        2129,
+        1718,
+        40,
+        32
+      ]
+    },
+    {
+      "text": "annual",
+      "confidence": 96.860947,
+      "box": [
+        335,
+        1751,
+        121,
+        31
+      ]
+    },
+    {
+      "text": "rice",
+      "confidence": 96.995949,
+      "box": [
+        468,
+        1753,
+        67,
+        31
+      ]
+    },
+    {
+      "text": "crops,",
+      "confidence": 96.715996,
+      "box": [
+        550,
+        1761,
+        107,
+        31
+      ]
+    },
+    {
+      "text": "based",
+      "confidence": 96.370544,
+      "box": [
+        673,
+        1754,
+        111,
+        32
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 96.930168,
+      "box": [
+        797,
+        1763,
+        43,
+        23
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.672638,
+      "box": [
+        856,
+        1755,
+        55,
+        32
+      ]
+    },
+    {
+      "text": "lunar",
+      "confidence": 95.255524,
+      "box": [
+        925,
+        1756,
+        91,
+        32
+      ]
+    },
+    {
+      "text": "calendar,",
+      "confidence": 96.926117,
+      "box": [
+        1028,
+        1758,
+        157,
+        37
+      ]
+    },
+    {
+      "text": "lasts",
+      "confidence": 95.474098,
+      "box": [
+        1201,
+        1760,
+        84,
+        32
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 96.774651,
+      "box": [
+        1301,
+        1761,
+        81,
+        33
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.95977,
+      "box": [
+        1397,
+        1763,
+        54,
+        32
+      ]
+    },
+    {
+      "text": "tenth",
+      "confidence": 95.893486,
+      "box": [
+        1466,
+        1766,
+        89,
+        31
+      ]
+    },
+    {
+      "text": "lunar",
+      "confidence": 92.688286,
+      "box": [
+        1570,
+        1767,
+        91,
+        32
+      ]
+    },
+    {
+      "text": "month",
+      "confidence": 96.592583,
+      "box": [
+        1673,
+        1770,
+        113,
+        32
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.908493,
+      "box": [
+        1801,
+        1771,
+        40,
+        32
+      ]
+    },
+    {
+      "text": "one",
+      "confidence": 96.361313,
+      "box": [
+        1852,
+        1781,
+        65,
+        23
+      ]
+    },
+    {
+      "text": "year",
+      "confidence": 96.899117,
+      "box": [
+        1928,
+        1782,
+        79,
+        31
+      ]
+    },
+    {
+      "text": "until",
+      "confidence": 96.804413,
+      "box": [
+        2020,
+        1776,
+        77,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.859566,
+      "box": [
+        2110,
+        1777,
+        54,
+        32
+      ]
+    },
+    {
+      "text": "eighth",
+      "confidence": 96.726501,
+      "box": [
+        334,
+        1810,
+        109,
+        39
+      ]
+    },
+    {
+      "text": "lunar",
+      "confidence": 90.634743,
+      "box": [
+        456,
+        1811,
+        92,
+        32
+      ]
+    },
+    {
+      "text": "month",
+      "confidence": 96.775192,
+      "box": [
+        557,
+        1813,
+        115,
+        31
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.837654,
+      "box": [
+        685,
+        1813,
+        41,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.700249,
+      "box": [
+        733,
+        1814,
+        55,
+        32
+      ]
+    },
+    {
+      "text": "next.",
+      "confidence": 96.996834,
+      "box": [
+        800,
+        1819,
+        83,
+        27
+      ]
+    },
+    {
+      "text": "Two",
+      "confidence": 96.446838,
+      "box": [
+        901,
+        1816,
+        72,
+        31
+      ]
+    },
+    {
+      "text": "crops",
+      "confidence": 96.345322,
+      "box": [
+        986,
+        1824,
+        97,
+        32
+      ]
+    },
+    {
+      "text": "are",
+      "confidence": 96.261673,
+      "box": [
+        1095,
+        1826,
+        55,
+        23
+      ]
+    },
+    {
+      "text": "grown:",
+      "confidence": 93.291878,
+      "box": [
+        1161,
+        1827,
+        119,
+        30
+      ]
+    },
+    {
+      "text": "winter-spring",
+      "confidence": 92.953033,
+      "box": [
+        1293,
+        1822,
+        227,
+        41
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 93.253166,
+      "box": [
+        1532,
+        1826,
+        66,
+        31
+      ]
+    },
+    {
+      "text": "summer-autumn,",
+      "confidence": 90.716705,
+      "box": [
+        1609,
+        1835,
+        298,
+        33
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 92.631897,
+      "box": [
+        1921,
+        1834,
+        30,
+        30
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 92.631897,
+      "box": [
+        1963,
+        1842,
+        20,
+        23
+      ]
+    },
+    {
+      "text": "sequence",
+      "confidence": 96.755936,
+      "box": [
+        1995,
+        1843,
+        169,
+        31
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.930679,
+      "box": [
+        332,
+        1869,
+        41,
+        32
+      ]
+    },
+    {
+      "text": "tilling",
+      "confidence": 96.503593,
+      "box": [
+        380,
+        1870,
+        98,
+        41
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.503593,
+      "box": [
+        489,
+        1871,
+        56,
+        32
+      ]
+    },
+    {
+      "text": "land,",
+      "confidence": 96.505028,
+      "box": [
+        556,
+        1872,
+        84,
+        37
+      ]
+    },
+    {
+      "text": "sowing",
+      "confidence": 96.96344,
+      "box": [
+        653,
+        1874,
+        128,
+        39
+      ]
+    },
+    {
+      "text": "seeds,",
+      "confidence": 96.760658,
+      "box": [
+        792,
+        1874,
+        112,
+        37
+      ]
+    },
+    {
+      "text": "transplanting",
+      "confidence": 96.637863,
+      "box": [
+        918,
+        1876,
+        233,
+        40
+      ]
+    },
+    {
+      "text": "seedlings",
+      "confidence": 96.569824,
+      "box": [
+        1162,
+        1879,
+        167,
+        40
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 97.004791,
+      "box": [
+        1341,
+        1881,
+        65,
+        32
+      ]
+    },
+    {
+      "text": "caring",
+      "confidence": 97.00721,
+      "box": [
+        1417,
+        1884,
+        108,
+        39
+      ]
+    },
+    {
+      "text": "for",
+      "confidence": 96.72216,
+      "box": [
+        1538,
+        1884,
+        50,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.857849,
+      "box": [
+        1598,
+        1886,
+        55,
+        32
+      ]
+    },
+    {
+      "text": "rice",
+      "confidence": 96.857849,
+      "box": [
+        1664,
+        1889,
+        65,
+        30
+      ]
+    },
+    {
+      "text": "paddies",
+      "confidence": 96.567757,
+      "box": [
+        1739,
+        1890,
+        142,
+        38
+      ]
+    },
+    {
+      "text": "until",
+      "confidence": 96.476784,
+      "box": [
+        1893,
+        1893,
+        76,
+        31
+      ]
+    },
+    {
+      "text": "harvest.",
+      "confidence": 95.788506,
+      "box": [
+        1979,
+        1893,
+        137,
+        34
+      ]
+    },
+    {
+      "text": "Production",
+      "confidence": 96.468185,
+      "box": [
+        328,
+        1990,
+        195,
+        33
+      ]
+    },
+    {
+      "text": "methods",
+      "confidence": 96.838631,
+      "box": [
+        539,
+        1992,
+        158,
+        33
+      ]
+    },
+    {
+      "text": "were",
+      "confidence": 96.361015,
+      "box": [
+        715,
+        2002,
+        83,
+        23
+      ]
+    },
+    {
+      "text": "rudimentary,",
+      "confidence": 96.059677,
+      "box": [
+        813,
+        1994,
+        220,
+        41
+      ]
+    },
+    {
+      "text": "manual,",
+      "confidence": 96.25901,
+      "box": [
+        1050,
+        1997,
+        137,
+        37
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.228111,
+      "box": [
+        1204,
+        1998,
+        66,
+        32
+      ]
+    },
+    {
+      "text": "highly",
+      "confidence": 96.610023,
+      "box": [
+        1283,
+        1998,
+        106,
+        42
+      ]
+    },
+    {
+      "text": "dependent",
+      "confidence": 96.702065,
+      "box": [
+        1403,
+        2001,
+        187,
+        40
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 96.841614,
+      "box": [
+        1604,
+        2013,
+        42,
+        24
+      ]
+    },
+    {
+      "text": "nature.",
+      "confidence": 96.745682,
+      "box": [
+        1662,
+        2011,
+        121,
+        29
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 96.840279,
+      "box": [
+        1799,
+        2011,
+        26,
+        30
+      ]
+    },
+    {
+      "text": "notable",
+      "confidence": 96.497841,
+      "box": [
+        1841,
+        2011,
+        132,
+        33
+      ]
+    },
+    {
+      "text": "feature",
+      "confidence": 96.387062,
+      "box": [
+        1990,
+        2012,
+        123,
+        34
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.687653,
+      "box": [
+        2129,
+        2015,
+        39,
+        31
+      ]
+    },
+    {
+      "text": "traditional",
+      "confidence": 96.584602,
+      "box": [
+        327,
+        2050,
+        183,
+        33
+      ]
+    },
+    {
+      "text": "agriculture",
+      "confidence": 96.168518,
+      "box": [
+        522,
+        2053,
+        193,
+        39
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.168518,
+      "box": [
+        728,
+        2055,
+        31,
+        30
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.990555,
+      "box": [
+        774,
+        2054,
+        56,
+        32
+      ]
+    },
+    {
+      "text": "Quang",
+      "confidence": 96.685654,
+      "box": [
+        845,
+        2055,
+        113,
+        40
+      ]
+    },
+    {
+      "text": "region",
+      "confidence": 96.98967,
+      "box": [
+        971,
+        2057,
+        110,
+        38
+      ]
+    },
+    {
+      "text": "was",
+      "confidence": 96.985825,
+      "box": [
+        1098,
+        2065,
+        68,
+        24
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.700417,
+      "box": [
+        1180,
+        2057,
+        55,
+        33
+      ]
+    },
+    {
+      "text": "combination",
+      "confidence": 96.306007,
+      "box": [
+        1249,
+        2059,
+        219,
+        34
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.416489,
+      "box": [
+        1483,
+        2063,
+        39,
+        31
+      ]
+    },
+    {
+      "text": "water",
+      "confidence": 96.4039,
+      "box": [
+        1533,
+        2068,
+        100,
+        29
+      ]
+    },
+    {
+      "text": "management",
+      "confidence": 96.482491,
+      "box": [
+        1644,
+        2074,
+        235,
+        34
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.29612,
+      "box": [
+        1892,
+        2071,
+        71,
+        32
+      ]
+    },
+    {
+      "text": "“irrigation”",
+      "confidence": 95.407837,
+      "box": [
+        1980,
+        2072,
+        186,
+        40
+      ]
+    },
+    {
+      "text": "using",
+      "confidence": 96.90609,
+      "box": [
+        326,
+        2111,
+        96,
+        40
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 96.841347,
+      "box": [
+        433,
+        2120,
+        20,
+        23
+      ]
+    },
+    {
+      "text": "network",
+      "confidence": 96.78006,
+      "box": [
+        465,
+        2113,
+        146,
+        32
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.714645,
+      "box": [
+        621,
+        2113,
+        41,
+        32
+      ]
+    },
+    {
+      "text": "canals.",
+      "confidence": 96.699387,
+      "box": [
+        669,
+        2114,
+        124,
+        32
+      ]
+    },
+    {
+      "text": "During",
+      "confidence": 96.99086,
+      "box": [
+        322,
+        2232,
+        116,
+        40
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.991188,
+      "box": [
+        454,
+        2232,
+        56,
+        33
+      ]
+    },
+    {
+      "text": "off-season,",
+      "confidence": 96.652313,
+      "box": [
+        526,
+        2233,
+        198,
+        39
+      ]
+    },
+    {
+      "text": "farmers",
+      "confidence": 96.989723,
+      "box": [
+        743,
+        2235,
+        139,
+        34
+      ]
+    },
+    {
+      "text": "took",
+      "confidence": 96.995064,
+      "box": [
+        899,
+        2237,
+        79,
+        32
+      ]
+    },
+    {
+      "text": "advantage",
+      "confidence": 96.821465,
+      "box": [
+        993,
+        2238,
+        185,
+        41
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.007416,
+      "box": [
+        1194,
+        2239,
+        40,
+        33
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.890427,
+      "box": [
+        1246,
+        2240,
+        55,
+        33
+      ]
+    },
+    {
+      "text": "time",
+      "confidence": 96.890427,
+      "box": [
+        1317,
+        2243,
+        78,
+        31
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.127373,
+      "box": [
+        1411,
+        2247,
+        34,
+        28
+      ]
+    },
+    {
+      "text": "catch",
+      "confidence": 96.127373,
+      "box": [
+        1462,
+        2245,
+        96,
+        32
+      ]
+    },
+    {
+      "text": "freshwater",
+      "confidence": 96.672882,
+      "box": [
+        1576,
+        2245,
+        192,
+        35
+      ]
+    },
+    {
+      "text": "fish",
+      "confidence": 96.409142,
+      "box": [
+        1783,
+        2249,
+        63,
+        33
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.409142,
+      "box": [
+        1863,
+        2252,
+        30,
+        30
+      ]
+    },
+    {
+      "text": "flooded",
+      "confidence": 97.010986,
+      "box": [
+        1911,
+        2251,
+        133,
+        33
+      ]
+    },
+    {
+      "text": "fields,",
+      "confidence": 96.336853,
+      "box": [
+        2060,
+        2253,
+        103,
+        38
+      ]
+    },
+    {
+      "text": "ponds,",
+      "confidence": 96.792236,
+      "box": [
+        318,
+        2292,
+        119,
+        39
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.933945,
+      "box": [
+        455,
+        2293,
+        67,
+        33
+      ]
+    },
+    {
+      "text": "riverbanks.",
+      "confidence": 96.631081,
+      "box": [
+        537,
+        2295,
+        193,
+        33
+      ]
+    },
+    {
+      "text": "Fishing",
+      "confidence": 96.631081,
+      "box": [
+        751,
+        2297,
+        129,
+        41
+      ]
+    },
+    {
+      "text": "methods",
+      "confidence": 96.622849,
+      "box": [
+        896,
+        2298,
+        157,
+        33
+      ]
+    },
+    {
+      "text": "were",
+      "confidence": 96.834869,
+      "box": [
+        1071,
+        2308,
+        84,
+        24
+      ]
+    },
+    {
+      "text": "diverse,",
+      "confidence": 96.995987,
+      "box": [
+        1172,
+        2300,
+        133,
+        39
+      ]
+    },
+    {
+      "text": "using",
+      "confidence": 96.866783,
+      "box": [
+        1325,
+        2305,
+        95,
+        39
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 96.872948,
+      "box": [
+        1436,
+        2313,
+        19,
+        23
+      ]
+    },
+    {
+      "text": "variety",
+      "confidence": 96.872948,
+      "box": [
+        1474,
+        2307,
+        118,
+        39
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.005318,
+      "box": [
+        1608,
+        2307,
+        39,
+        32
+      ]
+    },
+    {
+      "text": "tools",
+      "confidence": 96.852913,
+      "box": [
+        1659,
+        2309,
+        88,
+        32
+      ]
+    },
+    {
+      "text": "such",
+      "confidence": 96.864532,
+      "box": [
+        1764,
+        2310,
+        83,
+        32
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 91.853775,
+      "box": [
+        1864,
+        2319,
+        41,
+        24
+      ]
+    },
+    {
+      "text": "heckles,",
+      "confidence": 91.853775,
+      "box": [
+        1921,
+        2311,
+        141,
+        39
+      ]
+    },
+    {
+      "text": "nets,",
+      "confidence": 96.933342,
+      "box": [
+        2080,
+        2318,
+        83,
+        34
+      ]
+    },
+    {
+      "text": "fishing-tackles,",
+      "confidence": 93.125153,
+      "box": [
+        319,
+        2351,
+        269,
+        42
+      ]
+    },
+    {
+      "text": "fishing",
+      "confidence": 96.884827,
+      "box": [
+        603,
+        2355,
+        120,
+        42
+      ]
+    },
+    {
+      "text": "rods",
+      "confidence": 96.476585,
+      "box": [
+        734,
+        2357,
+        79,
+        33
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.593277,
+      "box": [
+        826,
+        2359,
+        67,
+        31
+      ]
+    },
+    {
+      "text": "baskets.",
+      "confidence": 95.770874,
+      "box": [
+        903,
+        2359,
+        147,
+        33
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    3024,
+    4032
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.99,
+  "mean_confidence": 95.58,
+  "status": "text_detected"
+}

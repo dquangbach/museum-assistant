@@ -1,0 +1,497 @@
+{
+  "asset_id": "743bea7a-4751-5812-9c3c-08791eaf4c59",
+  "filename": "IMG_8856.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC009_da_nang_thoi_phong_kien/IMG_8856.JPG",
+  "source_sha256": "2501d3e7996b2cb745823c4d34f0be18bc99da4375d5d375fee7221ca9ab9503",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "LeTour\n\n: rong of\n\nPeople from Dang Trong.\n\nPainting by\n\n9. Bia chùa Tha\n\nFS\n\nTẾ >>\n\nangel\n\nWilliam Alexander, created\n\n‘\n\n558\n\nthe British dip\n\nlomat mission to\n\nStele in Long Thu Pagoda (Hai Chau,\n\nTourane, 1793\n\nNang), 1658\n\na SS\n\nis.\n\niy\n\n7\n\nSgt\n\nee",
+  "words": [
+    {
+      "text": "LeTour",
+      "confidence": 91.585129,
+      "box": [
+        2143,
+        1118,
+        121,
+        31
+      ]
+    },
+    {
+      "text": ":",
+      "confidence": 49.257645,
+      "box": [
+        1196,
+        1127,
+        27,
+        60
+      ]
+    },
+    {
+      "text": "rong",
+      "confidence": 23.99028,
+      "box": [
+        1229,
+        1125,
+        91,
+        76
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 92.524284,
+      "box": [
+        1325,
+        1167,
+        35,
+        26
+      ]
+    },
+    {
+      "text": "People",
+      "confidence": 89.675056,
+      "box": [
+        1358,
+        1167,
+        98,
+        49
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 96.852661,
+      "box": [
+        1472,
+        1167,
+        62,
+        49
+      ]
+    },
+    {
+      "text": "Dang",
+      "confidence": 93.246964,
+      "box": [
+        1551,
+        1167,
+        58,
+        49
+      ]
+    },
+    {
+      "text": "Trong.",
+      "confidence": 93.193733,
+      "box": [
+        1664,
+        1183,
+        63,
+        29
+      ]
+    },
+    {
+      "text": "Painting",
+      "confidence": 96.601509,
+      "box": [
+        1196,
+        1201,
+        122,
+        38
+      ]
+    },
+    {
+      "text": "by",
+      "confidence": 97.011414,
+      "box": [
+        1325,
+        1207,
+        37,
+        34
+      ]
+    },
+    {
+      "text": "9.",
+      "confidence": 96.781616,
+      "box": [
+        2089,
+        1195,
+        30,
+        29
+      ]
+    },
+    {
+      "text": "Bia",
+      "confidence": 92.770256,
+      "box": [
+        2137,
+        1197,
+        53,
+        31
+      ]
+    },
+    {
+      "text": "chùa",
+      "confidence": 96.477608,
+      "box": [
+        2198,
+        1200,
+        81,
+        32
+      ]
+    },
+    {
+      "text": "Tha",
+      "confidence": 90.695236,
+      "box": [
+        2386,
+        1208,
+        60,
+        32
+      ]
+    },
+    {
+      "text": "FS",
+      "confidence": 29.980957,
+      "box": [
+        2541,
+        1224,
+        13,
+        14
+      ]
+    },
+    {
+      "text": "TẾ",
+      "confidence": 43.441948,
+      "box": [
+        2605,
+        1226,
+        5,
+        12
+      ]
+    },
+    {
+      "text": ">>",
+      "confidence": 26.30262,
+      "box": [
+        2645,
+        1224,
+        21,
+        19
+      ]
+    },
+    {
+      "text": "angel",
+      "confidence": 30.006187,
+      "box": [
+        2732,
+        1230,
+        47,
+        7
+      ]
+    },
+    {
+      "text": "William",
+      "confidence": 96.776779,
+      "box": [
+        1366,
+        1206,
+        111,
+        42
+      ]
+    },
+    {
+      "text": "Alexander,",
+      "confidence": 96.203072,
+      "box": [
+        1483,
+        1215,
+        152,
+        37
+      ]
+    },
+    {
+      "text": "created",
+      "confidence": 96.592575,
+      "box": [
+        1646,
+        1228,
+        113,
+        26
+      ]
+    },
+    {
+      "text": "‘",
+      "confidence": 77.408417,
+      "box": [
+        2764,
+        1242,
+        3,
+        8
+      ]
+    },
+    {
+      "text": "558",
+      "confidence": 94.322418,
+      "box": [
+        2838,
+        1230,
+        49,
+        25
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.498459,
+      "box": [
+        1298,
+        1246,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "British",
+      "confidence": 94.662819,
+      "box": [
+        1353,
+        1250,
+        93,
+        30
+      ]
+    },
+    {
+      "text": "dip",
+      "confidence": 96.433212,
+      "box": [
+        1455,
+        1254,
+        45,
+        34
+      ]
+    },
+    {
+      "text": "lomat",
+      "confidence": 91.309914,
+      "box": [
+        1500,
+        1256,
+        86,
+        30
+      ]
+    },
+    {
+      "text": "mission",
+      "confidence": 95.935677,
+      "box": [
+        1592,
+        1263,
+        116,
+        30
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.928116,
+      "box": [
+        1717,
+        1270,
+        30,
+        24
+      ]
+    },
+    {
+      "text": "Stele",
+      "confidence": 96.156525,
+      "box": [
+        2132,
+        1239,
+        86,
+        32
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.413017,
+      "box": [
+        2228,
+        1244,
+        30,
+        29
+      ]
+    },
+    {
+      "text": "Long",
+      "confidence": 96.399071,
+      "box": [
+        2269,
+        1246,
+        87,
+        39
+      ]
+    },
+    {
+      "text": "Thu",
+      "confidence": 96.238968,
+      "box": [
+        2369,
+        1251,
+        63,
+        30
+      ]
+    },
+    {
+      "text": "Pagoda",
+      "confidence": 96.342484,
+      "box": [
+        2437,
+        1258,
+        134,
+        35
+      ]
+    },
+    {
+      "text": "(Hai",
+      "confidence": 96.445999,
+      "box": [
+        2574,
+        1254,
+        76,
+        53
+      ]
+    },
+    {
+      "text": "Chau,",
+      "confidence": 96.616035,
+      "box": [
+        2667,
+        1254,
+        93,
+        53
+      ]
+    },
+    {
+      "text": "Tourane,",
+      "confidence": 92.13578,
+      "box": [
+        1198,
+        1282,
+        123,
+        35
+      ]
+    },
+    {
+      "text": "1793",
+      "confidence": 96.867981,
+      "box": [
+        1333,
+        1290,
+        71,
+        27
+      ]
+    },
+    {
+      "text": "Nang),",
+      "confidence": 96.34256,
+      "box": [
+        2823,
+        1249,
+        114,
+        66
+      ]
+    },
+    {
+      "text": "1658",
+      "confidence": 96.503311,
+      "box": [
+        2955,
+        1281,
+        87,
+        32
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 28.626663,
+      "box": [
+        473,
+        1362,
+        8,
+        2
+      ]
+    },
+    {
+      "text": "SS",
+      "confidence": 35.800446,
+      "box": [
+        483,
+        1362,
+        67,
+        6
+      ]
+    },
+    {
+      "text": "is.",
+      "confidence": 29.542694,
+      "box": [
+        612,
+        1370,
+        17,
+        2
+      ]
+    },
+    {
+      "text": "iy",
+      "confidence": 46.611778,
+      "box": [
+        1054,
+        1613,
+        44,
+        46
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 68.483597,
+      "box": [
+        1204,
+        1550,
+        90,
+        123
+      ]
+    },
+    {
+      "text": "Sgt",
+      "confidence": 0.0,
+      "box": [
+        416,
+        1803,
+        61,
+        23
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 18.660446,
+      "box": [
+        22,
+        1929,
+        12,
+        15
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.745,
+  "mean_confidence": 77.61,
+  "status": "text_detected"
+}

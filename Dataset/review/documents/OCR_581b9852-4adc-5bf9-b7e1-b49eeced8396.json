@@ -1,0 +1,26 @@
+{
+  "document_id": "OCR_581b9852-4adc-5bf9-b7e1-b49eeced8396",
+  "topic_id": "TOPIC001",
+  "topic_ids": [
+    "TOPIC001"
+  ],
+  "exhibit_id": null,
+  "title": "Khái quát Bảo tàng Đà Nẵng — IMG_8786.JPG",
+  "title_origin": "catalog_and_filename_not_transcribed_heading",
+  "language": "und",
+  "ocr_languages": [
+    "vi",
+    "en"
+  ],
+  "source_asset_ids": [
+    "581b9852-4adc-5bf9-b7e1-b49eeced8396"
+  ],
+  "source_filenames": [
+    "IMG_8786.JPG"
+  ],
+  "review_status": "needs_review",
+  "version": 1,
+  "text": "|\n\nKAHL TRUNG) BẢY\n\nCHÍ\n\nMAIN EXHIBITION\n\n= Lối VAC\n\nENTRAN€G\n\nSmell",
+  "ocr_status": "text_detected",
+  "review_notes": "Automatic OCR; check text, language, reading order and topic against photo before approval."
+}

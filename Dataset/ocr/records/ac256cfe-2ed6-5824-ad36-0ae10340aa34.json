@@ -1,0 +1,1137 @@
+{
+  "asset_id": "ac256cfe-2ed6-5824-ad36-0ae10340aa34",
+  "filename": "IMG_9022.JPG",
+  "source_path": "topics/04_chung_tich_chien_tranh_va_phat_trien_sau_1975/TOPIC029_chat_khai_quang_va_hiem_hoa_da_cam_khac_phuc_hau_qua_chien_tranh/IMG_9022.JPG",
+  "source_sha256": "42ea1a1697a65f7bc5f829e309a4825ba0ce4069c93b6a14b12bc01a87a43b72",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "estat\n\nBeets\n\nae\n\nies\n\n‘aa\n\nHeo.\n\n=\n\nsuk\n\na\n\nĐIỆN\n\n`\n\nig. Min\n\nee er\n\na\n\n`\n\nSe tah 204<ss34)\n\na\n\n`\n\n®\n\nTY\n\nsẻ,\n\nxà\n\ns9\n\na\n\ntự\n\n`:\n\noR\n\n4\n\nAe\n\nmi\n\n7\n\ngly\n\nHỆ ` cáo)\n\n4g\n\nNad 72956,\n\n590\n\nbe\n\nSÁU ca\n\nae\n\nYY,\n\nrf\n\nSOI\n\ns/\n\nmd\n\ntee\n\nxo\n\n2\n\n_\n\nSTON\n\n—\n\nES\n\nKL 488\n\noS\n\n—\n\n¬ an.\n\n=\n\na\n\n= == ằ...\n\n=\n\neS stn\n\nthuận\n\ntt\n\n5\n\nats\n\n“Tonge\n\n2. Máy bộ đàm\n\nchục\n\nWalkie - talkie\n\na\n\n:\n\n3. Máy điện thoại phát sóng\n\n6. Mạ ie. r\n\nPortable Radio Communication\n\nTransceiver PRC-25\n\n—\n\nmm m..aa=.=. 6.\n\nSe\n\n`\n\nEy\n\n=",
+  "words": [
+    {
+      "text": "estat",
+      "confidence": 26.357178,
+      "box": [
+        977,
+        0,
+        18,
+        4
+      ]
+    },
+    {
+      "text": "Beets",
+      "confidence": 21.455605,
+      "box": [
+        2441,
+        0,
+        26,
+        8
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 23.031616,
+      "box": [
+        2346,
+        0,
+        19,
+        14
+      ]
+    },
+    {
+      "text": "ies",
+      "confidence": 36.366333,
+      "box": [
+        265,
+        46,
+        22,
+        10
+      ]
+    },
+    {
+      "text": "‘aa",
+      "confidence": 31.998474,
+      "box": [
+        290,
+        24,
+        104,
+        44
+      ]
+    },
+    {
+      "text": "Heo.",
+      "confidence": 0.0,
+      "box": [
+        1754,
+        40,
+        198,
+        17
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 72.134613,
+      "box": [
+        1826,
+        62,
+        31,
+        12
+      ]
+    },
+    {
+      "text": "suk",
+      "confidence": 32.553856,
+      "box": [
+        1996,
+        50,
+        27,
+        5
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 44.712353,
+      "box": [
+        2318,
+        26,
+        37,
+        31
+      ]
+    },
+    {
+      "text": "ĐIỆN",
+      "confidence": 39.030472,
+      "box": [
+        2432,
+        52,
+        24,
+        9
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 41.531693,
+      "box": [
+        879,
+        141,
+        56,
+        19
+      ]
+    },
+    {
+      "text": "ig.",
+      "confidence": 24.247559,
+      "box": [
+        848,
+        184,
+        31,
+        8
+      ]
+    },
+    {
+      "text": "Min",
+      "confidence": 42.52507,
+      "box": [
+        889,
+        179,
+        37,
+        14
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 0.607231,
+      "box": [
+        362,
+        208,
+        65,
+        36
+      ]
+    },
+    {
+      "text": "er",
+      "confidence": 3.417519,
+      "box": [
+        386,
+        212,
+        250,
+        24
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 20.739304,
+      "box": [
+        17,
+        307,
+        127,
+        6
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 86.529663,
+      "box": [
+        1637,
+        300,
+        7,
+        8
+      ]
+    },
+    {
+      "text": "Se",
+      "confidence": 24.427673,
+      "box": [
+        1859,
+        291,
+        18,
+        14
+      ]
+    },
+    {
+      "text": "tah",
+      "confidence": 0.0,
+      "box": [
+        1894,
+        280,
+        36,
+        39
+      ]
+    },
+    {
+      "text": "204<ss34)",
+      "confidence": 0.0,
+      "box": [
+        1948,
+        287,
+        86,
+        27
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 41.731316,
+      "box": [
+        1855,
+        320,
+        20,
+        12
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 18.082047,
+      "box": [
+        1942,
+        337,
+        31,
+        11
+      ]
+    },
+    {
+      "text": "®",
+      "confidence": 79.754562,
+      "box": [
+        1279,
+        370,
+        21,
+        10
+      ]
+    },
+    {
+      "text": "TY",
+      "confidence": 32.30397,
+      "box": [
+        1777,
+        390,
+        23,
+        11
+      ]
+    },
+    {
+      "text": "sẻ,",
+      "confidence": 0.0,
+      "box": [
+        1971,
+        389,
+        28,
+        12
+      ]
+    },
+    {
+      "text": "xà",
+      "confidence": 6.600876,
+      "box": [
+        1980,
+        403,
+        18,
+        16
+      ]
+    },
+    {
+      "text": "s9",
+      "confidence": 16.07914,
+      "box": [
+        496,
+        423,
+        29,
+        11
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 41.109028,
+      "box": [
+        930,
+        362,
+        165,
+        71
+      ]
+    },
+    {
+      "text": "tự",
+      "confidence": 54.589813,
+      "box": [
+        1795,
+        420,
+        17,
+        12
+      ]
+    },
+    {
+      "text": "`:",
+      "confidence": 20.253525,
+      "box": [
+        1857,
+        428,
+        33,
+        17
+      ]
+    },
+    {
+      "text": "oR",
+      "confidence": 16.688217,
+      "box": [
+        1980,
+        415,
+        26,
+        23
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 51.40234,
+      "box": [
+        690,
+        422,
+        80,
+        25
+      ]
+    },
+    {
+      "text": "Ae",
+      "confidence": 30.647255,
+      "box": [
+        1975,
+        433,
+        31,
+        14
+      ]
+    },
+    {
+      "text": "mi",
+      "confidence": 20.773331,
+      "box": [
+        1998,
+        444,
+        8,
+        10
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 96.586014,
+      "box": [
+        2180,
+        437,
+        17,
+        25
+      ]
+    },
+    {
+      "text": "gly",
+      "confidence": 34.072014,
+      "box": [
+        2305,
+        443,
+        52,
+        12
+      ]
+    },
+    {
+      "text": "HỆ",
+      "confidence": 53.839142,
+      "box": [
+        1849,
+        466,
+        17,
+        28
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 0.0,
+      "box": [
+        1877,
+        472,
+        1,
+        13
+      ]
+    },
+    {
+      "text": "cáo)",
+      "confidence": 0.0,
+      "box": [
+        1888,
+        472,
+        37,
+        15
+      ]
+    },
+    {
+      "text": "4g",
+      "confidence": 48.460869,
+      "box": [
+        1963,
+        463,
+        30,
+        22
+      ]
+    },
+    {
+      "text": "Nad",
+      "confidence": 14.73835,
+      "box": [
+        554,
+        482,
+        65,
+        17
+      ]
+    },
+    {
+      "text": "72956,",
+      "confidence": 41.658627,
+      "box": [
+        632,
+        489,
+        17,
+        9
+      ]
+    },
+    {
+      "text": "590",
+      "confidence": 0.0,
+      "box": [
+        753,
+        493,
+        57,
+        6
+      ]
+    },
+    {
+      "text": "be",
+      "confidence": 51.135311,
+      "box": [
+        1873,
+        489,
+        20,
+        12
+      ]
+    },
+    {
+      "text": "SÁU",
+      "confidence": 28.259171,
+      "box": [
+        1968,
+        494,
+        35,
+        8
+      ]
+    },
+    {
+      "text": "ca",
+      "confidence": 51.885033,
+      "box": [
+        2016,
+        497,
+        19,
+        6
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 30.474205,
+      "box": [
+        1972,
+        479,
+        19,
+        18
+      ]
+    },
+    {
+      "text": "YY,",
+      "confidence": 36.070614,
+      "box": [
+        2371,
+        441,
+        60,
+        61
+      ]
+    },
+    {
+      "text": "rf",
+      "confidence": 35.431755,
+      "box": [
+        1297,
+        514,
+        40,
+        31
+      ]
+    },
+    {
+      "text": "SOI",
+      "confidence": 18.561775,
+      "box": [
+        1724,
+        530,
+        36,
+        12
+      ]
+    },
+    {
+      "text": "s/",
+      "confidence": 67.994843,
+      "box": [
+        2302,
+        508,
+        61,
+        39
+      ]
+    },
+    {
+      "text": "md",
+      "confidence": 24.504234,
+      "box": [
+        2419,
+        505,
+        69,
+        48
+      ]
+    },
+    {
+      "text": "tee",
+      "confidence": 23.804283,
+      "box": [
+        1206,
+        551,
+        125,
+        21
+      ]
+    },
+    {
+      "text": "xo",
+      "confidence": 90.088669,
+      "box": [
+        1801,
+        573,
+        26,
+        5
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 31.415451,
+      "box": [
+        2110,
+        529,
+        57,
+        50
+      ]
+    },
+    {
+      "text": "_",
+      "confidence": 3.708916,
+      "box": [
+        887,
+        582,
+        55,
+        21
+      ]
+    },
+    {
+      "text": "STON",
+      "confidence": 46.537857,
+      "box": [
+        1705,
+        583,
+        50,
+        16
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 59.687122,
+      "box": [
+        2427,
+        565,
+        12,
+        5
+      ]
+    },
+    {
+      "text": "ES",
+      "confidence": 35.747498,
+      "box": [
+        3153,
+        585,
+        13,
+        12
+      ]
+    },
+    {
+      "text": "KL",
+      "confidence": 90.61586,
+      "box": [
+        1760,
+        598,
+        10,
+        15
+      ]
+    },
+    {
+      "text": "488",
+      "confidence": 92.689705,
+      "box": [
+        1796,
+        605,
+        45,
+        11
+      ]
+    },
+    {
+      "text": "oS",
+      "confidence": 34.131699,
+      "box": [
+        1813,
+        611,
+        27,
+        8
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 81.141052,
+      "box": [
+        2503,
+        606,
+        22,
+        6
+      ]
+    },
+    {
+      "text": "¬",
+      "confidence": 34.432617,
+      "box": [
+        713,
+        625,
+        9,
+        4
+      ]
+    },
+    {
+      "text": "an.",
+      "confidence": 8.842758,
+      "box": [
+        730,
+        617,
+        182,
+        13
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 37.414444,
+      "box": [
+        1984,
+        697,
+        95,
+        28
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 19.850861,
+      "box": [
+        770,
+        866,
+        28,
+        16
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 36.775276,
+      "box": [
+        13,
+        1163,
+        19,
+        28
+      ]
+    },
+    {
+      "text": "==",
+      "confidence": 17.598183,
+      "box": [
+        62,
+        1163,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "ằ...",
+      "confidence": 11.720383,
+      "box": [
+        134,
+        1163,
+        73,
+        28
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 93.497856,
+      "box": [
+        1920,
+        1194,
+        6,
+        1
+      ]
+    },
+    {
+      "text": "eS",
+      "confidence": 25.74556,
+      "box": [
+        2619,
+        1205,
+        220,
+        7
+      ]
+    },
+    {
+      "text": "stn",
+      "confidence": 0.0,
+      "box": [
+        2944,
+        1213,
+        256,
+        7
+      ]
+    },
+    {
+      "text": "thuận",
+      "confidence": 55.772686,
+      "box": [
+        673,
+        1220,
+        22,
+        9
+      ]
+    },
+    {
+      "text": "tt",
+      "confidence": 23.707169,
+      "box": [
+        577,
+        1256,
+        25,
+        16
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 86.862228,
+      "box": [
+        718,
+        1254,
+        12,
+        13
+      ]
+    },
+    {
+      "text": "ats",
+      "confidence": 36.526871,
+      "box": [
+        531,
+        1295,
+        19,
+        10
+      ]
+    },
+    {
+      "text": "“Tonge",
+      "confidence": 7.291412,
+      "box": [
+        396,
+        1384,
+        43,
+        10
+      ]
+    },
+    {
+      "text": "2.",
+      "confidence": 96.827728,
+      "box": [
+        299,
+        1449,
+        45,
+        73
+      ]
+    },
+    {
+      "text": "Máy",
+      "confidence": 96.959435,
+      "box": [
+        368,
+        1449,
+        67,
+        73
+      ]
+    },
+    {
+      "text": "bộ",
+      "confidence": 96.959435,
+      "box": [
+        459,
+        1449,
+        43,
+        73
+      ]
+    },
+    {
+      "text": "đàm",
+      "confidence": 96.815681,
+      "box": [
+        526,
+        1449,
+        80,
+        73
+      ]
+    },
+    {
+      "text": "chục",
+      "confidence": 23.573753,
+      "box": [
+        1313,
+        1512,
+        17,
+        7
+      ]
+    },
+    {
+      "text": "Walkie",
+      "confidence": 57.638031,
+      "box": [
+        350,
+        1516,
+        238,
+        34
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 92.636726,
+      "box": [
+        469,
+        1512,
+        13,
+        51
+      ]
+    },
+    {
+      "text": "talkie",
+      "confidence": 96.881393,
+      "box": [
+        499,
+        1516,
+        89,
+        34
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 56.47781,
+      "box": [
+        1358,
+        1545,
+        10,
+        22
+      ]
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        1863,
+        1600,
+        7,
+        24
+      ]
+    },
+    {
+      "text": "3.",
+      "confidence": 96.917091,
+      "box": [
+        274,
+        1607,
+        37,
+        33
+      ]
+    },
+    {
+      "text": "Máy",
+      "confidence": 96.682426,
+      "box": [
+        340,
+        1603,
+        66,
+        56
+      ]
+    },
+    {
+      "text": "điện",
+      "confidence": 96.625252,
+      "box": [
+        424,
+        1603,
+        84,
+        56
+      ]
+    },
+    {
+      "text": "thoại",
+      "confidence": 96.844826,
+      "box": [
+        526,
+        1603,
+        104,
+        56
+      ]
+    },
+    {
+      "text": "phát",
+      "confidence": 96.949638,
+      "box": [
+        648,
+        1603,
+        80,
+        56
+      ]
+    },
+    {
+      "text": "sóng",
+      "confidence": 96.884384,
+      "box": [
+        745,
+        1603,
+        95,
+        56
+      ]
+    },
+    {
+      "text": "6.",
+      "confidence": 96.802246,
+      "box": [
+        1197,
+        1614,
+        34,
+        34
+      ]
+    },
+    {
+      "text": "Mạ",
+      "confidence": 52.353584,
+      "box": [
+        1245,
+        1560,
+        59,
+        100
+      ]
+    },
+    {
+      "text": "ie.",
+      "confidence": 31.369545,
+      "box": [
+        1345,
+        1560,
+        125,
+        100
+      ]
+    },
+    {
+      "text": "r",
+      "confidence": 86.793388,
+      "box": [
+        1502,
+        1651,
+        14,
+        7
+      ]
+    },
+    {
+      "text": "Portable",
+      "confidence": 96.142494,
+      "box": [
+        321,
+        1655,
+        151,
+        31
+      ]
+    },
+    {
+      "text": "Radio",
+      "confidence": 95.663696,
+      "box": [
+        483,
+        1658,
+        98,
+        29
+      ]
+    },
+    {
+      "text": "Communication",
+      "confidence": 95.940865,
+      "box": [
+        595,
+        1659,
+        276,
+        32
+      ]
+    },
+    {
+      "text": "Transceiver",
+      "confidence": 93.283348,
+      "box": [
+        1249,
+        1661,
+        198,
+        30
+      ]
+    },
+    {
+      "text": "PRC-25",
+      "confidence": 91.530563,
+      "box": [
+        1455,
+        1658,
+        130,
+        34
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 80.919762,
+      "box": [
+        1638,
+        1759,
+        27,
+        6
+      ]
+    },
+    {
+      "text": "mm",
+      "confidence": 0.0,
+      "box": [
+        2636,
+        1765,
+        119,
+        28
+      ]
+    },
+    {
+      "text": "m..aa=.=.",
+      "confidence": 0.0,
+      "box": [
+        2778,
+        1765,
+        173,
+        28
+      ]
+    },
+    {
+      "text": "6.",
+      "confidence": 55.349403,
+      "box": [
+        3063,
+        1779,
+        128,
+        7
+      ]
+    },
+    {
+      "text": "Se",
+      "confidence": 27.211693,
+      "box": [
+        2816,
+        1808,
+        289,
+        9
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 89.76535,
+      "box": [
+        1777,
+        1840,
+        31,
+        2
+      ]
+    },
+    {
+      "text": "Ey",
+      "confidence": 39.809792,
+      "box": [
+        1562,
+        1841,
+        61,
+        12
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 76.571571,
+      "box": [
+        1896,
+        1861,
+        7,
+        1
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.297,
+  "mean_confidence": 46.18,
+  "status": "needs_manual_transcription"
+}

@@ -1,0 +1,1247 @@
+{
+  "asset_id": "71e76da7-e7ab-597b-84f9-5d311b9ada80",
+  "filename": "IMG_9051.JPG",
+  "source_path": "topics/05_van_hoa_sinh_ke_va_nghe_thuat/TOPIC034_van_hoa_bien/IMG_9051.JPG",
+  "source_sha256": "10bf0527777db93a61cdb20cc0b726a0a1d2012b6cbd12f8a328a52f9ee8ea5c",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": ">\n\n»\n\nN\n\nŠ\n\n19\n\n{\n\n— |\n\nNe coer\n\neR\n\npaar La\n\nDiet lt\n\n`. ae\n\nee\n\nee eae\n\nip\n\n10, Lưỡi câu mực\n\n13. Dây kéo cá bống\n\n16. Máy thu phát tín hiệu\n\n19. Máy định vị\n\nMarine transceiver\n\nPersonal Locator Beacon\n\ns Cuttlefish hooks\n\nGoby fishing tackle\n\nsds\n\nbat ốc hương\n\n14. Mồi nhứ cá\n\n~ 20. Đèn tín hiệu\n\n%:f4\n\nỶ—\n\nW2\n\ndịO\n\ni\n\nSignal light\n\nFishing lures -\n\n|\n\neng paisa\n\nki.\n\nš ght\n\nyh\n\n`\n\n|\n\n15. Phao luéid\n\n<2\n\nar\n\nn định\n\n\\)\n\n21. Đèn phao tín hiệu\n\nFishing = net fi\n\n+\n\n‘>\n\nPass .\n\na\n\nFishing - net floats cự ‘\n\nhe\n\n|\n\n$s\n\nnO rt\n\nry\n\nshee\n\n..\n\n—\n\nmeme\n\nKỶ.",
+  "words": [
+    {
+      "text": ">",
+      "confidence": 55.441032,
+      "box": [
+        17,
+        1,
+        13,
+        11
+      ]
+    },
+    {
+      "text": "»",
+      "confidence": 85.270813,
+      "box": [
+        128,
+        0,
+        15,
+        12
+      ]
+    },
+    {
+      "text": "N",
+      "confidence": 0.0,
+      "box": [
+        2544,
+        68,
+        79,
+        71
+      ]
+    },
+    {
+      "text": "Š",
+      "confidence": 49.582024,
+      "box": [
+        2480,
+        131,
+        95,
+        69
+      ]
+    },
+    {
+      "text": "19",
+      "confidence": 97.006584,
+      "box": [
+        1485,
+        228,
+        60,
+        45
+      ]
+    },
+    {
+      "text": "{",
+      "confidence": 62.018188,
+      "box": [
+        2238,
+        137,
+        70,
+        130
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 63.044304,
+      "box": [
+        566,
+        273,
+        104,
+        10
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 90.736267,
+      "box": [
+        664,
+        264,
+        10,
+        28
+      ]
+    },
+    {
+      "text": "Ne",
+      "confidence": 24.320419,
+      "box": [
+        2706,
+        419,
+        14,
+        28
+      ]
+    },
+    {
+      "text": "coer",
+      "confidence": 17.991035,
+      "box": [
+        2725,
+        431,
+        38,
+        9
+      ]
+    },
+    {
+      "text": "eR",
+      "confidence": 36.478775,
+      "box": [
+        152,
+        517,
+        89,
+        36
+      ]
+    },
+    {
+      "text": "paar",
+      "confidence": 0.0,
+      "box": [
+        55,
+        736,
+        36,
+        25
+      ]
+    },
+    {
+      "text": "La",
+      "confidence": 41.702789,
+      "box": [
+        107,
+        740,
+        32,
+        15
+      ]
+    },
+    {
+      "text": "Diet",
+      "confidence": 30.822975,
+      "box": [
+        129,
+        780,
+        36,
+        24
+      ]
+    },
+    {
+      "text": "lt",
+      "confidence": 35.230682,
+      "box": [
+        195,
+        780,
+        28,
+        24
+      ]
+    },
+    {
+      "text": "`.",
+      "confidence": 16.939941,
+      "box": [
+        75,
+        835,
+        45,
+        7
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 23.486893,
+      "box": [
+        129,
+        827,
+        105,
+        14
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 17.884331,
+      "box": [
+        0,
+        861,
+        259,
+        47
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 11.524422,
+      "box": [
+        0,
+        916,
+        76,
+        26
+      ]
+    },
+    {
+      "text": "eae",
+      "confidence": 33.875137,
+      "box": [
+        123,
+        916,
+        126,
+        25
+      ]
+    },
+    {
+      "text": "ip",
+      "confidence": 79.616783,
+      "box": [
+        185,
+        1003,
+        5,
+        10
+      ]
+    },
+    {
+      "text": "10,",
+      "confidence": 95.026558,
+      "box": [
+        220,
+        997,
+        56,
+        76
+      ]
+    },
+    {
+      "text": "Lưỡi",
+      "confidence": 96.671997,
+      "box": [
+        298,
+        1032,
+        96,
+        40
+      ]
+    },
+    {
+      "text": "câu",
+      "confidence": 96.627373,
+      "box": [
+        408,
+        1032,
+        78,
+        39
+      ]
+    },
+    {
+      "text": "mực",
+      "confidence": 96.273682,
+      "box": [
+        501,
+        1040,
+        96,
+        37
+      ]
+    },
+    {
+      "text": "13.",
+      "confidence": 96.346024,
+      "box": [
+        951,
+        1032,
+        61,
+        35
+      ]
+    },
+    {
+      "text": "Dây",
+      "confidence": 96.376266,
+      "box": [
+        1031,
+        1029,
+        79,
+        46
+      ]
+    },
+    {
+      "text": "kéo",
+      "confidence": 96.72007,
+      "box": [
+        1124,
+        1028,
+        76,
+        38
+      ]
+    },
+    {
+      "text": "cá",
+      "confidence": 91.039337,
+      "box": [
+        1213,
+        1027,
+        48,
+        38
+      ]
+    },
+    {
+      "text": "bống",
+      "confidence": 91.039337,
+      "box": [
+        1277,
+        1025,
+        104,
+        48
+      ]
+    },
+    {
+      "text": "16.",
+      "confidence": 96.632034,
+      "box": [
+        1560,
+        1028,
+        62,
+        37
+      ]
+    },
+    {
+      "text": "Máy",
+      "confidence": 95.800209,
+      "box": [
+        1643,
+        1025,
+        88,
+        47
+      ]
+    },
+    {
+      "text": "thu",
+      "confidence": 96.091385,
+      "box": [
+        1743,
+        1025,
+        68,
+        38
+      ]
+    },
+    {
+      "text": "phát",
+      "confidence": 96.551582,
+      "box": [
+        1826,
+        1025,
+        93,
+        46
+      ]
+    },
+    {
+      "text": "tín",
+      "confidence": 96.83371,
+      "box": [
+        1930,
+        1025,
+        55,
+        37
+      ]
+    },
+    {
+      "text": "hiệu",
+      "confidence": 96.606987,
+      "box": [
+        2000,
+        1024,
+        88,
+        45
+      ]
+    },
+    {
+      "text": "19.",
+      "confidence": 96.608475,
+      "box": [
+        2260,
+        1025,
+        64,
+        37
+      ]
+    },
+    {
+      "text": "Máy",
+      "confidence": 96.881805,
+      "box": [
+        2342,
+        1021,
+        89,
+        48
+      ]
+    },
+    {
+      "text": "định",
+      "confidence": 96.455055,
+      "box": [
+        2444,
+        1020,
+        95,
+        47
+      ]
+    },
+    {
+      "text": "vị",
+      "confidence": 96.842789,
+      "box": [
+        2551,
+        1021,
+        36,
+        45
+      ]
+    },
+    {
+      "text": "Marine",
+      "confidence": 96.130501,
+      "box": [
+        1643,
+        1078,
+        127,
+        33
+      ]
+    },
+    {
+      "text": "transceiver",
+      "confidence": 95.195305,
+      "box": [
+        1783,
+        1077,
+        205,
+        33
+      ]
+    },
+    {
+      "text": "Personal",
+      "confidence": 96.115562,
+      "box": [
+        2345,
+        1071,
+        163,
+        40
+      ]
+    },
+    {
+      "text": "Locator",
+      "confidence": 96.59713,
+      "box": [
+        2521,
+        1073,
+        142,
+        34
+      ]
+    },
+    {
+      "text": "Beacon",
+      "confidence": 96.312721,
+      "box": [
+        2675,
+        1072,
+        137,
+        32
+      ]
+    },
+    {
+      "text": "s",
+      "confidence": 25.968369,
+      "box": [
+        211,
+        1077,
+        56,
+        83
+      ]
+    },
+    {
+      "text": "Cuttlefish",
+      "confidence": 96.451187,
+      "box": [
+        296,
+        1083,
+        185,
+        37
+      ]
+    },
+    {
+      "text": "hooks",
+      "confidence": 96.619408,
+      "box": [
+        493,
+        1083,
+        117,
+        35
+      ]
+    },
+    {
+      "text": "Goby",
+      "confidence": 96.275703,
+      "box": [
+        1031,
+        1080,
+        95,
+        42
+      ]
+    },
+    {
+      "text": "fishing",
+      "confidence": 96.357941,
+      "box": [
+        1139,
+        1080,
+        124,
+        41
+      ]
+    },
+    {
+      "text": "tackle",
+      "confidence": 96.74408,
+      "box": [
+        1277,
+        1078,
+        111,
+        35
+      ]
+    },
+    {
+      "text": "sds",
+      "confidence": 22.194763,
+      "box": [
+        2037,
+        1234,
+        61,
+        31
+      ]
+    },
+    {
+      "text": "bat",
+      "confidence": 82.484978,
+      "box": [
+        401,
+        1272,
+        81,
+        42
+      ]
+    },
+    {
+      "text": "ốc",
+      "confidence": 96.750313,
+      "box": [
+        495,
+        1272,
+        53,
+        40
+      ]
+    },
+    {
+      "text": "hương",
+      "confidence": 96.118904,
+      "box": [
+        563,
+        1273,
+        139,
+        47
+      ]
+    },
+    {
+      "text": "14.",
+      "confidence": 93.289795,
+      "box": [
+        948,
+        1271,
+        61,
+        34
+      ]
+    },
+    {
+      "text": "Mồi",
+      "confidence": 90.975517,
+      "box": [
+        1030,
+        1269,
+        78,
+        39
+      ]
+    },
+    {
+      "text": "nhứ",
+      "confidence": 91.518646,
+      "box": [
+        1124,
+        1267,
+        84,
+        39
+      ]
+    },
+    {
+      "text": "cá",
+      "confidence": 96.775902,
+      "box": [
+        1219,
+        1268,
+        48,
+        37
+      ]
+    },
+    {
+      "text": "~",
+      "confidence": 11.651688,
+      "box": [
+        2209,
+        1234,
+        26,
+        81
+      ]
+    },
+    {
+      "text": "20.",
+      "confidence": 96.611465,
+      "box": [
+        2270,
+        1261,
+        65,
+        37
+      ]
+    },
+    {
+      "text": "Đèn",
+      "confidence": 92.148521,
+      "box": [
+        2354,
+        1260,
+        84,
+        38
+      ]
+    },
+    {
+      "text": "tín",
+      "confidence": 96.765671,
+      "box": [
+        2451,
+        1259,
+        56,
+        38
+      ]
+    },
+    {
+      "text": "hiệu",
+      "confidence": 96.956123,
+      "box": [
+        2522,
+        1259,
+        90,
+        45
+      ]
+    },
+    {
+      "text": "%:f4",
+      "confidence": 23.101799,
+      "box": [
+        294,
+        1341,
+        59,
+        14
+      ]
+    },
+    {
+      "text": "Ỷ—",
+      "confidence": 0.0,
+      "box": [
+        1344,
+        1319,
+        74,
+        6
+      ]
+    },
+    {
+      "text": "W2",
+      "confidence": 60.558987,
+      "box": [
+        1563,
+        1265,
+        64,
+        38
+      ]
+    },
+    {
+      "text": "dịO",
+      "confidence": 89.119659,
+      "box": [
+        1704,
+        1325,
+        50,
+        27
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 91.663345,
+      "box": [
+        1706,
+        1264,
+        17,
+        62
+      ]
+    },
+    {
+      "text": "Signal",
+      "confidence": 95.233849,
+      "box": [
+        2359,
+        1312,
+        114,
+        41
+      ]
+    },
+    {
+      "text": "light",
+      "confidence": 95.233849,
+      "box": [
+        2487,
+        1311,
+        80,
+        42
+      ]
+    },
+    {
+      "text": "Fishing",
+      "confidence": 96.524704,
+      "box": [
+        1027,
+        1321,
+        137,
+        43
+      ]
+    },
+    {
+      "text": "lures",
+      "confidence": 75.320587,
+      "box": [
+        1177,
+        1320,
+        90,
+        35
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 73.924431,
+      "box": [
+        1287,
+        1323,
+        4,
+        2
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 76.670334,
+      "box": [
+        2870,
+        1326,
+        12,
+        72
+      ]
+    },
+    {
+      "text": "eng",
+      "confidence": 15.771103,
+      "box": [
+        410,
+        1326,
+        220,
+        89
+      ]
+    },
+    {
+      "text": "paisa",
+      "confidence": 31.81778,
+      "box": [
+        642,
+        1325,
+        149,
+        89
+      ]
+    },
+    {
+      "text": "ki.",
+      "confidence": 55.41378,
+      "box": [
+        480,
+        1407,
+        47,
+        11
+      ]
+    },
+    {
+      "text": "š",
+      "confidence": 79.59536,
+      "box": [
+        1380,
+        1379,
+        6,
+        10
+      ]
+    },
+    {
+      "text": "ght",
+      "confidence": 0.0,
+      "box": [
+        1401,
+        1368,
+        54,
+        33
+      ]
+    },
+    {
+      "text": "yh",
+      "confidence": 28.5868,
+      "box": [
+        1579,
+        1410,
+        101,
+        51
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 73.224548,
+      "box": [
+        2228,
+        1430,
+        9,
+        15
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 51.523052,
+      "box": [
+        2878,
+        1419,
+        8,
+        40
+      ]
+    },
+    {
+      "text": "15.",
+      "confidence": 93.019501,
+      "box": [
+        945,
+        1491,
+        50,
+        35
+      ]
+    },
+    {
+      "text": "Phao",
+      "confidence": 90.788559,
+      "box": [
+        1028,
+        1487,
+        109,
+        38
+      ]
+    },
+    {
+      "text": "luéid",
+      "confidence": 89.186493,
+      "box": [
+        1153,
+        1483,
+        125,
+        44
+      ]
+    },
+    {
+      "text": "<2",
+      "confidence": 30.783157,
+      "box": [
+        1478,
+        1506,
+        56,
+        29
+      ]
+    },
+    {
+      "text": "ar",
+      "confidence": 34.958374,
+      "box": [
+        1669,
+        1499,
+        64,
+        43
+      ]
+    },
+    {
+      "text": "n",
+      "confidence": 93.181107,
+      "box": [
+        1770,
+        1489,
+        25,
+        29
+      ]
+    },
+    {
+      "text": "định",
+      "confidence": 95.66021,
+      "box": [
+        1809,
+        1477,
+        97,
+        48
+      ]
+    },
+    {
+      "text": "\\)",
+      "confidence": 0.0,
+      "box": [
+        1922,
+        1532,
+        4,
+        11
+      ]
+    },
+    {
+      "text": "21.",
+      "confidence": 93.136063,
+      "box": [
+        2283,
+        1478,
+        65,
+        39
+      ]
+    },
+    {
+      "text": "Đèn",
+      "confidence": 93.856384,
+      "box": [
+        2368,
+        1476,
+        84,
+        38
+      ]
+    },
+    {
+      "text": "phao",
+      "confidence": 96.342041,
+      "box": [
+        2468,
+        1476,
+        104,
+        45
+      ]
+    },
+    {
+      "text": "tín",
+      "confidence": 95.980431,
+      "box": [
+        2587,
+        1474,
+        55,
+        39
+      ]
+    },
+    {
+      "text": "hiệu",
+      "confidence": 96.730331,
+      "box": [
+        2657,
+        1474,
+        92,
+        46
+      ]
+    },
+    {
+      "text": "Fishing",
+      "confidence": 96.700256,
+      "box": [
+        1027,
+        1541,
+        136,
+        42
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 59.485474,
+      "box": [
+        1177,
+        1557,
+        10,
+        6
+      ]
+    },
+    {
+      "text": "net",
+      "confidence": 87.339859,
+      "box": [
+        1200,
+        1537,
+        90,
+        38
+      ]
+    },
+    {
+      "text": "fi",
+      "confidence": 84.923889,
+      "box": [
+        1265,
+        1533,
+        29,
+        55
+      ]
+    },
+    {
+      "text": "+",
+      "confidence": 14.507187,
+      "box": [
+        1480,
+        1555,
+        10,
+        11
+      ]
+    },
+    {
+      "text": "‘>",
+      "confidence": 24.517319,
+      "box": [
+        1666,
+        1571,
+        23,
+        20
+      ]
+    },
+    {
+      "text": "Pass",
+      "confidence": 84.043396,
+      "box": [
+        1749,
+        1540,
+        101,
+        33
+      ]
+    },
+    {
+      "text": ".",
+      "confidence": 52.448788,
+      "box": [
+        1837,
+        1536,
+        16,
+        46
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 18.795937,
+      "box": [
+        1967,
+        1613,
+        93,
+        36
+      ]
+    },
+    {
+      "text": "Fishing",
+      "confidence": 93.225845,
+      "box": [
+        2373,
+        1530,
+        135,
+        41
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 93.266823,
+      "box": [
+        2523,
+        1546,
+        8,
+        4
+      ]
+    },
+    {
+      "text": "net",
+      "confidence": 96.797653,
+      "box": [
+        2545,
+        1533,
+        57,
+        29
+      ]
+    },
+    {
+      "text": "floats",
+      "confidence": 96.658241,
+      "box": [
+        2619,
+        1528,
+        105,
+        34
+      ]
+    },
+    {
+      "text": "cự",
+      "confidence": 22.551109,
+      "box": [
+        2739,
+        1621,
+        99,
+        40
+      ]
+    },
+    {
+      "text": "‘",
+      "confidence": 38.373657,
+      "box": [
+        2995,
+        1625,
+        33,
+        16
+      ]
+    },
+    {
+      "text": "he",
+      "confidence": 38.585743,
+      "box": [
+        2663,
+        1668,
+        50,
+        14
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 41.969368,
+      "box": [
+        2902,
+        1653,
+        10,
+        50
+      ]
+    },
+    {
+      "text": "$s",
+      "confidence": 46.784286,
+      "box": [
+        1989,
+        1731,
+        32,
+        32
+      ]
+    },
+    {
+      "text": "nO",
+      "confidence": 15.994522,
+      "box": [
+        984,
+        1833,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "rt",
+      "confidence": 23.83271,
+      "box": [
+        1063,
+        1833,
+        70,
+        28
+      ]
+    },
+    {
+      "text": "ry",
+      "confidence": 33.839859,
+      "box": [
+        2140,
+        2063,
+        14,
+        17
+      ]
+    },
+    {
+      "text": "shee",
+      "confidence": 25.91169,
+      "box": [
+        1939,
+        2238,
+        46,
+        12
+      ]
+    },
+    {
+      "text": "..",
+      "confidence": 0.249748,
+      "box": [
+        2548,
+        2135,
+        250,
+        127
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 33.794052,
+      "box": [
+        1665,
+        2388,
+        69,
+        9
+      ]
+    },
+    {
+      "text": "meme",
+      "confidence": 25.658279,
+      "box": [
+        1753,
+        2388,
+        128,
+        8
+      ]
+    },
+    {
+      "text": "KỶ.",
+      "confidence": 17.894241,
+      "box": [
+        1897,
+        2354,
+        90,
+        10
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4032,
+    3024
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.615,
+  "mean_confidence": 66.66,
+  "status": "text_detected"
+}

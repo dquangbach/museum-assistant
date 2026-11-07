@@ -1,0 +1,1847 @@
+{
+  "asset_id": "b5a1ae32-f43d-5434-8fde-8d57c245e4eb",
+  "filename": "IMG_9008.JPG",
+  "source_path": "topics/03_lich_su_dau_tranh_va_cach_mang/TOPIC027_chien_dich_giai_phong_da_nang_29_3_1975/IMG_9008.JPG",
+  "source_sha256": "924a1f03afa31c10370463abb272730726fbfba4bd9179a421ebc4b4b37b4f58",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "K\n\nfi\n\npil\n\nhe\n\na) ++\n\n—Ê\n\nom\n\n9 os\n\nTT\n\n©\n\nM\n\ndar\n\nlem\n\niu\n\nIQ\n\n>\n\n130\n\nq1\n\n|\n\n*\n\nco\n\n®\n\nphố! Đà Xã hoàn\n\nLO\n\ngiải\n\n‘is\n\nW\n\ncomplia\n\nlf} OFQ\n\nfrom the Hig\n\nđ tine\n\nof\n\nilitary Zone! 5 to\n\nae bl\n\nlaunch the Da\n\n1G\n\nDa\n\neClal ZC\n\npaign, tt\n\nQuang\n\ny Con\n\nmittee established\n\nrevolutionary G\n\nnt\n\nan\n\nOl\n\nd a mobiliz\n\nee to build a c\n\nÑ force. A forward\n\nđã GĨ was Ít\n\ndership of\n\ne retary of the Special\n\noma ran Th\n\nsaan?\n\nZone’s Party Committee\n\nmig\n\n|\n\nva Pa\n\n+\n\nLd `\n\nThe campaign kicked off on March 26th, and by March 28th, the prey otter defense system\n\nhad crumbled..On the morning of March 29th, 1975, the liber.\n\n„ in conjunction with the\n\ns8.\n\nlocal people, captured key targets including the headquarters (0)\n\nfhe | Corps, Nuoc Man airp\n\nSon Tra peninsula, and Da Nang airport. At 11:30 a.m, the flag of the National Front for\n\nLiberation triumphantly flew over the City Hall, signifying the ae [CO tien of Da Nang.",
+  "words": [
+    {
+      "text": "K",
+      "confidence": 68.699799,
+      "box": [
+        2354,
+        1219,
+        46,
+        34
+      ]
+    },
+    {
+      "text": "fi",
+      "confidence": 14.71727,
+      "box": [
+        2391,
+        1256,
+        9,
+        20
+      ]
+    },
+    {
+      "text": "pil",
+      "confidence": 60.295441,
+      "box": [
+        2366,
+        1312,
+        34,
+        29
+      ]
+    },
+    {
+      "text": "he",
+      "confidence": 38.058022,
+      "box": [
+        2060,
+        1352,
+        52,
+        28
+      ]
+    },
+    {
+      "text": "a)",
+      "confidence": 1.76973,
+      "box": [
+        1417,
+        1430,
+        17,
+        40
+      ]
+    },
+    {
+      "text": "++",
+      "confidence": 75.367378,
+      "box": [
+        1468,
+        1430,
+        108,
+        77
+      ]
+    },
+    {
+      "text": "—Ê",
+      "confidence": 42.172848,
+      "box": [
+        2306,
+        1526,
+        66,
+        7
+      ]
+    },
+    {
+      "text": "om",
+      "confidence": 23.135521,
+      "box": [
+        1484,
+        1491,
+        92,
+        87
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 78.941597,
+      "box": [
+        1615,
+        1551,
+        14,
+        22
+      ]
+    },
+    {
+      "text": "os",
+      "confidence": 27.865921,
+      "box": [
+        1637,
+        1493,
+        49,
+        82
+      ]
+    },
+    {
+      "text": "TT",
+      "confidence": 55.975079,
+      "box": [
+        1815,
+        1599,
+        24,
+        12
+      ]
+    },
+    {
+      "text": "©",
+      "confidence": 24.364769,
+      "box": [
+        1889,
+        1496,
+        168,
+        86
+      ]
+    },
+    {
+      "text": "M",
+      "confidence": 77.113556,
+      "box": [
+        1494,
+        1621,
+        17,
+        14
+      ]
+    },
+    {
+      "text": "dar",
+      "confidence": 91.436951,
+      "box": [
+        1498,
+        1592,
+        48,
+        35
+      ]
+    },
+    {
+      "text": "lem",
+      "confidence": 79.099319,
+      "box": [
+        1633,
+        1606,
+        60,
+        22
+      ]
+    },
+    {
+      "text": "iu",
+      "confidence": 54.870316,
+      "box": [
+        1767,
+        1605,
+        37,
+        21
+      ]
+    },
+    {
+      "text": "IQ",
+      "confidence": 44.994392,
+      "box": [
+        1498,
+        1667,
+        18,
+        15
+      ]
+    },
+    {
+      "text": ">",
+      "confidence": 44.128716,
+      "box": [
+        1503,
+        1662,
+        17,
+        8
+      ]
+    },
+    {
+      "text": "130",
+      "confidence": 50.984325,
+      "box": [
+        1618,
+        1657,
+        58,
+        30
+      ]
+    },
+    {
+      "text": "q1",
+      "confidence": 61.839645,
+      "box": [
+        1758,
+        1664,
+        36,
+        16
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 44.282486,
+      "box": [
+        112,
+        1676,
+        6,
+        34
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 91.164566,
+      "box": [
+        1503,
+        1680,
+        10,
+        15
+      ]
+    },
+    {
+      "text": "co",
+      "confidence": 53.393936,
+      "box": [
+        246,
+        1720,
+        68,
+        25
+      ]
+    },
+    {
+      "text": "®",
+      "confidence": 92.955978,
+      "box": [
+        1023,
+        1638,
+        93,
+        100
+      ]
+    },
+    {
+      "text": "phố!",
+      "confidence": 80.979858,
+      "box": [
+        1491,
+        1698,
+        70,
+        68
+      ]
+    },
+    {
+      "text": "Đà",
+      "confidence": 96.34417,
+      "box": [
+        1558,
+        1715,
+        46,
+        31
+      ]
+    },
+    {
+      "text": "Xã",
+      "confidence": 4.441566,
+      "box": [
+        1616,
+        1711,
+        89,
+        95
+      ]
+    },
+    {
+      "text": "hoàn",
+      "confidence": 97.010719,
+      "box": [
+        1714,
+        1715,
+        86,
+        51
+      ]
+    },
+    {
+      "text": "LO",
+      "confidence": 89.104309,
+      "box": [
+        1820,
+        1724,
+        24,
+        23
+      ]
+    },
+    {
+      "text": "giải",
+      "confidence": 96.977493,
+      "box": [
+        268,
+        1782,
+        60,
+        31
+      ]
+    },
+    {
+      "text": "‘is",
+      "confidence": 21.776154,
+      "box": [
+        1369,
+        1719,
+        320,
+        291
+      ]
+    },
+    {
+      "text": "W",
+      "confidence": 56.522705,
+      "box": [
+        499,
+        1961,
+        51,
+        15
+      ]
+    },
+    {
+      "text": "complia",
+      "confidence": 77.756271,
+      "box": [
+        312,
+        1962,
+        131,
+        31
+      ]
+    },
+    {
+      "text": "lf}",
+      "confidence": 45.609859,
+      "box": [
+        574,
+        1962,
+        34,
+        28
+      ]
+    },
+    {
+      "text": "OFQ",
+      "confidence": 90.176735,
+      "box": [
+        623,
+        1962,
+        43,
+        28
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 94.890541,
+      "box": [
+        753,
+        1960,
+        70,
+        24
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 95.756264,
+      "box": [
+        872,
+        1960,
+        21,
+        23
+      ]
+    },
+    {
+      "text": "Hig",
+      "confidence": 96.504135,
+      "box": [
+        902,
+        1953,
+        58,
+        36
+      ]
+    },
+    {
+      "text": "đ",
+      "confidence": 79.815269,
+      "box": [
+        1241,
+        1959,
+        16,
+        25
+      ]
+    },
+    {
+      "text": "tine",
+      "confidence": 61.848587,
+      "box": [
+        1288,
+        1959,
+        35,
+        23
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 68.861046,
+      "box": [
+        1490,
+        1911,
+        75,
+        99
+      ]
+    },
+    {
+      "text": "ilitary",
+      "confidence": 89.30127,
+      "box": [
+        1612,
+        1948,
+        94,
+        49
+      ]
+    },
+    {
+      "text": "Zone!",
+      "confidence": 30.892891,
+      "box": [
+        1718,
+        1923,
+        98,
+        61
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 95.009521,
+      "box": [
+        1822,
+        1925,
+        20,
+        59
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 97.012497,
+      "box": [
+        1856,
+        1957,
+        35,
+        44
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 50.683403,
+      "box": [
+        2020,
+        1953,
+        77,
+        30
+      ]
+    },
+    {
+      "text": "bl",
+      "confidence": 27.528381,
+      "box": [
+        2143,
+        1943,
+        56,
+        51
+      ]
+    },
+    {
+      "text": "launch",
+      "confidence": 95.4151,
+      "box": [
+        265,
+        2014,
+        113,
+        44
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.488136,
+      "box": [
+        396,
+        2014,
+        53,
+        31
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 97.004601,
+      "box": [
+        466,
+        2016,
+        39,
+        29
+      ]
+    },
+    {
+      "text": "1G",
+      "confidence": 41.456146,
+      "box": [
+        580,
+        2027,
+        34,
+        20
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.986206,
+      "box": [
+        1056,
+        2012,
+        43,
+        30
+      ]
+    },
+    {
+      "text": "eClal",
+      "confidence": 57.925491,
+      "box": [
+        1163,
+        2018,
+        64,
+        26
+      ]
+    },
+    {
+      "text": "ZC",
+      "confidence": 92.297127,
+      "box": [
+        1228,
+        2018,
+        62,
+        26
+      ]
+    },
+    {
+      "text": "paign,",
+      "confidence": 92.844231,
+      "box": [
+        718,
+        2021,
+        89,
+        31
+      ]
+    },
+    {
+      "text": "tt",
+      "confidence": 92.205437,
+      "box": [
+        831,
+        2025,
+        25,
+        17
+      ]
+    },
+    {
+      "text": "Quang",
+      "confidence": 96.457993,
+      "box": [
+        903,
+        2013,
+        110,
+        37
+      ]
+    },
+    {
+      "text": "y",
+      "confidence": 89.500816,
+      "box": [
+        1453,
+        2019,
+        19,
+        31
+      ]
+    },
+    {
+      "text": "Con",
+      "confidence": 95.572845,
+      "box": [
+        1490,
+        2012,
+        58,
+        31
+      ]
+    },
+    {
+      "text": "mittee",
+      "confidence": 72.659866,
+      "box": [
+        1568,
+        2013,
+        109,
+        37
+      ]
+    },
+    {
+      "text": "established",
+      "confidence": 45.851219,
+      "box": [
+        1694,
+        2009,
+        213,
+        57
+      ]
+    },
+    {
+      "text": "revolutionary",
+      "confidence": 70.964249,
+      "box": [
+        264,
+        2070,
+        220,
+        64
+      ]
+    },
+    {
+      "text": "G",
+      "confidence": 68.39827,
+      "box": [
+        506,
+        2088,
+        8,
+        14
+      ]
+    },
+    {
+      "text": "nt",
+      "confidence": 48.759407,
+      "box": [
+        589,
+        2086,
+        48,
+        23
+      ]
+    },
+    {
+      "text": "an",
+      "confidence": 96.709465,
+      "box": [
+        716,
+        2080,
+        39,
+        34
+      ]
+    },
+    {
+      "text": "Ol",
+      "confidence": 36.963116,
+      "box": [
+        814,
+        2086,
+        18,
+        19
+      ]
+    },
+    {
+      "text": "d",
+      "confidence": 93.027237,
+      "box": [
+        879,
+        2085,
+        10,
+        15
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 88.768723,
+      "box": [
+        904,
+        2085,
+        17,
+        12
+      ]
+    },
+    {
+      "text": "mobiliz",
+      "confidence": 85.163216,
+      "box": [
+        973,
+        2071,
+        90,
+        32
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 50.007637,
+      "box": [
+        1311,
+        2079,
+        26,
+        23
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 78.275452,
+      "box": [
+        1353,
+        2054,
+        35,
+        62
+      ]
+    },
+    {
+      "text": "build",
+      "confidence": 50.292149,
+      "box": [
+        1401,
+        2057,
+        83,
+        45
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 92.78743,
+      "box": [
+        1495,
+        2080,
+        18,
+        23
+      ]
+    },
+    {
+      "text": "c",
+      "confidence": 87.709991,
+      "box": [
+        1527,
+        2080,
+        19,
+        23
+      ]
+    },
+    {
+      "text": "Ñ",
+      "confidence": 77.677734,
+      "box": [
+        1561,
+        2080,
+        39,
+        61
+      ]
+    },
+    {
+      "text": "force.",
+      "confidence": 92.185837,
+      "box": [
+        1614,
+        2072,
+        93,
+        31
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 92.712021,
+      "box": [
+        1721,
+        2074,
+        24,
+        29
+      ]
+    },
+    {
+      "text": "forward",
+      "confidence": 92.581299,
+      "box": [
+        1759,
+        2072,
+        132,
+        32
+      ]
+    },
+    {
+      "text": "đã",
+      "confidence": 4.973358,
+      "box": [
+        265,
+        2143,
+        73,
+        23
+      ]
+    },
+    {
+      "text": "GĨ",
+      "confidence": 0.0,
+      "box": [
+        379,
+        2109,
+        60,
+        57
+      ]
+    },
+    {
+      "text": "was",
+      "confidence": 96.738075,
+      "box": [
+        450,
+        2143,
+        67,
+        23
+      ]
+    },
+    {
+      "text": "Ít",
+      "confidence": 75.495544,
+      "box": [
+        529,
+        2134,
+        16,
+        32
+      ]
+    },
+    {
+      "text": "dership",
+      "confidence": 91.374626,
+      "box": [
+        892,
+        2141,
+        122,
+        31
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.883331,
+      "box": [
+        1025,
+        2131,
+        38,
+        32
+      ]
+    },
+    {
+      "text": "e",
+      "confidence": 49.208191,
+      "box": [
+        1517,
+        2144,
+        9,
+        5
+      ]
+    },
+    {
+      "text": "retary",
+      "confidence": 17.83934,
+      "box": [
+        1526,
+        2102,
+        125,
+        90
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.013176,
+      "box": [
+        1660,
+        2132,
+        37,
+        31
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.013176,
+      "box": [
+        1704,
+        2132,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "Special",
+      "confidence": 96.632263,
+      "box": [
+        1767,
+        2133,
+        125,
+        38
+      ]
+    },
+    {
+      "text": "oma",
+      "confidence": 6.044861,
+      "box": [
+        1094,
+        2078,
+        130,
+        126
+      ]
+    },
+    {
+      "text": "ran",
+      "confidence": 22.621925,
+      "box": [
+        1258,
+        2139,
+        53,
+        23
+      ]
+    },
+    {
+      "text": "Th",
+      "confidence": 22.621925,
+      "box": [
+        1345,
+        2118,
+        19,
+        44
+      ]
+    },
+    {
+      "text": "saan?",
+      "confidence": 33.828369,
+      "box": [
+        1846,
+        2198,
+        67,
+        24
+      ]
+    },
+    {
+      "text": "Zone’s",
+      "confidence": 85.132187,
+      "box": [
+        262,
+        2195,
+        115,
+        31
+      ]
+    },
+    {
+      "text": "Party",
+      "confidence": 96.182571,
+      "box": [
+        389,
+        2197,
+        91,
+        38
+      ]
+    },
+    {
+      "text": "Committee",
+      "confidence": 95.325737,
+      "box": [
+        490,
+        2196,
+        191,
+        31
+      ]
+    },
+    {
+      "text": "mig",
+      "confidence": 10.537651,
+      "box": [
+        1069,
+        2237,
+        48,
+        13
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 35.52153,
+      "box": [
+        2166,
+        2207,
+        33,
+        24
+      ]
+    },
+    {
+      "text": "va",
+      "confidence": 40.577415,
+      "box": [
+        428,
+        2250,
+        17,
+        37
+      ]
+    },
+    {
+      "text": "Pa",
+      "confidence": 42.667393,
+      "box": [
+        453,
+        2254,
+        102,
+        24
+      ]
+    },
+    {
+      "text": "+",
+      "confidence": 34.757454,
+      "box": [
+        1404,
+        2253,
+        13,
+        15
+      ]
+    },
+    {
+      "text": "Ld",
+      "confidence": 3.980804,
+      "box": [
+        2036,
+        2288,
+        47,
+        47
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 94.261734,
+      "box": [
+        2174,
+        2278,
+        15,
+        28
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 91.948074,
+      "box": [
+        264,
+        2316,
+        62,
+        32
+      ]
+    },
+    {
+      "text": "campaign",
+      "confidence": 90.942352,
+      "box": [
+        337,
+        2317,
+        170,
+        38
+      ]
+    },
+    {
+      "text": "kicked",
+      "confidence": 96.16729,
+      "box": [
+        518,
+        2316,
+        113,
+        32
+      ]
+    },
+    {
+      "text": "off",
+      "confidence": 96.933517,
+      "box": [
+        641,
+        2316,
+        52,
+        31
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 96.758835,
+      "box": [
+        701,
+        2325,
+        40,
+        22
+      ]
+    },
+    {
+      "text": "March",
+      "confidence": 95.118065,
+      "box": [
+        754,
+        2315,
+        107,
+        32
+      ]
+    },
+    {
+      "text": "26th,",
+      "confidence": 96.271851,
+      "box": [
+        873,
+        2303,
+        83,
+        48
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.564034,
+      "box": [
+        961,
+        2306,
+        73,
+        40
+      ]
+    },
+    {
+      "text": "by",
+      "confidence": 95.790359,
+      "box": [
+        1043,
+        2314,
+        41,
+        40
+      ]
+    },
+    {
+      "text": "March",
+      "confidence": 95.790359,
+      "box": [
+        1094,
+        2313,
+        107,
+        32
+      ]
+    },
+    {
+      "text": "28th,",
+      "confidence": 96.37635,
+      "box": [
+        1212,
+        2313,
+        83,
+        43
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 94.608246,
+      "box": [
+        1308,
+        2288,
+        53,
+        56
+      ]
+    },
+    {
+      "text": "prey",
+      "confidence": 47.653725,
+      "box": [
+        1372,
+        2321,
+        104,
+        60
+      ]
+    },
+    {
+      "text": "otter",
+      "confidence": 34.176086,
+      "box": [
+        1523,
+        2280,
+        89,
+        77
+      ]
+    },
+    {
+      "text": "defense",
+      "confidence": 96.813675,
+      "box": [
+        1622,
+        2312,
+        135,
+        32
+      ]
+    },
+    {
+      "text": "system",
+      "confidence": 65.694885,
+      "box": [
+        1768,
+        2286,
+        136,
+        74
+      ]
+    },
+    {
+      "text": "had",
+      "confidence": 92.96859,
+      "box": [
+        260,
+        2376,
+        66,
+        33
+      ]
+    },
+    {
+      "text": "crumbled..On",
+      "confidence": 87.615334,
+      "box": [
+        336,
+        2376,
+        231,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.18647,
+      "box": [
+        579,
+        2376,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "morning",
+      "confidence": 96.509689,
+      "box": [
+        643,
+        2377,
+        144,
+        38
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.671944,
+      "box": [
+        799,
+        2376,
+        38,
+        31
+      ]
+    },
+    {
+      "text": "March",
+      "confidence": 96.900055,
+      "box": [
+        845,
+        2375,
+        107,
+        32
+      ]
+    },
+    {
+      "text": "29th,",
+      "confidence": 96.498276,
+      "box": [
+        964,
+        2363,
+        83,
+        49
+      ]
+    },
+    {
+      "text": "1975,",
+      "confidence": 96.254456,
+      "box": [
+        1064,
+        2376,
+        88,
+        35
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.882645,
+      "box": [
+        1166,
+        2374,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "liber.",
+      "confidence": 94.129044,
+      "box": [
+        1230,
+        2370,
+        75,
+        35
+      ]
+    },
+    {
+      "text": "„",
+      "confidence": 91.894913,
+      "box": [
+        1484,
+        2399,
+        7,
+        10
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 95.429131,
+      "box": [
+        1505,
+        2382,
+        28,
+        22
+      ]
+    },
+    {
+      "text": "conjunction",
+      "confidence": 96.180664,
+      "box": [
+        1546,
+        2376,
+        197,
+        36
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.764084,
+      "box": [
+        1757,
+        2372,
+        69,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.590279,
+      "box": [
+        1838,
+        2372,
+        48,
+        31
+      ]
+    },
+    {
+      "text": "s8.",
+      "confidence": 42.774147,
+      "box": [
+        2309,
+        2389,
+        55,
+        23
+      ]
+    },
+    {
+      "text": "local",
+      "confidence": 91.877953,
+      "box": [
+        260,
+        2437,
+        84,
+        32
+      ]
+    },
+    {
+      "text": "people,",
+      "confidence": 92.386749,
+      "box": [
+        353,
+        2437,
+        123,
+        40
+      ]
+    },
+    {
+      "text": "captured",
+      "confidence": 92.205482,
+      "box": [
+        492,
+        2436,
+        152,
+        40
+      ]
+    },
+    {
+      "text": "key",
+      "confidence": 93.303619,
+      "box": [
+        655,
+        2436,
+        60,
+        40
+      ]
+    },
+    {
+      "text": "targets",
+      "confidence": 91.269943,
+      "box": [
+        726,
+        2440,
+        120,
+        36
+      ]
+    },
+    {
+      "text": "including",
+      "confidence": 90.839691,
+      "box": [
+        859,
+        2435,
+        156,
+        40
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.936523,
+      "box": [
+        1027,
+        2435,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "headquarters",
+      "confidence": 91.904594,
+      "box": [
+        1092,
+        2416,
+        232,
+        63
+      ]
+    },
+    {
+      "text": "(0)",
+      "confidence": 57.696224,
+      "box": [
+        1332,
+        2442,
+        20,
+        24
+      ]
+    },
+    {
+      "text": "fhe",
+      "confidence": 90.294052,
+      "box": [
+        1387,
+        2441,
+        45,
+        37
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 81.85701,
+      "box": [
+        1446,
+        2433,
+        8,
+        40
+      ]
+    },
+    {
+      "text": "Corps,",
+      "confidence": 93.288811,
+      "box": [
+        1466,
+        2435,
+        98,
+        37
+      ]
+    },
+    {
+      "text": "Nuoc",
+      "confidence": 93.275536,
+      "box": [
+        1585,
+        2434,
+        89,
+        30
+      ]
+    },
+    {
+      "text": "Man",
+      "confidence": 92.835594,
+      "box": [
+        1686,
+        2434,
+        73,
+        30
+      ]
+    },
+    {
+      "text": "airp",
+      "confidence": 92.835594,
+      "box": [
+        1772,
+        2440,
+        63,
+        31
+      ]
+    },
+    {
+      "text": "Son",
+      "confidence": 96.326981,
+      "box": [
+        258,
+        2501,
+        65,
+        30
+      ]
+    },
+    {
+      "text": "Tra",
+      "confidence": 96.326981,
+      "box": [
+        348,
+        2500,
+        53,
+        29
+      ]
+    },
+    {
+      "text": "peninsula,",
+      "confidence": 96.334038,
+      "box": [
+        421,
+        2496,
+        175,
+        41
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.693581,
+      "box": [
+        618,
+        2496,
+        65,
+        32
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.707153,
+      "box": [
+        702,
+        2498,
+        44,
+        30
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.199837,
+      "box": [
+        768,
+        2498,
+        91,
+        38
+      ]
+    },
+    {
+      "text": "airport.",
+      "confidence": 96.663116,
+      "box": [
+        879,
+        2497,
+        119,
+        39
+      ]
+    },
+    {
+      "text": "At",
+      "confidence": 96.869316,
+      "box": [
+        1021,
+        2497,
+        39,
+        30
+      ]
+    },
+    {
+      "text": "11:30",
+      "confidence": 90.373817,
+      "box": [
+        1084,
+        2496,
+        91,
+        31
+      ]
+    },
+    {
+      "text": "a.m,",
+      "confidence": 96.523102,
+      "box": [
+        1196,
+        2503,
+        69,
+        28
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.944664,
+      "box": [
+        1287,
+        2494,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "flag",
+      "confidence": 96.387955,
+      "box": [
+        1359,
+        2481,
+        66,
+        60
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.979538,
+      "box": [
+        1446,
+        2493,
+        37,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.959641,
+      "box": [
+        1500,
+        2493,
+        52,
+        31
+      ]
+    },
+    {
+      "text": "National",
+      "confidence": 96.75499,
+      "box": [
+        1573,
+        2492,
+        143,
+        32
+      ]
+    },
+    {
+      "text": "Front",
+      "confidence": 96.740578,
+      "box": [
+        1735,
+        2493,
+        89,
+        30
+      ]
+    },
+    {
+      "text": "for",
+      "confidence": 40.437275,
+      "box": [
+        1843,
+        2471,
+        59,
+        94
+      ]
+    },
+    {
+      "text": "Liberation",
+      "confidence": 96.802597,
+      "box": [
+        258,
+        2560,
+        173,
+        32
+      ]
+    },
+    {
+      "text": "triumphantly",
+      "confidence": 93.775818,
+      "box": [
+        444,
+        2557,
+        219,
+        40
+      ]
+    },
+    {
+      "text": "flew",
+      "confidence": 96.582138,
+      "box": [
+        673,
+        2556,
+        73,
+        32
+      ]
+    },
+    {
+      "text": "over",
+      "confidence": 96.867592,
+      "box": [
+        756,
+        2565,
+        75,
+        23
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.888161,
+      "box": [
+        841,
+        2556,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "City",
+      "confidence": 96.45784,
+      "box": [
+        906,
+        2557,
+        66,
+        39
+      ]
+    },
+    {
+      "text": "Hall,",
+      "confidence": 96.81086,
+      "box": [
+        981,
+        2556,
+        72,
+        36
+      ]
+    },
+    {
+      "text": "signifying",
+      "confidence": 96.896599,
+      "box": [
+        1067,
+        2555,
+        165,
+        40
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.018799,
+      "box": [
+        1244,
+        2554,
+        52,
+        32
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 51.622505,
+      "box": [
+        1382,
+        2553,
+        125,
+        73
+      ]
+    },
+    {
+      "text": "[CO",
+      "confidence": 0.0,
+      "box": [
+        1478,
+        2553,
+        59,
+        69
+      ]
+    },
+    {
+      "text": "tien",
+      "confidence": 0.0,
+      "box": [
+        1557,
+        2554,
+        78,
+        31
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.698921,
+      "box": [
+        1648,
+        2552,
+        37,
+        31
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.819595,
+      "box": [
+        1693,
+        2553,
+        43,
+        30
+      ]
+    },
+    {
+      "text": "Nang.",
+      "confidence": 96.20192,
+      "box": [
+        1749,
+        2553,
+        98,
+        39
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4284,
+    5712
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.725,
+  "mean_confidence": 75.53,
+  "status": "text_detected"
+}

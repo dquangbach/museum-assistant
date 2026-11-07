@@ -1,0 +1,697 @@
+{
+  "asset_id": "40bbb38b-6c3b-519d-a54a-4f93862e971a",
+  "filename": "IMG_8807.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC005_da_nang_thoi_tien_so_su_van_hoa_sa_huynh/IMG_8807.JPG",
+  "source_sha256": "ca5d2f5a66a62700fae3471cdf9f741a18a248ad790b815c9d0fd40571d057f7",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "—\n\nSee\n\nee\n\n=———\n\n—————\n\nha\n\n=\n\n—\n\ni\n\ney\n\n———\n\n_\n\nash\n\nMAG ‘|\n\nvs\n\nlễ\n\nLe\n\n42\n\nSt\n\nKEN\n\nxế\n\nse\n\n=\n\nPan NO?\n\n—\n\n—\n\n=—\n\n———.\n\nQUENS,\n\nnai\n\n—\n\nQD NGHE WH\n\neames\n\nXwenxa\n\nXu Loh\n\nĐề\n\nxỹ\n\nTu\n\nSP\n\nThe\n\n©Y\n\n.\n\n=\n\namd rapes\n\neast 8\n\n2\n\n4\n\nee ase\n\njee\n\nne\n\nJet asta a\n\nae\n\n—\n\n—\n\nsaat Du:\n\neas",
+  "words": [
+    {
+      "text": "—",
+      "confidence": 71.050865,
+      "box": [
+        2038,
+        443,
+        63,
+        3
+      ]
+    },
+    {
+      "text": "See",
+      "confidence": 38.97773,
+      "box": [
+        2301,
+        440,
+        197,
+        12
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 45.741508,
+      "box": [
+        2317,
+        451,
+        115,
+        5
+      ]
+    },
+    {
+      "text": "=———",
+      "confidence": 32.322006,
+      "box": [
+        2500,
+        446,
+        78,
+        6
+      ]
+    },
+    {
+      "text": "—————",
+      "confidence": 21.481026,
+      "box": [
+        2573,
+        439,
+        336,
+        8
+      ]
+    },
+    {
+      "text": "ha",
+      "confidence": 45.522099,
+      "box": [
+        2646,
+        448,
+        11,
+        3
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 85.619774,
+      "box": [
+        3003,
+        444,
+        20,
+        4
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 88.462822,
+      "box": [
+        2523,
+        463,
+        54,
+        5
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 35.39814,
+      "box": [
+        2597,
+        464,
+        26,
+        3
+      ]
+    },
+    {
+      "text": "ey",
+      "confidence": 37.523567,
+      "box": [
+        2043,
+        480,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "———",
+      "confidence": 27.102127,
+      "box": [
+        915,
+        1083,
+        72,
+        4
+      ]
+    },
+    {
+      "text": "_",
+      "confidence": 0.0,
+      "box": [
+        2627,
+        1151,
+        23,
+        12
+      ]
+    },
+    {
+      "text": "ash",
+      "confidence": 44.043854,
+      "box": [
+        2362,
+        1210,
+        23,
+        18
+      ]
+    },
+    {
+      "text": "MAG",
+      "confidence": 65.795189,
+      "box": [
+        3081,
+        1205,
+        79,
+        45
+      ]
+    },
+    {
+      "text": "‘|",
+      "confidence": 40.093994,
+      "box": [
+        3178,
+        1209,
+        19,
+        35
+      ]
+    },
+    {
+      "text": "vs",
+      "confidence": 33.157135,
+      "box": [
+        285,
+        1244,
+        16,
+        11
+      ]
+    },
+    {
+      "text": "lễ",
+      "confidence": 61.807938,
+      "box": [
+        283,
+        1254,
+        17,
+        19
+      ]
+    },
+    {
+      "text": "Le",
+      "confidence": 47.005863,
+      "box": [
+        2414,
+        1298,
+        18,
+        10
+      ]
+    },
+    {
+      "text": "42",
+      "confidence": 35.011688,
+      "box": [
+        2743,
+        1289,
+        28,
+        18
+      ]
+    },
+    {
+      "text": "St",
+      "confidence": 42.059498,
+      "box": [
+        2932,
+        1306,
+        18,
+        2
+      ]
+    },
+    {
+      "text": "KEN",
+      "confidence": 54.21167,
+      "box": [
+        3093,
+        1279,
+        107,
+        33
+      ]
+    },
+    {
+      "text": "xế",
+      "confidence": 56.159927,
+      "box": [
+        419,
+        1336,
+        18,
+        12
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 17.325012,
+      "box": [
+        2301,
+        1323,
+        42,
+        17
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 48.426037,
+      "box": [
+        813,
+        1425,
+        5,
+        2
+      ]
+    },
+    {
+      "text": "Pan",
+      "confidence": 84.485237,
+      "box": [
+        3114,
+        1397,
+        36,
+        19
+      ]
+    },
+    {
+      "text": "NO?",
+      "confidence": 30.26593,
+      "box": [
+        3153,
+        1394,
+        47,
+        20
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 4.563995,
+      "box": [
+        3160,
+        1427,
+        40,
+        7
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 82.119583,
+      "box": [
+        2838,
+        1459,
+        16,
+        4
+      ]
+    },
+    {
+      "text": "=—",
+      "confidence": 47.891266,
+      "box": [
+        2757,
+        1461,
+        21,
+        5
+      ]
+    },
+    {
+      "text": "———.",
+      "confidence": 44.013134,
+      "box": [
+        1383,
+        1503,
+        99,
+        9
+      ]
+    },
+    {
+      "text": "QUENS,",
+      "confidence": 47.557686,
+      "box": [
+        3090,
+        1489,
+        85,
+        22
+      ]
+    },
+    {
+      "text": "nai",
+      "confidence": 11.503586,
+      "box": [
+        1211,
+        1514,
+        57,
+        6
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 54.531883,
+      "box": [
+        1300,
+        1536,
+        31,
+        4
+      ]
+    },
+    {
+      "text": "QD",
+      "confidence": 44.257957,
+      "box": [
+        3055,
+        1523,
+        31,
+        24
+      ]
+    },
+    {
+      "text": "NGHE",
+      "confidence": 0.0,
+      "box": [
+        3093,
+        1520,
+        67,
+        26
+      ]
+    },
+    {
+      "text": "WH",
+      "confidence": 68.147354,
+      "box": [
+        3165,
+        1519,
+        35,
+        20
+      ]
+    },
+    {
+      "text": "eames",
+      "confidence": 20.362785,
+      "box": [
+        935,
+        1548,
+        95,
+        8
+      ]
+    },
+    {
+      "text": "Xwenxa",
+      "confidence": 13.544731,
+      "box": [
+        3066,
+        1554,
+        134,
+        28
+      ]
+    },
+    {
+      "text": "Xu",
+      "confidence": 0.0,
+      "box": [
+        3086,
+        1592,
+        58,
+        26
+      ]
+    },
+    {
+      "text": "Loh",
+      "confidence": 40.566257,
+      "box": [
+        3149,
+        1591,
+        51,
+        22
+      ]
+    },
+    {
+      "text": "Đề",
+      "confidence": 8.824142,
+      "box": [
+        1320,
+        1635,
+        10,
+        9
+      ]
+    },
+    {
+      "text": "xỹ",
+      "confidence": 52.181988,
+      "box": [
+        2546,
+        1627,
+        12,
+        12
+      ]
+    },
+    {
+      "text": "Tu",
+      "confidence": 4.125626,
+      "box": [
+        1617,
+        1641,
+        24,
+        21
+      ]
+    },
+    {
+      "text": "SP",
+      "confidence": 29.734192,
+      "box": [
+        1691,
+        1718,
+        22,
+        11
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 72.240356,
+      "box": [
+        3145,
+        1706,
+        53,
+        22
+      ]
+    },
+    {
+      "text": "©Y",
+      "confidence": 73.435822,
+      "box": [
+        3170,
+        1750,
+        24,
+        17
+      ]
+    },
+    {
+      "text": ".",
+      "confidence": 67.338181,
+      "box": [
+        562,
+        1886,
+        60,
+        9
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 66.72393,
+      "box": [
+        643,
+        1881,
+        12,
+        6
+      ]
+    },
+    {
+      "text": "amd",
+      "confidence": 0.0,
+      "box": [
+        207,
+        1905,
+        40,
+        9
+      ]
+    },
+    {
+      "text": "rapes",
+      "confidence": 16.746735,
+      "box": [
+        255,
+        1903,
+        46,
+        7
+      ]
+    },
+    {
+      "text": "east",
+      "confidence": 15.584442,
+      "box": [
+        184,
+        1930,
+        30,
+        16
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 4.896851,
+      "box": [
+        221,
+        1940,
+        5,
+        5
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 34.856773,
+      "box": [
+        257,
+        1936,
+        6,
+        5
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 59.085289,
+      "box": [
+        148,
+        1944,
+        7,
+        7
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 15.545235,
+      "box": [
+        394,
+        1961,
+        8,
+        5
+      ]
+    },
+    {
+      "text": "ase",
+      "confidence": 0.0,
+      "box": [
+        411,
+        1956,
+        65,
+        11
+      ]
+    },
+    {
+      "text": "jee",
+      "confidence": 28.485504,
+      "box": [
+        515,
+        1953,
+        22,
+        9
+      ]
+    },
+    {
+      "text": "ne",
+      "confidence": 33.961441,
+      "box": [
+        132,
+        1978,
+        13,
+        8
+      ]
+    },
+    {
+      "text": "Jet",
+      "confidence": 2.344193,
+      "box": [
+        176,
+        1963,
+        60,
+        18
+      ]
+    },
+    {
+      "text": "asta",
+      "confidence": 10.726936,
+      "box": [
+        247,
+        1955,
+        84,
+        21
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 44.38002,
+      "box": [
+        348,
+        1953,
+        24,
+        18
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 23.828651,
+      "box": [
+        2118,
+        2016,
+        15,
+        2
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 8.959106,
+      "box": [
+        2164,
+        2014,
+        11,
+        2
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 61.275749,
+      "box": [
+        2299,
+        2001,
+        62,
+        6
+      ]
+    },
+    {
+      "text": "saat",
+      "confidence": 13.464142,
+      "box": [
+        1231,
+        2308,
+        20,
+        10
+      ]
+    },
+    {
+      "text": "Du:",
+      "confidence": 12.121552,
+      "box": [
+        1265,
+        2306,
+        14,
+        10
+      ]
+    },
+    {
+      "text": "eas",
+      "confidence": 33.746246,
+      "box": [
+        996,
+        2315,
+        52,
+        16
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.194,
+  "mean_confidence": 36.76,
+  "status": "needs_manual_transcription"
+}

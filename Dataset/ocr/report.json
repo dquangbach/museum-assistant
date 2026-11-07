@@ -1,0 +1,281 @@
+{
+  "assets_total": 236,
+  "topics_total": 38,
+  "ocr_status_counts": {
+    "needs_manual_transcription": 128,
+    "text_detected": 108
+  },
+  "existing_verified_documents": 2,
+  "draft_documents": 235,
+  "unassigned_assets": [
+    "IMG_8991.JPG"
+  ],
+  "topics": [
+    {
+      "topic_id": "TOPIC001",
+      "title": "Khái quát Bảo tàng Đà Nẵng",
+      "photos": 7,
+      "text_detected": 3,
+      "manual_or_error": 4
+    },
+    {
+      "topic_id": "TOPIC002",
+      "title": "Thiên nhiên",
+      "photos": 2,
+      "text_detected": 0,
+      "manual_or_error": 2
+    },
+    {
+      "topic_id": "TOPIC003",
+      "title": "Hệ sinh thái biển",
+      "photos": 2,
+      "text_detected": 1,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC004",
+      "title": "Địa chất khoáng sản",
+      "photos": 2,
+      "text_detected": 1,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC005",
+      "title": "Đà Nẵng thời tiền – sơ sử; văn hóa Sa Huỳnh",
+      "photos": 16,
+      "text_detected": 7,
+      "manual_or_error": 9
+    },
+    {
+      "topic_id": "TOPIC006",
+      "title": "Đà Nẵng thời kỳ văn hóa Champa",
+      "photos": 7,
+      "text_detected": 3,
+      "manual_or_error": 4
+    },
+    {
+      "topic_id": "TOPIC007",
+      "title": "Làng xã",
+      "photos": 18,
+      "text_detected": 2,
+      "manual_or_error": 16
+    },
+    {
+      "topic_id": "TOPIC008",
+      "title": "Đà Nẵng – thương cảng sầm uất thời Nguyễn",
+      "photos": 9,
+      "text_detected": 2,
+      "manual_or_error": 7
+    },
+    {
+      "topic_id": "TOPIC009",
+      "title": "Đà Nẵng thời phong kiến",
+      "photos": 11,
+      "text_detected": 4,
+      "manual_or_error": 7
+    },
+    {
+      "topic_id": "TOPIC010",
+      "title": "Đô thị Đà Nẵng thời thuộc Pháp (1888–1945)",
+      "photos": 2,
+      "text_detected": 2,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC011",
+      "title": "Văn hóa xã hội thời thuộc Pháp",
+      "photos": 14,
+      "text_detected": 1,
+      "manual_or_error": 13
+    },
+    {
+      "topic_id": "TOPIC012",
+      "title": "Đà Nẵng 1945–1975: đời sống đô thị",
+      "photos": 3,
+      "text_detected": 3,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC013",
+      "title": "Cuộc chiến với liên quân Pháp – Tây Ban Nha (1858–1860)",
+      "photos": 14,
+      "text_detected": 4,
+      "manual_or_error": 10
+    },
+    {
+      "topic_id": "TOPIC014",
+      "title": "Các phong trào yêu nước tại Đà Nẵng trước 1930",
+      "photos": 7,
+      "text_detected": 7,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC015",
+      "title": "Phong trào cách mạng tại Đà Nẵng 1930–1945",
+      "photos": 3,
+      "text_detected": 2,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC016",
+      "title": "Đà Nẵng trong kháng chiến chống thực dân Pháp (1945–1954)",
+      "photos": 10,
+      "text_detected": 7,
+      "manual_or_error": 3
+    },
+    {
+      "topic_id": "TOPIC017",
+      "title": "Đà Nẵng trong kháng chiến chống đế quốc Mỹ (1954–1975)",
+      "photos": 5,
+      "text_detected": 3,
+      "manual_or_error": 2
+    },
+    {
+      "topic_id": "TOPIC018",
+      "title": "Biệt động thành Đà Nẵng",
+      "photos": 10,
+      "text_detected": 3,
+      "manual_or_error": 7
+    },
+    {
+      "topic_id": "TOPIC019",
+      "title": "Căn cứ Mõm Nỏ",
+      "photos": 2,
+      "text_detected": 2,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC020",
+      "title": "Khuất Thúc Cự – Chủ tịch Ủy ban kháng chiến huyện Tam Kỳ",
+      "photos": 5,
+      "text_detected": 2,
+      "manual_or_error": 3
+    },
+    {
+      "topic_id": "TOPIC021",
+      "title": "Trong cánh cửa lao tù",
+      "photos": 18,
+      "text_detected": 8,
+      "manual_or_error": 10
+    },
+    {
+      "topic_id": "TOPIC022",
+      "title": "Chiến công của Mẹ Nhu và bảy dũng sĩ Thanh Khê (26/12/1968)",
+      "photos": 1,
+      "text_detected": 1,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC023",
+      "title": "Căn cứ cách mạng K20",
+      "photos": 2,
+      "text_detected": 2,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC024",
+      "title": "76 ngày đêm sôi sục đấu tranh của Đà Nẵng (1966)",
+      "photos": 8,
+      "text_detected": 4,
+      "manual_or_error": 4
+    },
+    {
+      "topic_id": "TOPIC025",
+      "title": "Phong trào đấu tranh của học sinh, sinh viên",
+      "photos": 3,
+      "text_detected": 2,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC026",
+      "title": "Đặc khu ủy Quảng Đà",
+      "photos": 6,
+      "text_detected": 5,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC027",
+      "title": "Chiến dịch giải phóng Đà Nẵng (29/3/1975)",
+      "photos": 5,
+      "text_detected": 4,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC028",
+      "title": "Chứng tích chiến tranh; Đà Nẵng – kho bom đạn khổng lồ",
+      "photos": 6,
+      "text_detected": 3,
+      "manual_or_error": 3
+    },
+    {
+      "topic_id": "TOPIC029",
+      "title": "Chất khai quang và hiểm họa “da cam”; khắc phục hậu quả chiến tranh",
+      "photos": 14,
+      "text_detected": 8,
+      "manual_or_error": 6
+    },
+    {
+      "topic_id": "TOPIC030",
+      "title": "Đà Nẵng thời “bao cấp” (1975–1986)",
+      "photos": 2,
+      "text_detected": 2,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC031",
+      "title": "Đà Nẵng những năm đầu “đổi mới” (1987–1997)",
+      "photos": 2,
+      "text_detected": 2,
+      "manual_or_error": 0
+    },
+    {
+      "topic_id": "TOPIC032",
+      "title": "Đà Nẵng tương lai",
+      "photos": 2,
+      "text_detected": 1,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC033",
+      "title": "Văn hóa người Việt xứ Quảng; sinh hoạt cộng đồng làng xã",
+      "photos": 6,
+      "text_detected": 3,
+      "manual_or_error": 3
+    },
+    {
+      "topic_id": "TOPIC034",
+      "title": "Văn hóa biển",
+      "photos": 4,
+      "text_detected": 2,
+      "manual_or_error": 2
+    },
+    {
+      "topic_id": "TOPIC035",
+      "title": "Nghề nông truyền thống",
+      "photos": 2,
+      "text_detected": 1,
+      "manual_or_error": 1
+    },
+    {
+      "topic_id": "TOPIC036",
+      "title": "Nghề thủ công truyền thống",
+      "photos": 2,
+      "text_detected": 0,
+      "manual_or_error": 2
+    },
+    {
+      "topic_id": "TOPIC037",
+      "title": "Nghệ thuật trình diễn",
+      "photos": 3,
+      "text_detected": 1,
+      "manual_or_error": 2
+    },
+    {
+      "topic_id": "TOPIC038",
+      "title": "Đèn cổ",
+      "photos": 1,
+      "text_detected": 1,
+      "manual_or_error": 0
+    }
+  ]
+}

@@ -1,0 +1,4437 @@
+{
+  "asset_id": "b8f52b29-9d80-59aa-9b9c-7bdc2a76930e",
+  "filename": "IMG_8787.JPG",
+  "source_path": "topics/01_tong_quan_va_tu_nhien/TOPIC001_khai_quat_bao_tang_da_nang/IMG_8787.JPG",
+  "source_sha256": "e5ce691e6134fcd56f0145e8a7ec7226cc128b781f7bb2daa8a2281ff6e07b05",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "A a\n\n>\n\nJol\n\nm\n\nTANG DA NANG\n\nẠ\n\n|\n\nNANG MUSEUM\n\náo. tàng Đà Nẵng trước tọa lạc trong khuôn viên Di tích Quốc gia\n\nPrevjously, Da Nang Museum was located within the premises of the\n\nđặc\n\nbiệt Thành Điện Hải. Năm 2019, chính quyền thành phố\n\nspecial national relic, Dien Hai Citadel. In 2019, the city administration\n\nBộ\n\nquyết định sử dụng công trình Tòa Thị chính (xây dựng 1898 - 1900)\n\ndecided to use the City Hall building (constructed between 1898 and\n\nlàm Bảo tàng Đà Nẵng. Công trình bảo tàng do kiến trúc sư\n\n!\n\n1900) as the new location for the Da Nang Museum. Designed by\n\n*\n\nngười Pháp Jean Francois Milou chủ trì thiết kế. Tòa nhà lịch sử được\n\nFrench architect Jean Francois Milou, that historic building was\n\nbảo tồn nguyên ven, khổi nhà mới được thiết kế hai hoa với cảnh quan\n\nmeticulously preserved, while the new complex was designed to\n\nchung. Bang gam mau go ấm cùng với hệ cột, hệ lam mong gợi đến\n\nharmonize with the overall landscape with the warm tones of the\n\nmàu sac cua mây tre và sự tính tế của đồ gõ, dan dệt. Bảo tàng\n\nwooden facade, coupled with the delicate thin columns and latticework\n\nĐà Nẵng - biểu tượng kết nối giữa qua khứ với hiện tại của thành phổ\n\nwhich are reminiscent of bamboo and the fineness of interlaced\n\nchính thức khánh thành năm 2025 và trở thành điểm nhan kiến trúc\n\nwooden furniture. Da Nang museum - the symbol connecting the city’s\n\nđộc đáo, nên tho bên bờ sông Han\n\npast and present will be officially inaugurated in 2025 and will become\n\na unique and poetic architectural highlight on the banks of the\n\nVới gan 3.000 tài liệu hiện vật được lựa chon kỹ càng từ hon 27.000\n\nHan River\n\ntài liệu hiện vật, kết hợp phong cách trưng bày truyền thống với\n\nWith nearly 3,000 carefully selected artifacts from a collection of over\n\ncông nghệ trình chiếu hiện đại, Bảo tàng Da Nang sẽ gợi mở và\n\ndẫn dat công chúng tham quan trải nghiệm, tìm hiểu về tự nhiên\n\n27,000, the museum employs a blend of traditional and modern display\n\nvà lịch sử xã hội của Đà Nẵng, những câu chuyện về văn hóa và\n\ntechniques to offer visitors an immersive experience of exploring the\n\nphong tục tap quán dia phương cũng như khát vọng đi lên cua\n\nnatural and socio-historical aspects of Da Nang and its customs, as\n\nmột trong những phố cảng lớn của Châu Á\n\nwell as the rising aspirations of one of Asia s major ports",
+  "words": [
+    {
+      "text": "A",
+      "confidence": 29.363014,
+      "box": [
+        1507,
+        226,
+        6,
+        9
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 39.189095,
+      "box": [
+        1525,
+        224,
+        10,
+        16
+      ]
+    },
+    {
+      "text": ">",
+      "confidence": 83.732117,
+      "box": [
+        681,
+        293,
+        40,
+        26
+      ]
+    },
+    {
+      "text": "Jol",
+      "confidence": 40.587715,
+      "box": [
+        679,
+        314,
+        29,
+        18
+      ]
+    },
+    {
+      "text": "m",
+      "confidence": 83.590225,
+      "box": [
+        554,
+        352,
+        35,
+        26
+      ]
+    },
+    {
+      "text": "TANG",
+      "confidence": 95.732483,
+      "box": [
+        929,
+        337,
+        457,
+        126
+      ]
+    },
+    {
+      "text": "DA",
+      "confidence": 95.732483,
+      "box": [
+        1446,
+        347,
+        229,
+        120
+      ]
+    },
+    {
+      "text": "NANG",
+      "confidence": 96.546806,
+      "box": [
+        1726,
+        357,
+        452,
+        123
+      ]
+    },
+    {
+      "text": "Ạ",
+      "confidence": 87.41819,
+      "box": [
+        602,
+        564,
+        33,
+        54
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 86.765488,
+      "box": [
+        512,
+        632,
+        1,
+        14
+      ]
+    },
+    {
+      "text": "NANG",
+      "confidence": 96.61145,
+      "box": [
+        707,
+        569,
+        317,
+        85
+      ]
+    },
+    {
+      "text": "MUSEUM",
+      "confidence": 96.069016,
+      "box": [
+        1075,
+        575,
+        482,
+        85
+      ]
+    },
+    {
+      "text": "áo.",
+      "confidence": 71.037125,
+      "box": [
+        512,
+        1002,
+        50,
+        56
+      ]
+    },
+    {
+      "text": "tàng",
+      "confidence": 96.421471,
+      "box": [
+        567,
+        1015,
+        74,
+        33
+      ]
+    },
+    {
+      "text": "Đà",
+      "confidence": 95.481171,
+      "box": [
+        655,
+        1013,
+        53,
+        28
+      ]
+    },
+    {
+      "text": "Nẵng",
+      "confidence": 96.603027,
+      "box": [
+        715,
+        1009,
+        85,
+        40
+      ]
+    },
+    {
+      "text": "trước",
+      "confidence": 96.529129,
+      "box": [
+        815,
+        1017,
+        88,
+        25
+      ]
+    },
+    {
+      "text": "tọa",
+      "confidence": 96.999176,
+      "box": [
+        917,
+        1018,
+        51,
+        31
+      ]
+    },
+    {
+      "text": "lạc",
+      "confidence": 96.811249,
+      "box": [
+        985,
+        1014,
+        46,
+        34
+      ]
+    },
+    {
+      "text": "trong",
+      "confidence": 96.724632,
+      "box": [
+        1045,
+        1018,
+        85,
+        33
+      ]
+    },
+    {
+      "text": "khuôn",
+      "confidence": 96.770569,
+      "box": [
+        1147,
+        1015,
+        96,
+        29
+      ]
+    },
+    {
+      "text": "viên",
+      "confidence": 96.871727,
+      "box": [
+        1259,
+        1017,
+        63,
+        28
+      ]
+    },
+    {
+      "text": "Di",
+      "confidence": 90.624313,
+      "box": [
+        1340,
+        1018,
+        28,
+        27
+      ]
+    },
+    {
+      "text": "tích",
+      "confidence": 96.765633,
+      "box": [
+        1383,
+        1017,
+        58,
+        28
+      ]
+    },
+    {
+      "text": "Quốc",
+      "confidence": 96.75811,
+      "box": [
+        1458,
+        1019,
+        82,
+        30
+      ]
+    },
+    {
+      "text": "gia",
+      "confidence": 96.95726,
+      "box": [
+        1555,
+        1026,
+        45,
+        27
+      ]
+    },
+    {
+      "text": "Prevjously,",
+      "confidence": 89.025719,
+      "box": [
+        1809,
+        1025,
+        161,
+        35
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.877197,
+      "box": [
+        1986,
+        1027,
+        38,
+        26
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 93.245712,
+      "box": [
+        2039,
+        1027,
+        78,
+        34
+      ]
+    },
+    {
+      "text": "Museum",
+      "confidence": 95.953644,
+      "box": [
+        2131,
+        1027,
+        130,
+        28
+      ]
+    },
+    {
+      "text": "was",
+      "confidence": 92.834023,
+      "box": [
+        2275,
+        1035,
+        59,
+        20
+      ]
+    },
+    {
+      "text": "located",
+      "confidence": 96.639336,
+      "box": [
+        2347,
+        1027,
+        111,
+        29
+      ]
+    },
+    {
+      "text": "within",
+      "confidence": 96.747238,
+      "box": [
+        2471,
+        1028,
+        87,
+        28
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.019981,
+      "box": [
+        2572,
+        1029,
+        45,
+        29
+      ]
+    },
+    {
+      "text": "premises",
+      "confidence": 97.003502,
+      "box": [
+        2629,
+        1037,
+        137,
+        26
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.998627,
+      "box": [
+        2779,
+        1029,
+        32,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.019104,
+      "box": [
+        2820,
+        1030,
+        46,
+        28
+      ]
+    },
+    {
+      "text": "đặc",
+      "confidence": 78.906487,
+      "box": [
+        475,
+        1055,
+        64,
+        45
+      ]
+    },
+    {
+      "text": "biệt",
+      "confidence": 96.227455,
+      "box": [
+        573,
+        1063,
+        63,
+        36
+      ]
+    },
+    {
+      "text": "Thành",
+      "confidence": 96.547256,
+      "box": [
+        658,
+        1064,
+        106,
+        30
+      ]
+    },
+    {
+      "text": "Điện",
+      "confidence": 96.191528,
+      "box": [
+        785,
+        1065,
+        77,
+        34
+      ]
+    },
+    {
+      "text": "Hải.",
+      "confidence": 96.893936,
+      "box": [
+        887,
+        1062,
+        63,
+        32
+      ]
+    },
+    {
+      "text": "Năm",
+      "confidence": 96.704269,
+      "box": [
+        976,
+        1067,
+        76,
+        27
+      ]
+    },
+    {
+      "text": "2019,",
+      "confidence": 96.720078,
+      "box": [
+        1075,
+        1067,
+        92,
+        32
+      ]
+    },
+    {
+      "text": "chính",
+      "confidence": 96.759857,
+      "box": [
+        1190,
+        1066,
+        90,
+        30
+      ]
+    },
+    {
+      "text": "quyền",
+      "confidence": 96.077301,
+      "box": [
+        1303,
+        1066,
+        99,
+        37
+      ]
+    },
+    {
+      "text": "thành",
+      "confidence": 96.731522,
+      "box": [
+        1424,
+        1068,
+        93,
+        29
+      ]
+    },
+    {
+      "text": "phố",
+      "confidence": 96.163338,
+      "box": [
+        1541,
+        1066,
+        62,
+        39
+      ]
+    },
+    {
+      "text": "special",
+      "confidence": 96.832489,
+      "box": [
+        1809,
+        1075,
+        109,
+        35
+      ]
+    },
+    {
+      "text": "national",
+      "confidence": 96.921356,
+      "box": [
+        1929,
+        1076,
+        122,
+        28
+      ]
+    },
+    {
+      "text": "relic,",
+      "confidence": 96.871063,
+      "box": [
+        2062,
+        1076,
+        63,
+        28
+      ]
+    },
+    {
+      "text": "Dien",
+      "confidence": 96.739616,
+      "box": [
+        2143,
+        1078,
+        65,
+        27
+      ]
+    },
+    {
+      "text": "Hai",
+      "confidence": 96.739616,
+      "box": [
+        2221,
+        1078,
+        48,
+        27
+      ]
+    },
+    {
+      "text": "Citadel.",
+      "confidence": 96.788673,
+      "box": [
+        2282,
+        1077,
+        104,
+        28
+      ]
+    },
+    {
+      "text": "In",
+      "confidence": 96.697235,
+      "box": [
+        2406,
+        1079,
+        25,
+        26
+      ]
+    },
+    {
+      "text": "2019,",
+      "confidence": 96.949654,
+      "box": [
+        2443,
+        1079,
+        74,
+        27
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.974724,
+      "box": [
+        2535,
+        1079,
+        46,
+        27
+      ]
+    },
+    {
+      "text": "city",
+      "confidence": 96.997437,
+      "box": [
+        2593,
+        1081,
+        52,
+        32
+      ]
+    },
+    {
+      "text": "administration",
+      "confidence": 96.646904,
+      "box": [
+        2655,
+        1079,
+        212,
+        29
+      ]
+    },
+    {
+      "text": "Bộ",
+      "confidence": 24.274994,
+      "box": [
+        35,
+        1136,
+        28,
+        21
+      ]
+    },
+    {
+      "text": "quyết",
+      "confidence": 94.286156,
+      "box": [
+        486,
+        1107,
+        96,
+        45
+      ]
+    },
+    {
+      "text": "định",
+      "confidence": 96.990639,
+      "box": [
+        596,
+        1115,
+        69,
+        36
+      ]
+    },
+    {
+      "text": "sử",
+      "confidence": 97.019234,
+      "box": [
+        679,
+        1114,
+        42,
+        31
+      ]
+    },
+    {
+      "text": "dụng",
+      "confidence": 96.500549,
+      "box": [
+        731,
+        1115,
+        79,
+        37
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 96.592194,
+      "box": [
+        823,
+        1117,
+        78,
+        36
+      ]
+    },
+    {
+      "text": "trình",
+      "confidence": 96.836441,
+      "box": [
+        913,
+        1117,
+        73,
+        29
+      ]
+    },
+    {
+      "text": "Tòa",
+      "confidence": 96.390915,
+      "box": [
+        998,
+        1117,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "Thị",
+      "confidence": 96.949974,
+      "box": [
+        1071,
+        1118,
+        49,
+        34
+      ]
+    },
+    {
+      "text": "chính",
+      "confidence": 96.94136,
+      "box": [
+        1132,
+        1118,
+        86,
+        29
+      ]
+    },
+    {
+      "text": "(xây",
+      "confidence": 96.619591,
+      "box": [
+        1232,
+        1116,
+        65,
+        38
+      ]
+    },
+    {
+      "text": "dựng",
+      "confidence": 96.568787,
+      "box": [
+        1308,
+        1119,
+        80,
+        35
+      ]
+    },
+    {
+      "text": "1898",
+      "confidence": 93.269386,
+      "box": [
+        1402,
+        1120,
+        97,
+        28
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 93.246933,
+      "box": [
+        1483,
+        1112,
+        16,
+        48
+      ]
+    },
+    {
+      "text": "1900)",
+      "confidence": 95.995918,
+      "box": [
+        1512,
+        1119,
+        88,
+        37
+      ]
+    },
+    {
+      "text": "decided",
+      "confidence": 91.495865,
+      "box": [
+        1810,
+        1125,
+        121,
+        29
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 88.671143,
+      "box": [
+        1944,
+        1129,
+        29,
+        25
+      ]
+    },
+    {
+      "text": "use",
+      "confidence": 93.14183,
+      "box": [
+        1988,
+        1134,
+        53,
+        20
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.730858,
+      "box": [
+        2054,
+        1127,
+        47,
+        27
+      ]
+    },
+    {
+      "text": "City",
+      "confidence": 92.181328,
+      "box": [
+        2116,
+        1128,
+        56,
+        34
+      ]
+    },
+    {
+      "text": "Hall",
+      "confidence": 91.889198,
+      "box": [
+        2185,
+        1126,
+        59,
+        29
+      ]
+    },
+    {
+      "text": "building",
+      "confidence": 91.913559,
+      "box": [
+        2256,
+        1127,
+        118,
+        35
+      ]
+    },
+    {
+      "text": "(constructed",
+      "confidence": 92.664803,
+      "box": [
+        2389,
+        1127,
+        190,
+        36
+      ]
+    },
+    {
+      "text": "between",
+      "confidence": 91.319672,
+      "box": [
+        2592,
+        1128,
+        124,
+        29
+      ]
+    },
+    {
+      "text": "1898",
+      "confidence": 96.675476,
+      "box": [
+        2733,
+        1130,
+        71,
+        28
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.635704,
+      "box": [
+        2817,
+        1129,
+        55,
+        28
+      ]
+    },
+    {
+      "text": "làm",
+      "confidence": 96.824333,
+      "box": [
+        485,
+        1167,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "Bảo",
+      "confidence": 96.284409,
+      "box": [
+        568,
+        1165,
+        64,
+        31
+      ]
+    },
+    {
+      "text": "tàng",
+      "confidence": 96.472214,
+      "box": [
+        653,
+        1167,
+        76,
+        37
+      ]
+    },
+    {
+      "text": "Đà",
+      "confidence": 94.709915,
+      "box": [
+        750,
+        1168,
+        44,
+        29
+      ]
+    },
+    {
+      "text": "Nẵng.",
+      "confidence": 96.445244,
+      "box": [
+        818,
+        1165,
+        88,
+        39
+      ]
+    },
+    {
+      "text": "Công",
+      "confidence": 96.723038,
+      "box": [
+        940,
+        1168,
+        86,
+        36
+      ]
+    },
+    {
+      "text": "trình",
+      "confidence": 96.667587,
+      "box": [
+        1047,
+        1169,
+        78,
+        29
+      ]
+    },
+    {
+      "text": "bảo",
+      "confidence": 96.83007,
+      "box": [
+        1148,
+        1168,
+        61,
+        30
+      ]
+    },
+    {
+      "text": "tàng",
+      "confidence": 96.474426,
+      "box": [
+        1229,
+        1169,
+        74,
+        37
+      ]
+    },
+    {
+      "text": "do",
+      "confidence": 96.780502,
+      "box": [
+        1325,
+        1170,
+        40,
+        28
+      ]
+    },
+    {
+      "text": "kiến",
+      "confidence": 96.599724,
+      "box": [
+        1388,
+        1169,
+        66,
+        30
+      ]
+    },
+    {
+      "text": "trúc",
+      "confidence": 96.801704,
+      "box": [
+        1475,
+        1171,
+        66,
+        28
+      ]
+    },
+    {
+      "text": "sư",
+      "confidence": 96.703354,
+      "box": [
+        1561,
+        1178,
+        42,
+        21
+      ]
+    },
+    {
+      "text": "!",
+      "confidence": 33.74807,
+      "box": [
+        0,
+        1128,
+        13,
+        86
+      ]
+    },
+    {
+      "text": "1900)",
+      "confidence": 93.295593,
+      "box": [
+        1814,
+        1175,
+        83,
+        37
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 96.578926,
+      "box": [
+        1917,
+        1184,
+        34,
+        21
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.689926,
+      "box": [
+        1970,
+        1177,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "new",
+      "confidence": 96.791878,
+      "box": [
+        2035,
+        1184,
+        63,
+        21
+      ]
+    },
+    {
+      "text": "location",
+      "confidence": 96.388657,
+      "box": [
+        2114,
+        1177,
+        120,
+        29
+      ]
+    },
+    {
+      "text": "for",
+      "confidence": 96.464386,
+      "box": [
+        2254,
+        1177,
+        43,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.953362,
+      "box": [
+        2312,
+        1178,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 95.726723,
+      "box": [
+        2377,
+        1179,
+        38,
+        27
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.403358,
+      "box": [
+        2434,
+        1179,
+        78,
+        34
+      ]
+    },
+    {
+      "text": "Museum.",
+      "confidence": 96.813393,
+      "box": [
+        2530,
+        1179,
+        128,
+        28
+      ]
+    },
+    {
+      "text": "Designed",
+      "confidence": 96.758362,
+      "box": [
+        2686,
+        1179,
+        138,
+        34
+      ]
+    },
+    {
+      "text": "by",
+      "confidence": 96.897537,
+      "box": [
+        2841,
+        1179,
+        34,
+        35
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 55.024918,
+      "box": [
+        278,
+        1212,
+        26,
+        33
+      ]
+    },
+    {
+      "text": "người",
+      "confidence": 96.077774,
+      "box": [
+        483,
+        1220,
+        98,
+        36
+      ]
+    },
+    {
+      "text": "Pháp",
+      "confidence": 92.243637,
+      "box": [
+        596,
+        1219,
+        81,
+        37
+      ]
+    },
+    {
+      "text": "Jean",
+      "confidence": 96.291603,
+      "box": [
+        686,
+        1221,
+        79,
+        29
+      ]
+    },
+    {
+      "text": "Francois",
+      "confidence": 92.829483,
+      "box": [
+        778,
+        1221,
+        138,
+        36
+      ]
+    },
+    {
+      "text": "Milou",
+      "confidence": 92.910889,
+      "box": [
+        928,
+        1220,
+        86,
+        30
+      ]
+    },
+    {
+      "text": "chủ",
+      "confidence": 96.960793,
+      "box": [
+        1026,
+        1220,
+        56,
+        29
+      ]
+    },
+    {
+      "text": "trì",
+      "confidence": 96.888351,
+      "box": [
+        1092,
+        1224,
+        31,
+        27
+      ]
+    },
+    {
+      "text": "thiết",
+      "confidence": 96.864403,
+      "box": [
+        1133,
+        1221,
+        72,
+        29
+      ]
+    },
+    {
+      "text": "kế.",
+      "confidence": 96.957062,
+      "box": [
+        1216,
+        1221,
+        34,
+        29
+      ]
+    },
+    {
+      "text": "Tòa",
+      "confidence": 96.733894,
+      "box": [
+        1269,
+        1223,
+        60,
+        27
+      ]
+    },
+    {
+      "text": "nhà",
+      "confidence": 96.82486,
+      "box": [
+        1341,
+        1222,
+        55,
+        28
+      ]
+    },
+    {
+      "text": "lịch",
+      "confidence": 96.857513,
+      "box": [
+        1409,
+        1222,
+        52,
+        28
+      ]
+    },
+    {
+      "text": "sử",
+      "confidence": 96.923851,
+      "box": [
+        1471,
+        1229,
+        41,
+        21
+      ]
+    },
+    {
+      "text": "được",
+      "confidence": 96.923851,
+      "box": [
+        1521,
+        1222,
+        80,
+        28
+      ]
+    },
+    {
+      "text": "French",
+      "confidence": 94.721794,
+      "box": [
+        1812,
+        1227,
+        103,
+        28
+      ]
+    },
+    {
+      "text": "architect",
+      "confidence": 94.721794,
+      "box": [
+        1940,
+        1227,
+        134,
+        29
+      ]
+    },
+    {
+      "text": "Jean",
+      "confidence": 96.714157,
+      "box": [
+        2097,
+        1229,
+        73,
+        27
+      ]
+    },
+    {
+      "text": "Francois",
+      "confidence": 93.149574,
+      "box": [
+        2195,
+        1229,
+        129,
+        35
+      ]
+    },
+    {
+      "text": "Milou,",
+      "confidence": 92.529343,
+      "box": [
+        2349,
+        1228,
+        82,
+        28
+      ]
+    },
+    {
+      "text": "that",
+      "confidence": 96.950783,
+      "box": [
+        2462,
+        1228,
+        59,
+        29
+      ]
+    },
+    {
+      "text": "historic",
+      "confidence": 96.399178,
+      "box": [
+        2543,
+        1228,
+        111,
+        29
+      ]
+    },
+    {
+      "text": "building",
+      "confidence": 96.340141,
+      "box": [
+        2677,
+        1229,
+        116,
+        35
+      ]
+    },
+    {
+      "text": "was",
+      "confidence": 96.803284,
+      "box": [
+        2818,
+        1236,
+        58,
+        21
+      ]
+    },
+    {
+      "text": "bảo",
+      "confidence": 96.170998,
+      "box": [
+        480,
+        1272,
+        60,
+        30
+      ]
+    },
+    {
+      "text": "tồn",
+      "confidence": 94.76709,
+      "box": [
+        550,
+        1270,
+        52,
+        32
+      ]
+    },
+    {
+      "text": "nguyên",
+      "confidence": 96.321426,
+      "box": [
+        615,
+        1280,
+        116,
+        29
+      ]
+    },
+    {
+      "text": "ven,",
+      "confidence": 93.217834,
+      "box": [
+        743,
+        1280,
+        62,
+        28
+      ]
+    },
+    {
+      "text": "khổi",
+      "confidence": 91.001892,
+      "box": [
+        817,
+        1272,
+        65,
+        30
+      ]
+    },
+    {
+      "text": "nhà",
+      "confidence": 96.504906,
+      "box": [
+        895,
+        1272,
+        57,
+        31
+      ]
+    },
+    {
+      "text": "mới",
+      "confidence": 97.017334,
+      "box": [
+        965,
+        1278,
+        58,
+        24
+      ]
+    },
+    {
+      "text": "được",
+      "confidence": 96.769844,
+      "box": [
+        1035,
+        1273,
+        82,
+        29
+      ]
+    },
+    {
+      "text": "thiết",
+      "confidence": 96.825142,
+      "box": [
+        1127,
+        1270,
+        71,
+        32
+      ]
+    },
+    {
+      "text": "kế",
+      "confidence": 97.010315,
+      "box": [
+        1210,
+        1273,
+        34,
+        29
+      ]
+    },
+    {
+      "text": "hai",
+      "confidence": 96.348885,
+      "box": [
+        1256,
+        1273,
+        44,
+        29
+      ]
+    },
+    {
+      "text": "hoa",
+      "confidence": 93.01091,
+      "box": [
+        1313,
+        1273,
+        57,
+        29
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.635216,
+      "box": [
+        1381,
+        1279,
+        44,
+        23
+      ]
+    },
+    {
+      "text": "cảnh",
+      "confidence": 96.941948,
+      "box": [
+        1437,
+        1273,
+        75,
+        29
+      ]
+    },
+    {
+      "text": "quan",
+      "confidence": 96.913307,
+      "box": [
+        1524,
+        1281,
+        77,
+        28
+      ]
+    },
+    {
+      "text": "meticulously",
+      "confidence": 96.807144,
+      "box": [
+        1812,
+        1278,
+        195,
+        36
+      ]
+    },
+    {
+      "text": "preserved,",
+      "confidence": 96.589867,
+      "box": [
+        2029,
+        1278,
+        151,
+        36
+      ]
+    },
+    {
+      "text": "while",
+      "confidence": 96.150757,
+      "box": [
+        2210,
+        1279,
+        77,
+        28
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.569557,
+      "box": [
+        2310,
+        1278,
+        47,
+        29
+      ]
+    },
+    {
+      "text": "new",
+      "confidence": 96.849159,
+      "box": [
+        2379,
+        1286,
+        62,
+        22
+      ]
+    },
+    {
+      "text": "complex",
+      "confidence": 96.493118,
+      "box": [
+        2463,
+        1280,
+        128,
+        34
+      ]
+    },
+    {
+      "text": "was",
+      "confidence": 96.383423,
+      "box": [
+        2613,
+        1286,
+        58,
+        21
+      ]
+    },
+    {
+      "text": "designed",
+      "confidence": 96.279892,
+      "box": [
+        2694,
+        1279,
+        135,
+        34
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.922363,
+      "box": [
+        2850,
+        1282,
+        29,
+        25
+      ]
+    },
+    {
+      "text": "chung.",
+      "confidence": 96.705971,
+      "box": [
+        478,
+        1324,
+        99,
+        37
+      ]
+    },
+    {
+      "text": "Bang",
+      "confidence": 96.207565,
+      "box": [
+        603,
+        1326,
+        81,
+        35
+      ]
+    },
+    {
+      "text": "gam",
+      "confidence": 95.851692,
+      "box": [
+        698,
+        1332,
+        71,
+        29
+      ]
+    },
+    {
+      "text": "mau",
+      "confidence": 96.508293,
+      "box": [
+        784,
+        1333,
+        69,
+        21
+      ]
+    },
+    {
+      "text": "go",
+      "confidence": 94.062843,
+      "box": [
+        868,
+        1333,
+        39,
+        28
+      ]
+    },
+    {
+      "text": "ấm",
+      "confidence": 96.937584,
+      "box": [
+        921,
+        1332,
+        49,
+        22
+      ]
+    },
+    {
+      "text": "cùng",
+      "confidence": 96.78595,
+      "box": [
+        985,
+        1332,
+        77,
+        29
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.870323,
+      "box": [
+        1076,
+        1331,
+        44,
+        23
+      ]
+    },
+    {
+      "text": "hệ",
+      "confidence": 97.017494,
+      "box": [
+        1136,
+        1325,
+        37,
+        29
+      ]
+    },
+    {
+      "text": "cột,",
+      "confidence": 96.4748,
+      "box": [
+        1186,
+        1328,
+        50,
+        26
+      ]
+    },
+    {
+      "text": "hệ",
+      "confidence": 96.876694,
+      "box": [
+        1257,
+        1325,
+        37,
+        28
+      ]
+    },
+    {
+      "text": "lam",
+      "confidence": 96.8629,
+      "box": [
+        1308,
+        1325,
+        56,
+        29
+      ]
+    },
+    {
+      "text": "mong",
+      "confidence": 93.299156,
+      "box": [
+        1379,
+        1333,
+        89,
+        28
+      ]
+    },
+    {
+      "text": "gợi",
+      "confidence": 96.775414,
+      "box": [
+        1483,
+        1331,
+        46,
+        30
+      ]
+    },
+    {
+      "text": "đến",
+      "confidence": 96.874496,
+      "box": [
+        1544,
+        1325,
+        57,
+        29
+      ]
+    },
+    {
+      "text": "harmonize",
+      "confidence": 96.543243,
+      "box": [
+        1812,
+        1330,
+        163,
+        28
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.612801,
+      "box": [
+        1995,
+        1330,
+        62,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 93.261139,
+      "box": [
+        2077,
+        1329,
+        47,
+        30
+      ]
+    },
+    {
+      "text": "overall",
+      "confidence": 96.357483,
+      "box": [
+        2144,
+        1329,
+        100,
+        29
+      ]
+    },
+    {
+      "text": "landscape",
+      "confidence": 96.347382,
+      "box": [
+        2263,
+        1330,
+        156,
+        35
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.606735,
+      "box": [
+        2439,
+        1330,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.926178,
+      "box": [
+        2519,
+        1329,
+        46,
+        29
+      ]
+    },
+    {
+      "text": "warm",
+      "confidence": 96.25898,
+      "box": [
+        2585,
+        1337,
+        82,
+        21
+      ]
+    },
+    {
+      "text": "tones",
+      "confidence": 96.628479,
+      "box": [
+        2685,
+        1333,
+        83,
+        25
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 95.879883,
+      "box": [
+        2788,
+        1329,
+        31,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.748764,
+      "box": [
+        2836,
+        1329,
+        46,
+        28
+      ]
+    },
+    {
+      "text": "màu",
+      "confidence": 96.02903,
+      "box": [
+        476,
+        1385,
+        72,
+        22
+      ]
+    },
+    {
+      "text": "sac",
+      "confidence": 96.413528,
+      "box": [
+        564,
+        1385,
+        60,
+        22
+      ]
+    },
+    {
+      "text": "cua",
+      "confidence": 96.307495,
+      "box": [
+        640,
+        1385,
+        60,
+        22
+      ]
+    },
+    {
+      "text": "mây",
+      "confidence": 94.195541,
+      "box": [
+        717,
+        1377,
+        71,
+        37
+      ]
+    },
+    {
+      "text": "tre",
+      "confidence": 96.619759,
+      "box": [
+        801,
+        1381,
+        47,
+        26
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.634811,
+      "box": [
+        863,
+        1385,
+        36,
+        22
+      ]
+    },
+    {
+      "text": "sự",
+      "confidence": 96.972954,
+      "box": [
+        916,
+        1384,
+        43,
+        22
+      ]
+    },
+    {
+      "text": "tính",
+      "confidence": 95.14846,
+      "box": [
+        972,
+        1377,
+        63,
+        30
+      ]
+    },
+    {
+      "text": "tế",
+      "confidence": 91.445015,
+      "box": [
+        1050,
+        1380,
+        32,
+        26
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.941933,
+      "box": [
+        1098,
+        1385,
+        58,
+        21
+      ]
+    },
+    {
+      "text": "đồ",
+      "confidence": 96.920349,
+      "box": [
+        1173,
+        1378,
+        41,
+        28
+      ]
+    },
+    {
+      "text": "gõ,",
+      "confidence": 94.598145,
+      "box": [
+        1230,
+        1385,
+        40,
+        28
+      ]
+    },
+    {
+      "text": "dan",
+      "confidence": 93.295761,
+      "box": [
+        1295,
+        1378,
+        61,
+        28
+      ]
+    },
+    {
+      "text": "dệt.",
+      "confidence": 90.652214,
+      "box": [
+        1372,
+        1377,
+        52,
+        29
+      ]
+    },
+    {
+      "text": "Bảo",
+      "confidence": 96.644798,
+      "box": [
+        1452,
+        1379,
+        61,
+        27
+      ]
+    },
+    {
+      "text": "tàng",
+      "confidence": 96.833527,
+      "box": [
+        1527,
+        1377,
+        74,
+        36
+      ]
+    },
+    {
+      "text": "wooden",
+      "confidence": 95.510437,
+      "box": [
+        1814,
+        1381,
+        120,
+        29
+      ]
+    },
+    {
+      "text": "facade,",
+      "confidence": 96.94384,
+      "box": [
+        1945,
+        1381,
+        104,
+        29
+      ]
+    },
+    {
+      "text": "coupled",
+      "confidence": 96.848595,
+      "box": [
+        2066,
+        1381,
+        122,
+        36
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 96.96875,
+      "box": [
+        2198,
+        1381,
+        61,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.937218,
+      "box": [
+        2269,
+        1381,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "delicate",
+      "confidence": 96.647362,
+      "box": [
+        2326,
+        1380,
+        119,
+        29
+      ]
+    },
+    {
+      "text": "thin",
+      "confidence": 96.998665,
+      "box": [
+        2454,
+        1380,
+        55,
+        29
+      ]
+    },
+    {
+      "text": "columns",
+      "confidence": 96.758545,
+      "box": [
+        2519,
+        1380,
+        127,
+        29
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 93.263878,
+      "box": [
+        2656,
+        1380,
+        55,
+        29
+      ]
+    },
+    {
+      "text": "latticework",
+      "confidence": 89.145279,
+      "box": [
+        2720,
+        1380,
+        165,
+        30
+      ]
+    },
+    {
+      "text": "Đà",
+      "confidence": 94.734596,
+      "box": [
+        471,
+        1432,
+        46,
+        28
+      ]
+    },
+    {
+      "text": "Nẵng",
+      "confidence": 93.29879,
+      "box": [
+        534,
+        1431,
+        85,
+        36
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 93.29879,
+      "box": [
+        620,
+        1425,
+        16,
+        46
+      ]
+    },
+    {
+      "text": "biểu",
+      "confidence": 96.450974,
+      "box": [
+        653,
+        1430,
+        67,
+        30
+      ]
+    },
+    {
+      "text": "tượng",
+      "confidence": 96.72702,
+      "box": [
+        732,
+        1433,
+        96,
+        34
+      ]
+    },
+    {
+      "text": "kết",
+      "confidence": 96.970825,
+      "box": [
+        842,
+        1430,
+        48,
+        30
+      ]
+    },
+    {
+      "text": "nối",
+      "confidence": 96.644646,
+      "box": [
+        902,
+        1437,
+        47,
+        23
+      ]
+    },
+    {
+      "text": "giữa",
+      "confidence": 96.784676,
+      "box": [
+        962,
+        1431,
+        69,
+        35
+      ]
+    },
+    {
+      "text": "qua",
+      "confidence": 93.141945,
+      "box": [
+        1044,
+        1429,
+        59,
+        38
+      ]
+    },
+    {
+      "text": "khứ",
+      "confidence": 96.908768,
+      "box": [
+        1116,
+        1430,
+        61,
+        29
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 97.011154,
+      "box": [
+        1187,
+        1436,
+        44,
+        23
+      ]
+    },
+    {
+      "text": "hiện",
+      "confidence": 96.980186,
+      "box": [
+        1245,
+        1430,
+        65,
+        29
+      ]
+    },
+    {
+      "text": "tại",
+      "confidence": 97.022095,
+      "box": [
+        1321,
+        1433,
+        39,
+        25
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.668198,
+      "box": [
+        1373,
+        1437,
+        56,
+        22
+      ]
+    },
+    {
+      "text": "thành",
+      "confidence": 96.72287,
+      "box": [
+        1441,
+        1429,
+        90,
+        29
+      ]
+    },
+    {
+      "text": "phổ",
+      "confidence": 96.358734,
+      "box": [
+        1544,
+        1429,
+        58,
+        36
+      ]
+    },
+    {
+      "text": "which",
+      "confidence": 96.429619,
+      "box": [
+        1814,
+        1433,
+        89,
+        29
+      ]
+    },
+    {
+      "text": "are",
+      "confidence": 96.57695,
+      "box": [
+        1926,
+        1441,
+        47,
+        21
+      ]
+    },
+    {
+      "text": "reminiscent",
+      "confidence": 96.26445,
+      "box": [
+        1995,
+        1436,
+        181,
+        26
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.26445,
+      "box": [
+        2198,
+        1432,
+        33,
+        29
+      ]
+    },
+    {
+      "text": "bamboo",
+      "confidence": 96.086411,
+      "box": [
+        2249,
+        1431,
+        125,
+        30
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.47287,
+      "box": [
+        2396,
+        1431,
+        56,
+        30
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 93.296829,
+      "box": [
+        2472,
+        1432,
+        48,
+        28
+      ]
+    },
+    {
+      "text": "fineness",
+      "confidence": 95.890549,
+      "box": [
+        2542,
+        1431,
+        125,
+        29
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.32563,
+      "box": [
+        2689,
+        1430,
+        33,
+        29
+      ]
+    },
+    {
+      "text": "interlaced",
+      "confidence": 96.32563,
+      "box": [
+        2740,
+        1431,
+        148,
+        28
+      ]
+    },
+    {
+      "text": "chính",
+      "confidence": 96.872978,
+      "box": [
+        471,
+        1483,
+        89,
+        31
+      ]
+    },
+    {
+      "text": "thức",
+      "confidence": 96.453102,
+      "box": [
+        573,
+        1484,
+        76,
+        30
+      ]
+    },
+    {
+      "text": "khánh",
+      "confidence": 96.453102,
+      "box": [
+        663,
+        1483,
+        98,
+        30
+      ]
+    },
+    {
+      "text": "thành",
+      "confidence": 96.503891,
+      "box": [
+        775,
+        1483,
+        92,
+        30
+      ]
+    },
+    {
+      "text": "năm",
+      "confidence": 96.523941,
+      "box": [
+        883,
+        1491,
+        70,
+        22
+      ]
+    },
+    {
+      "text": "2025",
+      "confidence": 95.780945,
+      "box": [
+        969,
+        1484,
+        80,
+        28
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.894623,
+      "box": [
+        1063,
+        1490,
+        35,
+        22
+      ]
+    },
+    {
+      "text": "trở",
+      "confidence": 96.580055,
+      "box": [
+        1113,
+        1486,
+        46,
+        26
+      ]
+    },
+    {
+      "text": "thành",
+      "confidence": 96.712578,
+      "box": [
+        1170,
+        1482,
+        91,
+        30
+      ]
+    },
+    {
+      "text": "điểm",
+      "confidence": 96.776489,
+      "box": [
+        1276,
+        1482,
+        79,
+        29
+      ]
+    },
+    {
+      "text": "nhan",
+      "confidence": 92.219139,
+      "box": [
+        1371,
+        1482,
+        76,
+        29
+      ]
+    },
+    {
+      "text": "kiến",
+      "confidence": 96.549469,
+      "box": [
+        1464,
+        1481,
+        62,
+        30
+      ]
+    },
+    {
+      "text": "trúc",
+      "confidence": 97.008362,
+      "box": [
+        1540,
+        1485,
+        62,
+        25
+      ]
+    },
+    {
+      "text": "wooden",
+      "confidence": 96.655937,
+      "box": [
+        1815,
+        1485,
+        120,
+        29
+      ]
+    },
+    {
+      "text": "furniture.",
+      "confidence": 96.73568,
+      "box": [
+        1949,
+        1485,
+        129,
+        29
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.892349,
+      "box": [
+        2099,
+        1486,
+        38,
+        27
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.389923,
+      "box": [
+        2150,
+        1485,
+        79,
+        35
+      ]
+    },
+    {
+      "text": "museum",
+      "confidence": 93.128441,
+      "box": [
+        2240,
+        1491,
+        133,
+        22
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 93.128441,
+      "box": [
+        2374,
+        1478,
+        16,
+        46
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 93.27401,
+      "box": [
+        2403,
+        1483,
+        47,
+        29
+      ]
+    },
+    {
+      "text": "symbol",
+      "confidence": 96.301628,
+      "box": [
+        2460,
+        1483,
+        110,
+        35
+      ]
+    },
+    {
+      "text": "connecting",
+      "confidence": 96.606979,
+      "box": [
+        2580,
+        1485,
+        166,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.730583,
+      "box": [
+        2757,
+        1482,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "city’s",
+      "confidence": 89.770126,
+      "box": [
+        2814,
+        1485,
+        76,
+        32
+      ]
+    },
+    {
+      "text": "độc",
+      "confidence": 96.439606,
+      "box": [
+        469,
+        1537,
+        62,
+        32
+      ]
+    },
+    {
+      "text": "đáo,",
+      "confidence": 96.646774,
+      "box": [
+        542,
+        1537,
+        70,
+        34
+      ]
+    },
+    {
+      "text": "nên",
+      "confidence": 96.597221,
+      "box": [
+        624,
+        1545,
+        58,
+        21
+      ]
+    },
+    {
+      "text": "tho",
+      "confidence": 93.257462,
+      "box": [
+        692,
+        1536,
+        56,
+        31
+      ]
+    },
+    {
+      "text": "bên",
+      "confidence": 96.159851,
+      "box": [
+        759,
+        1536,
+        57,
+        30
+      ]
+    },
+    {
+      "text": "bờ",
+      "confidence": 96.547447,
+      "box": [
+        829,
+        1536,
+        42,
+        30
+      ]
+    },
+    {
+      "text": "sông",
+      "confidence": 96.376717,
+      "box": [
+        880,
+        1544,
+        79,
+        29
+      ]
+    },
+    {
+      "text": "Han",
+      "confidence": 96.845039,
+      "box": [
+        972,
+        1537,
+        63,
+        28
+      ]
+    },
+    {
+      "text": "past",
+      "confidence": 96.72509,
+      "box": [
+        1814,
+        1541,
+        69,
+        32
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.72509,
+      "box": [
+        1892,
+        1536,
+        58,
+        31
+      ]
+    },
+    {
+      "text": "present",
+      "confidence": 96.946571,
+      "box": [
+        1959,
+        1540,
+        117,
+        33
+      ]
+    },
+    {
+      "text": "will",
+      "confidence": 96.094543,
+      "box": [
+        2088,
+        1535,
+        49,
+        30
+      ]
+    },
+    {
+      "text": "be",
+      "confidence": 93.286057,
+      "box": [
+        2147,
+        1536,
+        37,
+        29
+      ]
+    },
+    {
+      "text": "officially",
+      "confidence": 95.849075,
+      "box": [
+        2195,
+        1535,
+        131,
+        37
+      ]
+    },
+    {
+      "text": "inaugurated",
+      "confidence": 96.818153,
+      "box": [
+        2335,
+        1534,
+        181,
+        36
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.93689,
+      "box": [
+        2527,
+        1542,
+        24,
+        21
+      ]
+    },
+    {
+      "text": "2025",
+      "confidence": 96.923019,
+      "box": [
+        2562,
+        1535,
+        76,
+        28
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.752563,
+      "box": [
+        2648,
+        1533,
+        55,
+        29
+      ]
+    },
+    {
+      "text": "will",
+      "confidence": 96.678963,
+      "box": [
+        2714,
+        1533,
+        48,
+        29
+      ]
+    },
+    {
+      "text": "become",
+      "confidence": 96.295822,
+      "box": [
+        2773,
+        1533,
+        120,
+        29
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 91.294121,
+      "box": [
+        1816,
+        1598,
+        16,
+        21
+      ]
+    },
+    {
+      "text": "unique",
+      "confidence": 93.065002,
+      "box": [
+        1848,
+        1597,
+        111,
+        29
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.324501,
+      "box": [
+        1977,
+        1589,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "poetic",
+      "confidence": 96.324501,
+      "box": [
+        2053,
+        1589,
+        104,
+        36
+      ]
+    },
+    {
+      "text": "architectural",
+      "confidence": 96.288277,
+      "box": [
+        2174,
+        1587,
+        212,
+        30
+      ]
+    },
+    {
+      "text": "highlight",
+      "confidence": 96.925201,
+      "box": [
+        2403,
+        1586,
+        143,
+        36
+      ]
+    },
+    {
+      "text": "on",
+      "confidence": 97.005791,
+      "box": [
+        2563,
+        1594,
+        37,
+        20
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.924789,
+      "box": [
+        2618,
+        1586,
+        50,
+        29
+      ]
+    },
+    {
+      "text": "banks",
+      "confidence": 96.141022,
+      "box": [
+        2685,
+        1585,
+        96,
+        29
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.933556,
+      "box": [
+        2798,
+        1584,
+        34,
+        29
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.963127,
+      "box": [
+        2846,
+        1585,
+        50,
+        28
+      ]
+    },
+    {
+      "text": "Với",
+      "confidence": 96.878181,
+      "box": [
+        464,
+        1645,
+        54,
+        30
+      ]
+    },
+    {
+      "text": "gan",
+      "confidence": 96.299904,
+      "box": [
+        531,
+        1653,
+        60,
+        29
+      ]
+    },
+    {
+      "text": "3.000",
+      "confidence": 96.820999,
+      "box": [
+        605,
+        1645,
+        93,
+        30
+      ]
+    },
+    {
+      "text": "tài",
+      "confidence": 96.957741,
+      "box": [
+        711,
+        1647,
+        40,
+        27
+      ]
+    },
+    {
+      "text": "liệu",
+      "confidence": 97.016151,
+      "box": [
+        766,
+        1644,
+        56,
+        29
+      ]
+    },
+    {
+      "text": "hiện",
+      "confidence": 96.958138,
+      "box": [
+        836,
+        1643,
+        68,
+        38
+      ]
+    },
+    {
+      "text": "vật",
+      "confidence": 97.021797,
+      "box": [
+        917,
+        1647,
+        50,
+        25
+      ]
+    },
+    {
+      "text": "được",
+      "confidence": 96.799278,
+      "box": [
+        980,
+        1642,
+        84,
+        30
+      ]
+    },
+    {
+      "text": "lựa",
+      "confidence": 96.737534,
+      "box": [
+        1078,
+        1642,
+        49,
+        30
+      ]
+    },
+    {
+      "text": "chon",
+      "confidence": 96.049286,
+      "box": [
+        1140,
+        1641,
+        80,
+        30
+      ]
+    },
+    {
+      "text": "kỹ",
+      "confidence": 96.902412,
+      "box": [
+        1235,
+        1641,
+        33,
+        37
+      ]
+    },
+    {
+      "text": "càng",
+      "confidence": 97.018967,
+      "box": [
+        1281,
+        1649,
+        78,
+        29
+      ]
+    },
+    {
+      "text": "từ",
+      "confidence": 96.579987,
+      "box": [
+        1370,
+        1644,
+        37,
+        26
+      ]
+    },
+    {
+      "text": "hon",
+      "confidence": 96.905174,
+      "box": [
+        1419,
+        1640,
+        58,
+        30
+      ]
+    },
+    {
+      "text": "27.000",
+      "confidence": 96.83786,
+      "box": [
+        1491,
+        1641,
+        111,
+        28
+      ]
+    },
+    {
+      "text": "Han",
+      "confidence": 93.203041,
+      "box": [
+        1817,
+        1644,
+        63,
+        28
+      ]
+    },
+    {
+      "text": "River",
+      "confidence": 92.528358,
+      "box": [
+        1895,
+        1644,
+        84,
+        27
+      ]
+    },
+    {
+      "text": "tài",
+      "confidence": 96.78141,
+      "box": [
+        461,
+        1703,
+        41,
+        27
+      ]
+    },
+    {
+      "text": "liệu",
+      "confidence": 96.757988,
+      "box": [
+        523,
+        1699,
+        58,
+        31
+      ]
+    },
+    {
+      "text": "hiện",
+      "confidence": 96.899529,
+      "box": [
+        600,
+        1698,
+        70,
+        31
+      ]
+    },
+    {
+      "text": "vật,",
+      "confidence": 95.73774,
+      "box": [
+        689,
+        1701,
+        51,
+        27
+      ]
+    },
+    {
+      "text": "kết",
+      "confidence": 96.694038,
+      "box": [
+        767,
+        1698,
+        50,
+        30
+      ]
+    },
+    {
+      "text": "hợp",
+      "confidence": 96.78241,
+      "box": [
+        836,
+        1697,
+        61,
+        37
+      ]
+    },
+    {
+      "text": "phong",
+      "confidence": 96.362564,
+      "box": [
+        917,
+        1696,
+        103,
+        38
+      ]
+    },
+    {
+      "text": "cách",
+      "confidence": 96.117287,
+      "box": [
+        1040,
+        1696,
+        78,
+        30
+      ]
+    },
+    {
+      "text": "trưng",
+      "confidence": 96.772873,
+      "box": [
+        1136,
+        1699,
+        91,
+        33
+      ]
+    },
+    {
+      "text": "bày",
+      "confidence": 96.712204,
+      "box": [
+        1246,
+        1694,
+        58,
+        38
+      ]
+    },
+    {
+      "text": "truyền",
+      "confidence": 69.99855,
+      "box": [
+        1320,
+        1697,
+        104,
+        34
+      ]
+    },
+    {
+      "text": "thống",
+      "confidence": 94.091911,
+      "box": [
+        1442,
+        1693,
+        95,
+        37
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 96.568085,
+      "box": [
+        1556,
+        1698,
+        45,
+        25
+      ]
+    },
+    {
+      "text": "With",
+      "confidence": 92.998978,
+      "box": [
+        1820,
+        1748,
+        66,
+        31
+      ]
+    },
+    {
+      "text": "nearly",
+      "confidence": 93.250153,
+      "box": [
+        1899,
+        1748,
+        95,
+        37
+      ]
+    },
+    {
+      "text": "3,000",
+      "confidence": 93.278572,
+      "box": [
+        2005,
+        1748,
+        84,
+        29
+      ]
+    },
+    {
+      "text": "carefully",
+      "confidence": 93.109314,
+      "box": [
+        2102,
+        1746,
+        133,
+        36
+      ]
+    },
+    {
+      "text": "selected",
+      "confidence": 92.953293,
+      "box": [
+        2246,
+        1744,
+        131,
+        33
+      ]
+    },
+    {
+      "text": "artifacts",
+      "confidence": 92.956154,
+      "box": [
+        2388,
+        1743,
+        127,
+        31
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 93.304153,
+      "box": [
+        2528,
+        1742,
+        70,
+        29
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 92.850136,
+      "box": [
+        2606,
+        1736,
+        14,
+        53
+      ]
+    },
+    {
+      "text": "collection",
+      "confidence": 89.554176,
+      "box": [
+        2641,
+        1741,
+        145,
+        30
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 91.993141,
+      "box": [
+        2799,
+        1740,
+        34,
+        29
+      ]
+    },
+    {
+      "text": "over",
+      "confidence": 91.993141,
+      "box": [
+        2841,
+        1747,
+        66,
+        22
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 96.611038,
+      "box": [
+        460,
+        1762,
+        84,
+        30
+      ]
+    },
+    {
+      "text": "nghệ",
+      "confidence": 96.095245,
+      "box": [
+        563,
+        1752,
+        83,
+        39
+      ]
+    },
+    {
+      "text": "trình",
+      "confidence": 96.638306,
+      "box": [
+        663,
+        1752,
+        78,
+        31
+      ]
+    },
+    {
+      "text": "chiếu",
+      "confidence": 89.687584,
+      "box": [
+        760,
+        1752,
+        91,
+        30
+      ]
+    },
+    {
+      "text": "hiện",
+      "confidence": 96.5681,
+      "box": [
+        870,
+        1751,
+        69,
+        31
+      ]
+    },
+    {
+      "text": "đại,",
+      "confidence": 96.678398,
+      "box": [
+        958,
+        1750,
+        51,
+        30
+      ]
+    },
+    {
+      "text": "Bảo",
+      "confidence": 96.212654,
+      "box": [
+        1036,
+        1752,
+        64,
+        28
+      ]
+    },
+    {
+      "text": "tàng",
+      "confidence": 96.698616,
+      "box": [
+        1116,
+        1753,
+        75,
+        33
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.692078,
+      "box": [
+        1208,
+        1751,
+        44,
+        28
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.277893,
+      "box": [
+        1271,
+        1750,
+        87,
+        34
+      ]
+    },
+    {
+      "text": "sẽ",
+      "confidence": 96.822372,
+      "box": [
+        1376,
+        1755,
+        36,
+        22
+      ]
+    },
+    {
+      "text": "gợi",
+      "confidence": 96.593933,
+      "box": [
+        1430,
+        1754,
+        49,
+        30
+      ]
+    },
+    {
+      "text": "mở",
+      "confidence": 96.730133,
+      "box": [
+        1498,
+        1744,
+        53,
+        32
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.069923,
+      "box": [
+        1566,
+        1754,
+        35,
+        21
+      ]
+    },
+    {
+      "text": "dẫn",
+      "confidence": 93.305527,
+      "box": [
+        457,
+        1809,
+        63,
+        30
+      ]
+    },
+    {
+      "text": "dat",
+      "confidence": 96.702805,
+      "box": [
+        537,
+        1808,
+        55,
+        30
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 96.745834,
+      "box": [
+        607,
+        1815,
+        83,
+        30
+      ]
+    },
+    {
+      "text": "chúng",
+      "confidence": 96.679688,
+      "box": [
+        706,
+        1806,
+        104,
+        37
+      ]
+    },
+    {
+      "text": "tham",
+      "confidence": 96.375031,
+      "box": [
+        826,
+        1806,
+        86,
+        30
+      ]
+    },
+    {
+      "text": "quan",
+      "confidence": 96.945068,
+      "box": [
+        929,
+        1813,
+        82,
+        30
+      ]
+    },
+    {
+      "text": "trải",
+      "confidence": 96.693672,
+      "box": [
+        1027,
+        1808,
+        55,
+        26
+      ]
+    },
+    {
+      "text": "nghiệm,",
+      "confidence": 97.013145,
+      "box": [
+        1100,
+        1803,
+        125,
+        37
+      ]
+    },
+    {
+      "text": "tìm",
+      "confidence": 96.637032,
+      "box": [
+        1250,
+        1802,
+        54,
+        31
+      ]
+    },
+    {
+      "text": "hiểu",
+      "confidence": 96.854454,
+      "box": [
+        1322,
+        1802,
+        69,
+        30
+      ]
+    },
+    {
+      "text": "về",
+      "confidence": 96.850113,
+      "box": [
+        1408,
+        1809,
+        38,
+        22
+      ]
+    },
+    {
+      "text": "tự",
+      "confidence": 96.726692,
+      "box": [
+        1460,
+        1804,
+        36,
+        27
+      ]
+    },
+    {
+      "text": "nhiên",
+      "confidence": 97.014496,
+      "box": [
+        1511,
+        1800,
+        91,
+        30
+      ]
+    },
+    {
+      "text": "27,000,",
+      "confidence": 95.504631,
+      "box": [
+        1817,
+        1802,
+        107,
+        30
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 93.128082,
+      "box": [
+        1941,
+        1801,
+        48,
+        30
+      ]
+    },
+    {
+      "text": "museum",
+      "confidence": 92.566765,
+      "box": [
+        1999,
+        1807,
+        134,
+        23
+      ]
+    },
+    {
+      "text": "employs",
+      "confidence": 92.11982,
+      "box": [
+        2145,
+        1798,
+        130,
+        38
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 93.289764,
+      "box": [
+        2286,
+        1805,
+        15,
+        22
+      ]
+    },
+    {
+      "text": "blend",
+      "confidence": 93.14753,
+      "box": [
+        2312,
+        1796,
+        85,
+        31
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 93.306213,
+      "box": [
+        2406,
+        1796,
+        34,
+        30
+      ]
+    },
+    {
+      "text": "traditional",
+      "confidence": 92.568443,
+      "box": [
+        2446,
+        1794,
+        155,
+        32
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 93.305061,
+      "box": [
+        2611,
+        1794,
+        56,
+        30
+      ]
+    },
+    {
+      "text": "modern",
+      "confidence": 92.627045,
+      "box": [
+        2676,
+        1794,
+        115,
+        29
+      ]
+    },
+    {
+      "text": "display",
+      "confidence": 93.059143,
+      "box": [
+        2803,
+        1792,
+        107,
+        37
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 97.020706,
+      "box": [
+        455,
+        1872,
+        37,
+        22
+      ]
+    },
+    {
+      "text": "lịch",
+      "confidence": 96.369774,
+      "box": [
+        511,
+        1863,
+        59,
+        37
+      ]
+    },
+    {
+      "text": "sử",
+      "confidence": 97.014191,
+      "box": [
+        587,
+        1869,
+        45,
+        24
+      ]
+    },
+    {
+      "text": "xã",
+      "confidence": 96.904434,
+      "box": [
+        646,
+        1870,
+        38,
+        23
+      ]
+    },
+    {
+      "text": "hội",
+      "confidence": 96.565361,
+      "box": [
+        703,
+        1861,
+        50,
+        37
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.565361,
+      "box": [
+        771,
+        1868,
+        61,
+        23
+      ]
+    },
+    {
+      "text": "Đà",
+      "confidence": 91.187042,
+      "box": [
+        847,
+        1862,
+        46,
+        28
+      ]
+    },
+    {
+      "text": "Nẵng,",
+      "confidence": 96.812088,
+      "box": [
+        911,
+        1861,
+        97,
+        36
+      ]
+    },
+    {
+      "text": "những",
+      "confidence": 96.501663,
+      "box": [
+        1025,
+        1858,
+        107,
+        37
+      ]
+    },
+    {
+      "text": "câu",
+      "confidence": 96.848381,
+      "box": [
+        1149,
+        1865,
+        59,
+        23
+      ]
+    },
+    {
+      "text": "chuyện",
+      "confidence": 96.778877,
+      "box": [
+        1226,
+        1857,
+        120,
+        37
+      ]
+    },
+    {
+      "text": "về",
+      "confidence": 91.017998,
+      "box": [
+        1362,
+        1863,
+        37,
+        22
+      ]
+    },
+    {
+      "text": "văn",
+      "confidence": 96.885208,
+      "box": [
+        1415,
+        1863,
+        57,
+        22
+      ]
+    },
+    {
+      "text": "hóa",
+      "confidence": 96.255066,
+      "box": [
+        1490,
+        1855,
+        60,
+        30
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 91.274986,
+      "box": [
+        1566,
+        1861,
+        36,
+        23
+      ]
+    },
+    {
+      "text": "techniques",
+      "confidence": 95.901443,
+      "box": [
+        1820,
+        1855,
+        171,
+        37
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.956314,
+      "box": [
+        2005,
+        1858,
+        30,
+        25
+      ]
+    },
+    {
+      "text": "offer",
+      "confidence": 95.705574,
+      "box": [
+        2050,
+        1853,
+        75,
+        30
+      ]
+    },
+    {
+      "text": "visitors",
+      "confidence": 96.553772,
+      "box": [
+        2138,
+        1852,
+        112,
+        30
+      ]
+    },
+    {
+      "text": "an",
+      "confidence": 93.300056,
+      "box": [
+        2264,
+        1859,
+        36,
+        21
+      ]
+    },
+    {
+      "text": "immersive",
+      "confidence": 96.183617,
+      "box": [
+        2315,
+        1857,
+        160,
+        24
+      ]
+    },
+    {
+      "text": "experience",
+      "confidence": 96.99398,
+      "box": [
+        2489,
+        1849,
+        166,
+        37
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.467552,
+      "box": [
+        2669,
+        1846,
+        33,
+        30
+      ]
+    },
+    {
+      "text": "exploring",
+      "confidence": 96.146446,
+      "box": [
+        2712,
+        1846,
+        140,
+        36
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 97.003532,
+      "box": [
+        2865,
+        1845,
+        47,
+        29
+      ]
+    },
+    {
+      "text": "phong",
+      "confidence": 96.87941,
+      "box": [
+        453,
+        1919,
+        108,
+        39
+      ]
+    },
+    {
+      "text": "tục",
+      "confidence": 96.750862,
+      "box": [
+        580,
+        1921,
+        54,
+        27
+      ]
+    },
+    {
+      "text": "tap",
+      "confidence": 96.791489,
+      "box": [
+        652,
+        1921,
+        55,
+        34
+      ]
+    },
+    {
+      "text": "quán",
+      "confidence": 96.804695,
+      "box": [
+        726,
+        1924,
+        85,
+        30
+      ]
+    },
+    {
+      "text": "dia",
+      "confidence": 93.254135,
+      "box": [
+        830,
+        1915,
+        51,
+        30
+      ]
+    },
+    {
+      "text": "phương",
+      "confidence": 96.447533,
+      "box": [
+        902,
+        1915,
+        131,
+        38
+      ]
+    },
+    {
+      "text": "cũng",
+      "confidence": 96.919983,
+      "box": [
+        1052,
+        1921,
+        83,
+        29
+      ]
+    },
+    {
+      "text": "như",
+      "confidence": 96.811874,
+      "box": [
+        1155,
+        1912,
+        60,
+        30
+      ]
+    },
+    {
+      "text": "khát",
+      "confidence": 96.422424,
+      "box": [
+        1237,
+        1911,
+        73,
+        30
+      ]
+    },
+    {
+      "text": "vọng",
+      "confidence": 96.935051,
+      "box": [
+        1328,
+        1918,
+        81,
+        29
+      ]
+    },
+    {
+      "text": "đi",
+      "confidence": 95.318199,
+      "box": [
+        1428,
+        1909,
+        29,
+        30
+      ]
+    },
+    {
+      "text": "lên",
+      "confidence": 96.34301,
+      "box": [
+        1477,
+        1909,
+        47,
+        31
+      ]
+    },
+    {
+      "text": "cua",
+      "confidence": 96.910385,
+      "box": [
+        1543,
+        1915,
+        59,
+        23
+      ]
+    },
+    {
+      "text": "natural",
+      "confidence": 96.394676,
+      "box": [
+        1819,
+        1908,
+        110,
+        33
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 93.2929,
+      "box": [
+        1944,
+        1908,
+        58,
+        30
+      ]
+    },
+    {
+      "text": "socio-historical",
+      "confidence": 92.735641,
+      "box": [
+        2017,
+        1905,
+        240,
+        32
+      ]
+    },
+    {
+      "text": "aspects",
+      "confidence": 96.424805,
+      "box": [
+        2271,
+        1907,
+        122,
+        34
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.005882,
+      "box": [
+        2409,
+        1902,
+        32,
+        30
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.931808,
+      "box": [
+        2455,
+        1904,
+        38,
+        28
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.804001,
+      "box": [
+        2509,
+        1903,
+        80,
+        35
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.906471,
+      "box": [
+        2605,
+        1900,
+        56,
+        30
+      ]
+    },
+    {
+      "text": "its",
+      "confidence": 96.876709,
+      "box": [
+        2676,
+        1903,
+        34,
+        26
+      ]
+    },
+    {
+      "text": "customs,",
+      "confidence": 96.335396,
+      "box": [
+        2726,
+        1902,
+        132,
+        26
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 96.335396,
+      "box": [
+        2881,
+        1905,
+        33,
+        22
+      ]
+    },
+    {
+      "text": "một",
+      "confidence": 96.284065,
+      "box": [
+        451,
+        1978,
+        67,
+        27
+      ]
+    },
+    {
+      "text": "trong",
+      "confidence": 93.288681,
+      "box": [
+        531,
+        1978,
+        88,
+        33
+      ]
+    },
+    {
+      "text": "những",
+      "confidence": 96.312881,
+      "box": [
+        633,
+        1972,
+        105,
+        37
+      ]
+    },
+    {
+      "text": "phố",
+      "confidence": 96.753036,
+      "box": [
+        751,
+        1971,
+        60,
+        39
+      ]
+    },
+    {
+      "text": "cảng",
+      "confidence": 96.860893,
+      "box": [
+        824,
+        1978,
+        79,
+        30
+      ]
+    },
+    {
+      "text": "lớn",
+      "confidence": 96.14019,
+      "box": [
+        917,
+        1969,
+        47,
+        30
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.930595,
+      "box": [
+        978,
+        1977,
+        57,
+        22
+      ]
+    },
+    {
+      "text": "Châu",
+      "confidence": 96.815681,
+      "box": [
+        1048,
+        1968,
+        83,
+        30
+      ]
+    },
+    {
+      "text": "Á",
+      "confidence": 93.155128,
+      "box": [
+        1143,
+        1961,
+        22,
+        37
+      ]
+    },
+    {
+      "text": "well",
+      "confidence": 96.43322,
+      "box": [
+        1822,
+        1963,
+        60,
+        31
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 95.684372,
+      "box": [
+        1893,
+        1971,
+        35,
+        23
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 95.684372,
+      "box": [
+        1939,
+        1961,
+        49,
+        31
+      ]
+    },
+    {
+      "text": "rising",
+      "confidence": 96.975204,
+      "box": [
+        1999,
+        1969,
+        85,
+        29
+      ]
+    },
+    {
+      "text": "aspirations",
+      "confidence": 96.31974,
+      "box": [
+        2095,
+        1961,
+        174,
+        36
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.001556,
+      "box": [
+        2280,
+        1957,
+        34,
+        31
+      ]
+    },
+    {
+      "text": "one",
+      "confidence": 97.013191,
+      "box": [
+        2322,
+        1965,
+        56,
+        22
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.898453,
+      "box": [
+        2388,
+        1956,
+        34,
+        30
+      ]
+    },
+    {
+      "text": "Asia",
+      "confidence": 93.28067,
+      "box": [
+        2428,
+        1958,
+        67,
+        28
+      ]
+    },
+    {
+      "text": "s",
+      "confidence": 92.165833,
+      "box": [
+        2506,
+        1963,
+        15,
+        22
+      ]
+    },
+    {
+      "text": "major",
+      "confidence": 96.471687,
+      "box": [
+        2532,
+        1956,
+        90,
+        35
+      ]
+    },
+    {
+      "text": "ports",
+      "confidence": 96.915039,
+      "box": [
+        2630,
+        1957,
+        79,
+        34
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4032,
+    3024
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.986,
+  "mean_confidence": 94.75,
+  "status": "text_detected"
+}

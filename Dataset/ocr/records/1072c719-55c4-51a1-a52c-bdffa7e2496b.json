@@ -1,0 +1,1017 @@
+{
+  "asset_id": "1072c719-55c4-51a1-a52c-bdffa7e2496b",
+  "filename": "IMG_9059.JPG",
+  "source_path": "topics/05_van_hoa_sinh_ke_va_nghe_thuat/TOPIC037_nghe_thuat_trinh_dien/IMG_9059.JPG",
+  "source_sha256": "b6b82ebdbcee4d44f8315e732fe1561e9b3c1e83a9e014d84f317f99dfab77ab",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "vết\n\neae\n\nSi\n\ntt\n\na\n\nlánh hát ở\n\nse\n\nHae\n\n) đỊ\n\ném\n\nit\n\nie\n\ng mot\n\nvà) t\n\nNG\n\nhứng\n\n=Ắ\n\nđc\n\n'phạm vi\n\nvy\n\nth,\n\nội dung\n\ntự\n\n&..ò\n\n‘f\n\nae\n\nat\n\n+\n\noe\n\ncee\n\n==\n\nô\n\na\n\nLN:\n\na Nang,\n\noi\n\n8A\n\nOped into\n\nBo\n\nWy ie\n\nwy\n\nul\n\nid\n\nq\n\nnal tuong\n\nTne}\n\nThis\n\nif\n\ney\n\na\n\nlự\n\nrds\n\nAy\n\ni Chol to.\n\n1A,\n\nmelodieg: iy\n\nch\n\nfro\n\ned\n\nÊ Of chance\n\nane\n\nwe\n\nIle\n\ntim\n\nOey\n\nDue to\n\nife\n\nDjOyable em\n\nna\n\nOtion\n\nBaas\n\nf\n\nPm with dị;\n\ntinctive\n\nSa,\n\n¬\n\n`\n\nPOX\n\n\\\\",
+  "words": [
+    {
+      "text": "vết",
+      "confidence": 58.194435,
+      "box": [
+        2304,
+        1157,
+        22,
+        13
+      ]
+    },
+    {
+      "text": "eae",
+      "confidence": 36.558872,
+      "box": [
+        2294,
+        1167,
+        47,
+        24
+      ]
+    },
+    {
+      "text": "Si",
+      "confidence": 49.222332,
+      "box": [
+        2317,
+        1195,
+        25,
+        14
+      ]
+    },
+    {
+      "text": "tt",
+      "confidence": 85.003426,
+      "box": [
+        291,
+        1276,
+        18,
+        15
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 71.687424,
+      "box": [
+        1453,
+        1257,
+        29,
+        39
+      ]
+    },
+    {
+      "text": "lánh",
+      "confidence": 95.637222,
+      "box": [
+        1474,
+        1300,
+        66,
+        35
+      ]
+    },
+    {
+      "text": "hát",
+      "confidence": 96.992073,
+      "box": [
+        1547,
+        1288,
+        53,
+        52
+      ]
+    },
+    {
+      "text": "ở",
+      "confidence": 96.992073,
+      "box": [
+        1614,
+        1292,
+        23,
+        35
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 28.995049,
+      "box": [
+        1487,
+        1349,
+        12,
+        14
+      ]
+    },
+    {
+      "text": "Hae",
+      "confidence": 28.815598,
+      "box": [
+        313,
+        1377,
+        30,
+        18
+      ]
+    },
+    {
+      "text": ")",
+      "confidence": 75.945168,
+      "box": [
+        1469,
+        1365,
+        8,
+        11
+      ]
+    },
+    {
+      "text": "đỊ",
+      "confidence": 62.612617,
+      "box": [
+        1490,
+        1361,
+        18,
+        27
+      ]
+    },
+    {
+      "text": "ém",
+      "confidence": 92.298172,
+      "box": [
+        1582,
+        1346,
+        52,
+        37
+      ]
+    },
+    {
+      "text": "it",
+      "confidence": 71.611038,
+      "box": [
+        330,
+        1393,
+        15,
+        27
+      ]
+    },
+    {
+      "text": "ie",
+      "confidence": 38.698647,
+      "box": [
+        1465,
+        1474,
+        16,
+        17
+      ]
+    },
+    {
+      "text": "g",
+      "confidence": 92.591133,
+      "box": [
+        1533,
+        1515,
+        18,
+        30
+      ]
+    },
+    {
+      "text": "mot",
+      "confidence": 95.285378,
+      "box": [
+        1565,
+        1509,
+        68,
+        34
+      ]
+    },
+    {
+      "text": "và)",
+      "confidence": 26.98407,
+      "box": [
+        1367,
+        1531,
+        23,
+        35
+      ]
+    },
+    {
+      "text": "t",
+      "confidence": 80.614799,
+      "box": [
+        1390,
+        1551,
+        22,
+        40
+      ]
+    },
+    {
+      "text": "NG",
+      "confidence": 68.776649,
+      "box": [
+        1462,
+        1571,
+        28,
+        19
+      ]
+    },
+    {
+      "text": "hứng",
+      "confidence": 96.265617,
+      "box": [
+        1548,
+        1557,
+        84,
+        40
+      ]
+    },
+    {
+      "text": "=Ắ",
+      "confidence": 41.681423,
+      "box": [
+        2295,
+        1588,
+        30,
+        10
+      ]
+    },
+    {
+      "text": "đc",
+      "confidence": 36.781715,
+      "box": [
+        436,
+        1635,
+        26,
+        23
+      ]
+    },
+    {
+      "text": "'phạm",
+      "confidence": 81.516006,
+      "box": [
+        1484,
+        1616,
+        104,
+        33
+      ]
+    },
+    {
+      "text": "vi",
+      "confidence": 96.762032,
+      "box": [
+        1604,
+        1619,
+        27,
+        23
+      ]
+    },
+    {
+      "text": "vy",
+      "confidence": 30.400253,
+      "box": [
+        1560,
+        1647,
+        12,
+        10
+      ]
+    },
+    {
+      "text": "th,",
+      "confidence": 2.399063,
+      "box": [
+        461,
+        1643,
+        22,
+        28
+      ]
+    },
+    {
+      "text": "ội",
+      "confidence": 83.580193,
+      "box": [
+        1508,
+        1660,
+        25,
+        32
+      ]
+    },
+    {
+      "text": "dung",
+      "confidence": 96.152878,
+      "box": [
+        1568,
+        1668,
+        65,
+        34
+      ]
+    },
+    {
+      "text": "tự",
+      "confidence": 68.269913,
+      "box": [
+        383,
+        1732,
+        34,
+        17
+      ]
+    },
+    {
+      "text": "&..ò",
+      "confidence": 0.0,
+      "box": [
+        447,
+        1743,
+        43,
+        12
+      ]
+    },
+    {
+      "text": "‘f",
+      "confidence": 47.18544,
+      "box": [
+        1323,
+        1674,
+        64,
+        81
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 51.342003,
+      "box": [
+        2283,
+        1772,
+        117,
+        20
+      ]
+    },
+    {
+      "text": "at",
+      "confidence": 16.086807,
+      "box": [
+        419,
+        1812,
+        24,
+        7
+      ]
+    },
+    {
+      "text": "+",
+      "confidence": 58.256664,
+      "box": [
+        1376,
+        1815,
+        13,
+        12
+      ]
+    },
+    {
+      "text": "oe",
+      "confidence": 57.557011,
+      "box": [
+        1463,
+        1817,
+        22,
+        21
+      ]
+    },
+    {
+      "text": "cee",
+      "confidence": 19.037033,
+      "box": [
+        1487,
+        1840,
+        22,
+        14
+      ]
+    },
+    {
+      "text": "==",
+      "confidence": 80.343704,
+      "box": [
+        2282,
+        1844,
+        118,
+        25
+      ]
+    },
+    {
+      "text": "ô",
+      "confidence": 71.812637,
+      "box": [
+        395,
+        1845,
+        55,
+        57
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 30.288109,
+      "box": [
+        553,
+        1942,
+        12,
+        8
+      ]
+    },
+    {
+      "text": "LN:",
+      "confidence": 53.84827,
+      "box": [
+        984,
+        1935,
+        37,
+        16
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 76.090546,
+      "box": [
+        1499,
+        1977,
+        23,
+        27
+      ]
+    },
+    {
+      "text": "Nang,",
+      "confidence": 96.667389,
+      "box": [
+        1535,
+        1971,
+        96,
+        43
+      ]
+    },
+    {
+      "text": "oi",
+      "confidence": 69.053391,
+      "box": [
+        1013,
+        2026,
+        20,
+        21
+      ]
+    },
+    {
+      "text": "8A",
+      "confidence": 0.0,
+      "box": [
+        1339,
+        2055,
+        30,
+        14
+      ]
+    },
+    {
+      "text": "Oped",
+      "confidence": 85.187515,
+      "box": [
+        1470,
+        2016,
+        84,
+        41
+      ]
+    },
+    {
+      "text": "into",
+      "confidence": 68.941948,
+      "box": [
+        1567,
+        2026,
+        66,
+        34
+      ]
+    },
+    {
+      "text": "Bo",
+      "confidence": 52.088741,
+      "box": [
+        2281,
+        2016,
+        119,
+        44
+      ]
+    },
+    {
+      "text": "Wy",
+      "confidence": 1.613251,
+      "box": [
+        361,
+        2033,
+        17,
+        24
+      ]
+    },
+    {
+      "text": "ie",
+      "confidence": 57.123455,
+      "box": [
+        418,
+        2043,
+        30,
+        31
+      ]
+    },
+    {
+      "text": "wy",
+      "confidence": 23.623932,
+      "box": [
+        925,
+        2031,
+        37,
+        74
+      ]
+    },
+    {
+      "text": "ul",
+      "confidence": 59.6362,
+      "box": [
+        1149,
+        2053,
+        19,
+        28
+      ]
+    },
+    {
+      "text": "id",
+      "confidence": 52.903778,
+      "box": [
+        423,
+        2078,
+        58,
+        42
+      ]
+    },
+    {
+      "text": "q",
+      "confidence": 88.474869,
+      "box": [
+        875,
+        2060,
+        46,
+        56
+      ]
+    },
+    {
+      "text": "nal",
+      "confidence": 86.140358,
+      "box": [
+        1474,
+        2072,
+        52,
+        31
+      ]
+    },
+    {
+      "text": "tuong",
+      "confidence": 92.554077,
+      "box": [
+        1533,
+        2078,
+        100,
+        41
+      ]
+    },
+    {
+      "text": "Tne}",
+      "confidence": 24.805824,
+      "box": [
+        434,
+        2118,
+        46,
+        12
+      ]
+    },
+    {
+      "text": "This",
+      "confidence": 88.724785,
+      "box": [
+        298,
+        2162,
+        41,
+        27
+      ]
+    },
+    {
+      "text": "if",
+      "confidence": 51.215664,
+      "box": [
+        849,
+        2166,
+        13,
+        25
+      ]
+    },
+    {
+      "text": "ey",
+      "confidence": 41.345909,
+      "box": [
+        960,
+        2160,
+        22,
+        20
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 0.0,
+      "box": [
+        1330,
+        2159,
+        11,
+        11
+      ]
+    },
+    {
+      "text": "lự",
+      "confidence": 89.891884,
+      "box": [
+        848,
+        2189,
+        19,
+        11
+      ]
+    },
+    {
+      "text": "rds",
+      "confidence": 39.271507,
+      "box": [
+        1116,
+        2159,
+        66,
+        54
+      ]
+    },
+    {
+      "text": "Ay",
+      "confidence": 59.858063,
+      "box": [
+        461,
+        2204,
+        14,
+        14
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 44.965511,
+      "box": [
+        569,
+        2198,
+        10,
+        24
+      ]
+    },
+    {
+      "text": "Chol",
+      "confidence": 44.965511,
+      "box": [
+        590,
+        2176,
+        48,
+        62
+      ]
+    },
+    {
+      "text": "to.",
+      "confidence": 63.124157,
+      "box": [
+        643,
+        2180,
+        42,
+        44
+      ]
+    },
+    {
+      "text": "1A,",
+      "confidence": 63.465374,
+      "box": [
+        1129,
+        2231,
+        22,
+        9
+      ]
+    },
+    {
+      "text": "melodieg:",
+      "confidence": 24.366058,
+      "box": [
+        298,
+        2193,
+        102,
+        53
+      ]
+    },
+    {
+      "text": "iy",
+      "confidence": 38.541679,
+      "box": [
+        425,
+        2196,
+        35,
+        23
+      ]
+    },
+    {
+      "text": "ch",
+      "confidence": 71.747498,
+      "box": [
+        465,
+        2231,
+        27,
+        22
+      ]
+    },
+    {
+      "text": "fro",
+      "confidence": 95.944351,
+      "box": [
+        777,
+        2225,
+        34,
+        30
+      ]
+    },
+    {
+      "text": "ed",
+      "confidence": 91.059525,
+      "box": [
+        1187,
+        2229,
+        33,
+        35
+      ]
+    },
+    {
+      "text": "Ê",
+      "confidence": 87.345734,
+      "box": [
+        1311,
+        2206,
+        17,
+        26
+      ]
+    },
+    {
+      "text": "Of",
+      "confidence": 96.675667,
+      "box": [
+        1339,
+        2206,
+        36,
+        30
+      ]
+    },
+    {
+      "text": "chance",
+      "confidence": 96.952438,
+      "box": [
+        1382,
+        2210,
+        118,
+        42
+      ]
+    },
+    {
+      "text": "ane",
+      "confidence": 0.0,
+      "box": [
+        411,
+        2249,
+        55,
+        26
+      ]
+    },
+    {
+      "text": "we",
+      "confidence": 43.589188,
+      "box": [
+        673,
+        2250,
+        25,
+        15
+      ]
+    },
+    {
+      "text": "Ile",
+      "confidence": 46.175865,
+      "box": [
+        914,
+        2250,
+        21,
+        19
+      ]
+    },
+    {
+      "text": "tim",
+      "confidence": 71.558968,
+      "box": [
+        1031,
+        2264,
+        43,
+        23
+      ]
+    },
+    {
+      "text": "Oey",
+      "confidence": 15.027496,
+      "box": [
+        1275,
+        2273,
+        22,
+        13
+      ]
+    },
+    {
+      "text": "Due",
+      "confidence": 96.291855,
+      "box": [
+        1522,
+        2227,
+        64,
+        34
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.802673,
+      "box": [
+        1601,
+        2239,
+        31,
+        27
+      ]
+    },
+    {
+      "text": "ife",
+      "confidence": 8.845581,
+      "box": [
+        1135,
+        2286,
+        25,
+        17
+      ]
+    },
+    {
+      "text": "DjOyable",
+      "confidence": 12.481842,
+      "box": [
+        1315,
+        2253,
+        134,
+        42
+      ]
+    },
+    {
+      "text": "em",
+      "confidence": 96.752708,
+      "box": [
+        1464,
+        2277,
+        48,
+        26
+      ]
+    },
+    {
+      "text": "na",
+      "confidence": 64.979446,
+      "box": [
+        1197,
+        2290,
+        48,
+        26
+      ]
+    },
+    {
+      "text": "Otion",
+      "confidence": 90.352005,
+      "box": [
+        1516,
+        2283,
+        84,
+        32
+      ]
+    },
+    {
+      "text": "Baas",
+      "confidence": 35.149277,
+      "box": [
+        2278,
+        2278,
+        120,
+        41
+      ]
+    },
+    {
+      "text": "f",
+      "confidence": 16.629562,
+      "box": [
+        1292,
+        2286,
+        17,
+        80
+      ]
+    },
+    {
+      "text": "Pm",
+      "confidence": 70.353058,
+      "box": [
+        1316,
+        2296,
+        41,
+        69
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 79.488663,
+      "box": [
+        1374,
+        2313,
+        65,
+        31
+      ]
+    },
+    {
+      "text": "dị;",
+      "confidence": 90.595543,
+      "box": [
+        1457,
+        2320,
+        47,
+        32
+      ]
+    },
+    {
+      "text": "tinctive",
+      "confidence": 91.542084,
+      "box": [
+        1508,
+        2328,
+        124,
+        41
+      ]
+    },
+    {
+      "text": "Sa,",
+      "confidence": 35.586281,
+      "box": [
+        492,
+        2397,
+        16,
+        7
+      ]
+    },
+    {
+      "text": "¬",
+      "confidence": 61.368732,
+      "box": [
+        911,
+        2483,
+        19,
+        14
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 86.70916,
+      "box": [
+        2277,
+        2583,
+        41,
+        53
+      ]
+    },
+    {
+      "text": "POX",
+      "confidence": 38.826958,
+      "box": [
+        2343,
+        2654,
+        34,
+        9
+      ]
+    },
+    {
+      "text": "\\\\",
+      "confidence": 58.613327,
+      "box": [
+        2288,
+        2843,
+        43,
+        48
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    3024,
+    4032
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.515,
+  "mean_confidence": 59.65,
+  "status": "text_detected"
+}

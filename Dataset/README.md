@@ -36,3 +36,7 @@ Mã TOPIC001 đến TOPIC038 là mã chủ đề do dự án cấp theo thứ t�
 ## Kiểm tra và khôi phục
 
 Từ thư mục dự án chạy `python3 scripts/organize_museum_dataset.py --verify` để đối chiếu đủ ảnh, kích thước, SHA-256 và khóa liên kết. Chạy lại `--apply` khi đã sắp xếp chỉ kiểm tra, không di chuyển lần nữa. `source_manifest.json` lưu tên gốc và vị trí mới của từng ảnh; dùng các cặp đường dẫn đó để đưa ảnh về cấu trúc phẳng khi cần. Nếu dừng giữa quá trình di chuyển, mỗi ảnh phải có ở đường dẫn gốc hoặc đường dẫn mới ghi trong manifest; xử lý phần còn lại dựa trên manifest trước khi chạy lại.
+
+## OCR và RAG cục bộ
+
+Xem [quy trình OCR, duyệt dữ liệu và tìm kiếm](../docs/rag-workflow.md). `ocr/` là bản tự động chưa xác minh; `review/` là bản để đối chiếu; chỉ `curated/` với trạng thái verified được đưa vào chỉ mục trả lời chính thức.

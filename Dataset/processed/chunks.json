@@ -1,0 +1,107 @@
+[
+  {
+    "chunk_id": "DOC001_v1_001",
+    "document_id": "DOC001",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời tiền - sơ sử",
+    "language": "vi",
+    "text": "Dấu tích những người cổ đại đầu tiên được tìm thấy tại di chỉ Bàu Dũ (Núi Thành, Quảng Nam) thuộc sơ kỳ thời đại Đá mới (khoảng 6.000 năm trước), với di cốt người cổ được chôn trong hố có nhiều lớp vỏ sò điệp cùng với nhiều xương thú, xương cá và các loại rìu tay, dao, nạo bằng đá. Người cổ lúc bấy giờ sinh sống chủ yếu bằng phương thức săn bắt và hái lượm.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "version": 1,
+    "review_status": "verified",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "DOC001_v1_002",
+    "document_id": "DOC001",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời tiền - sơ sử",
+    "language": "vi",
+    "text": "Khoảng 3.500 năm trước, ở Quảng Nam - Đà Nẵng đã xuất hiện Văn hóa Sa Huỳnh, một nền văn hóa nổi tiếng thuộc sơ kỳ thời đại Kim khí. Chủ nhân Văn hóa Sa Huỳnh là những cư dân nông nghiệp, nơi ở của họ là vùng cửa sông, ven biển.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "version": 1,
+    "review_status": "verified",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "DOC001_v1_003",
+    "document_id": "DOC001",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời tiền - sơ sử",
+    "language": "vi",
+    "text": "Di chỉ Vườn Đình - Khuê Bắc thuộc phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng có niên đại cách nay khoảng 3.000 đến 3.500 năm, là di chỉ cư trú điển hình thuộc giai đoạn tiền Sa Huỳnh và Sa Huỳnh với 2 lớp văn hóa khá ổn định, góp phần tạo nên diện mạo thời tiền sơ sử ở Đà Nẵng.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "version": 1,
+    "review_status": "verified",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "DOC002_v1_001",
+    "document_id": "DOC002",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Văn hóa Sa Huỳnh",
+    "language": "vi",
+    "text": "Văn hóa Sa Huỳnh là một trong những nền văn hóa quan trọng, có niên đại khoảng từ thiên niên kỷ thứ I TCN đến cuối thế kỷ II CN, địa bàn trải dài từ Quảng Bình cho đến các tỉnh Nam Trung bộ và Tây Nguyên. Đặc trưng cơ bản của Văn hóa Sa Huỳnh là táng thức bằng mộ chum. Các di vật phổ biến là công cụ lao động sắt và đá; đồ gốm; đồ trang sức. Bên cạnh đó, kỹ thuật làm thủy tinh nhân tạo là một thành tựu rực rỡ của Văn hóa Sa Huỳnh với kiểu dáng và màu sắc phong phú.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "version": 1,
+    "review_status": "verified",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "DOC002_v1_002",
+    "document_id": "DOC002",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Văn hóa Sa Huỳnh",
+    "language": "vi",
+    "text": "Những di chỉ khảo cổ học Văn hóa Sa Huỳnh tiêu biểu tại Quảng Nam - Đà Nẵng gồm: Hậu Xá, Tam Mỹ, Vườn Đình Khuê Bắc.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "version": 1,
+    "review_status": "verified",
+    "ocr_status": null
+  }
+]
