@@ -1,0 +1,105 @@
+{
+  "actual_image_count": 236,
+  "catalog_stated_image_count": 237,
+  "image_count_difference": -1,
+  "topic_count": 38,
+  "group_count": 5,
+  "relationship_count": 236,
+  "total_image_bytes": 864944765,
+  "unassigned": [
+    "IMG_8991.JPG"
+  ],
+  "shared": [
+    {
+      "filename": "IMG_9035.JPG",
+      "topic_ids": [
+        "TOPIC030",
+        "TOPIC031"
+      ]
+    }
+  ],
+  "range_gaps": [
+    {
+      "topic_id": "TOPIC005",
+      "filename": "IMG_8799.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC005",
+      "filename": "IMG_8811.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8864.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8865.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8866.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8867.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8868.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8872.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8873.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC011",
+      "filename": "IMG_8874.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC013",
+      "filename": "IMG_8889.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC013",
+      "filename": "IMG_8890.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC013",
+      "filename": "IMG_8891.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC028",
+      "filename": "IMG_9015.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC033",
+      "filename": "IMG_9044.JPG",
+      "reason": "not_present_in_source_range"
+    },
+    {
+      "topic_id": "TOPIC034",
+      "filename": "IMG_9052.JPG",
+      "reason": "not_present_in_source_range"
+    }
+  ],
+  "range_gaps_note": "Catalog ranges may intentionally skip numbers; these are not confirmed lost files.",
+  "identical_content_groups": []
+}

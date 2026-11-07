@@ -1,0 +1,1654 @@
+[
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "a048ba5b-f7c3-53f5-b5d0-f4fa2921c26c",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "7c9971c7-c694-5a25-a7e8-b1c6578b6533",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "581b9852-4adc-5bf9-b7e1-b49eeced8396",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "b8f52b29-9d80-59aa-9b9c-7bdc2a76930e",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "ead9e648-e8ec-5c0e-a61c-34fac470d4f3",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "d2ba9abf-d106-56d9-b925-054372231c29",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC001",
+    "asset_id": "6dc0e49a-b146-52d6-82fd-139464e52d5f",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC002",
+    "asset_id": "bf692d84-bb4d-5be9-af59-3ec9b480e63e",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC002",
+    "asset_id": "4df9a8cc-9f8d-58f4-a808-c85aa577b564",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC003",
+    "asset_id": "f60e8743-c1a6-58b9-a961-03fb08f79d44",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC003",
+    "asset_id": "88da4433-8369-5687-832b-6f5c08f595cb",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC004",
+    "asset_id": "99a9fb3c-dbcc-5719-9b84-65681ebbdcdb",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC004",
+    "asset_id": "cdf70340-cdaf-53e8-abd8-46665d2c3e09",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "f2b5e7eb-0944-5b8e-b58a-a447124d6265",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "aae3a990-57b4-5c87-afbe-2fc75d701aed",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "63b9d2c8-7a68-5cdf-9e55-a72c91892e46",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "0cf57294-efa0-55c9-8726-8b9c72c71846",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "308b6b10-df2d-5225-bbf2-a45c76284dc5",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "51c592d2-9f80-5211-9bbc-7a672f22f67e",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "887310b0-b146-5df7-95d1-65c5562914af",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "40bbb38b-6c3b-519d-a54a-4f93862e971a",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "53e5b27a-bf9f-520f-8194-49e2851f1e5f",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "5ecfada2-ee31-5e0b-bc73-4d3ae88573e3",
+    "sort_order": 12,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "390d6f22-c812-5ccb-8de7-91d5c28ed734",
+    "sort_order": 13,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "a5b49eae-97ef-5a10-8e52-9f198aebd20e",
+    "sort_order": 15,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "da841b79-9feb-56c2-8160-4d6618a88ee5",
+    "sort_order": 16,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "331ed62a-6957-513a-8f53-d86757ba04cf",
+    "sort_order": 17,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC005",
+    "asset_id": "49a5f047-d947-5a74-b099-12dfa1640a11",
+    "sort_order": 18,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "c166d237-9a9a-5a22-8d31-ad63e75a2e2a",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "51f5f377-47fa-5af7-b32f-2e223c6ad333",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "16cb5a7f-d36a-5d0f-977d-d4b8bd71d913",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "b000b5f6-4b92-506c-a224-5aa69e1729c0",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "bf65c635-c666-529e-b6dd-ae66b62c3e90",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "56efad48-fac0-545d-8b0f-7cfbcb21bd3f",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "f33f061b-cae6-5e09-a787-afd1c7e15ba8",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "777dbc16-ed0b-59b1-9a61-a9e78ecc92f6",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "0f612987-2a2e-54ae-ac55-8face85a05e3",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "cbfc1d1c-7c50-58fe-a494-c276807ac551",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "817c17bf-0ce5-53a0-9313-40cb33c78789",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "d79725b9-c80f-5da7-b16a-17c97cdecf6b",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "a847325f-bc06-58c2-967c-214e409fc444",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "09ed20c9-43eb-596e-9f5f-6f66c785b74e",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "51434723-9091-5397-990d-904304ce5d1b",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "20d65629-fca2-504b-931a-d613b9ea062a",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "e06c9f6c-0bf3-5080-83a5-1211e4f19a5c",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "172116c9-b3e8-5e11-af74-9e29633b4901",
+    "sort_order": 12,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "87e1a76d-d830-5753-b2a1-89037a889965",
+    "sort_order": 13,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "637b5cbb-962e-53b4-810c-d750ef87d05c",
+    "sort_order": 14,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "c0c71a25-11d3-575a-9fdd-8fe2665f6c94",
+    "sort_order": 15,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "5dcb71fd-fc55-57a8-be75-f53762ceb4c2",
+    "sort_order": 16,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "8aca6c1c-4a5b-5e7b-a28f-aed654a2edd2",
+    "sort_order": 17,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC007",
+    "asset_id": "b725a761-f367-5d5e-ad41-cf7a7d142dcb",
+    "sort_order": 18,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "cbb6ec92-7dab-5ef4-afc5-bc60c9b330fd",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "64ceaf61-9bf2-5ec2-b148-1a5144816328",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "bca934dd-7a85-5c24-9b18-fd5b9802c0b9",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "85947aed-5767-5575-942b-82d16940b125",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "9e83d937-d136-5d83-94cb-9085e0190e3c",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "3f6e3678-319a-5f0f-a22e-2118a3e3f13a",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "894fe211-5af4-5543-a412-66ea20143277",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "6192efc9-79fa-5e6d-a639-c9f5718347f1",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC008",
+    "asset_id": "b279af60-f672-5d96-88e5-d5616ad5b20b",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "3196cca2-a362-559e-9c97-d5de448ebbef",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "d376ccd7-a12b-5586-be99-1ee5ab923558",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "6c31264f-3b06-57e8-ba8c-f76966e1d3c9",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "0301f9ad-91c1-563b-8fd7-becee853aed5",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "a1f8772e-fcbf-51f2-9c36-9c319444cbd5",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "3e56cf8a-eda0-5452-bbcc-b5e53eb019c6",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "743bea7a-4751-5812-9c3c-08791eaf4c59",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "d1a93fe3-8972-5353-af43-3eba8fd6a5d2",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "90546380-34dd-52bc-a10b-3d28139b2ec9",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "2645f978-e5af-56a4-8c52-d4290e554ade",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC009",
+    "asset_id": "3a0664e0-f2ac-59fb-a5a7-14a6cf48a5da",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "ed135a19-9332-5339-8411-ed3986c707a5",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "7a53cb89-91b4-5608-adc7-3f090f65a37b",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "d7bc013b-a606-553f-a9a9-3a4c8cf2075c",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "10686b27-1462-57dc-abe7-84743cf43211",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "16367bd4-e7fb-519a-a8bc-0aa5d77cbefb",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "d12b067e-4f78-573f-a0dc-cb57dcdaf61f",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "f6062d1a-1c8f-54bd-bedc-0770b0d5cf93",
+    "sort_order": 15,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "99adc23f-04fd-5611-a9de-408d4a1f44e9",
+    "sort_order": 16,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "ac1fed92-0187-56da-bf6e-b00340bb3493",
+    "sort_order": 17,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "5655418a-648c-5eb7-88b4-2707cd9bb39a",
+    "sort_order": 18,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "46096b2e-1f4c-5c1b-b51e-1b31355c6619",
+    "sort_order": 19,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "9b586258-14e1-51f8-8697-fde909259f2e",
+    "sort_order": 20,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "7d48ba87-e183-5418-b104-0849ab479fcb",
+    "sort_order": 21,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC011",
+    "asset_id": "4cbd3fd8-c487-5660-aed2-c0983a8952ab",
+    "sort_order": 22,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC010",
+    "asset_id": "c4b9359c-c4d9-5599-8e26-0e3af1cddbb2",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC010",
+    "asset_id": "c49a08dc-8ca1-5e60-8493-8f87378e6c9e",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC012",
+    "asset_id": "36585505-053f-5227-8494-4b4b63e2267a",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC012",
+    "asset_id": "bc0b0cc9-7a58-5cd5-9ec3-64a04e715dab",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC012",
+    "asset_id": "8e4ca4e6-50d9-5e8d-95a1-d506f953d804",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "38629d4e-d0a4-5a2d-bf04-dcc0dd507fdb",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "d9a5f8ae-9a68-5e76-8e30-6a857315462d",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "422112a3-28e3-5aea-8117-8ed0a15379df",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "9abc61f6-dca2-5b6e-b18d-9e464ce58106",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "80d1472a-f3ee-50c3-a4f6-fbc3606aa9ce",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "da3ef524-d924-5684-ad14-3ddabff35f37",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "9613ddf2-f0b7-52a9-a348-5e5c6b189ae3",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "b555b210-2951-5688-b5d8-6e51d032f38b",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "e2d0ffd3-7625-5210-8472-ae4af02ab132",
+    "sort_order": 12,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "f4a1e53d-d16e-5d87-8228-dac3c59cd529",
+    "sort_order": 13,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "0a7cefb7-723a-5c45-8ee8-5844b19f616b",
+    "sort_order": 14,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "f4d0b5d4-d6e2-5384-be0b-b5b740398de0",
+    "sort_order": 15,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "39193367-0442-594e-bfa4-04637d836383",
+    "sort_order": 16,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC013",
+    "asset_id": "95efd790-a1f3-5e97-ad67-c0d4bc75d3cd",
+    "sort_order": 17,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "96dfb43a-374c-558a-a86d-8f819b376b06",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "334414b1-5b1b-50ba-8110-7220295bf81e",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "0dce01c7-985f-5369-95fd-2d333f8af9de",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "fd001363-8935-5408-a622-df98a4c8d90d",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "233134fc-fa0b-5400-b644-9f74776774e3",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "1f903e90-a88c-56c7-ad83-c4c61e83b31a",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC014",
+    "asset_id": "0edae910-9a98-5bff-b6bd-eeda60925c0b",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC015",
+    "asset_id": "8af9c4e6-aeb8-51a9-9695-9e74c7189102",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC015",
+    "asset_id": "58e089b3-6e9d-5cc4-aa3d-d1fbd8f53b0b",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC015",
+    "asset_id": "b6adf166-be64-5eae-b233-b727db139bb8",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "f8205716-ccf5-5a88-a9db-8e56759e1fd7",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "339de594-026c-5f8f-9538-9dbc88c171f9",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "01e7b54e-3f77-5a3a-bbd2-a261423b82be",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "cedc8c9f-a94f-53db-b6dd-e906808d0c59",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "09951dd3-e713-5c7c-9b62-0ecf35ed3c95",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "3b9592c7-b516-5961-8db3-1c1e2baee42b",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "58173c20-e5df-5021-b596-f0223ca66da4",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "67f60b26-a0f4-5eae-913d-43cac2323914",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "0f86aae7-9472-5aec-8cd9-12c42e833542",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC016",
+    "asset_id": "da8674e6-22b8-5621-81c7-615ae3e0c62e",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC017",
+    "asset_id": "2073a3b5-0dbd-5f12-ae3e-c7b79d765485",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC017",
+    "asset_id": "34f5dacb-8648-55e9-8a4c-e4f2bd00345f",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC017",
+    "asset_id": "accdc18f-c53f-5cb2-804c-79be6802b0b5",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC017",
+    "asset_id": "27a55f37-2172-51bc-aeab-13a3361328c5",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC017",
+    "asset_id": "a41980fa-b769-50a6-9449-aab81c9dde33",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "92e627d9-0b9d-5a9e-b781-993bc1ccefa6",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "0b359806-70a9-5d35-9d64-ccd5b4f4fa55",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "95855fd5-9284-52fc-9eb5-f167af1c410f",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "b95022bc-ce63-526f-a5e9-ca5968fed2ad",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "1e05d925-d819-5316-bcbe-8f1f91f8a952",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "6255d9d4-3e29-51de-82c2-00aa97302dd5",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "ea3896b1-70a8-5952-9c39-91b15757e167",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "efa4768e-42b1-5682-a452-b1976b926330",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "54af4887-5b12-56b4-991c-be3a1a419c68",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC018",
+    "asset_id": "207b1d9f-d4c5-5f83-b2fc-7f23819bda3b",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC019",
+    "asset_id": "69cd76f8-8c40-5324-80b3-0e834a3ad20a",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC019",
+    "asset_id": "8d4747d3-459f-5a73-b6fb-19183d5d11dd",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC020",
+    "asset_id": "e9551bea-9577-5cc3-8eb3-cdcb1637d247",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC020",
+    "asset_id": "bd582f25-77a5-5d4c-b7c5-f99aaa4632f3",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC020",
+    "asset_id": "e89283dd-5441-581f-ad22-33e8c1b90c95",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC020",
+    "asset_id": "8c5ac1a4-5e5f-5082-ab8d-a3b6dc360d46",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC020",
+    "asset_id": "6beeeacc-6874-5dae-945b-01ecd8bebc76",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "df0a8bb4-707e-57f9-8f61-076b28e1d657",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "58d8711e-c878-5aba-a31e-0979ca5eb319",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "8119035e-f9e0-5205-bc2b-b30c51ff90e3",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "12405163-f175-53e3-9e39-57937368e113",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "5314db19-f5b5-5eed-a850-2bba631462af",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "60e2147e-de48-5e81-aaf0-a7c3b0a72b31",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "2d2cb375-2a50-50f6-a90a-2853ee00cfa1",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "2bf3a322-c608-553f-972d-88bdac8bcfd9",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "bec3d34a-0128-5908-b922-76d02f9f5df7",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "9e385cd5-c27d-5636-b22b-1baba699f166",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "cdde8718-501a-5123-9af3-b69fb0252035",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "4452152a-b3e3-5f07-b2aa-bd74d8e8f05e",
+    "sort_order": 12,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "6b7136be-656c-5cea-95a8-df722adefabe",
+    "sort_order": 13,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "609dd9be-7cd1-546d-baf5-42d2925d7a4c",
+    "sort_order": 14,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "20e8b287-5731-55c2-aee3-aad6922387c4",
+    "sort_order": 15,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "8b41b7a7-e187-5de0-b549-a16cccb725f9",
+    "sort_order": 16,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "1151bae5-f469-5672-95c9-c444aefd134a",
+    "sort_order": 17,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC021",
+    "asset_id": "af8025e6-6595-5aac-91e0-c5bf4820eea2",
+    "sort_order": 18,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC022",
+    "asset_id": "52bea24d-9228-5e32-89e9-b52ea61dfa97",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC023",
+    "asset_id": "3b3e73da-fa6f-5736-9c04-d71df0af7afe",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC023",
+    "asset_id": "bceed497-0ea8-5d02-95c3-10d76c8e247f",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "9a49cb3e-51aa-54e9-9976-bbab510a2e5d",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "d967d897-f705-5138-9260-cd9e2c3abb98",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "d9591a80-238e-57ee-959f-76c8478e169d",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "60c39b00-3f20-5db9-9f2c-48a258d44e3b",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "588d013c-4112-5c64-868b-fd243d9ad6ed",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "89472bf6-2add-5de1-bbb3-16dfafe58699",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "74ce1627-a001-5b5f-b136-d230843dae4e",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC024",
+    "asset_id": "9c587d91-6217-5383-9075-f9b9b1335ad5",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC025",
+    "asset_id": "010bbb78-ca89-529c-8d7e-9042556f5825",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC025",
+    "asset_id": "5e71e0f4-b038-5d0b-aa84-448e107688e2",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC025",
+    "asset_id": "a84f0ef0-316f-5498-8e27-bf20c1385358",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "0a753ba5-1ad1-5716-8cf4-c1ec777e1a13",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "fd2863f5-3cc9-5e12-85e4-8c07615688a3",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "ad5b5604-95de-5476-b9be-f7d901d01bc2",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "2035492a-7711-5133-bb74-c9d8fd375eba",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "8ccbe6c7-9a76-5cf6-a915-daae2f950c30",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC026",
+    "asset_id": "689046fd-59d3-531b-85a8-6ed6014e962a",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC027",
+    "asset_id": "b5a1ae32-f43d-5434-8fde-8d57c245e4eb",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC027",
+    "asset_id": "5df1e3d1-3c7b-5248-a8e0-f9e4ca021bc1",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC027",
+    "asset_id": "62379f49-acec-587d-8918-ee6bea4df9fb",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC027",
+    "asset_id": "54c79773-faa7-5717-8692-168adf07a8dd",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC027",
+    "asset_id": "b2a50cf8-11af-57f8-ad80-0bd46b341efe",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "296710a4-53f4-5734-b4a2-6f07604caab2",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "a55ab415-6040-5b9b-948f-a23d40c00f27",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "b246e333-9ba0-5fe4-b7c8-3916e093b2c5",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "2d69b8a1-c5d4-5cd6-8728-f43887bca2f7",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "2db8bc0d-74ea-5a6e-9f1f-4b86620e4aa5",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC028",
+    "asset_id": "e73582fa-88fe-515f-8ebb-998350d11f0e",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "a3bc7d4c-0da5-5f27-8b9e-c99e0d26ef44",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "caa94702-dbb6-5ffc-971d-52c3eecd8565",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "ac256cfe-2ed6-5824-ad36-0ae10340aa34",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "fa6d6b8b-703a-50ee-83e2-eaab8c58a53e",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "b3a6cd4a-b878-51f4-b0f2-cf830c3fb689",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "dd1f9357-f137-5524-8f6a-5f96f242abbd",
+    "sort_order": 6,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "612d6039-9fb0-5df8-acca-f7016475a20f",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "68ab0afb-54c6-5c9e-b674-3493965c059b",
+    "sort_order": 8,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "78117d6d-aa79-5532-b3ff-a4e714f525be",
+    "sort_order": 9,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "33ef91b6-e8aa-51f6-b63f-3e53b7574d11",
+    "sort_order": 10,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "01f40a52-69df-50d5-a792-24f7244aee93",
+    "sort_order": 11,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "a5c3ad61-6b52-54c9-b183-a20e4ba5e177",
+    "sort_order": 12,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "20a19fb1-e328-5dcb-a6aa-41201dbd0605",
+    "sort_order": 13,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC029",
+    "asset_id": "dc8aa90d-8ded-59d7-b22a-2f9472fec272",
+    "sort_order": 14,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC030",
+    "asset_id": "c579170a-8d79-5f3c-a207-daa606dc90f6",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC030",
+    "asset_id": "47cca45f-2d68-5380-b5b7-a1473dcda3dd",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC031",
+    "asset_id": "47cca45f-2d68-5380-b5b7-a1473dcda3dd",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC031",
+    "asset_id": "df493321-507d-53e3-950c-9b7d41d3f200",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC032",
+    "asset_id": "e1fd878c-e8e1-529b-bc5f-06d4064a7dcb",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC032",
+    "asset_id": "4127a019-ca06-549a-aa80-6d26615bcf84",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "f411d0ff-33f4-580a-9cf9-6da6920eddd6",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "4458b2e2-07a8-5569-b890-00779234bd2a",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "77c29f01-88c3-5a85-a595-37cad01e32b3",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "b0f84a99-bfe1-5e3d-b042-e0d2aaae1a26",
+    "sort_order": 4,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "5b142675-2fd1-5c35-88bd-747ec95f4adc",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC033",
+    "asset_id": "29ed6ed8-b065-5fdd-a783-22543734dcab",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC034",
+    "asset_id": "21ee9ba0-a843-55c4-9acc-8544ec6d87dc",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC034",
+    "asset_id": "c3ef9bc7-d24f-5e44-ad54-f65140af247f",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC034",
+    "asset_id": "71e76da7-e7ab-597b-84f9-5d311b9ada80",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC034",
+    "asset_id": "831ae088-f5b5-5b6c-894b-6ac9d8b937c7",
+    "sort_order": 5,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC035",
+    "asset_id": "ddf490b6-b436-5673-8fa2-2f35332d7bef",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC035",
+    "asset_id": "6da89693-4b8a-5c1c-8ebc-eb13e4960824",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC037",
+    "asset_id": "007b0c4e-c1a9-5dd8-9a1c-f7532e6a8d86",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC036",
+    "asset_id": "01ddc661-c043-5fef-8d29-f0d76b290a63",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC036",
+    "asset_id": "94baf59b-99a1-540f-97e9-9f2700939216",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC037",
+    "asset_id": "1072c719-55c4-51a1-a52c-bdffa7e2496b",
+    "sort_order": 2,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC037",
+    "asset_id": "5687014b-6893-50f7-8388-b90fb58285f8",
+    "sort_order": 3,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC038",
+    "asset_id": "bfa1de07-c5ee-5662-b26b-ca36906920c7",
+    "sort_order": 1,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  },
+  {
+    "topic_id": "TOPIC006",
+    "asset_id": "6c1ad10c-31bd-55bd-aec8-64e674b1e8d7",
+    "sort_order": 7,
+    "assignment_source": "danh_muc_bao_tang.md",
+    "review_status": "needs_review"
+  }
+]
