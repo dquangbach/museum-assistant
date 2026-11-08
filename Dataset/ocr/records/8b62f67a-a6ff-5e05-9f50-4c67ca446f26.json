@@ -1,0 +1,597 @@
+{
+  "asset_id": "8b62f67a-a6ff-5e05-9f50-4c67ca446f26",
+  "filename": "IMG_8991.JPG",
+  "source_path": "unassigned/IMG_8991.JPG",
+  "source_sha256": "3d3a8329ee58ca223b591720b78c1c39cb0f2e06345656833215aaf37c8deae5",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "_—-`.\n\nsina\n\ntO eer\n\n‘te\n\n`\n\nWj\n\nK\n\nscat\n\n\\ “\n\n“\\\n\n(\n\nN\n\nLS\n\nul TIENC ‘GOI\n\nes\n\n`\n\n——=\n\nC\n\nINH\n\ný\n\n=\n\n3 xung phon\n\n\\\n\nQUYẾT THẮNG\n\nOES\n\n=|\n\nes\n\n2\n\n———\n\n} |\n\ntii\n\n——*\n\noe\n\n——\n\nEE ARINC ND\n\nBa tins\n\nlil\n\n—\n\nees -\n\n——>\n\n— ee\n\n—\n\n=\n\nTH.",
+  "words": [
+    {
+      "text": "_—-`.",
+      "confidence": 39.635235,
+      "box": [
+        54,
+        121,
+        80,
+        7
+      ]
+    },
+    {
+      "text": "sina",
+      "confidence": 32.041748,
+      "box": [
+        335,
+        128,
+        33,
+        7
+      ]
+    },
+    {
+      "text": "tO",
+      "confidence": 22.831223,
+      "box": [
+        1404,
+        768,
+        170,
+        49
+      ]
+    },
+    {
+      "text": "eer",
+      "confidence": 0.0,
+      "box": [
+        1624,
+        764,
+        145,
+        77
+      ]
+    },
+    {
+      "text": "‘te",
+      "confidence": 65.36702,
+      "box": [
+        2597,
+        967,
+        34,
+        11
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 52.797318,
+      "box": [
+        752,
+        990,
+        36,
+        28
+      ]
+    },
+    {
+      "text": "Wj",
+      "confidence": 4.15271,
+      "box": [
+        1174,
+        985,
+        24,
+        27
+      ]
+    },
+    {
+      "text": "K",
+      "confidence": 0.0,
+      "box": [
+        2791,
+        945,
+        37,
+        68
+      ]
+    },
+    {
+      "text": "scat",
+      "confidence": 30.570213,
+      "box": [
+        2521,
+        1036,
+        53,
+        7
+      ]
+    },
+    {
+      "text": "\\",
+      "confidence": 82.656151,
+      "box": [
+        1198,
+        1031,
+        22,
+        56
+      ]
+    },
+    {
+      "text": "“",
+      "confidence": 40.792297,
+      "box": [
+        1272,
+        1056,
+        5,
+        13
+      ]
+    },
+    {
+      "text": "“\\",
+      "confidence": 10.572739,
+      "box": [
+        1408,
+        1082,
+        39,
+        32
+      ]
+    },
+    {
+      "text": "(",
+      "confidence": 87.366852,
+      "box": [
+        1203,
+        1138,
+        16,
+        43
+      ]
+    },
+    {
+      "text": "N",
+      "confidence": 85.575714,
+      "box": [
+        1601,
+        1118,
+        66,
+        49
+      ]
+    },
+    {
+      "text": "LS",
+      "confidence": 33.265808,
+      "box": [
+        1694,
+        1222,
+        53,
+        23
+      ]
+    },
+    {
+      "text": "ul",
+      "confidence": 5.181793,
+      "box": [
+        2280,
+        1263,
+        36,
+        47
+      ]
+    },
+    {
+      "text": "TIENC",
+      "confidence": 69.715469,
+      "box": [
+        2332,
+        1216,
+        140,
+        90
+      ]
+    },
+    {
+      "text": "‘GOI",
+      "confidence": 80.996063,
+      "box": [
+        2480,
+        1276,
+        107,
+        41
+      ]
+    },
+    {
+      "text": "es",
+      "confidence": 40.482288,
+      "box": [
+        649,
+        1339,
+        54,
+        11
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 4.706154,
+      "box": [
+        1565,
+        1330,
+        37,
+        43
+      ]
+    },
+    {
+      "text": "——=",
+      "confidence": 15.894501,
+      "box": [
+        2408,
+        1364,
+        52,
+        2
+      ]
+    },
+    {
+      "text": "C",
+      "confidence": 89.397156,
+      "box": [
+        2412,
+        1321,
+        30,
+        34
+      ]
+    },
+    {
+      "text": "INH",
+      "confidence": 96.579903,
+      "box": [
+        2480,
+        1323,
+        98,
+        39
+      ]
+    },
+    {
+      "text": "ý",
+      "confidence": 67.263458,
+      "box": [
+        2270,
+        1310,
+        22,
+        63
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 63.020119,
+      "box": [
+        2405,
+        1392,
+        9,
+        7
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 89.945366,
+      "box": [
+        1881,
+        1396,
+        18,
+        25
+      ]
+    },
+    {
+      "text": "xung",
+      "confidence": 89.945366,
+      "box": [
+        1911,
+        1406,
+        80,
+        28
+      ]
+    },
+    {
+      "text": "phon",
+      "confidence": 96.965965,
+      "box": [
+        2003,
+        1402,
+        80,
+        31
+      ]
+    },
+    {
+      "text": "\\",
+      "confidence": 35.580635,
+      "box": [
+        2422,
+        1371,
+        32,
+        47
+      ]
+    },
+    {
+      "text": "QUYẾT",
+      "confidence": 96.134605,
+      "box": [
+        1889,
+        1442,
+        91,
+        31
+      ]
+    },
+    {
+      "text": "THẮNG",
+      "confidence": 96.04586,
+      "box": [
+        1994,
+        1442,
+        98,
+        35
+      ]
+    },
+    {
+      "text": "OES",
+      "confidence": 41.669792,
+      "box": [
+        2406,
+        1418,
+        117,
+        45
+      ]
+    },
+    {
+      "text": "=|",
+      "confidence": 73.059204,
+      "box": [
+        2432,
+        1489,
+        35,
+        30
+      ]
+    },
+    {
+      "text": "es",
+      "confidence": 59.996109,
+      "box": [
+        2432,
+        1522,
+        48,
+        37
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 37.847023,
+      "box": [
+        2553,
+        1501,
+        37,
+        33
+      ]
+    },
+    {
+      "text": "———",
+      "confidence": 57.262459,
+      "box": [
+        525,
+        1650,
+        71,
+        7
+      ]
+    },
+    {
+      "text": "}",
+      "confidence": 65.684555,
+      "box": [
+        787,
+        1583,
+        13,
+        64
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 94.771301,
+      "box": [
+        806,
+        1597,
+        2,
+        10
+      ]
+    },
+    {
+      "text": "tii",
+      "confidence": 35.365562,
+      "box": [
+        2247,
+        1597,
+        36,
+        45
+      ]
+    },
+    {
+      "text": "——*",
+      "confidence": 86.207535,
+      "box": [
+        2416,
+        1683,
+        51,
+        1
+      ]
+    },
+    {
+      "text": "oe",
+      "confidence": 0.0,
+      "box": [
+        363,
+        1853,
+        22,
+        12
+      ]
+    },
+    {
+      "text": "——",
+      "confidence": 35.238602,
+      "box": [
+        454,
+        1845,
+        64,
+        7
+      ]
+    },
+    {
+      "text": "EE",
+      "confidence": 34.334511,
+      "box": [
+        909,
+        1868,
+        191,
+        44
+      ]
+    },
+    {
+      "text": "ARINC",
+      "confidence": 0.0,
+      "box": [
+        1121,
+        1868,
+        188,
+        44
+      ]
+    },
+    {
+      "text": "ND",
+      "confidence": 0.0,
+      "box": [
+        1345,
+        1888,
+        132,
+        20
+      ]
+    },
+    {
+      "text": "Ba",
+      "confidence": 25.962311,
+      "box": [
+        1520,
+        1897,
+        33,
+        14
+      ]
+    },
+    {
+      "text": "tins",
+      "confidence": 21.232559,
+      "box": [
+        1584,
+        1898,
+        73,
+        16
+      ]
+    },
+    {
+      "text": "lil",
+      "confidence": 39.120407,
+      "box": [
+        1780,
+        1921,
+        43,
+        3
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 16.986313,
+      "box": [
+        2179,
+        1937,
+        65,
+        5
+      ]
+    },
+    {
+      "text": "ees",
+      "confidence": 24.134209,
+      "box": [
+        2470,
+        1933,
+        262,
+        32
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 71.384895,
+      "box": [
+        2722,
+        1929,
+        14,
+        40
+      ]
+    },
+    {
+      "text": "——>",
+      "confidence": 44.416489,
+      "box": [
+        2499,
+        2106,
+        68,
+        4
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 0.0,
+      "box": [
+        2485,
+        2121,
+        12,
+        1
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 32.879021,
+      "box": [
+        2739,
+        2110,
+        81,
+        33
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 79.962112,
+      "box": [
+        2756,
+        2147,
+        77,
+        4
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 78.786591,
+      "box": [
+        2875,
+        2134,
+        32,
+        11
+      ]
+    },
+    {
+      "text": "TH.",
+      "confidence": 50.179211,
+      "box": [
+        1886,
+        2314,
+        119,
+        7
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.386,
+  "mean_confidence": 47.93,
+  "status": "needs_manual_transcription"
+}

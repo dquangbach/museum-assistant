@@ -1,0 +1,717 @@
+{
+  "asset_id": "64ceaf61-9bf2-5ec2-b148-1a5144816328",
+  "filename": "IMG_8842.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC008_da_nang_thuong_cang_sam_uat_thoi_nguyen/IMG_8842.JPG",
+  "source_sha256": "82cfb1ff017cc3af95e00236120b80987e2092488f160764358677cba1040e0c",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "iA\n\n“\n\nEF\n\na ¥\n\n%, 2300\n\npor\n\nm3\n\nee\n\ni\n\n`\n\nhs\n\nxã\n\nsử\n\n,\n\n4\n\na\n\nkK\n\n>\n\n“4\n\n¥\n\nae\n\nas\n\nat\n\noe\n\nRee\n\nVai\n\na\n\na\n\nee\n\nẬ\n\n=\n\nLộ\n\nBe\n\n—\n\n..\n\neee\n\nZ6\n\n—\n\nee\n\n4\n\ntạ\n\n`\n\nRi\n\na\n\nae\n\n—\n\nThese\n\nao\n\nF,\n\nNeenah\n\nNE\n\nGiờ\n\n>>\n\n`.\n\nEo\n\nOat\n\na\n\nký\n\nsi\n\nDy,\n\nvn\n\n=\n\neke\n\nNodes\n\npeas\n\na\n\nở",
+  "words": [
+    {
+      "text": "iA",
+      "confidence": 34.121475,
+      "box": [
+        242,
+        708,
+        54,
+        32
+      ]
+    },
+    {
+      "text": "“",
+      "confidence": 74.752525,
+      "box": [
+        95,
+        708,
+        65,
+        47
+      ]
+    },
+    {
+      "text": "EF",
+      "confidence": 3.144035,
+      "box": [
+        182,
+        801,
+        63,
+        29
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 37.885529,
+      "box": [
+        1982,
+        1110,
+        30,
+        9
+      ]
+    },
+    {
+      "text": "¥",
+      "confidence": 89.525002,
+      "box": [
+        2139,
+        1107,
+        15,
+        20
+      ]
+    },
+    {
+      "text": "%,",
+      "confidence": 5.28476,
+      "box": [
+        1998,
+        1146,
+        30,
+        40
+      ]
+    },
+    {
+      "text": "2300",
+      "confidence": 92.695778,
+      "box": [
+        2062,
+        1134,
+        121,
+        38
+      ]
+    },
+    {
+      "text": "por",
+      "confidence": 41.938404,
+      "box": [
+        770,
+        1204,
+        39,
+        21
+      ]
+    },
+    {
+      "text": "m3",
+      "confidence": 24.038307,
+      "box": [
+        1478,
+        1230,
+        14,
+        6
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 33.496056,
+      "box": [
+        1456,
+        1233,
+        20,
+        16
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 38.896046,
+      "box": [
+        2598,
+        1251,
+        11,
+        7
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 74.358597,
+      "box": [
+        1550,
+        1273,
+        13,
+        5
+      ]
+    },
+    {
+      "text": "hs",
+      "confidence": 0.0,
+      "box": [
+        1513,
+        1265,
+        25,
+        25
+      ]
+    },
+    {
+      "text": "xã",
+      "confidence": 20.5047,
+      "box": [
+        1403,
+        1295,
+        23,
+        22
+      ]
+    },
+    {
+      "text": "sử",
+      "confidence": 52.654537,
+      "box": [
+        1431,
+        1378,
+        16,
+        8
+      ]
+    },
+    {
+      "text": ",",
+      "confidence": 33.2845,
+      "box": [
+        1057,
+        1395,
+        12,
+        8
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 53.140984,
+      "box": [
+        1096,
+        1391,
+        11,
+        7
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 43.372841,
+      "box": [
+        1678,
+        1380,
+        15,
+        13
+      ]
+    },
+    {
+      "text": "kK",
+      "confidence": 39.623589,
+      "box": [
+        1728,
+        1372,
+        50,
+        23
+      ]
+    },
+    {
+      "text": ">",
+      "confidence": 94.891144,
+      "box": [
+        2080,
+        1392,
+        13,
+        8
+      ]
+    },
+    {
+      "text": "“4",
+      "confidence": 41.142918,
+      "box": [
+        1092,
+        1397,
+        17,
+        14
+      ]
+    },
+    {
+      "text": "¥",
+      "confidence": 12.699356,
+      "box": [
+        2082,
+        1407,
+        8,
+        12
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 21.923798,
+      "box": [
+        3072,
+        1415,
+        18,
+        8
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 25.412956,
+      "box": [
+        3074,
+        1407,
+        13,
+        7
+      ]
+    },
+    {
+      "text": "at",
+      "confidence": 68.787704,
+      "box": [
+        1617,
+        1423,
+        10,
+        9
+      ]
+    },
+    {
+      "text": "oe",
+      "confidence": 0.0,
+      "box": [
+        1697,
+        1429,
+        9,
+        6
+      ]
+    },
+    {
+      "text": "Ree",
+      "confidence": 17.675972,
+      "box": [
+        857,
+        1439,
+        42,
+        13
+      ]
+    },
+    {
+      "text": "Vai",
+      "confidence": 4.631577,
+      "box": [
+        941,
+        1455,
+        19,
+        7
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 50.464203,
+      "box": [
+        3026,
+        1451,
+        14,
+        6
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 44.133377,
+      "box": [
+        965,
+        1454,
+        37,
+        23
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 37.734066,
+      "box": [
+        1095,
+        1476,
+        15,
+        8
+      ]
+    },
+    {
+      "text": "Ậ",
+      "confidence": 23.802284,
+      "box": [
+        1103,
+        1483,
+        9,
+        7
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 62.068428,
+      "box": [
+        975,
+        1508,
+        11,
+        6
+      ]
+    },
+    {
+      "text": "Lộ",
+      "confidence": 38.091377,
+      "box": [
+        2708,
+        1501,
+        9,
+        7
+      ]
+    },
+    {
+      "text": "Be",
+      "confidence": 22.502342,
+      "box": [
+        2751,
+        1509,
+        12,
+        8
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 2.621086,
+      "box": [
+        2938,
+        1512,
+        22,
+        7
+      ]
+    },
+    {
+      "text": "..",
+      "confidence": 2.114166,
+      "box": [
+        2774,
+        1520,
+        25,
+        7
+      ]
+    },
+    {
+      "text": "eee",
+      "confidence": 12.658569,
+      "box": [
+        2873,
+        1609,
+        42,
+        12
+      ]
+    },
+    {
+      "text": "Z6",
+      "confidence": 54.805202,
+      "box": [
+        2799,
+        1629,
+        88,
+        33
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 56.79771,
+      "box": [
+        3030,
+        1607,
+        153,
+        56
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 21.527603,
+      "box": [
+        1338,
+        1648,
+        30,
+        19
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 40.239986,
+      "box": [
+        2693,
+        1667,
+        13,
+        9
+      ]
+    },
+    {
+      "text": "tạ",
+      "confidence": 54.432503,
+      "box": [
+        3163,
+        1688,
+        27,
+        15
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 40.41357,
+      "box": [
+        1723,
+        1707,
+        21,
+        12
+      ]
+    },
+    {
+      "text": "Ri",
+      "confidence": 0.867226,
+      "box": [
+        2660,
+        1720,
+        10,
+        5
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 40.903988,
+      "box": [
+        1637,
+        1725,
+        14,
+        12
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 38.657204,
+      "box": [
+        2512,
+        1754,
+        15,
+        9
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 0.0,
+      "box": [
+        2034,
+        1775,
+        26,
+        10
+      ]
+    },
+    {
+      "text": "These",
+      "confidence": 47.64386,
+      "box": [
+        2641,
+        1765,
+        55,
+        38
+      ]
+    },
+    {
+      "text": "ao",
+      "confidence": 16.050781,
+      "box": [
+        1204,
+        1833,
+        29,
+        6
+      ]
+    },
+    {
+      "text": "F,",
+      "confidence": 0.0,
+      "box": [
+        1215,
+        1822,
+        7,
+        7
+      ]
+    },
+    {
+      "text": "Neenah",
+      "confidence": 19.440781,
+      "box": [
+        411,
+        1891,
+        65,
+        11
+      ]
+    },
+    {
+      "text": "NE",
+      "confidence": 62.963467,
+      "box": [
+        2539,
+        1917,
+        12,
+        13
+      ]
+    },
+    {
+      "text": "Giờ",
+      "confidence": 47.889694,
+      "box": [
+        2562,
+        1921,
+        24,
+        7
+      ]
+    },
+    {
+      "text": ">>",
+      "confidence": 31.885948,
+      "box": [
+        2664,
+        1876,
+        171,
+        60
+      ]
+    },
+    {
+      "text": "`.",
+      "confidence": 81.698509,
+      "box": [
+        1241,
+        1943,
+        25,
+        4
+      ]
+    },
+    {
+      "text": "Eo",
+      "confidence": 52.731369,
+      "box": [
+        934,
+        2061,
+        10,
+        10
+      ]
+    },
+    {
+      "text": "Oat",
+      "confidence": 53.547295,
+      "box": [
+        2646,
+        2113,
+        20,
+        12
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 46.317383,
+      "box": [
+        2956,
+        2173,
+        12,
+        10
+      ]
+    },
+    {
+      "text": "ký",
+      "confidence": 67.303589,
+      "box": [
+        2665,
+        2193,
+        10,
+        9
+      ]
+    },
+    {
+      "text": "si",
+      "confidence": 22.924026,
+      "box": [
+        2710,
+        2210,
+        8,
+        10
+      ]
+    },
+    {
+      "text": "Dy,",
+      "confidence": 36.988697,
+      "box": [
+        2857,
+        2204,
+        18,
+        14
+      ]
+    },
+    {
+      "text": "vn",
+      "confidence": 51.090775,
+      "box": [
+        2248,
+        2232,
+        15,
+        7
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 81.835449,
+      "box": [
+        2459,
+        2224,
+        16,
+        6
+      ]
+    },
+    {
+      "text": "eke",
+      "confidence": 19.936264,
+      "box": [
+        2862,
+        2216,
+        25,
+        10
+      ]
+    },
+    {
+      "text": "Nodes",
+      "confidence": 41.133762,
+      "box": [
+        3075,
+        2240,
+        27,
+        6
+      ]
+    },
+    {
+      "text": "peas",
+      "confidence": 22.33194,
+      "box": [
+        2414,
+        2337,
+        60,
+        12
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 47.581665,
+      "box": [
+        2494,
+        2344,
+        19,
+        6
+      ]
+    },
+    {
+      "text": "ở",
+      "confidence": 5.373474,
+      "box": [
+        2337,
+        2357,
+        8,
+        6
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.159,
+  "mean_confidence": 37.41,
+  "status": "needs_manual_transcription"
+}

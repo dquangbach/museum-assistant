@@ -1,0 +1,217 @@
+{
+  "asset_id": "bf65c635-c666-529e-b6dd-ae66b62c3e90",
+  "filename": "IMG_8820.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC006_da_nang_thoi_ky_van_hoa_champa/IMG_8820.JPG",
+  "source_sha256": "2985ee37604c090f2fb585efeaaa0dc2710866eeaab1ede1a5a28f107eb6e3a0",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "mm\n\nSF,\n\nlỊ\n\nTA\n\nSe\n\nSS sy\n\nNS\n\n‘\n\na\n\n‡\n\n|\n\n==\n\n~ ae\n\na\n\nsit\n\n—Ề\n\n4",
+  "words": [
+    {
+      "text": "mm",
+      "confidence": 0.0,
+      "box": [
+        2629,
+        0,
+        104,
+        4
+      ]
+    },
+    {
+      "text": "SF,",
+      "confidence": 58.775581,
+      "box": [
+        1665,
+        339,
+        25,
+        13
+      ]
+    },
+    {
+      "text": "lỊ",
+      "confidence": 52.025532,
+      "box": [
+        1542,
+        397,
+        8,
+        23
+      ]
+    },
+    {
+      "text": "TA",
+      "confidence": 0.428391,
+      "box": [
+        1602,
+        483,
+        140,
+        33
+      ]
+    },
+    {
+      "text": "Se",
+      "confidence": 43.810024,
+      "box": [
+        8,
+        520,
+        98,
+        34
+      ]
+    },
+    {
+      "text": "SS",
+      "confidence": 63.92226,
+      "box": [
+        1665,
+        532,
+        68,
+        10
+      ]
+    },
+    {
+      "text": "sy",
+      "confidence": 33.473015,
+      "box": [
+        1764,
+        531,
+        33,
+        23
+      ]
+    },
+    {
+      "text": "NS",
+      "confidence": 2.05529,
+      "box": [
+        1813,
+        508,
+        150,
+        45
+      ]
+    },
+    {
+      "text": "‘",
+      "confidence": 77.846756,
+      "box": [
+        3176,
+        557,
+        24,
+        81
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 79.367699,
+      "box": [
+        1470,
+        931,
+        10,
+        17
+      ]
+    },
+    {
+      "text": "‡",
+      "confidence": 74.755043,
+      "box": [
+        1231,
+        910,
+        26,
+        40
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 42.584778,
+      "box": [
+        3171,
+        927,
+        8,
+        27
+      ]
+    },
+    {
+      "text": "==",
+      "confidence": 52.233986,
+      "box": [
+        2573,
+        1275,
+        29,
+        4
+      ]
+    },
+    {
+      "text": "~",
+      "confidence": 63.046448,
+      "box": [
+        673,
+        1445,
+        16,
+        13
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 7.319321,
+      "box": [
+        725,
+        1442,
+        27,
+        12
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 17.568619,
+      "box": [
+        64,
+        2049,
+        34,
+        35
+      ]
+    },
+    {
+      "text": "sit",
+      "confidence": 38.476097,
+      "box": [
+        800,
+        2252,
+        21,
+        1
+      ]
+    },
+    {
+      "text": "—Ề",
+      "confidence": 24.078903,
+      "box": [
+        1288,
+        2234,
+        105,
+        4
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 77.941154,
+      "box": [
+        73,
+        2336,
+        14,
+        13
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.316,
+  "mean_confidence": 42.62,
+  "status": "needs_manual_transcription"
+}

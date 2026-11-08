@@ -1,0 +1,297 @@
+{
+  "asset_id": "296710a4-53f4-5734-b4a2-6f07604caab2",
+  "filename": "IMG_9013.JPG",
+  "source_path": "topics/04_chung_tich_chien_tranh_va_phat_trien_sau_1975/TOPIC028_chung_tich_chien_tranh_da_nang_kho_bom_dan_khong_lo/IMG_9013.JPG",
+  "source_sha256": "87836d3469da86d5159e1ec16e4e3b403dc20cdebf353fa92428d3c3c8a7da35",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "aT\n\na\n\nCHUNG T\n\nICH CHI\n\nEN TRAN\n\nWAR REMNANTS\n\nLễ.\n\nqi\n\nsy\n\nwy\n\n`\n\n`%s\n\n+\n\n—-\n\n~~\n\nxy\n\ntú TIÀ.\n\na\n\na\n\n\"ae;\n\nZ\n\nPs,",
+  "words": [
+    {
+      "text": "aT",
+      "confidence": 42.981167,
+      "box": [
+        950,
+        215,
+        37,
+        22
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 64.70459,
+      "box": [
+        1549,
+        232,
+        27,
+        20
+      ]
+    },
+    {
+      "text": "CHUNG",
+      "confidence": 89.013939,
+      "box": [
+        272,
+        213,
+        522,
+        124
+      ]
+    },
+    {
+      "text": "T",
+      "confidence": 89.013939,
+      "box": [
+        845,
+        237,
+        87,
+        106
+      ]
+    },
+    {
+      "text": "ICH",
+      "confidence": 96.322647,
+      "box": [
+        947,
+        242,
+        232,
+        112
+      ]
+    },
+    {
+      "text": "CHI",
+      "confidence": 96.528854,
+      "box": [
+        1238,
+        254,
+        232,
+        111
+      ]
+    },
+    {
+      "text": "EN",
+      "confidence": 96.152763,
+      "box": [
+        1491,
+        264,
+        170,
+        107
+      ]
+    },
+    {
+      "text": "TRAN",
+      "confidence": 96.2006,
+      "box": [
+        1726,
+        270,
+        377,
+        113
+      ]
+    },
+    {
+      "text": "WAR",
+      "confidence": 96.469345,
+      "box": [
+        262,
+        428,
+        255,
+        96
+      ]
+    },
+    {
+      "text": "REMNANTS",
+      "confidence": 96.359207,
+      "box": [
+        558,
+        442,
+        626,
+        109
+      ]
+    },
+    {
+      "text": "Lễ.",
+      "confidence": 0.0,
+      "box": [
+        1127,
+        1516,
+        30,
+        17
+      ]
+    },
+    {
+      "text": "qi",
+      "confidence": 72.204872,
+      "box": [
+        978,
+        1761,
+        15,
+        15
+      ]
+    },
+    {
+      "text": "sy",
+      "confidence": 29.368073,
+      "box": [
+        1449,
+        2072,
+        20,
+        11
+      ]
+    },
+    {
+      "text": "wy",
+      "confidence": 22.003471,
+      "box": [
+        1370,
+        2102,
+        48,
+        39
+      ]
+    },
+    {
+      "text": "`",
+      "confidence": 80.894463,
+      "box": [
+        883,
+        2118,
+        62,
+        37
+      ]
+    },
+    {
+      "text": "`%s",
+      "confidence": 40.070946,
+      "box": [
+        999,
+        2128,
+        43,
+        42
+      ]
+    },
+    {
+      "text": "+",
+      "confidence": 24.47554,
+      "box": [
+        1491,
+        2166,
+        41,
+        29
+      ]
+    },
+    {
+      "text": "—-",
+      "confidence": 45.315102,
+      "box": [
+        1396,
+        2208,
+        40,
+        13
+      ]
+    },
+    {
+      "text": "~~",
+      "confidence": 55.669525,
+      "box": [
+        1527,
+        2228,
+        50,
+        27
+      ]
+    },
+    {
+      "text": "xy",
+      "confidence": 52.199539,
+      "box": [
+        1568,
+        2255,
+        25,
+        26
+      ]
+    },
+    {
+      "text": "tú",
+      "confidence": 30.894302,
+      "box": [
+        1133,
+        2241,
+        70,
+        83
+      ]
+    },
+    {
+      "text": "TIÀ.",
+      "confidence": 60.505836,
+      "box": [
+        1137,
+        2245,
+        233,
+        73
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 19.533272,
+      "box": [
+        985,
+        2328,
+        182,
+        54
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 74.875488,
+      "box": [
+        1076,
+        2428,
+        16,
+        8
+      ]
+    },
+    {
+      "text": "\"ae;",
+      "confidence": 18.375198,
+      "box": [
+        1522,
+        2402,
+        109,
+        27
+      ]
+    },
+    {
+      "text": "Z",
+      "confidence": 59.824608,
+      "box": [
+        995,
+        2416,
+        24,
+        32
+      ]
+    },
+    {
+      "text": "Ps,",
+      "confidence": 14.011765,
+      "box": [
+        1265,
+        2442,
+        46,
+        17
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4284,
+    5712
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.481,
+  "mean_confidence": 57.92,
+  "status": "text_detected"
+}

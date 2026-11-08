@@ -1,0 +1,397 @@
+{
+  "asset_id": "34f5dacb-8648-55e9-8a4c-e4f2bd00345f",
+  "filename": "IMG_8926.JPG",
+  "source_path": "topics/03_lich_su_dau_tranh_va_cach_mang/TOPIC017_da_nang_trong_khang_chien_chong_de_quoc_my_19541975/IMG_8926.JPG",
+  "source_sha256": "75f24034247c82497c291a0755cf2e0958e44695d32bc66732d86f08838afaed",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "|\n\nAA\n\nee AOE IEE:\n\na ae\n\n_\n\nPr i TƯ NT\n\ntlle i, a\n\nae\n\nLS\n\n=\n\nanne Ss\n\n4\n\n\\ j“.\n\n-————\n\nSuan\n\nARE\n\n- ~\n\n- Z8\n\nc“\n\n—\n\nif\n\nƑˆ J4\n\n—-znt\n\n=e",
+  "words": [
+    {
+      "text": "|",
+      "confidence": 53.092751,
+      "box": [
+        1401,
+        87,
+        28,
+        79
+      ]
+    },
+    {
+      "text": "AA",
+      "confidence": 37.606827,
+      "box": [
+        2283,
+        411,
+        125,
+        66
+      ]
+    },
+    {
+      "text": "ee",
+      "confidence": 15.935699,
+      "box": [
+        2747,
+        498,
+        41,
+        28
+      ]
+    },
+    {
+      "text": "AOE",
+      "confidence": 27.508324,
+      "box": [
+        2803,
+        498,
+        50,
+        28
+      ]
+    },
+    {
+      "text": "IEE:",
+      "confidence": 34.373642,
+      "box": [
+        2861,
+        498,
+        43,
+        28
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 15.514755,
+      "box": [
+        2637,
+        549,
+        60,
+        9
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 28.159927,
+      "box": [
+        2714,
+        551,
+        39,
+        10
+      ]
+    },
+    {
+      "text": "_",
+      "confidence": 37.71801,
+      "box": [
+        2785,
+        532,
+        8,
+        29
+      ]
+    },
+    {
+      "text": "Pr",
+      "confidence": 21.716454,
+      "box": [
+        2901,
+        518,
+        38,
+        28
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 38.959942,
+      "box": [
+        2973,
+        527,
+        4,
+        10
+      ]
+    },
+    {
+      "text": "TƯ",
+      "confidence": 49.749283,
+      "box": [
+        2999,
+        518,
+        26,
+        28
+      ]
+    },
+    {
+      "text": "NT",
+      "confidence": 0.0,
+      "box": [
+        3036,
+        527,
+        54,
+        13
+      ]
+    },
+    {
+      "text": "tlle",
+      "confidence": 0.0,
+      "box": [
+        2910,
+        547,
+        92,
+        31
+      ]
+    },
+    {
+      "text": "i,",
+      "confidence": 39.694206,
+      "box": [
+        3014,
+        547,
+        24,
+        31
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 14.032524,
+      "box": [
+        3159,
+        550,
+        41,
+        18
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 29.62973,
+      "box": [
+        1209,
+        592,
+        410,
+        71
+      ]
+    },
+    {
+      "text": "LS",
+      "confidence": 0.0,
+      "box": [
+        1445,
+        654,
+        144,
+        28
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 71.897926,
+      "box": [
+        1565,
+        676,
+        36,
+        9
+      ]
+    },
+    {
+      "text": "anne",
+      "confidence": 0.0,
+      "box": [
+        1633,
+        704,
+        27,
+        5
+      ]
+    },
+    {
+      "text": "Ss",
+      "confidence": 34.855339,
+      "box": [
+        1665,
+        706,
+        29,
+        6
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 70.255104,
+      "box": [
+        2246,
+        733,
+        122,
+        40
+      ]
+    },
+    {
+      "text": "\\",
+      "confidence": 47.2948,
+      "box": [
+        2122,
+        782,
+        30,
+        32
+      ]
+    },
+    {
+      "text": "j“.",
+      "confidence": 47.2948,
+      "box": [
+        2159,
+        768,
+        99,
+        46
+      ]
+    },
+    {
+      "text": "-————",
+      "confidence": 51.626629,
+      "box": [
+        1756,
+        806,
+        96,
+        11
+      ]
+    },
+    {
+      "text": "Suan",
+      "confidence": 18.709259,
+      "box": [
+        1935,
+        799,
+        195,
+        68
+      ]
+    },
+    {
+      "text": "ARE",
+      "confidence": 49.814762,
+      "box": [
+        1725,
+        909,
+        53,
+        10
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 18.313049,
+      "box": [
+        1779,
+        856,
+        167,
+        48
+      ]
+    },
+    {
+      "text": "~",
+      "confidence": 68.603371,
+      "box": [
+        1906,
+        852,
+        43,
+        63
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 90.637932,
+      "box": [
+        1737,
+        900,
+        20,
+        48
+      ]
+    },
+    {
+      "text": "Z8",
+      "confidence": 63.358829,
+      "box": [
+        1741,
+        904,
+        89,
+        34
+      ]
+    },
+    {
+      "text": "c“",
+      "confidence": 32.480682,
+      "box": [
+        1612,
+        927,
+        125,
+        48
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 64.752945,
+      "box": [
+        1753,
+        1321,
+        25,
+        5
+      ]
+    },
+    {
+      "text": "if",
+      "confidence": 68.994125,
+      "box": [
+        1596,
+        1410,
+        26,
+        28
+      ]
+    },
+    {
+      "text": "Ƒˆ",
+      "confidence": 33.163315,
+      "box": [
+        1827,
+        1466,
+        16,
+        52
+      ]
+    },
+    {
+      "text": "J4",
+      "confidence": 48.223553,
+      "box": [
+        1861,
+        1466,
+        27,
+        52
+      ]
+    },
+    {
+      "text": "—-znt",
+      "confidence": 0.0,
+      "box": [
+        3063,
+        1694,
+        116,
+        19
+      ]
+    },
+    {
+      "text": "=e",
+      "confidence": 37.102028,
+      "box": [
+        3126,
+        2009,
+        70,
+        17
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.189,
+  "mean_confidence": 36.79,
+  "status": "needs_manual_transcription"
+}

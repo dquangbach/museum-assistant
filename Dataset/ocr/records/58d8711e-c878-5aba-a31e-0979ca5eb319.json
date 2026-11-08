@@ -1,0 +1,327 @@
+{
+  "asset_id": "58d8711e-c878-5aba-a31e-0979ca5eb319",
+  "filename": "IMG_8950.JPG",
+  "source_path": "topics/03_lich_su_dau_tranh_va_cach_mang/TOPIC021_trong_canh_cua_lao_tu/IMG_8950.JPG",
+  "source_sha256": "eccb717bb8ccd188eea0dcfd4beb0591d66b224f45b58aca41870534c7afd48f",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "igs\n\na\n\nl}\n\n=\n\nic thợ)\n\nvò video\n\n*\n\nLee Oa\n\nTee\n\ntui\n\nTử\n\n* &\n\n2Ð}\n\n“se\n\nbai\n\na?\n\n‘Hobc truy can,\n\n412\n\npes\n\nRG\n\nFemir\n\ne\n\nft.\n\nNà",
+  "words": [
+    {
+      "text": "igs",
+      "confidence": 49.715881,
+      "box": [
+        146,
+        584,
+        26,
+        18
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 79.042862,
+      "box": [
+        146,
+        857,
+        17,
+        26
+      ]
+    },
+    {
+      "text": "l}",
+      "confidence": 0.0,
+      "box": [
+        1921,
+        1018,
+        64,
+        58
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 59.217522,
+      "box": [
+        697,
+        1078,
+        25,
+        8
+      ]
+    },
+    {
+      "text": "ic",
+      "confidence": 42.941414,
+      "box": [
+        1080,
+        1097,
+        13,
+        28
+      ]
+    },
+    {
+      "text": "thợ)",
+      "confidence": 41.789444,
+      "box": [
+        1132,
+        1106,
+        15,
+        9
+      ]
+    },
+    {
+      "text": "vò",
+      "confidence": 86.421417,
+      "box": [
+        1287,
+        1103,
+        56,
+        79
+      ]
+    },
+    {
+      "text": "video",
+      "confidence": 96.952675,
+      "box": [
+        1368,
+        1107,
+        138,
+        65
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 83.615089,
+      "box": [
+        2189,
+        1242,
+        43,
+        51
+      ]
+    },
+    {
+      "text": "Lee",
+      "confidence": 35.010315,
+      "box": [
+        949,
+        1331,
+        379,
+        105
+      ]
+    },
+    {
+      "text": "Oa",
+      "confidence": 21.903877,
+      "box": [
+        1246,
+        1291,
+        77,
+        181
+      ]
+    },
+    {
+      "text": "Tee",
+      "confidence": 20.837875,
+      "box": [
+        898,
+        1490,
+        182,
+        77
+      ]
+    },
+    {
+      "text": "tui",
+      "confidence": 48.286587,
+      "box": [
+        937,
+        1562,
+        67,
+        54
+      ]
+    },
+    {
+      "text": "Tử",
+      "confidence": 2.365227,
+      "box": [
+        1002,
+        1690,
+        66,
+        44
+      ]
+    },
+    {
+      "text": "*",
+      "confidence": 86.79808,
+      "box": [
+        2124,
+        1714,
+        15,
+        11
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 65.621323,
+      "box": [
+        2170,
+        1713,
+        6,
+        13
+      ]
+    },
+    {
+      "text": "2Ð}",
+      "confidence": 21.23333,
+      "box": [
+        1172,
+        1656,
+        141,
+        124
+      ]
+    },
+    {
+      "text": "“se",
+      "confidence": 13.952957,
+      "box": [
+        2115,
+        1737,
+        67,
+        25
+      ]
+    },
+    {
+      "text": "bai",
+      "confidence": 50.319695,
+      "box": [
+        751,
+        1803,
+        28,
+        21
+      ]
+    },
+    {
+      "text": "a?",
+      "confidence": 71.201233,
+      "box": [
+        2110,
+        1788,
+        74,
+        43
+      ]
+    },
+    {
+      "text": "‘Hobc",
+      "confidence": 44.955288,
+      "box": [
+        1044,
+        1927,
+        63,
+        50
+      ]
+    },
+    {
+      "text": "truy",
+      "confidence": 91.91655,
+      "box": [
+        1119,
+        1927,
+        42,
+        50
+      ]
+    },
+    {
+      "text": "can,",
+      "confidence": 50.544403,
+      "box": [
+        1173,
+        1927,
+        42,
+        50
+      ]
+    },
+    {
+      "text": "412",
+      "confidence": 70.433937,
+      "box": [
+        43,
+        1930,
+        124,
+        73
+      ]
+    },
+    {
+      "text": "pes",
+      "confidence": 50.349548,
+      "box": [
+        1029,
+        2040,
+        66,
+        25
+      ]
+    },
+    {
+      "text": "RG",
+      "confidence": 91.514725,
+      "box": [
+        12,
+        2049,
+        44,
+        29
+      ]
+    },
+    {
+      "text": "Femir",
+      "confidence": 71.956985,
+      "box": [
+        25,
+        2193,
+        90,
+        26
+      ]
+    },
+    {
+      "text": "e",
+      "confidence": 0.0,
+      "box": [
+        63,
+        2279,
+        55,
+        66
+      ]
+    },
+    {
+      "text": "ft.",
+      "confidence": 13.072166,
+      "box": [
+        116,
+        2275,
+        38,
+        44
+      ]
+    },
+    {
+      "text": "Nà",
+      "confidence": 35.957916,
+      "box": [
+        128,
+        2320,
+        84,
+        100
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4284,
+    5712
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.367,
+  "mean_confidence": 49.93,
+  "status": "needs_manual_transcription"
+}

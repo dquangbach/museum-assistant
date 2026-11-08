@@ -1,0 +1,26 @@
+{
+  "document_id": "OCR_56efad48-fac0-545d-8b0f-7cfbcb21bd3f",
+  "topic_id": "TOPIC006",
+  "topic_ids": [
+    "TOPIC006"
+  ],
+  "exhibit_id": null,
+  "title": "Đà Nẵng thời kỳ văn hóa Champa — IMG_8821.JPG",
+  "title_origin": "catalog_and_filename_not_transcribed_heading",
+  "language": "und",
+  "ocr_languages": [
+    "vi",
+    "en"
+  ],
+  "source_asset_ids": [
+    "56efad48-fac0-545d-8b0f-7cfbcb21bd3f"
+  ],
+  "source_filenames": [
+    "IMG_8821.JPG"
+  ],
+  "review_status": "needs_review",
+  "version": 1,
+  "text": "ho\n\nš\n\nbg",
+  "ocr_status": "needs_manual_transcription",
+  "review_notes": "Automatic OCR; check text, language, reading order and topic against photo before approval."
+}

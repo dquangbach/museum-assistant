@@ -1,0 +1,2237 @@
+{
+  "asset_id": "21ee9ba0-a843-55c4-9acc-8544ec6d87dc",
+  "filename": "IMG_9046.JPG",
+  "source_path": "topics/05_van_hoa_sinh_ke_va_nghe_thuat/TOPIC034_van_hoa_bien/IMG_9046.JPG",
+  "source_sha256": "38c7595ac39f5bbc8d826092f31b09d77f53dbeecf93f323f3f0495ec277d727",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "VÀ\n\n1\n\nAARINE CULTURE\n\nrình cộng cư của\n\nBiển Đông, có bờ biển d\n\nài 103km. Quá †\n\nng năm\n\nđầu thế kỷ 14 đã\n\nnh\n\nhệ theo nhữn\n\nùng b\n\niển nơi đây. Tin ngưỡng\n\nóa độc đáo, đặc trưng của V\n\nhú như: tục thờ\n\nđược thờ phụng đ\n\na dạng và phong p\n\n>\n\nhiều nghề thu\n\ncông gắn\n\nư, hát bả trạo. Các làng chài với n\n\nnl\n\nắm, nghề làm thúng chai, dan lưới\n\noe\n\nNgữ văn dân gian\n\nbiển... góp phần làm\n\nda\n\nngữ...), tri thức, văn hóa ẩm thực\n\nyan hóa trên địa bàn thành phố.\n\nJ\n\nDa Nang, a coastal ci\n\nhe East Steed iometers of coastline. The cohabitation of\n\nVietnamese settlers from the Thanh Hoa and Nghe An regions, who migrated here in\n\nwaves starting from the early 14th century, has gradually shaped the unique and\n\ndistinctive cultural features of this coastal area. Various folk beliefs and sea deities are\n\nworshiped, such as the worship of Ca Ong (whale), the Cau Ngu festival, and Ba Trao\n\nsinging. Fishing villages provide many marine-related handicra\n\nfts, including fish sauce\n\nmaking, basket weaving, and net knittin\n\nand proverbs, etc...), marine knowled\n\n9. Folk literature (chantey, folk songs, folk verses\n\ng\n\ne and cuisine have contri\n\ncultural heritage of Da Nang city.\n\nbuted to enriching the",
+  "words": [
+    {
+      "text": "VÀ",
+      "confidence": 87.741661,
+      "box": [
+        267,
+        507,
+        154,
+        108
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 94.739578,
+      "box": [
+        262,
+        743,
+        8,
+        16
+      ]
+    },
+    {
+      "text": "AARINE",
+      "confidence": 92.164383,
+      "box": [
+        297,
+        665,
+        311,
+        113
+      ]
+    },
+    {
+      "text": "CULTURE",
+      "confidence": 96.859612,
+      "box": [
+        642,
+        606,
+        416,
+        128
+      ]
+    },
+    {
+      "text": "rình",
+      "confidence": 92.910561,
+      "box": [
+        1428,
+        934,
+        70,
+        38
+      ]
+    },
+    {
+      "text": "cộng",
+      "confidence": 96.825745,
+      "box": [
+        1514,
+        928,
+        96,
+        41
+      ]
+    },
+    {
+      "text": "cư",
+      "confidence": 96.988434,
+      "box": [
+        1627,
+        925,
+        51,
+        30
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.662468,
+      "box": [
+        1692,
+        910,
+        71,
+        39
+      ]
+    },
+    {
+      "text": "Biển",
+      "confidence": 96.984055,
+      "box": [
+        722,
+        990,
+        69,
+        40
+      ]
+    },
+    {
+      "text": "Đông,",
+      "confidence": 94.978676,
+      "box": [
+        803,
+        989,
+        96,
+        37
+      ]
+    },
+    {
+      "text": "có",
+      "confidence": 96.995575,
+      "box": [
+        913,
+        980,
+        40,
+        34
+      ]
+    },
+    {
+      "text": "bờ",
+      "confidence": 87.225189,
+      "box": [
+        967,
+        976,
+        43,
+        35
+      ]
+    },
+    {
+      "text": "biển",
+      "confidence": 93.303352,
+      "box": [
+        1022,
+        966,
+        71,
+        40
+      ]
+    },
+    {
+      "text": "d",
+      "confidence": 93.29702,
+      "box": [
+        1108,
+        965,
+        19,
+        34
+      ]
+    },
+    {
+      "text": "ài",
+      "confidence": 92.217339,
+      "box": [
+        1131,
+        964,
+        28,
+        33
+      ]
+    },
+    {
+      "text": "103km.",
+      "confidence": 96.983978,
+      "box": [
+        1176,
+        954,
+        132,
+        39
+      ]
+    },
+    {
+      "text": "Quá",
+      "confidence": 93.304993,
+      "box": [
+        1325,
+        942,
+        99,
+        42
+      ]
+    },
+    {
+      "text": "†",
+      "confidence": 90.948433,
+      "box": [
+        1405,
+        938,
+        22,
+        63
+      ]
+    },
+    {
+      "text": "ng",
+      "confidence": 96.394562,
+      "box": [
+        1283,
+        1022,
+        42,
+        33
+      ]
+    },
+    {
+      "text": "năm",
+      "confidence": 96.897606,
+      "box": [
+        1341,
+        1008,
+        79,
+        36
+      ]
+    },
+    {
+      "text": "đầu",
+      "confidence": 97.011505,
+      "box": [
+        1435,
+        998,
+        70,
+        38
+      ]
+    },
+    {
+      "text": "thế",
+      "confidence": 96.967567,
+      "box": [
+        1518,
+        988,
+        66,
+        42
+      ]
+    },
+    {
+      "text": "kỷ",
+      "confidence": 96.694,
+      "box": [
+        1596,
+        984,
+        42,
+        47
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 96.365494,
+      "box": [
+        1653,
+        983,
+        47,
+        36
+      ]
+    },
+    {
+      "text": "đã",
+      "confidence": 96.976273,
+      "box": [
+        1714,
+        977,
+        49,
+        37
+      ]
+    },
+    {
+      "text": "nh",
+      "confidence": 96.168465,
+      "box": [
+        607,
+        1071,
+        44,
+        29
+      ]
+    },
+    {
+      "text": "hệ",
+      "confidence": 96.431267,
+      "box": [
+        720,
+        1055,
+        40,
+        39
+      ]
+    },
+    {
+      "text": "theo",
+      "confidence": 93.306213,
+      "box": [
+        769,
+        1053,
+        74,
+        33
+      ]
+    },
+    {
+      "text": "nhữn",
+      "confidence": 93.237503,
+      "box": [
+        855,
+        1044,
+        84,
+        36
+      ]
+    },
+    {
+      "text": "ùng",
+      "confidence": 90.542145,
+      "box": [
+        1197,
+        1085,
+        64,
+        39
+      ]
+    },
+    {
+      "text": "b",
+      "confidence": 92.805328,
+      "box": [
+        1277,
+        1080,
+        20,
+        33
+      ]
+    },
+    {
+      "text": "iển",
+      "confidence": 84.999062,
+      "box": [
+        1301,
+        1072,
+        51,
+        39
+      ]
+    },
+    {
+      "text": "nơi",
+      "confidence": 96.996902,
+      "box": [
+        1369,
+        1071,
+        54,
+        36
+      ]
+    },
+    {
+      "text": "đây.",
+      "confidence": 96.930267,
+      "box": [
+        1439,
+        1065,
+        78,
+        42
+      ]
+    },
+    {
+      "text": "Tin",
+      "confidence": 93.278076,
+      "box": [
+        1533,
+        1058,
+        60,
+        36
+      ]
+    },
+    {
+      "text": "ngưỡng",
+      "confidence": 77.009384,
+      "box": [
+        1611,
+        1048,
+        152,
+        48
+      ]
+    },
+    {
+      "text": "óa",
+      "confidence": 91.200409,
+      "box": [
+        708,
+        1116,
+        40,
+        34
+      ]
+    },
+    {
+      "text": "độc",
+      "confidence": 96.726936,
+      "box": [
+        760,
+        1112,
+        63,
+        39
+      ]
+    },
+    {
+      "text": "đáo,",
+      "confidence": 96.882385,
+      "box": [
+        835,
+        1108,
+        71,
+        35
+      ]
+    },
+    {
+      "text": "đặc",
+      "confidence": 96.883781,
+      "box": [
+        918,
+        1103,
+        63,
+        39
+      ]
+    },
+    {
+      "text": "trưng",
+      "confidence": 96.508385,
+      "box": [
+        992,
+        1103,
+        93,
+        32
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 93.295189,
+      "box": [
+        1100,
+        1088,
+        62,
+        37
+      ]
+    },
+    {
+      "text": "V",
+      "confidence": 89.542526,
+      "box": [
+        1175,
+        1095,
+        19,
+        25
+      ]
+    },
+    {
+      "text": "hú",
+      "confidence": 97.008385,
+      "box": [
+        1448,
+        1129,
+        44,
+        37
+      ]
+    },
+    {
+      "text": "như:",
+      "confidence": 96.8713,
+      "box": [
+        1511,
+        1126,
+        87,
+        36
+      ]
+    },
+    {
+      "text": "tục",
+      "confidence": 96.933311,
+      "box": [
+        1615,
+        1124,
+        65,
+        37
+      ]
+    },
+    {
+      "text": "thờ",
+      "confidence": 96.97718,
+      "box": [
+        1696,
+        1112,
+        71,
+        37
+      ]
+    },
+    {
+      "text": "được",
+      "confidence": 96.824303,
+      "box": [
+        767,
+        1173,
+        89,
+        37
+      ]
+    },
+    {
+      "text": "thờ",
+      "confidence": 97.001968,
+      "box": [
+        867,
+        1166,
+        60,
+        35
+      ]
+    },
+    {
+      "text": "phụng",
+      "confidence": 93.304932,
+      "box": [
+        940,
+        1163,
+        108,
+        42
+      ]
+    },
+    {
+      "text": "đ",
+      "confidence": 91.035355,
+      "box": [
+        1064,
+        1156,
+        22,
+        34
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 93.277115,
+      "box": [
+        1089,
+        1164,
+        18,
+        24
+      ]
+    },
+    {
+      "text": "dạng",
+      "confidence": 97.01635,
+      "box": [
+        1123,
+        1153,
+        89,
+        39
+      ]
+    },
+    {
+      "text": "và",
+      "confidence": 96.99382,
+      "box": [
+        1228,
+        1145,
+        41,
+        35
+      ]
+    },
+    {
+      "text": "phong",
+      "confidence": 93.302971,
+      "box": [
+        1287,
+        1141,
+        117,
+        44
+      ]
+    },
+    {
+      "text": "p",
+      "confidence": 82.497589,
+      "box": [
+        1423,
+        1143,
+        20,
+        33
+      ]
+    },
+    {
+      "text": ">",
+      "confidence": 75.117264,
+      "box": [
+        1548,
+        1188,
+        8,
+        10
+      ]
+    },
+    {
+      "text": "hiều",
+      "confidence": 93.126732,
+      "box": [
+        1303,
+        1201,
+        75,
+        38
+      ]
+    },
+    {
+      "text": "nghề",
+      "confidence": 96.429878,
+      "box": [
+        1394,
+        1193,
+        92,
+        48
+      ]
+    },
+    {
+      "text": "thu",
+      "confidence": 96.530838,
+      "box": [
+        1499,
+        1193,
+        62,
+        35
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 96.46093,
+      "box": [
+        1577,
+        1187,
+        96,
+        41
+      ]
+    },
+    {
+      "text": "gắn",
+      "confidence": 96.687302,
+      "box": [
+        1690,
+        1177,
+        73,
+        48
+      ]
+    },
+    {
+      "text": "ư,",
+      "confidence": 92.151169,
+      "box": [
+        715,
+        1243,
+        30,
+        30
+      ]
+    },
+    {
+      "text": "hát",
+      "confidence": 96.309311,
+      "box": [
+        755,
+        1233,
+        54,
+        33
+      ]
+    },
+    {
+      "text": "bả",
+      "confidence": 93.172356,
+      "box": [
+        821,
+        1227,
+        39,
+        37
+      ]
+    },
+    {
+      "text": "trạo.",
+      "confidence": 93.025444,
+      "box": [
+        871,
+        1233,
+        78,
+        33
+      ]
+    },
+    {
+      "text": "Các",
+      "confidence": 96.626205,
+      "box": [
+        963,
+        1223,
+        65,
+        34
+      ]
+    },
+    {
+      "text": "làng",
+      "confidence": 93.304581,
+      "box": [
+        1041,
+        1220,
+        72,
+        39
+      ]
+    },
+    {
+      "text": "chài",
+      "confidence": 93.222397,
+      "box": [
+        1127,
+        1213,
+        72,
+        36
+      ]
+    },
+    {
+      "text": "với",
+      "confidence": 93.293396,
+      "box": [
+        1213,
+        1209,
+        51,
+        35
+      ]
+    },
+    {
+      "text": "n",
+      "confidence": 93.286903,
+      "box": [
+        1280,
+        1216,
+        18,
+        25
+      ]
+    },
+    {
+      "text": "nl",
+      "confidence": 57.933784,
+      "box": [
+        576,
+        1310,
+        23,
+        23
+      ]
+    },
+    {
+      "text": "ắm,",
+      "confidence": 77.316673,
+      "box": [
+        698,
+        1278,
+        64,
+        59
+      ]
+    },
+    {
+      "text": "nghề",
+      "confidence": 96.877846,
+      "box": [
+        778,
+        1288,
+        84,
+        45
+      ]
+    },
+    {
+      "text": "làm",
+      "confidence": 93.306252,
+      "box": [
+        879,
+        1289,
+        63,
+        33
+      ]
+    },
+    {
+      "text": "thúng",
+      "confidence": 93.279747,
+      "box": [
+        957,
+        1284,
+        103,
+        39
+      ]
+    },
+    {
+      "text": "chai,",
+      "confidence": 96.309631,
+      "box": [
+        1078,
+        1279,
+        85,
+        36
+      ]
+    },
+    {
+      "text": "dan",
+      "confidence": 96.309631,
+      "box": [
+        1181,
+        1275,
+        68,
+        34
+      ]
+    },
+    {
+      "text": "lưới",
+      "confidence": 97.02037,
+      "box": [
+        1270,
+        1258,
+        69,
+        58
+      ]
+    },
+    {
+      "text": "oe",
+      "confidence": 51.265617,
+      "box": [
+        1345,
+        1295,
+        23,
+        6
+      ]
+    },
+    {
+      "text": "Ngữ",
+      "confidence": 96.934372,
+      "box": [
+        1390,
+        1263,
+        82,
+        43
+      ]
+    },
+    {
+      "text": "văn",
+      "confidence": 96.925705,
+      "box": [
+        1488,
+        1259,
+        70,
+        35
+      ]
+    },
+    {
+      "text": "dân",
+      "confidence": 96.920456,
+      "box": [
+        1579,
+        1253,
+        74,
+        36
+      ]
+    },
+    {
+      "text": "gian",
+      "confidence": 96.5588,
+      "box": [
+        1675,
+        1250,
+        89,
+        44
+      ]
+    },
+    {
+      "text": "biển...",
+      "confidence": 94.77179,
+      "box": [
+        1346,
+        1326,
+        108,
+        39
+      ]
+    },
+    {
+      "text": "góp",
+      "confidence": 96.675903,
+      "box": [
+        1474,
+        1324,
+        74,
+        44
+      ]
+    },
+    {
+      "text": "phần",
+      "confidence": 96.759872,
+      "box": [
+        1568,
+        1317,
+        99,
+        48
+      ]
+    },
+    {
+      "text": "làm",
+      "confidence": 96.959663,
+      "box": [
+        1689,
+        1315,
+        75,
+        36
+      ]
+    },
+    {
+      "text": "da",
+      "confidence": 92.799957,
+      "box": [
+        576,
+        1359,
+        31,
+        37
+      ]
+    },
+    {
+      "text": "ngữ...),",
+      "confidence": 44.295555,
+      "box": [
+        725,
+        1351,
+        113,
+        44
+      ]
+    },
+    {
+      "text": "tri",
+      "confidence": 96.90242,
+      "box": [
+        852,
+        1351,
+        35,
+        32
+      ]
+    },
+    {
+      "text": "thức,",
+      "confidence": 96.90435,
+      "box": [
+        902,
+        1348,
+        90,
+        36
+      ]
+    },
+    {
+      "text": "văn",
+      "confidence": 96.761032,
+      "box": [
+        1007,
+        1345,
+        62,
+        33
+      ]
+    },
+    {
+      "text": "hóa",
+      "confidence": 96.972794,
+      "box": [
+        1087,
+        1341,
+        65,
+        34
+      ]
+    },
+    {
+      "text": "ẩm",
+      "confidence": 96.708778,
+      "box": [
+        1169,
+        1335,
+        55,
+        37
+      ]
+    },
+    {
+      "text": "thực",
+      "confidence": 96.128159,
+      "box": [
+        1240,
+        1336,
+        88,
+        39
+      ]
+    },
+    {
+      "text": "yan",
+      "confidence": 85.858665,
+      "box": [
+        664,
+        1415,
+        62,
+        33
+      ]
+    },
+    {
+      "text": "hóa",
+      "confidence": 94.151619,
+      "box": [
+        736,
+        1414,
+        62,
+        33
+      ]
+    },
+    {
+      "text": "trên",
+      "confidence": 96.725861,
+      "box": [
+        808,
+        1412,
+        66,
+        33
+      ]
+    },
+    {
+      "text": "địa",
+      "confidence": 96.848145,
+      "box": [
+        886,
+        1410,
+        52,
+        39
+      ]
+    },
+    {
+      "text": "bàn",
+      "confidence": 96.848145,
+      "box": [
+        951,
+        1408,
+        60,
+        33
+      ]
+    },
+    {
+      "text": "thành",
+      "confidence": 97.00795,
+      "box": [
+        1023,
+        1404,
+        99,
+        35
+      ]
+    },
+    {
+      "text": "phố.",
+      "confidence": 96.66526,
+      "box": [
+        1136,
+        1398,
+        75,
+        46
+      ]
+    },
+    {
+      "text": "J",
+      "confidence": 30.073181,
+      "box": [
+        407,
+        1440,
+        1,
+        15
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.891724,
+      "box": [
+        254,
+        1601,
+        38,
+        29
+      ]
+    },
+    {
+      "text": "Nang,",
+      "confidence": 93.293625,
+      "box": [
+        302,
+        1600,
+        83,
+        36
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 96.032288,
+      "box": [
+        398,
+        1606,
+        16,
+        23
+      ]
+    },
+    {
+      "text": "coastal",
+      "confidence": 96.36116,
+      "box": [
+        427,
+        1600,
+        102,
+        28
+      ]
+    },
+    {
+      "text": "ci",
+      "confidence": 72.24617,
+      "box": [
+        550,
+        1600,
+        19,
+        22
+      ]
+    },
+    {
+      "text": "he",
+      "confidence": 89.20546,
+      "box": [
+        677,
+        1580,
+        41,
+        46
+      ]
+    },
+    {
+      "text": "East",
+      "confidence": 93.942818,
+      "box": [
+        728,
+        1573,
+        74,
+        53
+      ]
+    },
+    {
+      "text": "Steed",
+      "confidence": 1.070023,
+      "box": [
+        812,
+        1545,
+        118,
+        91
+      ]
+    },
+    {
+      "text": "iometers",
+      "confidence": 30.376556,
+      "box": [
+        959,
+        1549,
+        168,
+        75
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.997818,
+      "box": [
+        1141,
+        1589,
+        39,
+        41
+      ]
+    },
+    {
+      "text": "coastline.",
+      "confidence": 96.893707,
+      "box": [
+        1190,
+        1588,
+        172,
+        34
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 96.754776,
+      "box": [
+        1382,
+        1587,
+        66,
+        34
+      ]
+    },
+    {
+      "text": "cohabitation",
+      "confidence": 96.369812,
+      "box": [
+        1464,
+        1585,
+        244,
+        35
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.981544,
+      "box": [
+        1726,
+        1582,
+        45,
+        37
+      ]
+    },
+    {
+      "text": "Vietnamese",
+      "confidence": 96.834755,
+      "box": [
+        255,
+        1657,
+        173,
+        30
+      ]
+    },
+    {
+      "text": "settlers",
+      "confidence": 96.047791,
+      "box": [
+        442,
+        1655,
+        116,
+        31
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 96.047791,
+      "box": [
+        597,
+        1652,
+        52,
+        34
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.816505,
+      "box": [
+        688,
+        1662,
+        25,
+        36
+      ]
+    },
+    {
+      "text": "Thanh",
+      "confidence": 96.816505,
+      "box": [
+        728,
+        1653,
+        102,
+        33
+      ]
+    },
+    {
+      "text": "Hoa",
+      "confidence": 96.714134,
+      "box": [
+        846,
+        1648,
+        66,
+        37
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.973763,
+      "box": [
+        929,
+        1652,
+        64,
+        33
+      ]
+    },
+    {
+      "text": "Nghe",
+      "confidence": 96.47731,
+      "box": [
+        1008,
+        1652,
+        90,
+        41
+      ]
+    },
+    {
+      "text": "An",
+      "confidence": 96.890907,
+      "box": [
+        1112,
+        1654,
+        47,
+        31
+      ]
+    },
+    {
+      "text": "regions,",
+      "confidence": 96.098198,
+      "box": [
+        1177,
+        1653,
+        141,
+        40
+      ]
+    },
+    {
+      "text": "who",
+      "confidence": 96.621292,
+      "box": [
+        1339,
+        1651,
+        74,
+        34
+      ]
+    },
+    {
+      "text": "migrated",
+      "confidence": 96.410103,
+      "box": [
+        1432,
+        1651,
+        175,
+        43
+      ]
+    },
+    {
+      "text": "here",
+      "confidence": 96.87381,
+      "box": [
+        1625,
+        1651,
+        86,
+        35
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.950363,
+      "box": [
+        1732,
+        1652,
+        33,
+        34
+      ]
+    },
+    {
+      "text": "waves",
+      "confidence": 96.359718,
+      "box": [
+        254,
+        1721,
+        91,
+        23
+      ]
+    },
+    {
+      "text": "starting",
+      "confidence": 96.38591,
+      "box": [
+        363,
+        1715,
+        117,
+        37
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 96.925819,
+      "box": [
+        501,
+        1713,
+        72,
+        32
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.711143,
+      "box": [
+        596,
+        1713,
+        49,
+        32
+      ]
+    },
+    {
+      "text": "early",
+      "confidence": 96.711143,
+      "box": [
+        662,
+        1693,
+        88,
+        65
+      ]
+    },
+    {
+      "text": "14th",
+      "confidence": 93.691803,
+      "box": [
+        766,
+        1713,
+        71,
+        37
+      ]
+    },
+    {
+      "text": "century,",
+      "confidence": 96.933922,
+      "box": [
+        860,
+        1718,
+        131,
+        37
+      ]
+    },
+    {
+      "text": "has",
+      "confidence": 96.869659,
+      "box": [
+        1015,
+        1714,
+        61,
+        33
+      ]
+    },
+    {
+      "text": "gradually",
+      "confidence": 96.622314,
+      "box": [
+        1099,
+        1715,
+        165,
+        42
+      ]
+    },
+    {
+      "text": "shaped",
+      "confidence": 96.905632,
+      "box": [
+        1286,
+        1715,
+        136,
+        43
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.492142,
+      "box": [
+        1447,
+        1716,
+        59,
+        35
+      ]
+    },
+    {
+      "text": "unique",
+      "confidence": 96.333817,
+      "box": [
+        1533,
+        1719,
+        132,
+        42
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.333817,
+      "box": [
+        1693,
+        1718,
+        76,
+        36
+      ]
+    },
+    {
+      "text": "distinctive",
+      "confidence": 96.913269,
+      "box": [
+        252,
+        1770,
+        151,
+        32
+      ]
+    },
+    {
+      "text": "cultural",
+      "confidence": 96.872803,
+      "box": [
+        414,
+        1772,
+        116,
+        31
+      ]
+    },
+    {
+      "text": "features",
+      "confidence": 96.528778,
+      "box": [
+        540,
+        1772,
+        131,
+        33
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.528778,
+      "box": [
+        683,
+        1773,
+        36,
+        32
+      ]
+    },
+    {
+      "text": "this",
+      "confidence": 95.524429,
+      "box": [
+        727,
+        1774,
+        59,
+        32
+      ]
+    },
+    {
+      "text": "coastal",
+      "confidence": 95.524429,
+      "box": [
+        797,
+        1775,
+        125,
+        33
+      ]
+    },
+    {
+      "text": "area.",
+      "confidence": 96.716705,
+      "box": [
+        932,
+        1784,
+        81,
+        25
+      ]
+    },
+    {
+      "text": "Various",
+      "confidence": 96.863869,
+      "box": [
+        1031,
+        1778,
+        131,
+        33
+      ]
+    },
+    {
+      "text": "folk",
+      "confidence": 97.00885,
+      "box": [
+        1176,
+        1777,
+        67,
+        35
+      ]
+    },
+    {
+      "text": "beliefs",
+      "confidence": 96.840912,
+      "box": [
+        1254,
+        1779,
+        123,
+        35
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.870529,
+      "box": [
+        1391,
+        1781,
+        70,
+        35
+      ]
+    },
+    {
+      "text": "sea",
+      "confidence": 96.870529,
+      "box": [
+        1474,
+        1791,
+        67,
+        26
+      ]
+    },
+    {
+      "text": "deities",
+      "confidence": 96.983261,
+      "box": [
+        1557,
+        1783,
+        132,
+        37
+      ]
+    },
+    {
+      "text": "are",
+      "confidence": 96.407707,
+      "box": [
+        1705,
+        1795,
+        63,
+        27
+      ]
+    },
+    {
+      "text": "worshiped,",
+      "confidence": 95.564301,
+      "box": [
+        252,
+        1828,
+        157,
+        39
+      ]
+    },
+    {
+      "text": "such",
+      "confidence": 95.564301,
+      "box": [
+        423,
+        1830,
+        73,
+        32
+      ]
+    },
+    {
+      "text": "as",
+      "confidence": 96.947968,
+      "box": [
+        509,
+        1839,
+        37,
+        24
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.964218,
+      "box": [
+        560,
+        1832,
+        50,
+        32
+      ]
+    },
+    {
+      "text": "worship",
+      "confidence": 96.959381,
+      "box": [
+        625,
+        1834,
+        126,
+        40
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.980637,
+      "box": [
+        766,
+        1835,
+        37,
+        32
+      ]
+    },
+    {
+      "text": "Ca",
+      "confidence": 96.990196,
+      "box": [
+        814,
+        1836,
+        42,
+        32
+      ]
+    },
+    {
+      "text": "Ong",
+      "confidence": 96.981682,
+      "box": [
+        873,
+        1837,
+        66,
+        41
+      ]
+    },
+    {
+      "text": "(whale),",
+      "confidence": 96.684097,
+      "box": [
+        955,
+        1835,
+        133,
+        46
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.942001,
+      "box": [
+        1105,
+        1840,
+        55,
+        34
+      ]
+    },
+    {
+      "text": "Cau",
+      "confidence": 96.956306,
+      "box": [
+        1177,
+        1842,
+        68,
+        34
+      ]
+    },
+    {
+      "text": "Ngu",
+      "confidence": 85.007576,
+      "box": [
+        1261,
+        1844,
+        75,
+        42
+      ]
+    },
+    {
+      "text": "festival,",
+      "confidence": 96.90239,
+      "box": [
+        1354,
+        1844,
+        143,
+        44
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.556808,
+      "box": [
+        1517,
+        1850,
+        73,
+        35
+      ]
+    },
+    {
+      "text": "Ba",
+      "confidence": 91.896477,
+      "box": [
+        1607,
+        1853,
+        49,
+        34
+      ]
+    },
+    {
+      "text": "Trao",
+      "confidence": 96.924652,
+      "box": [
+        1678,
+        1854,
+        90,
+        36
+      ]
+    },
+    {
+      "text": "singing.",
+      "confidence": 96.232986,
+      "box": [
+        250,
+        1885,
+        113,
+        40
+      ]
+    },
+    {
+      "text": "Fishing",
+      "confidence": 95.336349,
+      "box": [
+        376,
+        1888,
+        111,
+        40
+      ]
+    },
+    {
+      "text": "villages",
+      "confidence": 96.976959,
+      "box": [
+        499,
+        1890,
+        118,
+        41
+      ]
+    },
+    {
+      "text": "provide",
+      "confidence": 96.976959,
+      "box": [
+        628,
+        1894,
+        121,
+        38
+      ]
+    },
+    {
+      "text": "many",
+      "confidence": 91.529495,
+      "box": [
+        761,
+        1904,
+        92,
+        34
+      ]
+    },
+    {
+      "text": "marine-related",
+      "confidence": 91.529495,
+      "box": [
+        876,
+        1900,
+        251,
+        36
+      ]
+    },
+    {
+      "text": "handicra",
+      "confidence": 92.018906,
+      "box": [
+        1139,
+        1904,
+        155,
+        38
+      ]
+    },
+    {
+      "text": "fts,",
+      "confidence": 92.27636,
+      "box": [
+        1295,
+        1904,
+        58,
+        52
+      ]
+    },
+    {
+      "text": "including",
+      "confidence": 96.723999,
+      "box": [
+        1370,
+        1912,
+        173,
+        54
+      ]
+    },
+    {
+      "text": "fish",
+      "confidence": 96.514954,
+      "box": [
+        1560,
+        1916,
+        71,
+        38
+      ]
+    },
+    {
+      "text": "sauce",
+      "confidence": 96.251915,
+      "box": [
+        1649,
+        1929,
+        121,
+        30
+      ]
+    },
+    {
+      "text": "making,",
+      "confidence": 96.305252,
+      "box": [
+        250,
+        1942,
+        113,
+        41
+      ]
+    },
+    {
+      "text": "basket",
+      "confidence": 96.278931,
+      "box": [
+        371,
+        1945,
+        104,
+        35
+      ]
+    },
+    {
+      "text": "weaving,",
+      "confidence": 96.909332,
+      "box": [
+        484,
+        1952,
+        134,
+        40
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.939163,
+      "box": [
+        629,
+        1954,
+        61,
+        32
+      ]
+    },
+    {
+      "text": "net",
+      "confidence": 93.258667,
+      "box": [
+        697,
+        1959,
+        53,
+        29
+      ]
+    },
+    {
+      "text": "knittin",
+      "confidence": 88.368698,
+      "box": [
+        758,
+        1956,
+        103,
+        35
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.896133,
+      "box": [
+        249,
+        2000,
+        56,
+        30
+      ]
+    },
+    {
+      "text": "proverbs,",
+      "confidence": 93.2966,
+      "box": [
+        313,
+        2004,
+        139,
+        38
+      ]
+    },
+    {
+      "text": "etc...),",
+      "confidence": 69.16478,
+      "box": [
+        467,
+        2008,
+        95,
+        42
+      ]
+    },
+    {
+      "text": "marine",
+      "confidence": 92.979996,
+      "box": [
+        577,
+        2014,
+        111,
+        33
+      ]
+    },
+    {
+      "text": "knowled",
+      "confidence": 90.730568,
+      "box": [
+        702,
+        2015,
+        140,
+        37
+      ]
+    },
+    {
+      "text": "9.",
+      "confidence": 49.148899,
+      "box": [
+        862,
+        1968,
+        28,
+        32
+      ]
+    },
+    {
+      "text": "Folk",
+      "confidence": 96.641121,
+      "box": [
+        904,
+        1961,
+        73,
+        34
+      ]
+    },
+    {
+      "text": "literature",
+      "confidence": 93.282227,
+      "box": [
+        986,
+        1962,
+        156,
+        39
+      ]
+    },
+    {
+      "text": "(chantey,",
+      "confidence": 93.022896,
+      "box": [
+        1155,
+        1966,
+        162,
+        50
+      ]
+    },
+    {
+      "text": "folk",
+      "confidence": 96.967621,
+      "box": [
+        1332,
+        1974,
+        70,
+        37
+      ]
+    },
+    {
+      "text": "songs,",
+      "confidence": 96.635017,
+      "box": [
+        1412,
+        1987,
+        124,
+        37
+      ]
+    },
+    {
+      "text": "folk",
+      "confidence": 96.171555,
+      "box": [
+        1552,
+        1983,
+        74,
+        38
+      ]
+    },
+    {
+      "text": "verses",
+      "confidence": 96.021866,
+      "box": [
+        1639,
+        1997,
+        131,
+        31
+      ]
+    },
+    {
+      "text": "g",
+      "confidence": 83.347076,
+      "box": [
+        840,
+        2029,
+        22,
+        33
+      ]
+    },
+    {
+      "text": "e",
+      "confidence": 88.499802,
+      "box": [
+        863,
+        2030,
+        18,
+        24
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 96.685829,
+      "box": [
+        897,
+        2024,
+        65,
+        33
+      ]
+    },
+    {
+      "text": "cuisine",
+      "confidence": 96.953735,
+      "box": [
+        977,
+        2028,
+        122,
+        35
+      ]
+    },
+    {
+      "text": "have",
+      "confidence": 96.239845,
+      "box": [
+        1116,
+        2030,
+        84,
+        37
+      ]
+    },
+    {
+      "text": "contri",
+      "confidence": 96.012276,
+      "box": [
+        1217,
+        2040,
+        107,
+        33
+      ]
+    },
+    {
+      "text": "cultural",
+      "confidence": 92.347099,
+      "box": [
+        249,
+        2057,
+        111,
+        34
+      ]
+    },
+    {
+      "text": "heritage",
+      "confidence": 96.980347,
+      "box": [
+        366,
+        2061,
+        125,
+        44
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 97.012863,
+      "box": [
+        500,
+        2068,
+        36,
+        32
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.937523,
+      "box": [
+        541,
+        2071,
+        41,
+        32
+      ]
+    },
+    {
+      "text": "Nang",
+      "confidence": 96.045303,
+      "box": [
+        593,
+        2073,
+        84,
+        42
+      ]
+    },
+    {
+      "text": "city.",
+      "confidence": 95.409286,
+      "box": [
+        687,
+        2078,
+        64,
+        41
+      ]
+    },
+    {
+      "text": "buted",
+      "confidence": 96.938637,
+      "box": [
+        1324,
+        2039,
+        107,
+        40
+      ]
+    },
+    {
+      "text": "to",
+      "confidence": 96.554298,
+      "box": [
+        1448,
+        2050,
+        37,
+        32
+      ]
+    },
+    {
+      "text": "enriching",
+      "confidence": 94.930084,
+      "box": [
+        1505,
+        2053,
+        182,
+        48
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.428162,
+      "box": [
+        1708,
+        2059,
+        63,
+        38
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    4284,
+    5712
+  ],
+  "ocr_size": [
+    2400,
+    3200
+  ],
+  "high_confidence_fraction": 0.968,
+  "mean_confidence": 92.96,
+  "status": "text_detected"
+}

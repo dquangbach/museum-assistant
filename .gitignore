@@ -56,3 +56,6 @@ __pycache__/
 !.env.example
 /backend/*.db
 /backend/*.sqlite*
+
+# Local OCR runtime
+.tools/

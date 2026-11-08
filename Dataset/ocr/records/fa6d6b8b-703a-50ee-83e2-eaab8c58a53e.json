@@ -1,0 +1,1397 @@
+{
+  "asset_id": "fa6d6b8b-703a-50ee-83e2-eaab8c58a53e",
+  "filename": "IMG_9023.JPG",
+  "source_path": "topics/04_chung_tich_chien_tranh_va_phat_trien_sau_1975/TOPIC029_chat_khai_quang_va_hiem_hoa_da_cam_khac_phuc_hau_qua_chien_tranh/IMG_9023.JPG",
+  "source_sha256": "e9764543779a67d34831ccff11042ab50ef1d2015459fa95982bbe7f865afaf8",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": ".\n\nJ215015819\n\n14091\n\nies\n\noo\n\nse\n\n=\n\n29\n\n306945919 J\n\nJ0626t\n\nPak\n\nES\n\nmm\n\nBet.\n\nL1)\n\n37\n\n3194934480\n\n\\\n\n2A\n\n9394934408\n\n37\n\n^ XEXX-XXAXEXC\n\nNE\n\nFewest a eee rc\n\n12\n\n13\n\n14\n\n8. Mũ sat\n\n12. Ca uống nước\n\n16. Thẻ quân nhân của Đại tá John P. Flynn\n\n'\n\nHelmet\n\nStainless steel kidney mug\n\nphi công F105 bị ban rơi ở chiến trường\n\n=\n\nQuang Nam - Da Nang, 1972\n\n9. Ao chéng\n\n13. Bi đông\n\nBull\n\nÁ°49\n\nCanteen\n\nMilitary ID card of Colonel John P. Flynn, flying\n\nAircraft F105 shot down in the battlefield of\n\na\n\n14. Đô la\n\nSi\n\n10. Trang\n\nQuang Nam - Da Nang, 1972\n\nPilot unife\n\nMilit\n\ncertificatg\n\nKhi\n\n=\n\nSlee\n\n11\n\ndng\n\nwo. |\n\nome\n\niC\n\nBà\n\npan\n\n—\n\nen\n\n=“\n\n-a=s==——\n\ncs\n\nae\n\nll m=onn.. 8N ng\"\n\n—\n\n—",
+  "words": [
+    {
+      "text": ".",
+      "confidence": 63.85606,
+      "box": [
+        2148,
+        162,
+        60,
+        17
+      ]
+    },
+    {
+      "text": "J215015819",
+      "confidence": 55.660381,
+      "box": [
+        2319,
+        155,
+        171,
+        21
+      ]
+    },
+    {
+      "text": "14091",
+      "confidence": 93.675331,
+      "box": [
+        2820,
+        213,
+        69,
+        18
+      ]
+    },
+    {
+      "text": "ies",
+      "confidence": 7.575653,
+      "box": [
+        2134,
+        256,
+        71,
+        13
+      ]
+    },
+    {
+      "text": "oo",
+      "confidence": 15.930397,
+      "box": [
+        2234,
+        256,
+        16,
+        7
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 33.816399,
+      "box": [
+        2480,
+        351,
+        16,
+        9
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 61.840416,
+      "box": [
+        2508,
+        354,
+        17,
+        6
+      ]
+    },
+    {
+      "text": "29",
+      "confidence": 95.920517,
+      "box": [
+        2448,
+        402,
+        22,
+        13
+      ]
+    },
+    {
+      "text": "306945919",
+      "confidence": 31.327637,
+      "box": [
+        2352,
+        483,
+        181,
+        22
+      ]
+    },
+    {
+      "text": "J",
+      "confidence": 94.967896,
+      "box": [
+        2519,
+        479,
+        18,
+        36
+      ]
+    },
+    {
+      "text": "J0626t",
+      "confidence": 13.075325,
+      "box": [
+        3095,
+        514,
+        97,
+        20
+      ]
+    },
+    {
+      "text": "Pak",
+      "confidence": 55.451965,
+      "box": [
+        2053,
+        583,
+        42,
+        15
+      ]
+    },
+    {
+      "text": "ES",
+      "confidence": 37.215916,
+      "box": [
+        2557,
+        546,
+        44,
+        42
+      ]
+    },
+    {
+      "text": "mm",
+      "confidence": 48.373417,
+      "box": [
+        2401,
+        621,
+        73,
+        8
+      ]
+    },
+    {
+      "text": "Bet.",
+      "confidence": 31.243011,
+      "box": [
+        2906,
+        681,
+        34,
+        9
+      ]
+    },
+    {
+      "text": "L1)",
+      "confidence": 51.65823,
+      "box": [
+        2134,
+        746,
+        45,
+        39
+      ]
+    },
+    {
+      "text": "37",
+      "confidence": 91.930588,
+      "box": [
+        2263,
+        774,
+        21,
+        15
+      ]
+    },
+    {
+      "text": "3194934480",
+      "confidence": 70.313042,
+      "box": [
+        2647,
+        784,
+        189,
+        26
+      ]
+    },
+    {
+      "text": "\\",
+      "confidence": 63.982243,
+      "box": [
+        2452,
+        856,
+        21,
+        16
+      ]
+    },
+    {
+      "text": "2A",
+      "confidence": 53.522545,
+      "box": [
+        2387,
+        896,
+        21,
+        13
+      ]
+    },
+    {
+      "text": "9394934408",
+      "confidence": 38.479916,
+      "box": [
+        2210,
+        974,
+        225,
+        27
+      ]
+    },
+    {
+      "text": "37",
+      "confidence": 88.049614,
+      "box": [
+        2726,
+        992,
+        21,
+        14
+      ]
+    },
+    {
+      "text": "^",
+      "confidence": 31.098267,
+      "box": [
+        2344,
+        1020,
+        10,
+        8
+      ]
+    },
+    {
+      "text": "XEXX-XXAXEXC",
+      "confidence": 0.0,
+      "box": [
+        2362,
+        1020,
+        116,
+        12
+      ]
+    },
+    {
+      "text": "NE",
+      "confidence": 31.448792,
+      "box": [
+        2917,
+        1031,
+        57,
+        14
+      ]
+    },
+    {
+      "text": "Fewest",
+      "confidence": 0.0,
+      "box": [
+        2409,
+        1033,
+        141,
+        17
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 1.164978,
+      "box": [
+        2474,
+        1029,
+        6,
+        27
+      ]
+    },
+    {
+      "text": "eee",
+      "confidence": 0.108704,
+      "box": [
+        2486,
+        1029,
+        30,
+        27
+      ]
+    },
+    {
+      "text": "rc",
+      "confidence": 0.0,
+      "box": [
+        2540,
+        1029,
+        14,
+        27
+      ]
+    },
+    {
+      "text": "12",
+      "confidence": 89.345169,
+      "box": [
+        241,
+        1076,
+        60,
+        43
+      ]
+    },
+    {
+      "text": "13",
+      "confidence": 96.811943,
+      "box": [
+        1555,
+        1099,
+        56,
+        42
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 96.014107,
+      "box": [
+        2762,
+        1147,
+        63,
+        42
+      ]
+    },
+    {
+      "text": "8.",
+      "confidence": 95.884071,
+      "box": [
+        491,
+        1302,
+        38,
+        34
+      ]
+    },
+    {
+      "text": "Mũ",
+      "confidence": 97.010963,
+      "box": [
+        559,
+        1294,
+        44,
+        58
+      ]
+    },
+    {
+      "text": "sat",
+      "confidence": 96.209648,
+      "box": [
+        627,
+        1294,
+        73,
+        58
+      ]
+    },
+    {
+      "text": "12.",
+      "confidence": 96.140297,
+      "box": [
+        1234,
+        1304,
+        59,
+        31
+      ]
+    },
+    {
+      "text": "Ca",
+      "confidence": 96.364037,
+      "box": [
+        1313,
+        1304,
+        51,
+        32
+      ]
+    },
+    {
+      "text": "uống",
+      "confidence": 96.629631,
+      "box": [
+        1380,
+        1301,
+        98,
+        43
+      ]
+    },
+    {
+      "text": "nước",
+      "confidence": 96.552284,
+      "box": [
+        1493,
+        1303,
+        99,
+        33
+      ]
+    },
+    {
+      "text": "16.",
+      "confidence": 96.874443,
+      "box": [
+        2006,
+        1307,
+        60,
+        31
+      ]
+    },
+    {
+      "text": "Thẻ",
+      "confidence": 95.819275,
+      "box": [
+        2083,
+        1303,
+        79,
+        36
+      ]
+    },
+    {
+      "text": "quân",
+      "confidence": 96.875427,
+      "box": [
+        2174,
+        1306,
+        99,
+        41
+      ]
+    },
+    {
+      "text": "nhân",
+      "confidence": 96.594025,
+      "box": [
+        2285,
+        1306,
+        100,
+        34
+      ]
+    },
+    {
+      "text": "của",
+      "confidence": 96.84774,
+      "box": [
+        2397,
+        1304,
+        73,
+        37
+      ]
+    },
+    {
+      "text": "Đại",
+      "confidence": 94.264603,
+      "box": [
+        2478,
+        1308,
+        68,
+        40
+      ]
+    },
+    {
+      "text": "tá",
+      "confidence": 96.921295,
+      "box": [
+        2555,
+        1308,
+        43,
+        34
+      ]
+    },
+    {
+      "text": "John",
+      "confidence": 93.24279,
+      "box": [
+        2608,
+        1308,
+        100,
+        35
+      ]
+    },
+    {
+      "text": "P.",
+      "confidence": 92.581482,
+      "box": [
+        2717,
+        1310,
+        34,
+        33
+      ]
+    },
+    {
+      "text": "Flynn",
+      "confidence": 96.134392,
+      "box": [
+        2760,
+        1309,
+        109,
+        44
+      ]
+    },
+    {
+      "text": "'",
+      "confidence": 46.191143,
+      "box": [
+        2870,
+        1337,
+        10,
+        16
+      ]
+    },
+    {
+      "text": "Helmet",
+      "confidence": 95.98188,
+      "box": [
+        543,
+        1350,
+        137,
+        32
+      ]
+    },
+    {
+      "text": "Stainless",
+      "confidence": 96.260345,
+      "box": [
+        1311,
+        1351,
+        163,
+        30
+      ]
+    },
+    {
+      "text": "steel",
+      "confidence": 95.718666,
+      "box": [
+        1486,
+        1351,
+        85,
+        30
+      ]
+    },
+    {
+      "text": "kidney",
+      "confidence": 96.187408,
+      "box": [
+        1582,
+        1351,
+        113,
+        38
+      ]
+    },
+    {
+      "text": "mug",
+      "confidence": 96.275955,
+      "box": [
+        1708,
+        1360,
+        75,
+        28
+      ]
+    },
+    {
+      "text": "phi",
+      "confidence": 95.693665,
+      "box": [
+        2089,
+        1354,
+        61,
+        42
+      ]
+    },
+    {
+      "text": "công",
+      "confidence": 96.5336,
+      "box": [
+        2164,
+        1354,
+        99,
+        43
+      ]
+    },
+    {
+      "text": "F105",
+      "confidence": 95.883385,
+      "box": [
+        2276,
+        1356,
+        102,
+        33
+      ]
+    },
+    {
+      "text": "bị",
+      "confidence": 96.422539,
+      "box": [
+        2389,
+        1355,
+        39,
+        42
+      ]
+    },
+    {
+      "text": "ban",
+      "confidence": 95.585335,
+      "box": [
+        2438,
+        1353,
+        76,
+        37
+      ]
+    },
+    {
+      "text": "rơi",
+      "confidence": 96.820419,
+      "box": [
+        2526,
+        1357,
+        53,
+        34
+      ]
+    },
+    {
+      "text": "ở",
+      "confidence": 96.624931,
+      "box": [
+        2592,
+        1354,
+        24,
+        37
+      ]
+    },
+    {
+      "text": "chiến",
+      "confidence": 96.462036,
+      "box": [
+        2629,
+        1355,
+        109,
+        37
+      ]
+    },
+    {
+      "text": "trường",
+      "confidence": 96.838989,
+      "box": [
+        2746,
+        1358,
+        136,
+        45
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 67.640862,
+      "box": [
+        3166,
+        1379,
+        34,
+        28
+      ]
+    },
+    {
+      "text": "Quang",
+      "confidence": 96.827538,
+      "box": [
+        2093,
+        1401,
+        132,
+        46
+      ]
+    },
+    {
+      "text": "Nam",
+      "confidence": 91.795601,
+      "box": [
+        2238,
+        1406,
+        95,
+        33
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 91.795601,
+      "box": [
+        2347,
+        1421,
+        14,
+        7
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 90.797729,
+      "box": [
+        2372,
+        1405,
+        57,
+        34
+      ]
+    },
+    {
+      "text": "Nang,",
+      "confidence": 95.274071,
+      "box": [
+        2441,
+        1401,
+        118,
+        48
+      ]
+    },
+    {
+      "text": "1972",
+      "confidence": 96.607819,
+      "box": [
+        2572,
+        1408,
+        103,
+        33
+      ]
+    },
+    {
+      "text": "9.",
+      "confidence": 96.479317,
+      "box": [
+        473,
+        1447,
+        25,
+        36
+      ]
+    },
+    {
+      "text": "Ao",
+      "confidence": 93.235321,
+      "box": [
+        528,
+        1439,
+        61,
+        44
+      ]
+    },
+    {
+      "text": "chéng",
+      "confidence": 90.885139,
+      "box": [
+        602,
+        1445,
+        133,
+        47
+      ]
+    },
+    {
+      "text": "13.",
+      "confidence": 96.329987,
+      "box": [
+        1228,
+        1446,
+        60,
+        34
+      ]
+    },
+    {
+      "text": "Bi",
+      "confidence": 93.141418,
+      "box": [
+        1310,
+        1445,
+        37,
+        34
+      ]
+    },
+    {
+      "text": "đông",
+      "confidence": 95.854393,
+      "box": [
+        1363,
+        1444,
+        103,
+        43
+      ]
+    },
+    {
+      "text": "Bull",
+      "confidence": 48.584003,
+      "box": [
+        521,
+        1497,
+        67,
+        36
+      ]
+    },
+    {
+      "text": "Á°49",
+      "confidence": 30.409866,
+      "box": [
+        661,
+        1508,
+        49,
+        33
+      ]
+    },
+    {
+      "text": "Canteen",
+      "confidence": 92.144951,
+      "box": [
+        1308,
+        1497,
+        146,
+        30
+      ]
+    },
+    {
+      "text": "Military",
+      "confidence": 96.81041,
+      "box": [
+        2102,
+        1504,
+        134,
+        41
+      ]
+    },
+    {
+      "text": "ID",
+      "confidence": 96.433556,
+      "box": [
+        2248,
+        1506,
+        35,
+        31
+      ]
+    },
+    {
+      "text": "card",
+      "confidence": 97.01162,
+      "box": [
+        2296,
+        1505,
+        77,
+        33
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.267395,
+      "box": [
+        2386,
+        1505,
+        38,
+        33
+      ]
+    },
+    {
+      "text": "Colonel",
+      "confidence": 96.643044,
+      "box": [
+        2446,
+        1506,
+        132,
+        33
+      ]
+    },
+    {
+      "text": "John",
+      "confidence": 93.306145,
+      "box": [
+        2590,
+        1507,
+        87,
+        34
+      ]
+    },
+    {
+      "text": "P.",
+      "confidence": 92.86393,
+      "box": [
+        2690,
+        1508,
+        26,
+        32
+      ]
+    },
+    {
+      "text": "Flynn,",
+      "confidence": 96.537857,
+      "box": [
+        2730,
+        1500,
+        93,
+        54
+      ]
+    },
+    {
+      "text": "flying",
+      "confidence": 96.881409,
+      "box": [
+        2840,
+        1500,
+        95,
+        54
+      ]
+    },
+    {
+      "text": "Aircraft",
+      "confidence": 96.396317,
+      "box": [
+        2103,
+        1553,
+        137,
+        33
+      ]
+    },
+    {
+      "text": "F105",
+      "confidence": 96.725082,
+      "box": [
+        2277,
+        1555,
+        64,
+        32
+      ]
+    },
+    {
+      "text": "shot",
+      "confidence": 96.953056,
+      "box": [
+        2354,
+        1554,
+        80,
+        33
+      ]
+    },
+    {
+      "text": "down",
+      "confidence": 96.155418,
+      "box": [
+        2445,
+        1554,
+        96,
+        33
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 96.754539,
+      "box": [
+        2555,
+        1556,
+        29,
+        31
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 96.879356,
+      "box": [
+        2595,
+        1554,
+        57,
+        33
+      ]
+    },
+    {
+      "text": "battlefield",
+      "confidence": 96.593552,
+      "box": [
+        2664,
+        1554,
+        178,
+        38
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.848946,
+      "box": [
+        2849,
+        1554,
+        41,
+        34
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 26.899971,
+      "box": [
+        730,
+        1631,
+        13,
+        10
+      ]
+    },
+    {
+      "text": "14.",
+      "confidence": 96.567451,
+      "box": [
+        1223,
+        1595,
+        59,
+        33
+      ]
+    },
+    {
+      "text": "Đô",
+      "confidence": 94.279251,
+      "box": [
+        1303,
+        1593,
+        56,
+        35
+      ]
+    },
+    {
+      "text": "la",
+      "confidence": 96.989456,
+      "box": [
+        1377,
+        1594,
+        30,
+        33
+      ]
+    },
+    {
+      "text": "Si",
+      "confidence": 0.0,
+      "box": [
+        323,
+        1652,
+        19,
+        13
+      ]
+    },
+    {
+      "text": "10.",
+      "confidence": 96.632248,
+      "box": [
+        430,
+        1597,
+        51,
+        36
+      ]
+    },
+    {
+      "text": "Trang",
+      "confidence": 96.372482,
+      "box": [
+        513,
+        1597,
+        125,
+        48
+      ]
+    },
+    {
+      "text": "Quang",
+      "confidence": 96.237404,
+      "box": [
+        2109,
+        1601,
+        117,
+        42
+      ]
+    },
+    {
+      "text": "Nam",
+      "confidence": 92.569115,
+      "box": [
+        2240,
+        1602,
+        84,
+        33
+      ]
+    },
+    {
+      "text": "-",
+      "confidence": 91.205467,
+      "box": [
+        2336,
+        1618,
+        13,
+        5
+      ]
+    },
+    {
+      "text": "Da",
+      "confidence": 96.858009,
+      "box": [
+        2360,
+        1603,
+        46,
+        32
+      ]
+    },
+    {
+      "text": "Nang,",
+      "confidence": 96.759186,
+      "box": [
+        2421,
+        1603,
+        102,
+        40
+      ]
+    },
+    {
+      "text": "1972",
+      "confidence": 96.810005,
+      "box": [
+        2537,
+        1603,
+        89,
+        33
+      ]
+    },
+    {
+      "text": "Pilot",
+      "confidence": 93.249298,
+      "box": [
+        503,
+        1648,
+        95,
+        42
+      ]
+    },
+    {
+      "text": "unife",
+      "confidence": 85.740768,
+      "box": [
+        603,
+        1648,
+        91,
+        37
+      ]
+    },
+    {
+      "text": "Milit",
+      "confidence": 72.577286,
+      "box": [
+        1303,
+        1646,
+        85,
+        30
+      ]
+    },
+    {
+      "text": "certificatg",
+      "confidence": 13.487381,
+      "box": [
+        1626,
+        1639,
+        184,
+        56
+      ]
+    },
+    {
+      "text": "Khi",
+      "confidence": 3.356369,
+      "box": [
+        199,
+        1700,
+        44,
+        19
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 49.423122,
+      "box": [
+        173,
+        1750,
+        32,
+        10
+      ]
+    },
+    {
+      "text": "Slee",
+      "confidence": 10.970642,
+      "box": [
+        379,
+        1731,
+        75,
+        20
+      ]
+    },
+    {
+      "text": "11",
+      "confidence": 92.952232,
+      "box": [
+        406,
+        1749,
+        54,
+        39
+      ]
+    },
+    {
+      "text": "dng",
+      "confidence": 35.297791,
+      "box": [
+        564,
+        1732,
+        72,
+        57
+      ]
+    },
+    {
+      "text": "wo.",
+      "confidence": 38.805641,
+      "box": [
+        1216,
+        1748,
+        59,
+        33
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 86.603241,
+      "box": [
+        1303,
+        1750,
+        11,
+        16
+      ]
+    },
+    {
+      "text": "ome",
+      "confidence": 42.372429,
+      "box": [
+        430,
+        1826,
+        29,
+        7
+      ]
+    },
+    {
+      "text": "iC",
+      "confidence": 89.254692,
+      "box": [
+        1299,
+        1809,
+        22,
+        23
+      ]
+    },
+    {
+      "text": "Bà",
+      "confidence": 37.977379,
+      "box": [
+        2873,
+        1941,
+        22,
+        6
+      ]
+    },
+    {
+      "text": "pan",
+      "confidence": 24.181419,
+      "box": [
+        163,
+        1982,
+        196,
+        9
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 83.416702,
+      "box": [
+        384,
+        1980,
+        63,
+        6
+      ]
+    },
+    {
+      "text": "en",
+      "confidence": 29.107079,
+      "box": [
+        0,
+        1994,
+        167,
+        33
+      ]
+    },
+    {
+      "text": "=“",
+      "confidence": 32.06205,
+      "box": [
+        291,
+        2012,
+        29,
+        7
+      ]
+    },
+    {
+      "text": "-a=s==——",
+      "confidence": 0.0,
+      "box": [
+        1076,
+        2021,
+        130,
+        3
+      ]
+    },
+    {
+      "text": "cs",
+      "confidence": 9.328796,
+      "box": [
+        643,
+        2056,
+        25,
+        15
+      ]
+    },
+    {
+      "text": "ae",
+      "confidence": 36.54715,
+      "box": [
+        603,
+        2087,
+        92,
+        18
+      ]
+    },
+    {
+      "text": "ll",
+      "confidence": 27.211243,
+      "box": [
+        1916,
+        2295,
+        54,
+        29
+      ]
+    },
+    {
+      "text": "m=onn..",
+      "confidence": 0.0,
+      "box": [
+        2012,
+        2295,
+        72,
+        41
+      ]
+    },
+    {
+      "text": "8N",
+      "confidence": 0.0,
+      "box": [
+        2109,
+        2309,
+        46,
+        23
+      ]
+    },
+    {
+      "text": "ng\"",
+      "confidence": 0.0,
+      "box": [
+        2164,
+        2310,
+        37,
+        7
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 61.974339,
+      "box": [
+        2866,
+        2289,
+        93,
+        22
+      ]
+    },
+    {
+      "text": "—",
+      "confidence": 61.864838,
+      "box": [
+        601,
+        2337,
+        41,
+        5
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.686,
+  "mean_confidence": 71.3,
+  "status": "text_detected"
+}

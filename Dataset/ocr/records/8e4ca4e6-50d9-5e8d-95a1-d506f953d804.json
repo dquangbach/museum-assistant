@@ -1,0 +1,517 @@
+{
+  "asset_id": "8e4ca4e6-50d9-5e8d-95a1-d506f953d804",
+  "filename": "IMG_8887.JPG",
+  "source_path": "topics/02_khao_co_lang_xa_va_do_thi/TOPIC012_da_nang_19451975_doi_song_do_thi/IMG_8887.JPG",
+  "source_sha256": "fb8084fea201d9d6eef9430d9e69e57e2d68f37f2350d71b73a2eb2293826275",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "ome\n\nmobs BS ta\n\n1. Xe may Gobel, 1950\n\n4. Dai, thé ky 20\n\nGobel motorbike, 1950\n\nRadio, 20\" century\n\n2. Tivi, thé ky 20\n\n5. Máy anh, thế kỷ 20\n\nTelevision, 20\" century\n\nCamera, 20% century\n\n3. May Akai, thé ky 20\n\nAkai music player, 20\" century\n\n——",
+  "words": [
+    {
+      "text": "ome",
+      "confidence": 9.87693,
+      "box": [
+        1530,
+        852,
+        44,
+        7
+      ]
+    },
+    {
+      "text": "mobs",
+      "confidence": 0.0,
+      "box": [
+        1708,
+        837,
+        38,
+        28
+      ]
+    },
+    {
+      "text": "BS",
+      "confidence": 12.193153,
+      "box": [
+        1754,
+        837,
+        29,
+        28
+      ]
+    },
+    {
+      "text": "ta",
+      "confidence": 20.169075,
+      "box": [
+        1794,
+        837,
+        29,
+        28
+      ]
+    },
+    {
+      "text": "1.",
+      "confidence": 95.270447,
+      "box": [
+        697,
+        951,
+        55,
+        52
+      ]
+    },
+    {
+      "text": "Xe",
+      "confidence": 95.270447,
+      "box": [
+        778,
+        950,
+        82,
+        52
+      ]
+    },
+    {
+      "text": "may",
+      "confidence": 96.400009,
+      "box": [
+        881,
+        946,
+        131,
+        69
+      ]
+    },
+    {
+      "text": "Gobel,",
+      "confidence": 96.289474,
+      "box": [
+        1032,
+        946,
+        197,
+        66
+      ]
+    },
+    {
+      "text": "1950",
+      "confidence": 96.90023,
+      "box": [
+        1252,
+        948,
+        154,
+        53
+      ]
+    },
+    {
+      "text": "4.",
+      "confidence": 95.164017,
+      "box": [
+        1771,
+        948,
+        56,
+        51
+      ]
+    },
+    {
+      "text": "Dai,",
+      "confidence": 96.037018,
+      "box": [
+        1854,
+        944,
+        118,
+        65
+      ]
+    },
+    {
+      "text": "thé",
+      "confidence": 95.829918,
+      "box": [
+        1993,
+        939,
+        106,
+        59
+      ]
+    },
+    {
+      "text": "ky",
+      "confidence": 95.829918,
+      "box": [
+        2113,
+        937,
+        72,
+        73
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 96.626015,
+      "box": [
+        2204,
+        943,
+        77,
+        53
+      ]
+    },
+    {
+      "text": "Gobel",
+      "confidence": 96.907616,
+      "box": [
+        787,
+        1023,
+        156,
+        50
+      ]
+    },
+    {
+      "text": "motorbike,",
+      "confidence": 96.628731,
+      "box": [
+        960,
+        1023,
+        286,
+        56
+      ]
+    },
+    {
+      "text": "1950",
+      "confidence": 96.77198,
+      "box": [
+        1303,
+        1024,
+        97,
+        47
+      ]
+    },
+    {
+      "text": "Radio,",
+      "confidence": 96.242744,
+      "box": [
+        1855,
+        1020,
+        163,
+        56
+      ]
+    },
+    {
+      "text": "20\"",
+      "confidence": 75.237976,
+      "box": [
+        2037,
+        1018,
+        101,
+        50
+      ]
+    },
+    {
+      "text": "century",
+      "confidence": 95.927071,
+      "box": [
+        2155,
+        1024,
+        207,
+        55
+      ]
+    },
+    {
+      "text": "2.",
+      "confidence": 93.132957,
+      "box": [
+        716,
+        1271,
+        56,
+        50
+      ]
+    },
+    {
+      "text": "Tivi,",
+      "confidence": 93.132957,
+      "box": [
+        798,
+        1268,
+        131,
+        62
+      ]
+    },
+    {
+      "text": "thé",
+      "confidence": 96.210541,
+      "box": [
+        947,
+        1263,
+        104,
+        56
+      ]
+    },
+    {
+      "text": "ky",
+      "confidence": 96.71051,
+      "box": [
+        1067,
+        1262,
+        69,
+        69
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 96.978149,
+      "box": [
+        1155,
+        1267,
+        75,
+        50
+      ]
+    },
+    {
+      "text": "5.",
+      "confidence": 96.601746,
+      "box": [
+        1770,
+        1265,
+        52,
+        49
+      ]
+    },
+    {
+      "text": "Máy",
+      "confidence": 96.986794,
+      "box": [
+        1854,
+        1262,
+        127,
+        65
+      ]
+    },
+    {
+      "text": "anh,",
+      "confidence": 96.213341,
+      "box": [
+        1999,
+        1258,
+        126,
+        66
+      ]
+    },
+    {
+      "text": "thế",
+      "confidence": 96.991798,
+      "box": [
+        2145,
+        1259,
+        105,
+        55
+      ]
+    },
+    {
+      "text": "kỷ",
+      "confidence": 97.022141,
+      "box": [
+        2263,
+        1258,
+        71,
+        69
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 96.787415,
+      "box": [
+        2351,
+        1264,
+        76,
+        50
+      ]
+    },
+    {
+      "text": "Television,",
+      "confidence": 96.604179,
+      "box": [
+        807,
+        1342,
+        276,
+        52
+      ]
+    },
+    {
+      "text": "20\"",
+      "confidence": 87.204956,
+      "box": [
+        1102,
+        1337,
+        96,
+        49
+      ]
+    },
+    {
+      "text": "century",
+      "confidence": 96.527534,
+      "box": [
+        1217,
+        1343,
+        197,
+        52
+      ]
+    },
+    {
+      "text": "Camera,",
+      "confidence": 96.212959,
+      "box": [
+        1853,
+        1337,
+        211,
+        52
+      ]
+    },
+    {
+      "text": "20%",
+      "confidence": 70.038162,
+      "box": [
+        2083,
+        1334,
+        99,
+        48
+      ]
+    },
+    {
+      "text": "century",
+      "confidence": 95.307762,
+      "box": [
+        2199,
+        1341,
+        201,
+        53
+      ]
+    },
+    {
+      "text": "3.",
+      "confidence": 96.376518,
+      "box": [
+        738,
+        1582,
+        54,
+        49
+      ]
+    },
+    {
+      "text": "May",
+      "confidence": 95.469398,
+      "box": [
+        821,
+        1579,
+        125,
+        63
+      ]
+    },
+    {
+      "text": "Akai,",
+      "confidence": 96.936775,
+      "box": [
+        964,
+        1577,
+        149,
+        60
+      ]
+    },
+    {
+      "text": "thé",
+      "confidence": 96.552307,
+      "box": [
+        1131,
+        1571,
+        101,
+        55
+      ]
+    },
+    {
+      "text": "ky",
+      "confidence": 96.09993,
+      "box": [
+        1247,
+        1570,
+        67,
+        66
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 96.09993,
+      "box": [
+        1332,
+        1574,
+        73,
+        49
+      ]
+    },
+    {
+      "text": "Akai",
+      "confidence": 96.314911,
+      "box": [
+        822,
+        1650,
+        115,
+        44
+      ]
+    },
+    {
+      "text": "music",
+      "confidence": 96.675461,
+      "box": [
+        953,
+        1649,
+        158,
+        44
+      ]
+    },
+    {
+      "text": "player,",
+      "confidence": 96.676567,
+      "box": [
+        1126,
+        1646,
+        163,
+        56
+      ]
+    },
+    {
+      "text": "20\"",
+      "confidence": 94.529755,
+      "box": [
+        1308,
+        1642,
+        94,
+        46
+      ]
+    },
+    {
+      "text": "century",
+      "confidence": 96.694229,
+      "box": [
+        1419,
+        1647,
+        193,
+        50
+      ]
+    },
+    {
+      "text": "——",
+      "confidence": 45.306885,
+      "box": [
+        1956,
+        2085,
+        61,
+        13
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.898,
+  "mean_confidence": 86.98,
+  "status": "text_detected"
+}

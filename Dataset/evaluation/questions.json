@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q001",
+    "question": "Người cổ ở Bàu Dũ sinh sống bằng phương thức nào?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Người cổ sinh sống chủ yếu bằng săn bắt và hái lượm.",
+    "expected_chunk_ids": ["DOC001_v1_001"]
+  },
+  {
+    "id": "Q002",
+    "question": "Các di chỉ Sa Huỳnh tiêu biểu gồm những nơi nào?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Hậu Xá, Tam Mỹ và Vườn Đình Khuê Bắc.",
+    "expected_chunk_ids": ["DOC002_v1_002"]
+  },
+  {
+    "id": "Q003",
+    "question": "Di chỉ Bàu Dũ được phát hiện bởi nhà khảo cổ nào?",
+    "topic_id": "TOPIC005",
+    "answerable": false,
+    "expected_answer": "Tư liệu hiện có chưa nêu nhà khảo cổ phát hiện di chỉ Bàu Dũ.",
+    "expected_chunk_ids": []
+  },
+  {
+    "id": "Q004",
+    "question": "Người xưa tại Bàu Dũ kiếm thức ăn bằng cách nào?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Chủ yếu bằng săn bắt và hái lượm.",
+    "expected_chunk_ids": ["DOC001_v1_001"]
+  },
+  {
+    "id": "Q005",
+    "question": "Cư dân Sa Huỳnh thường định cư ở những khu vực nào?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Vùng cửa sông và ven biển.",
+    "expected_chunk_ids": ["DOC001_v1_002"]
+  },
+  {
+    "id": "Q006",
+    "question": "Người Sa Huỳnh chôn người chết theo hình thức gì?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Táng thức bằng mộ chum.",
+    "expected_chunk_ids": ["DOC002_v1_001"]
+  },
+  {
+    "id": "Q007",
+    "question": "Di chỉ Vườn Đình Khuê Bắc có niên đại bao nhiêu năm?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Theo bảng thuyết minh, khoảng 3.000 đến 3.500 năm cách nay.",
+    "expected_chunk_ids": ["DOC001_v1_003"]
+  },
+  {
+    "id": "Q008",
+    "question": "Văn hóa Sa Huỳnh có thành tựu nổi bật nào về chế tác thủy tinh?",
+    "topic_id": "TOPIC005",
+    "answerable": true,
+    "expected_answer": "Kỹ thuật làm thủy tinh nhân tạo với kiểu dáng và màu sắc phong phú.",
+    "expected_chunk_ids": ["DOC002_v1_001"]
+  },
+  {
+    "id": "Q009",
+    "question": "Giá vé tham quan bảo tàng là bao nhiêu?",
+    "topic_id": "TOPIC005",
+    "answerable": false,
+    "expected_answer": "Tư liệu hiện có chưa cung cấp giá vé.",
+    "expected_chunk_ids": []
+  },
+  {
+    "id": "Q010",
+    "question": "Di chỉ Bàu Dũ đã phát hiện tổng cộng bao nhiêu bộ di cốt người?",
+    "topic_id": "TOPIC005",
+    "answerable": false,
+    "expected_answer": "Tư liệu hiện có chưa nêu tổng số bộ di cốt người.",
+    "expected_chunk_ids": []
+  }
+]

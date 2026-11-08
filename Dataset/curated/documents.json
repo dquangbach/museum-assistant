@@ -1,0 +1,36 @@
+[
+  {
+    "document_id": "DOC001",
+    "topic_id": "TOPIC005",
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời tiền - sơ sử",
+    "language": "vi",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "review_status": "verified",
+    "version": 1,
+    "text": "Dấu tích những người cổ đại đầu tiên được tìm thấy tại di chỉ Bàu Dũ (Núi Thành, Quảng Nam) thuộc sơ kỳ thời đại Đá mới (khoảng 6.000 năm trước), với di cốt người cổ được chôn trong hố có nhiều lớp vỏ sò điệp cùng với nhiều xương thú, xương cá và các loại rìu tay, dao, nạo bằng đá. Người cổ lúc bấy giờ sinh sống chủ yếu bằng phương thức săn bắt và hái lượm.\n\nKhoảng 3.500 năm trước, ở Quảng Nam - Đà Nẵng đã xuất hiện Văn hóa Sa Huỳnh, một nền văn hóa nổi tiếng thuộc sơ kỳ thời đại Kim khí. Chủ nhân Văn hóa Sa Huỳnh là những cư dân nông nghiệp, nơi ở của họ là vùng cửa sông, ven biển.\n\nDi chỉ Vườn Đình - Khuê Bắc thuộc phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng có niên đại cách nay khoảng 3.000 đến 3.500 năm, là di chỉ cư trú điển hình thuộc giai đoạn tiền Sa Huỳnh và Sa Huỳnh với 2 lớp văn hóa khá ổn định, góp phần tạo nên diện mạo thời tiền sơ sử ở Đà Nẵng.",
+    "review_notes": "Bản chép phần tiếng Việt ở giữa ảnh IMG_8798.JPG; đã chuẩn hóa xuống dòng. Cần người biên tập đối chiếu lại ảnh gốc trước khi đánh dấu verified. Địa danh và cách diễn đạt niên đại được giữ theo bảng nguồn."
+  },
+  {
+    "document_id": "DOC002",
+    "topic_id": "TOPIC005",
+    "exhibit_id": null,
+    "title": "Văn hóa Sa Huỳnh",
+    "language": "vi",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG"
+    ],
+    "review_status": "verified",
+    "version": 1,
+    "text": "Văn hóa Sa Huỳnh là một trong những nền văn hóa quan trọng, có niên đại khoảng từ thiên niên kỷ thứ I TCN đến cuối thế kỷ II CN, địa bàn trải dài từ Quảng Bình cho đến các tỉnh Nam Trung bộ và Tây Nguyên. Đặc trưng cơ bản của Văn hóa Sa Huỳnh là táng thức bằng mộ chum. Các di vật phổ biến là công cụ lao động sắt và đá; đồ gốm; đồ trang sức. Bên cạnh đó, kỹ thuật làm thủy tinh nhân tạo là một thành tựu rực rỡ của Văn hóa Sa Huỳnh với kiểu dáng và màu sắc phong phú.\n\nNhững di chỉ khảo cổ học Văn hóa Sa Huỳnh tiêu biểu tại Quảng Nam - Đà Nẵng gồm: Hậu Xá, Tam Mỹ, Vườn Đình Khuê Bắc.",
+    "review_notes": "Bản chép phần tiếng Việt bên trái ảnh IMG_8798.JPG; đã chuẩn hóa xuống dòng. Cần người biên tập đối chiếu lại ảnh gốc trước khi đánh dấu verified."
+  }
+]

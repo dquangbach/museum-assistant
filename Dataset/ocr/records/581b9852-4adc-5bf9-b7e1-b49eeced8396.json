@@ -1,0 +1,147 @@
+{
+  "asset_id": "581b9852-4adc-5bf9-b7e1-b49eeced8396",
+  "filename": "IMG_8786.JPG",
+  "source_path": "topics/01_tong_quan_va_tu_nhien/TOPIC001_khai_quat_bao_tang_da_nang/IMG_8786.JPG",
+  "source_sha256": "91ce0012755539183b423c8826f3ba054021c75eae4dc663c032f64886963789",
+  "config": {
+    "languages": "vie+eng",
+    "psm": 11,
+    "max_edge": 3200,
+    "version": 1
+  },
+  "text": "|\n\nKAHL TRUNG) BẢY\n\nCHÍ\n\nMAIN EXHIBITION\n\n= Lối VAC\n\nENTRAN€G\n\nSmell",
+  "words": [
+    {
+      "text": "|",
+      "confidence": 84.513252,
+      "box": [
+        3061,
+        733,
+        35,
+        124
+      ]
+    },
+    {
+      "text": "KAHL",
+      "confidence": 19.301666,
+      "box": [
+        667,
+        743,
+        370,
+        162
+      ]
+    },
+    {
+      "text": "TRUNG)",
+      "confidence": 0.0,
+      "box": [
+        1110,
+        780,
+        646,
+        169
+      ]
+    },
+    {
+      "text": "BẢY",
+      "confidence": 67.627533,
+      "box": [
+        1757,
+        809,
+        233,
+        150
+      ]
+    },
+    {
+      "text": "CHÍ",
+      "confidence": 86.213509,
+      "box": [
+        2042,
+        832,
+        218,
+        142
+      ]
+    },
+    {
+      "text": "MAIN",
+      "confidence": 96.363365,
+      "box": [
+        678,
+        939,
+        315,
+        108
+      ]
+    },
+    {
+      "text": "EXHIBITION",
+      "confidence": 92.183105,
+      "box": [
+        1055,
+        961,
+        578,
+        115
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 92.791771,
+      "box": [
+        551,
+        1187,
+        39,
+        2
+      ]
+    },
+    {
+      "text": "Lối",
+      "confidence": 93.299446,
+      "box": [
+        676,
+        1108,
+        150,
+        127
+      ]
+    },
+    {
+      "text": "VAC",
+      "confidence": 38.487305,
+      "box": [
+        877,
+        1151,
+        170,
+        87
+      ]
+    },
+    {
+      "text": "ENTRAN€G",
+      "confidence": 52.850075,
+      "box": [
+        675,
+        1264,
+        346,
+        58
+      ]
+    },
+    {
+      "text": "Smell",
+      "confidence": 39.978897,
+      "box": [
+        54,
+        2370,
+        114,
+        17
+      ]
+    }
+  ],
+  "review_status": "needs_review",
+  "original_size": [
+    5712,
+    4284
+  ],
+  "ocr_size": [
+    3200,
+    2400
+  ],
+  "high_confidence_fraction": 0.583,
+  "mean_confidence": 63.63,
+  "status": "text_detected"
+}

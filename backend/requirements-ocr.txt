@@ -1,0 +1,2 @@
+# Optional local image processing; Tesseract + vie/eng language packs are system tools.
+Pillow>=11,<13
