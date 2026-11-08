@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../data/museum_api.dart';
 import '../data/museum_catalog.dart';
 import '../state/app_state.dart';
 import 'exhibit_detail_screen.dart';
@@ -6,20 +7,30 @@ import 'qr_scanner_screen.dart';
 
 class LocationPickerScreen extends StatefulWidget {
   final Widget? nextScreenAfterSelection;
+  final MuseumCatalogApi? api;
 
-  const LocationPickerScreen({super.key, this.nextScreenAfterSelection});
+  const LocationPickerScreen(
+      {super.key, this.nextScreenAfterSelection, this.api});
 
   @override
   State<LocationPickerScreen> createState() => _LocationPickerScreenState();
 }
 
 class _LocationPickerScreenState extends State<LocationPickerScreen> {
+  late final MuseumCatalogApi _api;
+
+  @override
+  void initState() {
+    super.initState();
+    _api = widget.api ?? MuseumCatalogApi();
+  }
+
   final List<Map<String, String>> _checkpoints = museumCheckpoints;
 
   Future<void> _scanQr() async {
     final result = await Navigator.push<MuseumQrResult>(
       context,
-      MaterialPageRoute(builder: (_) => const QrScannerScreen()),
+      MaterialPageRoute(builder: (_) => QrScannerScreen(api: _api)),
     );
     if (!mounted || result == null) return;
 
@@ -29,23 +40,23 @@ class _LocationPickerScreenState extends State<LocationPickerScreen> {
       return;
     }
 
-    final exhibit = findMuseumExhibit(result.id);
-    if (exhibit == null) return;
-    AppStateScope.of(context).selectExhibit(exhibit['id']!, exhibit['name']!);
-    Navigator.pushReplacement(
-      context,
-      MaterialPageRoute(
-        builder: (_) => ExhibitDetailScreen(
-          exhibitId: exhibit['id']!,
-          exhibitName: exhibit['name']!,
-          period: exhibit['period']!,
-          room: exhibit['room']!,
-          cabinet: exhibit['cabinet']!,
-          desc: exhibit['desc']!,
-          symbol: exhibit['symbol']!,
+    try {
+      final topicId = result.kind == MuseumQrKind.topic
+          ? result.id
+          : await _api.getExhibitTopicId(result.id);
+      if (!mounted) return;
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(
+          builder: (_) => TopicDetailScreen(topicId: topicId, api: _api),
         ),
-      ),
-    );
+      );
+    } catch (error) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Không mở được mục: $error')),
+      );
+    }
   }
 
   void _onSelectLocation(String name, bool isQr) {
@@ -166,9 +177,9 @@ class _LocationPickerScreenState extends State<LocationPickerScreen> {
                           color: const Color(0xFFEAC0A2),
                           borderRadius: BorderRadius.circular(20),
                         ),
-                        child: Row(
+                        child: const Row(
                           mainAxisSize: MainAxisSize.min,
-                          children: const [
+                          children: [
                             Icon(Icons.qr_code_scanner,
                                 size: 18, color: Color(0xFF121212)),
                             SizedBox(width: 8),

@@ -16,6 +16,13 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>museum_guide_app</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Ứng dụng kết nối máy chủ bảo tàng trong cùng mạng để tải danh mục và ảnh.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Ứng dụng cần dùng camera để quét mã QR của hiện vật và điểm đứng trong bảo tàng.</string>
 	<key>CFBundlePackageType</key>

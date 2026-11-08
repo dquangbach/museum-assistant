@@ -1,38 +1,39 @@
 # Museum Guide App
 
-Ứng dụng Flutter demo hỗ trợ xem hiện vật, quét QR, xác định điểm đứng và chỉ đường trong bảo tàng.
+Ứng dụng Flutter hỗ trợ tham quan Bảo tàng Đà Nẵng. Danh mục nhóm, mục trưng bày, mô tả và ảnh được tải từ FastAPI/PostgreSQL. Checkpoint xác nhận vị trí vẫn là dữ liệu mẫu trên điện thoại; chưa có sơ đồ chỉ đường thật.
 
-## Chạy trên iPhone
+## Chạy backend
 
-```bash
-flutter pub get
-flutter run --release -d 00008020-001D045001D8002E
-```
-
-Khi mở camera lần đầu, hãy cho phép ứng dụng truy cập Camera.
-
-## Thử quét QR hiện vật
-
-1. Mở một ảnh trong [docs/qr-samples](docs/qr-samples) trên máy tính hoặc in ra giấy.
-2. Trong app, nhấn **Quét mã tại bảo tàng** hoặc **Mở camera quét QR** ở màn chọn vị trí.
-3. Đưa mã vào khung. QR hiện vật mở trang mô tả; QR điểm đứng cập nhật vị trí hiện tại.
-
-| Ảnh mẫu | Nội dung QR | Kết quả |
-| --- | --- | --- |
-| [Trống đồng Đông Sơn](docs/qr-samples/exhibit-EX01.png) | `museum-demo://exhibit/EX01` | Mở chi tiết trống đồng |
-| [Tượng Phật Bà Quan Âm](docs/qr-samples/exhibit-EX02.png) | `museum-demo://exhibit/EX02` | Mở chi tiết tượng |
-| [Bình gốm hoa lam](docs/qr-samples/exhibit-EX03.png) | `museum-demo://exhibit/EX03` | Mở chi tiết bình gốm |
-| [Cửa vào sảnh chính](docs/qr-samples/checkpoint-CP01.png) | `museum-demo://checkpoint/CP01` | Xác nhận điểm đứng |
-
-Dữ liệu đang nằm trong [lib/data/museum_catalog.dart](lib/data/museum_catalog.dart). App chỉ nhận những ID có trong danh mục này. Backend FastAPI đã có tại [backend/](backend/README.md). Flutter hiện vẫn tra danh mục cục bộ; bước tích hợp tiếp theo là gọi API để lấy dữ liệu thật.
-
-## Backend FastAPI
-
-Xem cấu hình và hướng dẫn tại [backend/README.md](backend/README.md). Từ thư mục gốc, mở Docker Desktop hoặc OrbStack rồi chạy:
+Mở Docker Desktop hoặc OrbStack, sau đó từ thư mục gốc dự án:
 
 ```bash
 docker compose up --build -d
 docker compose exec api python -m scripts.import_dataset
 ```
 
-Swagger: http://localhost:8002/docs. Backend lưu dữ liệu trong PostgreSQL, đọc ảnh từ Dataset được mount chỉ đọc. Các thao tác quản trị dùng X-Admin-Key, cấu hình tại .env gốc; không đưa khóa này vào app khách tham quan.
+API mặc định ở `http://localhost:8002`; kiểm tra `http://localhost:8002/health/ready`. Xem [backend/README.md](backend/README.md) để biết thêm về database và import dữ liệu.
+
+## Chạy Flutter
+
+Trên iOS Simulator, `localhost` là máy chạy backend:
+
+```bash
+flutter pub get
+flutter run -d <IOS_SIMULATOR_ID>
+```
+
+Trên iPhone thật, dùng IP LAN của máy chạy backend. Cả iPhone và máy chủ cần ở cùng mạng; thay `IP_CUA_MAY` bằng địa chỉ thật (có thể xem bằng `ipconfig getifaddr en0` trên Mac):
+
+```bash
+flutter run -d 00008020-001D045001D8002E --dart-define=API_BASE_URL=http://IP_CUA_MAY:8002
+```
+
+Trên Android Emulator, dùng `--dart-define=API_BASE_URL=http://10.0.2.2:8002`. Khi đưa backend lên cloud, dùng URL HTTPS thay cho HTTP LAN. Bản Android debug/profile cho phép HTTP nội bộ; bản release cần HTTPS. Khi iOS hỏi quyền Mạng cục bộ và Camera, hãy cho phép để tải dữ liệu và quét QR.
+
+Trang chủ tải `/api/v1/groups` và `/api/v1/topics`. Chạm một mục để xem mô tả và ảnh từ `/api/v1/topics/{id}` cùng `/api/v1/topics/{id}/assets`.
+
+## Quét QR
+
+Mã QR chủ đề có nội dung ví dụ `museum://topic/TOPIC005`. App gửi nội dung tới `/api/v1/qr/resolve`, sau đó mở chi tiết mục. Mã hiện vật đã xuất bản cũng được phân giải; app mở chủ đề chứa hiện vật đó. Các ảnh QR `exhibit-EX01` đến `EX03` trong `docs/qr-samples` là dữ liệu demo cũ, không có trong database nên không dùng để thử API.
+
+Checkpoint mẫu `museum-demo://checkpoint/CP01` vẫn có thể thử bằng [ảnh QR cửa vào](docs/qr-samples/checkpoint-CP01.png). Checkpoint chỉ được kiểm tra cục bộ, không lưu vào PostgreSQL.

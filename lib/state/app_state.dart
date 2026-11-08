@@ -7,7 +7,7 @@ class AppState extends ChangeNotifier {
   String _confirmationSource = 'chưa xác nhận'; // 'thủ công' hoặc 'QR'
 
   String? _selectedExhibitId;
-  String _selectedExhibitName = 'Trống đồng Đông Sơn (Demo)';
+  String _selectedExhibitName = '';
 
   String? get confirmedLocation => _confirmedLocation;
   DateTime? get confirmedTime => _confirmedTime;
@@ -24,7 +24,7 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
-  /// Chọn hiện vật đang xem
+  /// Ghi nhớ mục đang xem
   void selectExhibit(String id, String name) {
     _selectedExhibitId = id;
     _selectedExhibitName = name;
@@ -54,4 +54,3 @@ class AppStateScope extends InheritedNotifier<AppState> {
     return scope!.notifier!;
   }
 }
-

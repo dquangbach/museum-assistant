@@ -1,17 +1,28 @@
 import 'package:flutter/material.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 
+import '../data/museum_api.dart';
 import '../data/museum_catalog.dart';
 
 /// Chỉ đọc và kiểm tra QR; màn gọi quyết định mở hiện vật hay cập nhật vị trí.
 class QrScannerScreen extends StatefulWidget {
-  const QrScannerScreen({super.key});
+  const QrScannerScreen({super.key, this.api});
+
+  final MuseumCatalogApi? api;
 
   @override
   State<QrScannerScreen> createState() => _QrScannerScreenState();
 }
 
 class _QrScannerScreenState extends State<QrScannerScreen> {
+  late final MuseumCatalogApi _api;
+
+  @override
+  void initState() {
+    super.initState();
+    _api = widget.api ?? MuseumCatalogApi();
+  }
+
   final MobileScannerController _controller = MobileScannerController(
     formats: [BarcodeFormat.qrCode],
     detectionSpeed: DetectionSpeed.noDuplicates,
@@ -26,37 +37,36 @@ class _QrScannerScreenState extends State<QrScannerScreen> {
     super.dispose();
   }
 
-  void _onDetect(BarcodeCapture capture) {
+  Future<void> _onDetect(BarcodeCapture capture) async {
     if (_completed || !mounted) return;
-
-    String? invalidValue;
     for (final barcode in capture.barcodes) {
       final rawValue = barcode.rawValue;
-      if (rawValue == null || rawValue.isEmpty) continue;
-
-      final result = resolveMuseumQr(rawValue);
-      if (result != null) {
-        _completed = true;
+      if (rawValue == null || rawValue.trim().isEmpty) continue;
+      _completed = true;
+      try {
+        final checkpoint = resolveMuseumCheckpointQr(rawValue);
+        final result = checkpoint ?? await _api.resolveQr(rawValue);
+        if (!mounted) return;
         Navigator.of(context).pop(result);
         return;
+      } catch (error) {
+        if (!mounted) return;
+        _completed = false;
+        final now = DateTime.now();
+        if (_lastInvalidAt == null ||
+            now.difference(_lastInvalidAt!) >= const Duration(seconds: 3)) {
+          _lastInvalidAt = now;
+          final message = error is MuseumApiException &&
+                  !error.message.startsWith('API trả mã')
+              ? error.message
+              : 'Mã QR không hợp lệ hoặc chưa có trong dữ liệu bảo tàng.';
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+                content: Text(message), duration: const Duration(seconds: 2)),
+          );
+        }
       }
-      invalidValue = rawValue;
     }
-
-    if (invalidValue == null) return;
-    final now = DateTime.now();
-    if (_lastInvalidAt != null &&
-        now.difference(_lastInvalidAt!) < const Duration(seconds: 3)) {
-      return;
-    }
-    _lastInvalidAt = now;
-    ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(
-        content:
-            Text('Mã QR này chưa có trong dữ liệu bảo tàng. Hãy thử mã khác.'),
-        duration: Duration(seconds: 2),
-      ),
-    );
   }
 
   @override

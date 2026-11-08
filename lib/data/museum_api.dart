@@ -12,6 +12,18 @@ const museumApiBaseUrl = String.fromEnvironment(
   defaultValue: 'http://localhost:8002',
 );
 
+class MuseumGroup {
+  final String id;
+  final String title;
+
+  const MuseumGroup({required this.id, required this.title});
+
+  factory MuseumGroup.fromJson(Map<String, dynamic> json) => MuseumGroup(
+        id: json['id'] as String,
+        title: json['title'] as String,
+      );
+}
+
 class MuseumApiException implements Exception {
   final String message;
   const MuseumApiException(this.message);
@@ -30,7 +42,7 @@ class MuseumCatalogApi {
   Uri _url(String path, [Map<String, String>? query]) =>
       baseUri.resolve('api/v1/$path').replace(queryParameters: query);
 
-  Future<Map<String, dynamic>> _get(Uri url) async {
+  Future<Object?> _getJson(Uri url) async {
     final client = HttpClient()..connectionTimeout = const Duration(seconds: 8);
     try {
       final request =
@@ -42,9 +54,6 @@ class MuseumCatalogApi {
         throw MuseumApiException('API trả mã ${response.statusCode}: $url');
       }
       final decoded = jsonDecode(body);
-      if (decoded is! Map<String, dynamic>) {
-        throw const MuseumApiException('Dữ liệu API không đúng định dạng.');
-      }
       return decoded;
     } on SocketException {
       throw MuseumApiException(
@@ -58,6 +67,24 @@ class MuseumCatalogApi {
     } finally {
       client.close(force: true);
     }
+  }
+
+  Future<Map<String, dynamic>> _get(Uri url) async {
+    final data = await _getJson(url);
+    if (data is! Map<String, dynamic>) {
+      throw const MuseumApiException('Dữ liệu API không đúng định dạng.');
+    }
+    return data;
+  }
+
+  Future<List<MuseumGroup>> getGroups() async {
+    final data = await _getJson(_url('groups'));
+    if (data is! List) {
+      throw const MuseumApiException('Danh sách nhóm không đúng định dạng.');
+    }
+    return data
+        .map((item) => MuseumGroup.fromJson(item as Map<String, dynamic>))
+        .toList();
   }
 
   Future<List<MuseumTopic>> getTopics({String? groupId}) async {
@@ -94,6 +121,11 @@ class MuseumCatalogApi {
       offset += items.length;
       if (items.isEmpty || offset >= (page['total'] as int)) return assets;
     }
+  }
+
+  Future<String> getExhibitTopicId(String id) async {
+    final data = await _get(_url('exhibits/${Uri.encodeComponent(id)}'));
+    return data['topic_id'] as String;
   }
 
   /// URL đầy đủ cho Image.network; file_url từ API là đường dẫn từ gốc server.

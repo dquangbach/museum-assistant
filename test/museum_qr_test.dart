@@ -2,22 +2,17 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:museum_guide_app/data/museum_catalog.dart';
 
 void main() {
-  test('QR hiện vật mở đúng hiện vật trong danh mục', () {
-    final result = resolveMuseumQr('museum-demo://exhibit/EX01');
-    expect(result?.kind, MuseumQrKind.exhibit);
-    expect(findMuseumExhibit(result!.id)?['name'], 'Trống đồng Đông Sơn');
-  });
-
-  test('QR điểm đứng tra đúng checkpoint', () {
-    final result = resolveMuseumQr('museum-demo://checkpoint/CP01');
+  test('QR checkpoint demo xác nhận được vị trí', () {
+    final result = resolveMuseumCheckpointQr('museum-demo://checkpoint/CP01');
     expect(result?.kind, MuseumQrKind.checkpoint);
     expect(findMuseumCheckpoint(result!.id)?['name'],
         'Cửa vào sảnh chính (Tầng 1)');
   });
 
-  test('QR lạ hoặc ID không có trong danh mục bị từ chối', () {
-    expect(resolveMuseumQr('https://example.com'), isNull);
-    expect(resolveMuseumQr('museum-demo://exhibit/EX99'), isNull);
-    expect(resolveMuseumQr('museum-demo://exhibit/EX01/extra'), isNull);
+  test('QR chủ đề và hiện vật cần backend xác nhận', () {
+    expect(resolveMuseumCheckpointQr('museum://topic/TOPIC005'), isNull);
+    expect(resolveMuseumCheckpointQr('museum://exhibit/EX01'), isNull);
+    expect(resolveMuseumCheckpointQr('museum-demo://checkpoint/CP99'), isNull);
+    expect(resolveMuseumCheckpointQr('https://example.com'), isNull);
   });
 }
