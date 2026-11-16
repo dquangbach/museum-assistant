@@ -76,25 +76,77 @@ def build_chunks(documents: list[dict], include_drafts=False) -> list[dict]:
     return chunks
 
 
+
+def build_catalog_chunks(topics: list[dict], assets: list[dict], links: list[dict]) -> list[dict]:
+    """Index every topic's catalog text without changing its review status."""
+    asset_by_id = {asset['id']: asset for asset in assets}
+    links_by_topic: dict[str, list[dict]] = {}
+    for link in links:
+        links_by_topic.setdefault(link['topic_id'], []).append(link)
+    chunks = []
+    for topic in topics:
+        topic_id = topic['id']
+        related = sorted(links_by_topic.get(topic_id, []),
+                         key=lambda link: (link['sort_order'], link['asset_id']))
+        if not related:
+            raise ValueError(f'{topic_id}: missing source assets')
+        asset_ids = [link['asset_id'] for link in related]
+        if len(asset_ids) != len(set(asset_ids)) or any(asset_id not in asset_by_id for asset_id in asset_ids):
+            raise ValueError(f'{topic_id}: invalid source assets')
+        title = topic['title'].strip()
+        summary = topic['summary'].strip()
+        notes = topic['materials_notes'].strip()
+        if not title or not summary:
+            raise ValueError(f'{topic_id}: missing catalog title or summary')
+        text = '\n\n'.join(part for part in [summary, notes] if part)
+        chunks.append({
+            'chunk_id': f'CATALOG_{topic_id}_v1_001',
+            'document_id': f'CATALOG_{topic_id}',
+            'topic_id': topic_id,
+            'topic_ids': [topic_id],
+            'exhibit_id': None,
+            'title': title,
+            'language': 'vi',
+            'text': text,
+            'source_asset_ids': asset_ids,
+            'source_filenames': [asset_by_id[asset_id]['original_filename'] for asset_id in asset_ids],
+            'source_reference': topic['source_reference'],
+            'source_type': 'catalog_metadata',
+            'version': 1,
+            'review_status': topic['review_status'],
+            'ocr_status': None,
+        })
+    return chunks
+
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--review',action='store_true',help='Build a separate unverified OCR review index')
+    mode=parser.add_mutually_exclusive_group()
+    mode.add_argument('--review',action='store_true',help='Build a separate unverified OCR review index')
+    mode.add_argument('--catalog',action='store_true',help='Build all topic metadata as a separate review-only index')
     args=parser.parse_args()
-    documents=load_documents(ROOT/'Dataset/curated/documents.json')
-    if args.review:
-        drafts=load_documents(ROOT/'Dataset/ocr/draft_documents.json')
-        ids={d['document_id'] for d in documents}
-        covered={a for d in documents if d.get('review_status')=='verified' for a in d['source_asset_ids']}
-        documents += [d for d in drafts if d['document_id'] not in ids and not covered.intersection(d['source_asset_ids'])]
-    chunks=build_chunks(documents,include_drafts=args.review)
-    output=ROOT/'Dataset/processed'/('review_chunks.json' if args.review else 'chunks.json')
+    if args.catalog:
+        metadata=ROOT/'Dataset/metadata'
+        topics=json.loads((metadata/'topics.json').read_text(encoding='utf-8'))
+        assets=json.loads((metadata/'assets.json').read_text(encoding='utf-8'))
+        links=json.loads((metadata/'topic_assets.json').read_text(encoding='utf-8'))
+        chunks=build_catalog_chunks(topics,assets,links)
+        filename='catalog_chunks.json'
+    else:
+        documents=load_documents(ROOT/'Dataset/curated/documents.json')
+        if args.review:
+            drafts=load_documents(ROOT/'Dataset/ocr/draft_documents.json')
+            ids={d['document_id'] for d in documents}
+            covered={a for d in documents if d.get('review_status')=='verified' for a in d['source_asset_ids']}
+            documents += [d for d in drafts if d['document_id'] not in ids and not covered.intersection(d['source_asset_ids'])]
+        chunks=build_chunks(documents,include_drafts=args.review)
+        filename='review_chunks.json' if args.review else 'chunks.json'
+    output=ROOT/'Dataset/processed'/filename
     output.parent.mkdir(parents=True,exist_ok=True)
     temp=output.with_suffix('.tmp')
     temp.write_text(json.dumps(chunks,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     temp.replace(output)
-    print(f"Documents: {len(documents)}; chunks: {len(chunks)}; topics: {len({t for c in chunks for t in c['topic_ids']})}")
-    print('REVIEW ONLY: contains unverified OCR' if args.review else 'VERIFIED DOCUMENTS ONLY')
+    print(f"Chunks: {len(chunks)}; topics: {len({t for c in chunks for t in c['topic_ids']})}")
+    print('CATALOG REVIEW ONLY' if args.catalog else 'REVIEW ONLY: contains unverified OCR' if args.review else 'VERIFIED DOCUMENTS ONLY')
     print(output)
-
 
 if __name__=='__main__':main()

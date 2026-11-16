@@ -2,7 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
-from app.services.rag.ingestion import build_chunks, load_documents, split_text, ocr_search_text
+from app.services.rag.ingestion import build_catalog_chunks, build_chunks, load_documents, split_text, ocr_search_text
 from app.services.rag.retrieval import search_chunks
 from scripts.ocr_dataset import parse_tsv
 from scripts.import_reviewed import validate
@@ -18,6 +18,17 @@ def document(**changes):
 
 
 class PipelineTests(unittest.TestCase):
+    def test_all_topics_catalog_is_searchable_without_promoting_review_status(self):
+        root=Path(__file__).resolve().parents[3]/'Dataset/metadata'
+        topics=json.loads((root/'topics.json').read_text())
+        assets=json.loads((root/'assets.json').read_text())
+        links=json.loads((root/'topic_assets.json').read_text())
+        chunks=build_catalog_chunks(topics,assets,links)
+        self.assertEqual({c['topic_id'] for c in chunks},{t['id'] for t in topics})
+        self.assertTrue(all(c['review_status']=='needs_review' for c in chunks))
+        for topic in topics:
+            self.assertTrue(search_chunks(topic['title'],chunks,topic_id=topic['id']))
+
     def test_verified_boundary_and_review_flag(self):
         docs=[document(),document(document_id='D2',review_status='needs_review')]
         self.assertEqual(len(build_chunks(docs)),2)

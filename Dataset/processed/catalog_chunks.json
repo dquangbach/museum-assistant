@@ -1,0 +1,1272 @@
+[
+  {
+    "chunk_id": "CATALOG_TOPIC001_v1_001",
+    "document_id": "CATALOG_TOPIC001",
+    "topic_id": "TOPIC001",
+    "topic_ids": [
+      "TOPIC001"
+    ],
+    "exhibit_id": null,
+    "title": "Khái quát Bảo tàng Đà Nẵng",
+    "language": "vi",
+    "text": "Giới thiệu bảo tàng và không gian trưng bày.\n\nSơ đồ mặt bằng, bảng chỉ dẫn tầng, bảng giới thiệu; tường ảnh lịch sử và phim trình chiếu. Đây là tư liệu định hướng tham quan.",
+    "source_asset_ids": [
+      "a048ba5b-f7c3-53f5-b5d0-f4fa2921c26c",
+      "7c9971c7-c694-5a25-a7e8-b1c6578b6533",
+      "581b9852-4adc-5bf9-b7e1-b49eeced8396",
+      "b8f52b29-9d80-59aa-9b9c-7bdc2a76930e",
+      "ead9e648-e8ec-5c0e-a61c-34fac470d4f3",
+      "d2ba9abf-d106-56d9-b925-054372231c29",
+      "6dc0e49a-b146-52d6-82fd-139464e52d5f"
+    ],
+    "source_filenames": [
+      "IMG_8784.JPG",
+      "IMG_8785.JPG",
+      "IMG_8786.JPG",
+      "IMG_8787.JPG",
+      "IMG_8788.JPG",
+      "IMG_8789.JPG",
+      "IMG_8790.JPG"
+    ],
+    "source_reference": "8784–8790.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC002_v1_001",
+    "document_id": "CATALOG_TOPIC002",
+    "topic_id": "TOPIC002",
+    "topic_ids": [
+      "TOPIC002"
+    ],
+    "exhibit_id": null,
+    "title": "Thiên nhiên",
+    "language": "vi",
+    "text": "Giới thiệu môi trường tự nhiên địa phương.\n\nCác mẫu vỏ sò, ốc, san hô và vật mẫu tự nhiên trong tủ; bản đồ địa bàn và hình ảnh cảnh quan. Chưa đọc được tên từng mẫu.",
+    "source_asset_ids": [
+      "bf692d84-bb4d-5be9-af59-3ec9b480e63e",
+      "4df9a8cc-9f8d-58f4-a808-c85aa577b564"
+    ],
+    "source_filenames": [
+      "IMG_8791.JPG",
+      "IMG_8792.JPG"
+    ],
+    "source_reference": "8791–8792.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC003_v1_001",
+    "document_id": "CATALOG_TOPIC003",
+    "topic_id": "TOPIC003",
+    "topic_ids": [
+      "TOPIC003"
+    ],
+    "exhibit_id": null,
+    "title": "Hệ sinh thái biển",
+    "language": "vi",
+    "text": "Không gian giới thiệu hệ sinh thái biển.\n\nBảng thuyết minh, màn hình trình chiếu và các mẫu/vật trưng bày trong tủ bên cạnh; ảnh chưa đủ rõ để định danh từng loài.",
+    "source_asset_ids": [
+      "f60e8743-c1a6-58b9-a961-03fb08f79d44",
+      "88da4433-8369-5687-832b-6f5c08f595cb"
+    ],
+    "source_filenames": [
+      "IMG_8794.JPG",
+      "IMG_8795.JPG"
+    ],
+    "source_reference": "8794–8795.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC004_v1_001",
+    "document_id": "CATALOG_TOPIC004",
+    "topic_id": "TOPIC004",
+    "topic_ids": [
+      "TOPIC004"
+    ],
+    "exhibit_id": null,
+    "title": "Địa chất khoáng sản",
+    "language": "vi",
+    "text": "Giới thiệu đặc điểm địa chất và tài nguyên khoáng sản.\n\nCác mẫu đá, khoáng vật trong tủ kính; hình ảnh địa tầng và màn hình minh họa. Chưa xác định tên từng mẫu.",
+    "source_asset_ids": [
+      "99a9fb3c-dbcc-5719-9b84-65681ebbdcdb",
+      "cdf70340-cdaf-53e8-abd8-46665d2c3e09"
+    ],
+    "source_filenames": [
+      "IMG_8796.JPG",
+      "IMG_8797.JPG"
+    ],
+    "source_reference": "8796–8797.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC005_v1_001",
+    "document_id": "CATALOG_TOPIC005",
+    "topic_id": "TOPIC005",
+    "topic_ids": [
+      "TOPIC005"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời tiền – sơ sử; văn hóa Sa Huỳnh",
+    "language": "vi",
+    "text": "Dấu tích cư trú, mai táng, sản xuất và trang sức thời tiền – sơ sử.\n\nMộ chum, mộ nồi; công cụ sản xuất; đồ trang sức; đồ gốm gồm nồi, bát/đĩa và đồ đựng. Có bảng di chỉ Vườn đình Khuê Bắc và mô hình hố khai quật.",
+    "source_asset_ids": [
+      "f2b5e7eb-0944-5b8e-b58a-a447124d6265",
+      "aae3a990-57b4-5c87-afbe-2fc75d701aed",
+      "63b9d2c8-7a68-5cdf-9e55-a72c91892e46",
+      "85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3",
+      "0cf57294-efa0-55c9-8726-8b9c72c71846",
+      "308b6b10-df2d-5225-bbf2-a45c76284dc5",
+      "51c592d2-9f80-5211-9bbc-7a672f22f67e",
+      "887310b0-b146-5df7-95d1-65c5562914af",
+      "40bbb38b-6c3b-519d-a54a-4f93862e971a",
+      "53e5b27a-bf9f-520f-8194-49e2851f1e5f",
+      "5ecfada2-ee31-5e0b-bc73-4d3ae88573e3",
+      "390d6f22-c812-5ccb-8de7-91d5c28ed734",
+      "a5b49eae-97ef-5a10-8e52-9f198aebd20e",
+      "da841b79-9feb-56c2-8160-4d6618a88ee5",
+      "331ed62a-6957-513a-8f53-d86757ba04cf",
+      "49a5f047-d947-5a74-b099-12dfa1640a11"
+    ],
+    "source_filenames": [
+      "IMG_8798.JPG",
+      "IMG_8800.JPG",
+      "IMG_8801.JPG",
+      "IMG_8802.JPG",
+      "IMG_8803.JPG",
+      "IMG_8804.JPG",
+      "IMG_8805.JPG",
+      "IMG_8806.JPG",
+      "IMG_8807.JPG",
+      "IMG_8808.JPG",
+      "IMG_8809.JPG",
+      "IMG_8810.JPG",
+      "IMG_8812.JPG",
+      "IMG_8813.JPG",
+      "IMG_8814.JPG",
+      "IMG_8815.JPG"
+    ],
+    "source_reference": "8798–8815.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC006_v1_001",
+    "document_id": "CATALOG_TOPIC006",
+    "topic_id": "TOPIC006",
+    "topic_ids": [
+      "TOPIC006"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời kỳ văn hóa Champa",
+    "language": "vi",
+    "text": "Di sản Champa và di chỉ khảo cổ tại địa phương.\n\nBản dập văn khắc; bình, đồ đựng gốm; đồ trang sức nhỏ; mặt ngói Kala thế kỷ X; gạch Champa thế kỷ X. Có bảng di chỉ Nam Thổ Sơn.",
+    "source_asset_ids": [
+      "c166d237-9a9a-5a22-8d31-ad63e75a2e2a",
+      "51f5f377-47fa-5af7-b32f-2e223c6ad333",
+      "16cb5a7f-d36a-5d0f-977d-d4b8bd71d913",
+      "b000b5f6-4b92-506c-a224-5aa69e1729c0",
+      "bf65c635-c666-529e-b6dd-ae66b62c3e90",
+      "56efad48-fac0-545d-8b0f-7cfbcb21bd3f",
+      "6c1ad10c-31bd-55bd-aec8-64e674b1e8d7"
+    ],
+    "source_filenames": [
+      "IMG_8816.JPG",
+      "IMG_8817.JPG",
+      "IMG_8818.JPG",
+      "IMG_8819.JPG",
+      "IMG_8820.JPG",
+      "IMG_8821.JPG",
+      "Photo 2026-10-26 10.29.44.jpg"
+    ],
+    "source_reference": "8816–8821; Photo 2026-10-26 10.29.44.jpg.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC007_v1_001",
+    "document_id": "CATALOG_TOPIC007",
+    "topic_id": "TOPIC007",
+    "topic_ids": [
+      "TOPIC007"
+    ],
+    "exhibit_id": null,
+    "title": "Làng xã",
+    "language": "vi",
+    "text": "Sự hình thành và đời sống làng xã, dấu tích đình và giếng cổ.\n\nBản đồ làng cổ, bản đồ giếng Chăm cổ; sắc phong và bản dập văn khắc; chuông, chân đèn, lọ hoa, bát/đĩa, đồ đựng gốm; giấy tờ Hán Nôm.",
+    "source_asset_ids": [
+      "f33f061b-cae6-5e09-a787-afd1c7e15ba8",
+      "777dbc16-ed0b-59b1-9a61-a9e78ecc92f6",
+      "0f612987-2a2e-54ae-ac55-8face85a05e3",
+      "cbfc1d1c-7c50-58fe-a494-c276807ac551",
+      "817c17bf-0ce5-53a0-9313-40cb33c78789",
+      "d79725b9-c80f-5da7-b16a-17c97cdecf6b",
+      "a847325f-bc06-58c2-967c-214e409fc444",
+      "09ed20c9-43eb-596e-9f5f-6f66c785b74e",
+      "51434723-9091-5397-990d-904304ce5d1b",
+      "20d65629-fca2-504b-931a-d613b9ea062a",
+      "e06c9f6c-0bf3-5080-83a5-1211e4f19a5c",
+      "172116c9-b3e8-5e11-af74-9e29633b4901",
+      "87e1a76d-d830-5753-b2a1-89037a889965",
+      "637b5cbb-962e-53b4-810c-d750ef87d05c",
+      "c0c71a25-11d3-575a-9fdd-8fe2665f6c94",
+      "5dcb71fd-fc55-57a8-be75-f53762ceb4c2",
+      "8aca6c1c-4a5b-5e7b-a28f-aed654a2edd2",
+      "b725a761-f367-5d5e-ad41-cf7a7d142dcb"
+    ],
+    "source_filenames": [
+      "IMG_8823.JPG",
+      "IMG_8824.JPG",
+      "IMG_8825.JPG",
+      "IMG_8826.JPG",
+      "IMG_8827.JPG",
+      "IMG_8828.JPG",
+      "IMG_8829.JPG",
+      "IMG_8830.JPG",
+      "IMG_8831.JPG",
+      "IMG_8832.JPG",
+      "IMG_8833.JPG",
+      "IMG_8834.JPG",
+      "IMG_8835.JPG",
+      "IMG_8836.JPG",
+      "IMG_8837.JPG",
+      "IMG_8838.JPG",
+      "IMG_8839.JPG",
+      "IMG_8840.JPG"
+    ],
+    "source_reference": "8823–8840.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC008_v1_001",
+    "document_id": "CATALOG_TOPIC008",
+    "topic_id": "TOPIC008",
+    "topic_ids": [
+      "TOPIC008"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng – thương cảng sầm uất thời Nguyễn",
+    "language": "vi",
+    "text": "Chủ đề giao thương và các đồ dùng được chụp ở khu vực bảng tiêu đề.\n\nTiền đồng; kính viễn vọng/ống nhòm dạng ống; đồng hồ; bình kim loại; áo dài và thước đo. Một số tủ nằm trước ảnh tiêu đề, cần đối chiếu ranh giới với mục làng xã.",
+    "source_asset_ids": [
+      "cbb6ec92-7dab-5ef4-afc5-bc60c9b330fd",
+      "64ceaf61-9bf2-5ec2-b148-1a5144816328",
+      "bca934dd-7a85-5c24-9b18-fd5b9802c0b9",
+      "85947aed-5767-5575-942b-82d16940b125",
+      "9e83d937-d136-5d83-94cb-9085e0190e3c",
+      "3f6e3678-319a-5f0f-a22e-2118a3e3f13a",
+      "894fe211-5af4-5543-a412-66ea20143277",
+      "6192efc9-79fa-5e6d-a639-c9f5718347f1",
+      "b279af60-f672-5d96-88e5-d5616ad5b20b"
+    ],
+    "source_filenames": [
+      "IMG_8841.JPG",
+      "IMG_8842.JPG",
+      "IMG_8843.JPG",
+      "IMG_8844.JPG",
+      "IMG_8845.JPG",
+      "IMG_8846.JPG",
+      "IMG_8847.JPG",
+      "IMG_8848.JPG",
+      "IMG_8849.JPG"
+    ],
+    "source_reference": "8841–8849.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC009_v1_001",
+    "document_id": "CATALOG_TOPIC009",
+    "topic_id": "TOPIC009",
+    "topic_ids": [
+      "TOPIC009"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời phong kiến",
+    "language": "vi",
+    "text": "Bối cảnh hành chính, dân cư và giao thông đường thủy.\n\nTrụ đá có khắc chữ; tư liệu con đường thủy Đà Nẵng – Hội An; bản đồ cổ, ảnh di tích và tài liệu hành chính. Không xác định thêm niên đại khi nhãn chưa rõ.",
+    "source_asset_ids": [
+      "3196cca2-a362-559e-9c97-d5de448ebbef",
+      "d376ccd7-a12b-5586-be99-1ee5ab923558",
+      "6c31264f-3b06-57e8-ba8c-f76966e1d3c9",
+      "0301f9ad-91c1-563b-8fd7-becee853aed5",
+      "a1f8772e-fcbf-51f2-9c36-9c319444cbd5",
+      "3e56cf8a-eda0-5452-bbcc-b5e53eb019c6",
+      "743bea7a-4751-5812-9c3c-08791eaf4c59",
+      "d1a93fe3-8972-5353-af43-3eba8fd6a5d2",
+      "90546380-34dd-52bc-a10b-3d28139b2ec9",
+      "2645f978-e5af-56a4-8c52-d4290e554ade",
+      "3a0664e0-f2ac-59fb-a5a7-14a6cf48a5da"
+    ],
+    "source_filenames": [
+      "IMG_8850.JPG",
+      "IMG_8851.JPG",
+      "IMG_8852.JPG",
+      "IMG_8853.JPG",
+      "IMG_8854.JPG",
+      "IMG_8855.JPG",
+      "IMG_8856.JPG",
+      "IMG_8857.JPG",
+      "IMG_8858.JPG",
+      "IMG_8859.JPG",
+      "IMG_8860.JPG"
+    ],
+    "source_reference": "8850–8860.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC010_v1_001",
+    "document_id": "CATALOG_TOPIC010",
+    "topic_id": "TOPIC010",
+    "topic_ids": [
+      "TOPIC010"
+    ],
+    "exhibit_id": null,
+    "title": "Đô thị Đà Nẵng thời thuộc Pháp (1888–1945)",
+    "language": "vi",
+    "text": "Giới thiệu quá trình phát triển đô thị dưới thời thuộc Pháp.\n\nXe kéo tay; bảng thuyết minh về tổ chức và hạ tầng đô thị. Đồ dùng sinh hoạt cùng thời được tách sang mục kế tiếp để dễ tra cứu.",
+    "source_asset_ids": [
+      "c4b9359c-c4d9-5599-8e26-0e3af1cddbb2",
+      "c49a08dc-8ca1-5e60-8493-8f87378e6c9e"
+    ],
+    "source_filenames": [
+      "IMG_8883.JPG",
+      "IMG_8884.JPG"
+    ],
+    "source_reference": "8883–8884.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC011_v1_001",
+    "document_id": "CATALOG_TOPIC011",
+    "topic_id": "TOPIC011",
+    "topic_ids": [
+      "TOPIC011"
+    ],
+    "exhibit_id": null,
+    "title": "Văn hóa xã hội thời thuộc Pháp",
+    "language": "vi",
+    "text": "Đồ dùng sinh hoạt phản ánh sự giao thoa văn hóa.\n\nBộ đồ ăn trầu, máy hát đĩa, bình/chóe, đèn dầu, lọ hoa, cân và quả cân; bàn là, ấm đồng, thau/chậu, cối và chày. Một số nhãn ghi thế kỷ XIX–XX.",
+    "source_asset_ids": [
+      "ed135a19-9332-5339-8411-ed3986c707a5",
+      "7a53cb89-91b4-5608-adc7-3f090f65a37b",
+      "d7bc013b-a606-553f-a9a9-3a4c8cf2075c",
+      "10686b27-1462-57dc-abe7-84743cf43211",
+      "16367bd4-e7fb-519a-a8bc-0aa5d77cbefb",
+      "d12b067e-4f78-573f-a0dc-cb57dcdaf61f",
+      "f6062d1a-1c8f-54bd-bedc-0770b0d5cf93",
+      "99adc23f-04fd-5611-a9de-408d4a1f44e9",
+      "ac1fed92-0187-56da-bf6e-b00340bb3493",
+      "5655418a-648c-5eb7-88b4-2707cd9bb39a",
+      "46096b2e-1f4c-5c1b-b51e-1b31355c6619",
+      "9b586258-14e1-51f8-8697-fde909259f2e",
+      "7d48ba87-e183-5418-b104-0849ab479fcb",
+      "4cbd3fd8-c487-5660-aed2-c0983a8952ab"
+    ],
+    "source_filenames": [
+      "IMG_8861.JPG",
+      "IMG_8862.JPG",
+      "IMG_8863.JPG",
+      "IMG_8869.JPG",
+      "IMG_8870.JPG",
+      "IMG_8871.JPG",
+      "IMG_8875.JPG",
+      "IMG_8876.JPG",
+      "IMG_8877.JPG",
+      "IMG_8878.JPG",
+      "IMG_8879.JPG",
+      "IMG_8880.JPG",
+      "IMG_8881.JPG",
+      "IMG_8882.JPG"
+    ],
+    "source_reference": "8861–8882.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC012_v1_001",
+    "document_id": "CATALOG_TOPIC012",
+    "topic_id": "TOPIC012",
+    "topic_ids": [
+      "TOPIC012"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng 1945–1975: đời sống đô thị",
+    "language": "vi",
+    "text": "Các phương tiện và thiết bị sinh hoạt của giai đoạn 1945–1975.\n\nXe máy Gobel (nhãn ghi 1950); ti vi; máy Akai; đài; máy ảnh. Đây là nhóm đời sống đô thị, phân biệt với các mục kháng chiến bên dưới.",
+    "source_asset_ids": [
+      "36585505-053f-5227-8494-4b4b63e2267a",
+      "bc0b0cc9-7a58-5cd5-9ec3-64a04e715dab",
+      "8e4ca4e6-50d9-5e8d-95a1-d506f953d804"
+    ],
+    "source_filenames": [
+      "IMG_8885.JPG",
+      "IMG_8886.JPG",
+      "IMG_8887.JPG"
+    ],
+    "source_reference": "8885–8887.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC013_v1_001",
+    "document_id": "CATALOG_TOPIC013",
+    "topic_id": "TOPIC013",
+    "topic_ids": [
+      "TOPIC013"
+    ],
+    "exhibit_id": null,
+    "title": "Cuộc chiến với liên quân Pháp – Tây Ban Nha (1858–1860)",
+    "language": "vi",
+    "text": "Gồm hệ thống phòng thủ triều Nguyễn và tư liệu về Nguyễn Tri Phương.\n\nTượng nhân vật tại khu trưng bày Nguyễn Tri Phương; súng thần công, đạn thần công; các loại vũ khí dài trong tủ; mô hình thuyền chiến; hình ảnh/phim tái hiện.",
+    "source_asset_ids": [
+      "38629d4e-d0a4-5a2d-bf04-dcc0dd507fdb",
+      "d9a5f8ae-9a68-5e76-8e30-6a857315462d",
+      "422112a3-28e3-5aea-8117-8ed0a15379df",
+      "9abc61f6-dca2-5b6e-b18d-9e464ce58106",
+      "80d1472a-f3ee-50c3-a4f6-fbc3606aa9ce",
+      "da3ef524-d924-5684-ad14-3ddabff35f37",
+      "9613ddf2-f0b7-52a9-a348-5e5c6b189ae3",
+      "b555b210-2951-5688-b5d8-6e51d032f38b",
+      "e2d0ffd3-7625-5210-8472-ae4af02ab132",
+      "f4a1e53d-d16e-5d87-8228-dac3c59cd529",
+      "0a7cefb7-723a-5c45-8ee8-5844b19f616b",
+      "f4d0b5d4-d6e2-5384-be0b-b5b740398de0",
+      "39193367-0442-594e-bfa4-04637d836383",
+      "95efd790-a1f3-5e97-ad67-c0d4bc75d3cd"
+    ],
+    "source_filenames": [
+      "IMG_8888.JPG",
+      "IMG_8892.JPG",
+      "IMG_8893.JPG",
+      "IMG_8894.JPG",
+      "IMG_8895.JPG",
+      "IMG_8896.JPG",
+      "IMG_8897.JPG",
+      "IMG_8898.JPG",
+      "IMG_8899.JPG",
+      "IMG_8900.JPG",
+      "IMG_8901.JPG",
+      "IMG_8902.JPG",
+      "IMG_8903.JPG",
+      "IMG_8904.JPG"
+    ],
+    "source_reference": "8888–8904.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC014_v1_001",
+    "document_id": "CATALOG_TOPIC014",
+    "topic_id": "TOPIC014",
+    "topic_ids": [
+      "TOPIC014"
+    ],
+    "exhibit_id": null,
+    "title": "Các phong trào yêu nước tại Đà Nẵng trước 1930",
+    "language": "vi",
+    "text": "Gồm Nghĩa Hội (1885–1887), Duy Tân (1906–1908) và chống thuế năm 1908.\n\nTư liệu Nguyễn Duy Hiệu, Phan Châu Trinh, Ông Ích Đường; bài thơ, nghĩa trang Nghĩa Hội, bài chế, kiếm và bằng giao quyền. Một phần chỉ xuất hiện qua ảnh/chú thích.",
+    "source_asset_ids": [
+      "96dfb43a-374c-558a-a86d-8f819b376b06",
+      "334414b1-5b1b-50ba-8110-7220295bf81e",
+      "0dce01c7-985f-5369-95fd-2d333f8af9de",
+      "fd001363-8935-5408-a622-df98a4c8d90d",
+      "233134fc-fa0b-5400-b644-9f74776774e3",
+      "1f903e90-a88c-56c7-ad83-c4c61e83b31a",
+      "0edae910-9a98-5bff-b6bd-eeda60925c0b"
+    ],
+    "source_filenames": [
+      "IMG_8905.JPG",
+      "IMG_8906.JPG",
+      "IMG_8907.JPG",
+      "IMG_8908.JPG",
+      "IMG_8909.JPG",
+      "IMG_8910.JPG",
+      "IMG_8911.JPG"
+    ],
+    "source_reference": "8905–8911.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC015_v1_001",
+    "document_id": "CATALOG_TOPIC015",
+    "topic_id": "TOPIC015",
+    "topic_ids": [
+      "TOPIC015"
+    ],
+    "exhibit_id": null,
+    "title": "Phong trào cách mạng tại Đà Nẵng 1930–1945",
+    "language": "vi",
+    "text": "Gồm bảng về tổ chức cộng sản đầu tiên ở Đà Nẵng.\n\nẢnh nhân vật, ảnh tư liệu, tài liệu và một số vũ khí dài trong tủ. Nhãn hiện vật nhỏ, chưa đủ rõ để gắn chính xác từng khẩu súng với sự kiện.",
+    "source_asset_ids": [
+      "8af9c4e6-aeb8-51a9-9695-9e74c7189102",
+      "58e089b3-6e9d-5cc4-aa3d-d1fbd8f53b0b",
+      "b6adf166-be64-5eae-b233-b727db139bb8"
+    ],
+    "source_filenames": [
+      "IMG_8912.JPG",
+      "IMG_8913.JPG",
+      "IMG_8914.JPG"
+    ],
+    "source_reference": "8912–8914.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC016_v1_001",
+    "document_id": "CATALOG_TOPIC016",
+    "topic_id": "TOPIC016",
+    "topic_ids": [
+      "TOPIC016"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng trong kháng chiến chống thực dân Pháp (1945–1954)",
+    "language": "vi",
+    "text": "Gồm Xưởng vũ khí Nho Bản và chủ đề tham gia chiến dịch Điện Biên Phủ.\n\nBản vẽ kỹ thuật vũ khí; súng phóng bom/súng tự chế; lựu đạn, vỏ lựu đạn và khuôn đúc; ảnh tư liệu và ảnh gặp mặt người tham gia chiến dịch.",
+    "source_asset_ids": [
+      "f8205716-ccf5-5a88-a9db-8e56759e1fd7",
+      "339de594-026c-5f8f-9538-9dbc88c171f9",
+      "01e7b54e-3f77-5a3a-bbd2-a261423b82be",
+      "cedc8c9f-a94f-53db-b6dd-e906808d0c59",
+      "09951dd3-e713-5c7c-9b62-0ecf35ed3c95",
+      "3b9592c7-b516-5961-8db3-1c1e2baee42b",
+      "58173c20-e5df-5021-b596-f0223ca66da4",
+      "67f60b26-a0f4-5eae-913d-43cac2323914",
+      "0f86aae7-9472-5aec-8cd9-12c42e833542",
+      "da8674e6-22b8-5621-81c7-615ae3e0c62e"
+    ],
+    "source_filenames": [
+      "IMG_8915.JPG",
+      "IMG_8916.JPG",
+      "IMG_8917.JPG",
+      "IMG_8918.JPG",
+      "IMG_8919.JPG",
+      "IMG_8920.JPG",
+      "IMG_8921.JPG",
+      "IMG_8922.JPG",
+      "IMG_8923.JPG",
+      "IMG_8924.JPG"
+    ],
+    "source_reference": "8915–8924.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC017_v1_001",
+    "document_id": "CATALOG_TOPIC017",
+    "topic_id": "TOPIC017",
+    "topic_ids": [
+      "TOPIC017"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng trong kháng chiến chống đế quốc Mỹ (1954–1975)",
+    "language": "vi",
+    "text": "Giới thiệu chung giai đoạn kháng chiến chống Mỹ.\n\nXe đạp thồ chở thùng hàng; xe máy tại khu trưng bày; áo dài và tư liệu phong trào. Tên chủ sở hữu, nhiệm vụ cụ thể cần đọc lại nhãn gốc.",
+    "source_asset_ids": [
+      "2073a3b5-0dbd-5f12-ae3e-c7b79d765485",
+      "34f5dacb-8648-55e9-8a4c-e4f2bd00345f",
+      "accdc18f-c53f-5cb2-804c-79be6802b0b5",
+      "27a55f37-2172-51bc-aeab-13a3361328c5",
+      "a41980fa-b769-50a6-9449-aab81c9dde33"
+    ],
+    "source_filenames": [
+      "IMG_8925.JPG",
+      "IMG_8926.JPG",
+      "IMG_8927.JPG",
+      "IMG_8928.JPG",
+      "IMG_8929.JPG"
+    ],
+    "source_reference": "8925–8929.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC018_v1_001",
+    "document_id": "CATALOG_TOPIC018",
+    "topic_id": "TOPIC018",
+    "topic_ids": [
+      "TOPIC018"
+    ],
+    "exhibit_id": null,
+    "title": "Biệt động thành Đà Nẵng",
+    "language": "vi",
+    "text": "Hoạt động lực lượng biệt động và các đồ dùng phục vụ hoạt động bí mật.\n\nSúng, ống nhòm, mũ tai bèo; dụng cụ cắt/kìm, bàn chải, hộp đựng, đồ dùng nhỏ và giấy tờ; ảnh sự kiện. Chưa chép tên chủ sở hữu do nhãn khó đọc.",
+    "source_asset_ids": [
+      "92e627d9-0b9d-5a9e-b781-993bc1ccefa6",
+      "0b359806-70a9-5d35-9d64-ccd5b4f4fa55",
+      "95855fd5-9284-52fc-9eb5-f167af1c410f",
+      "b95022bc-ce63-526f-a5e9-ca5968fed2ad",
+      "1e05d925-d819-5316-bcbe-8f1f91f8a952",
+      "6255d9d4-3e29-51de-82c2-00aa97302dd5",
+      "ea3896b1-70a8-5952-9c39-91b15757e167",
+      "efa4768e-42b1-5682-a452-b1976b926330",
+      "54af4887-5b12-56b4-991c-be3a1a419c68",
+      "207b1d9f-d4c5-5f83-b2fc-7f23819bda3b"
+    ],
+    "source_filenames": [
+      "IMG_8930.JPG",
+      "IMG_8931.JPG",
+      "IMG_8932.JPG",
+      "IMG_8933.JPG",
+      "IMG_8934.JPG",
+      "IMG_8935.JPG",
+      "IMG_8936.JPG",
+      "IMG_8937.JPG",
+      "IMG_8938.JPG",
+      "IMG_8939.JPG"
+    ],
+    "source_reference": "8930–8939.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC019_v1_001",
+    "document_id": "CATALOG_TOPIC019",
+    "topic_id": "TOPIC019",
+    "topic_ids": [
+      "TOPIC019"
+    ],
+    "exhibit_id": null,
+    "title": "Căn cứ Mõm Nỏ",
+    "language": "vi",
+    "text": "Bảng giới thiệu căn cứ và địa điểm hoạt động tại Sơn Trà.\n\nẢnh bờ biển, địa hình và di tích căn cứ. Nhóm ảnh này chủ yếu là bảng thuyết minh và ảnh tư liệu, chưa thấy hiện vật rời có nhãn rõ.",
+    "source_asset_ids": [
+      "69cd76f8-8c40-5324-80b3-0e834a3ad20a",
+      "8d4747d3-459f-5a73-b6fb-19183d5d11dd"
+    ],
+    "source_filenames": [
+      "IMG_8940.JPG",
+      "IMG_8941.JPG"
+    ],
+    "source_reference": "8940–8941.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC020_v1_001",
+    "document_id": "CATALOG_TOPIC020",
+    "topic_id": "TOPIC020",
+    "topic_ids": [
+      "TOPIC020"
+    ],
+    "exhibit_id": null,
+    "title": "Khuất Thúc Cự – Chủ tịch Ủy ban kháng chiến huyện Tam Kỳ",
+    "language": "vi",
+    "text": "Tiểu mục nhân vật đọc được trên bảng trưng bày.\n\nBộ quần áo kaki và các vật dụng trong tủ kề bên, gồm thiết bị dạng ống và hộp kim loại. Chưa xác nhận toàn bộ vật dụng trong tủ thuộc cùng nhân vật.",
+    "source_asset_ids": [
+      "e9551bea-9577-5cc3-8eb3-cdcb1637d247",
+      "bd582f25-77a5-5d4c-b7c5-f99aaa4632f3",
+      "e89283dd-5441-581f-ad22-33e8c1b90c95",
+      "8c5ac1a4-5e5f-5082-ab8d-a3b6dc360d46",
+      "6beeeacc-6874-5dae-945b-01ecd8bebc76"
+    ],
+    "source_filenames": [
+      "IMG_8944.JPG",
+      "IMG_8945.JPG",
+      "IMG_8946.JPG",
+      "IMG_8947.JPG",
+      "IMG_8948.JPG"
+    ],
+    "source_reference": "8944–8948.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC021_v1_001",
+    "document_id": "CATALOG_TOPIC021",
+    "topic_id": "TOPIC021",
+    "topic_ids": [
+      "TOPIC021"
+    ],
+    "exhibit_id": null,
+    "title": "Trong cánh cửa lao tù",
+    "language": "vi",
+    "text": "Không gian phản ánh đời sống trong tù và kỷ vật thời chiến.\n\nCác vật dụng dạng gậy/roi, dây và đồ đan/vải; tủ bên cạnh có túi da, nồi, dép, mũ, hộp đựng, đồ viết, tượng Quan Âm và đài. Việc gán từng vật với nhân vật còn cần đối chiếu.",
+    "source_asset_ids": [
+      "df0a8bb4-707e-57f9-8f61-076b28e1d657",
+      "58d8711e-c878-5aba-a31e-0979ca5eb319",
+      "8119035e-f9e0-5205-bc2b-b30c51ff90e3",
+      "12405163-f175-53e3-9e39-57937368e113",
+      "5314db19-f5b5-5eed-a850-2bba631462af",
+      "60e2147e-de48-5e81-aaf0-a7c3b0a72b31",
+      "2d2cb375-2a50-50f6-a90a-2853ee00cfa1",
+      "2bf3a322-c608-553f-972d-88bdac8bcfd9",
+      "bec3d34a-0128-5908-b922-76d02f9f5df7",
+      "9e385cd5-c27d-5636-b22b-1baba699f166",
+      "cdde8718-501a-5123-9af3-b69fb0252035",
+      "4452152a-b3e3-5f07-b2aa-bd74d8e8f05e",
+      "6b7136be-656c-5cea-95a8-df722adefabe",
+      "609dd9be-7cd1-546d-baf5-42d2925d7a4c",
+      "20e8b287-5731-55c2-aee3-aad6922387c4",
+      "8b41b7a7-e187-5de0-b549-a16cccb725f9",
+      "1151bae5-f469-5672-95c9-c444aefd134a",
+      "af8025e6-6595-5aac-91e0-c5bf4820eea2"
+    ],
+    "source_filenames": [
+      "IMG_8949.JPG",
+      "IMG_8950.JPG",
+      "IMG_8951.JPG",
+      "IMG_8952.JPG",
+      "IMG_8953.JPG",
+      "IMG_8954.JPG",
+      "IMG_8955.JPG",
+      "IMG_8956.JPG",
+      "IMG_8957.JPG",
+      "IMG_8958.JPG",
+      "IMG_8959.JPG",
+      "IMG_8960.JPG",
+      "IMG_8961.JPG",
+      "IMG_8962.JPG",
+      "IMG_8963.JPG",
+      "IMG_8964.JPG",
+      "IMG_8965.JPG",
+      "IMG_8966.JPG"
+    ],
+    "source_reference": "8949–8966.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC022_v1_001",
+    "document_id": "CATALOG_TOPIC022",
+    "topic_id": "TOPIC022",
+    "topic_ids": [
+      "TOPIC022"
+    ],
+    "exhibit_id": null,
+    "title": "Chiến công của Mẹ Nhu và bảy dũng sĩ Thanh Khê (26/12/1968)",
+    "language": "vi",
+    "text": "Chủ đề sự kiện và các nhân vật tham gia.\n\nBảng thuyết minh, chân dung Mẹ Nhu và các dũng sĩ, hình ảnh kỷ niệm. Ảnh chụp chưa cho phép tách chắc chắn hiện vật rời thuộc riêng mục này.",
+    "source_asset_ids": [
+      "52bea24d-9228-5e32-89e9-b52ea61dfa97"
+    ],
+    "source_filenames": [
+      "IMG_8967.JPG"
+    ],
+    "source_reference": "8967.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC023_v1_001",
+    "document_id": "CATALOG_TOPIC023",
+    "topic_id": "TOPIC023",
+    "topic_ids": [
+      "TOPIC023"
+    ],
+    "exhibit_id": null,
+    "title": "Căn cứ cách mạng K20",
+    "language": "vi",
+    "text": "Giới thiệu căn cứ và dấu tích hoạt động cách mạng.\n\nBảng thuyết minh; ảnh nhà ở, lối xuống hầm và đường hầm. Chủ yếu là tư liệu hình ảnh về di tích.",
+    "source_asset_ids": [
+      "3b3e73da-fa6f-5736-9c04-d71df0af7afe",
+      "bceed497-0ea8-5d02-95c3-10d76c8e247f"
+    ],
+    "source_filenames": [
+      "IMG_8968.JPG",
+      "IMG_8981.JPG"
+    ],
+    "source_reference": "8968; 8981.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC024_v1_001",
+    "document_id": "CATALOG_TOPIC024",
+    "topic_id": "TOPIC024",
+    "topic_ids": [
+      "TOPIC024"
+    ],
+    "exhibit_id": null,
+    "title": "76 ngày đêm sôi sục đấu tranh của Đà Nẵng (1966)",
+    "language": "vi",
+    "text": "Phong trào đấu tranh chính trị tại Đà Nẵng năm 1966.\n\nẢnh biểu tình, sinh hoạt đấu tranh và tư liệu báo chí; một vật đựng dạng thùng/xô và một khẩu súng ngắn trong tủ. Tên riêng của hai hiện vật chưa đọc chắc chắn.",
+    "source_asset_ids": [
+      "9a49cb3e-51aa-54e9-9976-bbab510a2e5d",
+      "d967d897-f705-5138-9260-cd9e2c3abb98",
+      "d9591a80-238e-57ee-959f-76c8478e169d",
+      "60c39b00-3f20-5db9-9f2c-48a258d44e3b",
+      "588d013c-4112-5c64-868b-fd243d9ad6ed",
+      "89472bf6-2add-5de1-bbb3-16dfafe58699",
+      "74ce1627-a001-5b5f-b136-d230843dae4e",
+      "9c587d91-6217-5383-9075-f9b9b1335ad5"
+    ],
+    "source_filenames": [
+      "IMG_8982.JPG",
+      "IMG_8983.JPG",
+      "IMG_8984.JPG",
+      "IMG_8985.JPG",
+      "IMG_8986.JPG",
+      "IMG_8987.JPG",
+      "IMG_8988.JPG",
+      "IMG_8989.JPG"
+    ],
+    "source_reference": "8982–8989.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC025_v1_001",
+    "document_id": "CATALOG_TOPIC025",
+    "topic_id": "TOPIC025",
+    "topic_ids": [
+      "TOPIC025"
+    ],
+    "exhibit_id": null,
+    "title": "Phong trào đấu tranh của học sinh, sinh viên",
+    "language": "vi",
+    "text": "Hoạt động của học sinh, sinh viên trong phong trào đô thị.\n\nTài liệu, ấn phẩm, biểu trưng tổ chức trong khung kính; ảnh biểu tình; thiết bị dạng ống trong tủ. Không tự gán tên loại thiết bị khi nhãn chưa rõ.",
+    "source_asset_ids": [
+      "010bbb78-ca89-529c-8d7e-9042556f5825",
+      "5e71e0f4-b038-5d0b-aa84-448e107688e2",
+      "a84f0ef0-316f-5498-8e27-bf20c1385358"
+    ],
+    "source_filenames": [
+      "IMG_8990.JPG",
+      "IMG_8992.JPG",
+      "IMG_8993.JPG"
+    ],
+    "source_reference": "8990; 8992–8993.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC026_v1_001",
+    "document_id": "CATALOG_TOPIC026",
+    "topic_id": "TOPIC026",
+    "topic_ids": [
+      "TOPIC026"
+    ],
+    "exhibit_id": null,
+    "title": "Đặc khu ủy Quảng Đà",
+    "language": "vi",
+    "text": "Tư liệu về tổ chức và hoạt động cơ quan Đặc khu ủy.\n\nSúng; máy đánh chữ; máy ảnh, đồng hồ, sổ và tài liệu; thiết bị thông tin/vô tuyến, đèn pin, giày và đồ dùng cá nhân trong tủ.",
+    "source_asset_ids": [
+      "0a753ba5-1ad1-5716-8cf4-c1ec777e1a13",
+      "fd2863f5-3cc9-5e12-85e4-8c07615688a3",
+      "ad5b5604-95de-5476-b9be-f7d901d01bc2",
+      "2035492a-7711-5133-bb74-c9d8fd375eba",
+      "8ccbe6c7-9a76-5cf6-a915-daae2f950c30",
+      "689046fd-59d3-531b-85a8-6ed6014e962a"
+    ],
+    "source_filenames": [
+      "IMG_9002.JPG",
+      "IMG_9003.JPG",
+      "IMG_9004.JPG",
+      "IMG_9005.JPG",
+      "IMG_9006.JPG",
+      "IMG_9007.JPG"
+    ],
+    "source_reference": "9002–9007.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC027_v1_001",
+    "document_id": "CATALOG_TOPIC027",
+    "topic_id": "TOPIC027",
+    "topic_ids": [
+      "TOPIC027"
+    ],
+    "exhibit_id": null,
+    "title": "Chiến dịch giải phóng Đà Nẵng (29/3/1975)",
+    "language": "vi",
+    "text": "Sự kiện giải phóng thành phố tháng 3 năm 1975.\n\nCờ, cờ thưởng, huân/huy chương; các ngôi sao lớn; ảnh lực lượng tiến vào thành phố và sinh hoạt sau giải phóng; tài liệu kèm theo.",
+    "source_asset_ids": [
+      "b5a1ae32-f43d-5434-8fde-8d57c245e4eb",
+      "5df1e3d1-3c7b-5248-a8e0-f9e4ca021bc1",
+      "62379f49-acec-587d-8918-ee6bea4df9fb",
+      "54c79773-faa7-5717-8692-168adf07a8dd",
+      "b2a50cf8-11af-57f8-ad80-0bd46b341efe"
+    ],
+    "source_filenames": [
+      "IMG_9008.JPG",
+      "IMG_9009.JPG",
+      "IMG_9010.JPG",
+      "IMG_9011.JPG",
+      "IMG_9012.JPG"
+    ],
+    "source_reference": "9008–9012.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC028_v1_001",
+    "document_id": "CATALOG_TOPIC028",
+    "topic_id": "TOPIC028",
+    "topic_ids": [
+      "TOPIC028"
+    ],
+    "exhibit_id": null,
+    "title": "Chứng tích chiến tranh; Đà Nẵng – kho bom đạn khổng lồ",
+    "language": "vi",
+    "text": "Gồm bảng Dấu ấn chiến tranh và các loại bom đạn trưng bày.\n\nBom từ trường Mỹ; bom 250 cân Anh; đuôi bom 250 cân Anh và đuôi bom Napalm theo nhãn; súng, đạn pháo, các bộ phận/ngòi và vật liệu quân sự trong tủ.",
+    "source_asset_ids": [
+      "296710a4-53f4-5734-b4a2-6f07604caab2",
+      "a55ab415-6040-5b9b-948f-a23d40c00f27",
+      "b246e333-9ba0-5fe4-b7c8-3916e093b2c5",
+      "2d69b8a1-c5d4-5cd6-8728-f43887bca2f7",
+      "2db8bc0d-74ea-5a6e-9f1f-4b86620e4aa5",
+      "e73582fa-88fe-515f-8ebb-998350d11f0e"
+    ],
+    "source_filenames": [
+      "IMG_9013.JPG",
+      "IMG_9014.JPG",
+      "IMG_9016.JPG",
+      "IMG_9017.JPG",
+      "IMG_9018.JPG",
+      "IMG_9019.JPG"
+    ],
+    "source_reference": "9013–9019.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC029_v1_001",
+    "document_id": "CATALOG_TOPIC029",
+    "topic_id": "TOPIC029",
+    "topic_ids": [
+      "TOPIC029"
+    ],
+    "exhibit_id": null,
+    "title": "Chất khai quang và hiểm họa “da cam”; khắc phục hậu quả chiến tranh",
+    "language": "vi",
+    "text": "Gồm dự án tẩy rửa sân bay, chung tay khắc phục vết thương chiến tranh và giảm bớt nỗi đau da cam.\n\nBáo chí, tài liệu, ảnh tư liệu; mặt nạ phòng độc và ống phụ kiện; quân trang, đồ dùng, tiền giấy; biểu ngữ đoàn kết quốc tế. Việc phân bổ từng tủ cho tiểu mục cần kiểm tra thêm.",
+    "source_asset_ids": [
+      "a3bc7d4c-0da5-5f27-8b9e-c99e0d26ef44",
+      "caa94702-dbb6-5ffc-971d-52c3eecd8565",
+      "ac256cfe-2ed6-5824-ad36-0ae10340aa34",
+      "fa6d6b8b-703a-50ee-83e2-eaab8c58a53e",
+      "b3a6cd4a-b878-51f4-b0f2-cf830c3fb689",
+      "dd1f9357-f137-5524-8f6a-5f96f242abbd",
+      "612d6039-9fb0-5df8-acca-f7016475a20f",
+      "68ab0afb-54c6-5c9e-b674-3493965c059b",
+      "78117d6d-aa79-5532-b3ff-a4e714f525be",
+      "33ef91b6-e8aa-51f6-b63f-3e53b7574d11",
+      "01f40a52-69df-50d5-a792-24f7244aee93",
+      "a5c3ad61-6b52-54c9-b183-a20e4ba5e177",
+      "20a19fb1-e328-5dcb-a6aa-41201dbd0605",
+      "dc8aa90d-8ded-59d7-b22a-2f9472fec272"
+    ],
+    "source_filenames": [
+      "IMG_9020.JPG",
+      "IMG_9021.JPG",
+      "IMG_9022.JPG",
+      "IMG_9023.JPG",
+      "IMG_9024.JPG",
+      "IMG_9025.JPG",
+      "IMG_9026.JPG",
+      "IMG_9027.JPG",
+      "IMG_9028.JPG",
+      "IMG_9029.JPG",
+      "IMG_9030.JPG",
+      "IMG_9031.JPG",
+      "IMG_9032.JPG",
+      "IMG_9033.JPG"
+    ],
+    "source_reference": "9020–9033.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC030_v1_001",
+    "document_id": "CATALOG_TOPIC030",
+    "topic_id": "TOPIC030",
+    "topic_ids": [
+      "TOPIC030"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng thời “bao cấp” (1975–1986)",
+    "language": "vi",
+    "text": "Đời sống và bối cảnh kinh tế sau năm 1975.\n\nBảng thuyết minh; màn hình/hình ảnh và tư liệu niên biểu ở khu vực liền kề. Chưa đọc được nhãn hiện vật rời thuộc riêng giai đoạn này.",
+    "source_asset_ids": [
+      "c579170a-8d79-5f3c-a207-daa606dc90f6",
+      "47cca45f-2d68-5380-b5b7-a1473dcda3dd"
+    ],
+    "source_filenames": [
+      "IMG_9034.JPG",
+      "IMG_9035.JPG"
+    ],
+    "source_reference": "9034–9035.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC031_v1_001",
+    "document_id": "CATALOG_TOPIC031",
+    "topic_id": "TOPIC031",
+    "topic_ids": [
+      "TOPIC031"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng những năm đầu “đổi mới” (1987–1997)",
+    "language": "vi",
+    "text": "Giới thiệu thời kỳ đổi mới và các mốc chuyển biến của đô thị.\n\nBảng thuyết minh; ảnh công trình, đô thị và các mốc năm trên bảng niên biểu. Chưa xác định hiện vật rời có tên riêng.",
+    "source_asset_ids": [
+      "47cca45f-2d68-5380-b5b7-a1473dcda3dd",
+      "df493321-507d-53e3-950c-9b7d41d3f200"
+    ],
+    "source_filenames": [
+      "IMG_9035.JPG",
+      "IMG_9036.JPG"
+    ],
+    "source_reference": "9035–9036.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC032_v1_001",
+    "document_id": "CATALOG_TOPIC032",
+    "topic_id": "TOPIC032",
+    "topic_ids": [
+      "TOPIC032"
+    ],
+    "exhibit_id": null,
+    "title": "Đà Nẵng tương lai",
+    "language": "vi",
+    "text": "Định hướng và hình ảnh phát triển thành phố.\n\nBảng nội dung Đà Nẵng tương lai; màn hình và hình ảnh cảnh quan, công trình. Đây là nội dung giới thiệu phát triển, không phải một giai đoạn lịch sử đã kết thúc.",
+    "source_asset_ids": [
+      "e1fd878c-e8e1-529b-bc5f-06d4064a7dcb",
+      "4127a019-ca06-549a-aa80-6d26615bcf84"
+    ],
+    "source_filenames": [
+      "IMG_9037.JPG",
+      "IMG_9038.JPG"
+    ],
+    "source_reference": "9037–9038.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC033_v1_001",
+    "document_id": "CATALOG_TOPIC033",
+    "topic_id": "TOPIC033",
+    "topic_ids": [
+      "TOPIC033"
+    ],
+    "exhibit_id": null,
+    "title": "Văn hóa người Việt xứ Quảng; sinh hoạt cộng đồng làng xã",
+    "language": "vi",
+    "text": "Giới thiệu sinh hoạt cộng đồng, tín ngưỡng và lễ hội.\n\nẢnh lễ hội, đua thuyền, trống đồng và tư liệu làng xã; không gian bàn thờ với đồ thờ. Các hiện vật nhỏ chưa có ảnh nhãn đủ rõ để lập danh sách riêng.",
+    "source_asset_ids": [
+      "f411d0ff-33f4-580a-9cf9-6da6920eddd6",
+      "4458b2e2-07a8-5569-b890-00779234bd2a",
+      "77c29f01-88c3-5a85-a595-37cad01e32b3",
+      "b0f84a99-bfe1-5e3d-b042-e0d2aaae1a26",
+      "5b142675-2fd1-5c35-88bd-747ec95f4adc",
+      "29ed6ed8-b065-5fdd-a783-22543734dcab"
+    ],
+    "source_filenames": [
+      "IMG_9039.JPG",
+      "IMG_9040.JPG",
+      "IMG_9041.JPG",
+      "IMG_9042.JPG",
+      "IMG_9043.JPG",
+      "IMG_9045.JPG"
+    ],
+    "source_reference": "9039–9045.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC034_v1_001",
+    "document_id": "CATALOG_TOPIC034",
+    "topic_id": "TOPIC034",
+    "topic_ids": [
+      "TOPIC034"
+    ],
+    "exhibit_id": null,
+    "title": "Văn hóa biển",
+    "language": "vi",
+    "text": "Đời sống, nghề nghiệp và tín ngưỡng cư dân ven biển.\n\nDây câu, lưỡi câu và dụng cụ đánh bắt; máy thu phát tín hiệu, máy định vị, đèn tín hiệu và dây/cáp trong tủ; ảnh hoạt động nghề biển.",
+    "source_asset_ids": [
+      "21ee9ba0-a843-55c4-9acc-8544ec6d87dc",
+      "c3ef9bc7-d24f-5e44-ad54-f65140af247f",
+      "71e76da7-e7ab-597b-84f9-5d311b9ada80",
+      "831ae088-f5b5-5b6c-894b-6ac9d8b937c7"
+    ],
+    "source_filenames": [
+      "IMG_9046.JPG",
+      "IMG_9050.JPG",
+      "IMG_9051.JPG",
+      "IMG_9053.JPG"
+    ],
+    "source_reference": "9046; 9050–9053.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC035_v1_001",
+    "document_id": "CATALOG_TOPIC035",
+    "topic_id": "TOPIC035",
+    "topic_ids": [
+      "TOPIC035"
+    ],
+    "exhibit_id": null,
+    "title": "Nghề nông truyền thống",
+    "language": "vi",
+    "text": "Giới thiệu canh tác và sinh kế nông nghiệp truyền thống.\n\nBảng thuyết minh về sản xuất nông nghiệp và khai thác thủy sản đồng ruộng. Ảnh kế tiếp không có nhãn hiện vật đọc rõ; chưa lập được danh sách nông cụ riêng.",
+    "source_asset_ids": [
+      "ddf490b6-b436-5673-8fa2-2f35332d7bef",
+      "6da89693-4b8a-5c1c-8ebc-eb13e4960824"
+    ],
+    "source_filenames": [
+      "IMG_9054.JPG",
+      "IMG_9055.JPG"
+    ],
+    "source_reference": "9054–9055.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC036_v1_001",
+    "document_id": "CATALOG_TOPIC036",
+    "topic_id": "TOPIC036",
+    "topic_ids": [
+      "TOPIC036"
+    ],
+    "exhibit_id": null,
+    "title": "Nghề thủ công truyền thống",
+    "language": "vi",
+    "text": "Nhận diện được nghề đan bằng tre và nghề làm bánh tráng Túy Loan.\n\nRổ, rá/nong nia và sản phẩm đan; cối xay, dụng cụ làm bánh tráng; ảnh người làm nghề. Tên nhóm được tổng hợp từ các bảng tiểu mục.",
+    "source_asset_ids": [
+      "01ddc661-c043-5fef-8d29-f0d76b290a63",
+      "94baf59b-99a1-540f-97e9-9f2700939216"
+    ],
+    "source_filenames": [
+      "IMG_9057.JPG",
+      "IMG_9058.JPG"
+    ],
+    "source_reference": "9057–9058.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC037_v1_001",
+    "document_id": "CATALOG_TOPIC037",
+    "topic_id": "TOPIC037",
+    "topic_ids": [
+      "TOPIC037"
+    ],
+    "exhibit_id": null,
+    "title": "Nghệ thuật trình diễn",
+    "language": "vi",
+    "text": "Không gian giới thiệu nghệ thuật trình diễn xứ Quảng.\n\nTrang phục biểu diễn, trống, nhạc cụ dây và các hình nhân/trang phục tuồng; phim trình diễn. Không tự xác định tên từng nhạc cụ hay vai diễn.",
+    "source_asset_ids": [
+      "007b0c4e-c1a9-5dd8-9a1c-f7532e6a8d86",
+      "1072c719-55c4-51a1-a52c-bdffa7e2496b",
+      "5687014b-6893-50f7-8388-b90fb58285f8"
+    ],
+    "source_filenames": [
+      "IMG_9056.JPG",
+      "IMG_9059.JPG",
+      "IMG_9060.JPG"
+    ],
+    "source_reference": "9056; 9059–9060.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  },
+  {
+    "chunk_id": "CATALOG_TOPIC038_v1_001",
+    "document_id": "CATALOG_TOPIC038",
+    "topic_id": "TOPIC038",
+    "topic_ids": [
+      "TOPIC038"
+    ],
+    "exhibit_id": null,
+    "title": "Đèn cổ",
+    "language": "vi",
+    "text": "Bảng chủ đề Đèn cổ / Ancient lamps in Vietnam.\n\nẢnh hiện có thể hiện bảng thuyết minh. Chưa thấy ảnh chụp rõ hiện vật đèn đi kèm để liệt kê; không dùng đèn dầu ở mục khác thay cho bộ sưu tập này.",
+    "source_asset_ids": [
+      "bfa1de07-c5ee-5662-b26b-ca36906920c7"
+    ],
+    "source_filenames": [
+      "IMG_9061.JPG"
+    ],
+    "source_reference": "9061.",
+    "source_type": "catalog_metadata",
+    "version": 1,
+    "review_status": "needs_review",
+    "ocr_status": null
+  }
+]

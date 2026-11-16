@@ -18,6 +18,7 @@ Hai tài liệu DOC001, DOC002 đã có của người dùng được giữ nguy
 - Dataset/review/topics/: checklist đối chiếu theo chủ đề, chứa đường dẫn nguồn và bản chỉnh sửa.
 - Dataset/processed/chunks.json: chỉ tài liệu verified, có gán topic.
 - Dataset/processed/review_chunks.json: kho đối chiếu có cả OCR chưa xác minh; không dùng để trả lời khách.
+- Dataset/processed/catalog_chunks.json: tên, tóm tắt và ghi chú của đủ 38 chủ đề từ metadata; tất cả vẫn là `needs_review`, chỉ dùng để tra cứu và đối chiếu.
 - Dataset/evaluation/questions.json: bộ đánh giá người dùng đã tạo, không bị thay bằng câu hỏi tự sinh.
 
 language=und trong OCR nghĩa là chưa xác định/tách ngôn ngữ, không phải lỗi. Tên tài liệu OCR lấy từ danh mục + tên ảnh, không khẳng định đó là tiêu đề thực trên bảng.
@@ -42,13 +43,15 @@ Mặc định tái sử dụng kết quả khi checksum ảnh và cấu hình kh
 cd backend
 python3 -m app.services.rag.ingestion
 python3 -m app.services.rag.ingestion --review
+python3 -m app.services.rag.ingestion --catalog
 python3 -m app.services.rag.retrieval
 python3 -m app.services.rag.retrieval --review
 python3 -m app.services.rag.retrieval --review --topic TOPIC006
+python3 -m app.services.rag.retrieval --catalog --topic TOPIC006 --query "Ngũ Hành Sơn"
 python3 -m app.services.rag.retrieval --review --query "Nam Thổ Sơn" --top-k 3
 ```
 
-Không có --topic: tìm toàn bộ chủ đề có trong kho đang chọn. Không có --review: chỉ tìm kho đã duyệt. Ảnh chưa gán topic không được đưa vào chỉ mục nhưng vẫn có trong queue. Ảnh dùng chung giữ topic_ids và có thể tìm bằng cả hai topic. Chỉ mục review loại các mẩu rất ngắn (dưới 6 chữ cái hoặc dưới 2 từ) và gom dòng OCR thành đoạn; bản gốc vẫn được giữ đầy đủ. Quy tắc này có thể bỏ sót nhãn ngắn, không sửa được thứ tự nhiều cột. Điểm tìm kiếm vẫn là baseline số từ trùng; không phải xác suất câu trả lời đúng. Câu không có đáp án có thể vẫn có kết quả liên quan.
+Không có --topic: tìm toàn bộ chủ đề có trong kho đang chọn. Mặc định chỉ tìm kho đã duyệt. `--catalog` tìm metadata của đủ 38 chủ đề để xác định phạm vi và nguồn ảnh; không coi metadata là nội dung lịch sử đã xác minh. `--review` tìm OCR bản nháp; hai chế độ này không trộn vào kho đã duyệt. Ảnh chưa gán topic không được đưa vào chỉ mục nhưng vẫn có trong queue. Ảnh dùng chung giữ topic_ids và có thể tìm bằng cả hai topic. Chỉ mục review loại các mẩu rất ngắn (dưới 6 chữ cái hoặc dưới 2 từ) và gom dòng OCR thành đoạn; bản gốc vẫn được giữ đầy đủ. Quy tắc này có thể bỏ sót nhãn ngắn, không sửa được thứ tự nhiều cột. Điểm tìm kiếm vẫn là baseline số từ trùng; không phải xác suất câu trả lời đúng. Câu không có đáp án có thể vẫn có kết quả liên quan.
 
 ## Biên tập và duyệt một tài liệu
 

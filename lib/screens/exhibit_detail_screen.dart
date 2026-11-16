@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../data/museum_api.dart';
 import '../models/museum_asset.dart';
 import '../models/museum_topic.dart';
+import 'chat_screen.dart';
 
 /// Chi tiết một mục trưng bày, không phải một hiện vật đơn lẻ.
 class TopicDetailScreen extends StatefulWidget {
@@ -87,7 +88,27 @@ class _TopicDetailScreenState extends State<TopicDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: _ink,
-      appBar: AppBar(title: const Text('Mục trưng bày')),
+      appBar: AppBar(
+        title: const Text('Mục trưng bày'),
+        actions: [
+          IconButton(
+            tooltip: 'Hỏi đáp về chủ đề',
+            onPressed: _topic == null
+                ? null
+                : () => Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => ChatScreen(
+                          topicId: _topic!.id,
+                          topicName: _topic!.title,
+                          api: _api,
+                        ),
+                      ),
+                    ),
+            icon: const Icon(Icons.chat_bubble_outline),
+          ),
+        ],
+      ),
       body: _loading
           ? const Center(child: CircularProgressIndicator(color: _copper))
           : _error != null

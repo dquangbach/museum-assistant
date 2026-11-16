@@ -45,10 +45,12 @@ def search_chunks(
         content_words = tokenize(chunk["text"])
 
         matched_content = query_words & content_words
-
-        # Giữ thuật toán từ khóa làm baseline có thể so sánh.
-        score = len(matched_content)
-        matched_words = matched_content
+        # Metadata danh mục ngắn: cho phép tìm theo tên chủ đề.
+        # Giữ nguyên baseline kho tài liệu đã duyệt để so sánh đánh giá cũ.
+        matched_title = (query_words & tokenize(chunk['title'])
+                         if chunk.get('source_type') == 'catalog_metadata' else set())
+        score = len(matched_content) + len(matched_title)
+        matched_words = matched_content | matched_title
 
         if score == 0:
             continue
@@ -74,22 +76,25 @@ def search_chunks(
 def main() -> None:
     parser = argparse.ArgumentParser(description="Tìm tư liệu trên mọi chủ đề hoặc lọc theo topic.")
     parser.add_argument('--topic', help='Ví dụ TOPIC005; bỏ trống để tìm toàn bộ')
-    parser.add_argument('--review', action='store_true', help='Tìm trong bản nháp OCR CHƯA XÁC MINH')
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument('--review', action='store_true', help='Tìm trong bản nháp OCR CHƯA XÁC MINH')
+    mode.add_argument('--catalog', action='store_true', help='Tìm trong metadata 38 chủ đề CHƯA XÁC MINH')
     parser.add_argument('--query', help='Hỏi một câu rồi thoát')
     parser.add_argument('--top-k', type=int, default=3)
     args = parser.parse_args()
     if args.top_k < 1:
         parser.error('--top-k phải >= 1')
     root = Path(__file__).resolve().parents[4]
-    path = root / 'Dataset/processed' / ('review_chunks.json' if args.review else 'chunks.json')
+    filename = 'catalog_chunks.json' if args.catalog else 'review_chunks.json' if args.review else 'chunks.json'
+    path = root / 'Dataset/processed' / filename
     if not path.exists():
-        raise SystemExit('Chạy ingestion trước, thêm --review nếu muốn tạo kho OCR nháp.')
+        raise SystemExit('Chạy ingestion trước với cùng chế độ --catalog hoặc --review.')
     chunks = json.loads(path.read_text(encoding='utf-8'))
     if args.topic and not any(args.topic in (c.get('topic_ids') or [c['topic_id']]) for c in chunks):
         raise SystemExit(f'Kho đang chọn chưa có đoạn nào cho {args.topic}.')
     print(f'Đã tải {len(chunks)} đoạn. Phạm vi: {args.topic or "tất cả chủ đề"}.')
-    if args.review:
-        print('CHẾ ĐỘ ĐỐI CHIẾU: OCR chưa xác minh; không dùng làm câu trả lời chính thức.')
+    if args.review or args.catalog:
+        print('CHẾ ĐỘ ĐỐI CHIẾU: nội dung chưa xác minh; không dùng làm câu trả lời chính thức.')
     while True:
         try:
             question = args.query if args.query is not None else input('\nCâu hỏi (exit để thoát): ').strip()

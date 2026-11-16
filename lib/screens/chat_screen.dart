@@ -1,13 +1,16 @@
 import 'package:flutter/material.dart';
+import '../data/museum_api.dart';
 
 class ChatScreen extends StatefulWidget {
-  final String exhibitId;
-  final String exhibitName;
+  final String topicId;
+  final String topicName;
+  final MuseumCatalogApi? api;
 
   const ChatScreen({
     super.key,
-    required this.exhibitId,
-    required this.exhibitName,
+    required this.topicId,
+    required this.topicName,
+    this.api,
   });
 
   @override
@@ -18,18 +21,19 @@ class _ChatScreenState extends State<ChatScreen> {
   final TextEditingController _textController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
   bool _isLoading = false;
+  late final MuseumCatalogApi _api;
 
   late final List<Map<String, dynamic>> _messages;
 
   @override
   void initState() {
     super.initState();
+    _api = widget.api ?? MuseumCatalogApi();
     _messages = [
       {
         'isUser': false,
         'text':
-            'Xin chào! Tôi là trợ lý bảo tàng hỗ trợ tìm hiểu về "${widget.exhibitName}". Bạn có thể hỏi về nguồn gốc, niên đại chế tác hoặc ý nghĩa hoa văn trên hiện vật này.',
-        'source': 'Bảo tàng Lịch sử (Demo)',
+            'Bạn có thể hỏi về "${widget.topicName}". Trợ lý chỉ dùng tư liệu đã được xác minh; nếu chưa có đủ nguồn, trợ lý sẽ báo rõ.',
       },
     ];
   }
@@ -41,34 +45,41 @@ class _ChatScreenState extends State<ChatScreen> {
     super.dispose();
   }
 
-  void _sendMessage() {
+  Future<void> _sendMessage() async {
     final query = _textController.text.trim();
-    if (query.isEmpty || _isLoading) return;
-
+    if (query.length < 3 || _isLoading) return;
     setState(() {
-      _messages.add({
-        'isUser': true,
-        'text': query,
-      });
+      _messages.add({'isUser': true, 'text': query});
       _isLoading = true;
     });
-
     _textController.clear();
     _scrollToBottom();
-
-    Future.delayed(const Duration(milliseconds: 900), () {
+    try {
+      final result = await _api.askQuestion(query, topicId: widget.topicId);
       if (!mounted) return;
       setState(() {
-        _isLoading = false;
         _messages.add({
           'isUser': false,
-          'text':
-              'Giải đáp về "$query":\nHiện vật ${widget.exhibitName} được tạo tác bằng kỹ thuật đúc đồng đỉnh cao của người Việt cổ, phản ánh quan niệm nhân sinh và đời sống nông nghiệp lúa nước thời bấy giờ.',
-          'source': 'Hồ sơ khoa học hiện vật mã ${widget.exhibitId} [Dữ liệu demo]',
+          'text': result.answer,
+          if (result.sources.isNotEmpty)
+            'source': result.sources
+                .map(
+                    (item) => '${item.chunkId} · ${item.imageNames.join(', ')}')
+                .join('\n'),
         });
       });
-      _scrollToBottom();
-    });
+    } catch (error) {
+      if (!mounted) return;
+      setState(() => _messages.add({
+            'isUser': false,
+            'text': error.toString(),
+          }));
+    } finally {
+      if (mounted) {
+        setState(() => _isLoading = false);
+        _scrollToBottom();
+      }
+    }
   }
 
   void _scrollToBottom() {
@@ -89,7 +100,7 @@ class _ChatScreenState extends State<ChatScreen> {
       backgroundColor: const Color(0xFF121212),
       appBar: AppBar(
         title: Text(
-          widget.exhibitName,
+          widget.topicName,
           style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
         ),
         leading: IconButton(
@@ -118,7 +129,7 @@ class _ChatScreenState extends State<ChatScreen> {
                   const SizedBox(width: 8),
                   Expanded(
                     child: Text(
-                      'Hỏi đáp hiện vật • ${widget.exhibitName} [Demo]',
+                      'Hỏi đáp chủ đề • ${widget.topicName}',
                       style: const TextStyle(
                         fontSize: 12,
                         fontWeight: FontWeight.w600,
@@ -145,22 +156,28 @@ class _ChatScreenState extends State<ChatScreen> {
                   final source = msg['source'] as String?;
 
                   return Align(
-                    alignment: isUser ? Alignment.centerRight : Alignment.centerLeft,
+                    alignment:
+                        isUser ? Alignment.centerRight : Alignment.centerLeft,
                     child: Container(
                       constraints: BoxConstraints(
                         maxWidth: MediaQuery.of(context).size.width * 0.8,
                       ),
                       margin: const EdgeInsets.only(bottom: 14),
-                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 16, vertical: 12),
                       decoration: BoxDecoration(
-                        color: isUser ? const Color(0xFFEAC0A2) : const Color(0xFF1A1A1A),
+                        color: isUser
+                            ? const Color(0xFFEAC0A2)
+                            : const Color(0xFF1A1A1A),
                         borderRadius: BorderRadius.only(
                           topLeft: const Radius.circular(20),
                           topRight: const Radius.circular(20),
                           bottomLeft: Radius.circular(isUser ? 20 : 4),
                           bottomRight: Radius.circular(isUser ? 4 : 20),
                         ),
-                        border: isUser ? null : Border.all(color: const Color(0xFF2A2A2A)),
+                        border: isUser
+                            ? null
+                            : Border.all(color: const Color(0xFF2A2A2A)),
                       ),
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -168,10 +185,13 @@ class _ChatScreenState extends State<ChatScreen> {
                           Text(
                             text,
                             style: TextStyle(
-                              color: isUser ? const Color(0xFF121212) : Colors.white,
+                              color: isUser
+                                  ? const Color(0xFF121212)
+                                  : Colors.white,
                               fontSize: 14,
                               height: 1.45,
-                              fontWeight: isUser ? FontWeight.w600 : FontWeight.normal,
+                              fontWeight:
+                                  isUser ? FontWeight.w600 : FontWeight.normal,
                             ),
                           ),
                           if (source != null) ...[
@@ -179,7 +199,8 @@ class _ChatScreenState extends State<ChatScreen> {
                             Row(
                               mainAxisSize: MainAxisSize.min,
                               children: [
-                                const Icon(Icons.bookmark_border, size: 12, color: Color(0xFF8E8E93)),
+                                const Icon(Icons.bookmark_border,
+                                    size: 12, color: Color(0xFF8E8E93)),
                                 const SizedBox(width: 4),
                                 Flexible(
                                   child: Text(
@@ -204,10 +225,10 @@ class _ChatScreenState extends State<ChatScreen> {
 
             // Trạng thái đang tải
             if (_isLoading)
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 6),
+              const Padding(
+                padding: EdgeInsets.symmetric(horizontal: 20, vertical: 6),
                 child: Row(
-                  children: const [
+                  children: [
                     SizedBox(
                       width: 14,
                       height: 14,
@@ -218,7 +239,7 @@ class _ChatScreenState extends State<ChatScreen> {
                     ),
                     SizedBox(width: 10),
                     Text(
-                      'Museo AI đang tra cứu hồ sơ hiện vật...',
+                      'Đang tìm tư liệu đã xác minh...',
                       style: TextStyle(
                         fontSize: 12,
                         color: Color(0xFF8E8E93),
@@ -234,7 +255,8 @@ class _ChatScreenState extends State<ChatScreen> {
               padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
               color: const Color(0xFF121212),
               child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                 decoration: BoxDecoration(
                   color: const Color(0xFF1A1A1A),
                   borderRadius: BorderRadius.circular(30),
@@ -245,12 +267,15 @@ class _ChatScreenState extends State<ChatScreen> {
                     Expanded(
                       child: TextField(
                         controller: _textController,
-                        style: const TextStyle(color: Colors.white, fontSize: 13),
+                        style:
+                            const TextStyle(color: Colors.white, fontSize: 13),
                         decoration: const InputDecoration(
-                          hintText: 'Hỏi bất kỳ điều gì về hiện vật...',
-                          hintStyle: TextStyle(fontSize: 13, color: Color(0xFF666666)),
+                          hintText: 'Hỏi về chủ đề này...',
+                          hintStyle:
+                              TextStyle(fontSize: 13, color: Color(0xFF666666)),
                           border: InputBorder.none,
-                          contentPadding: EdgeInsets.symmetric(horizontal: 4, vertical: 10),
+                          contentPadding:
+                              EdgeInsets.symmetric(horizontal: 4, vertical: 10),
                         ),
                         onSubmitted: (_) => _sendMessage(),
                       ),

@@ -109,3 +109,17 @@ alembic upgrade head
 Kiểm thử tự động dùng SQLite tạm để kiểm tra API, migration, import lặp, transaction, SHA-256, bảo vệ file và bản nháp/xuất bản. PostgreSQL là database triển khai; kiểm tra vận hành PostgreSQL bằng Compose khi Docker đang chạy. Không tự tạo bảng khi API khởi động: mọi thay đổi schema đi qua migration.
 
 Tham khảo cấu trúc router từ [FastAPI](https://fastapi.tiangolo.com/tutorial/bigger-applications/), ORM từ [SQLAlchemy](https://docs.sqlalchemy.org/en/20/orm/quickstart.html), và thứ tự khởi động từ [Docker Compose](https://docs.docker.com/compose/how-tos/startup-order/).
+
+
+## Hỏi đáp bằng Gemini (chỉ tư liệu đã xác minh)
+
+Đặt `GEMINI_API_KEY` trong `.env` **ở gốc dự án** sau khi tạo key tại Google AI Studio. Có thể đổi `GEMINI_MODEL`; mặc định là `gemini-3.1-flash-lite`. `.env` đã được Git bỏ qua. Không đặt key trong Flutter hoặc `--dart-define`.
+
+```bash
+docker compose up --build -d api
+curl -sS -X POST http://localhost:8002/api/v1/chat \
+  -H 'Content-Type: application/json' \
+  -d '{"question":"Người cổ Bàu Dũ sinh sống bằng gì?","topic_id":"TOPIC005"}'
+```
+
+API trả `answer`, `answered`, `sources` (mã đoạn, chủ đề, tên và URL ảnh nguồn). Thiếu key trả 503. Không tìm được đoạn đã xác minh thì trả `answered: false` và không gọi Gemini. Trợ lý chỉ đọc `Dataset/processed/chunks.json`; kho OCR và catalog chưa xác minh không được đưa vào câu trả lời. Hiện mới có tư liệu đã xác minh cho TOPIC005. Khi xuất bản API công khai, cần giới hạn tần suất và kiểm soát truy cập để tránh lạm dụng key.

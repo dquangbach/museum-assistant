@@ -9,6 +9,7 @@ from sqlalchemy.orm import sessionmaker
 from starlette.responses import JSONResponse
 
 from app.api.catalog import router as catalog_router
+from app.api.chat import router as chat_router
 from app.api.exhibits import admin_router, router as exhibit_router
 from app.core.config import Settings, get_settings
 from app.db.session import make_engine
@@ -56,6 +57,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         return {"status": "ok", "database": "ok", "migration": revision}
 
     app.include_router(catalog_router, prefix="/api/v1")
+    app.include_router(chat_router, prefix="/api/v1")
     app.include_router(exhibit_router, prefix="/api/v1")
     app.include_router(admin_router, prefix="/api/v1")
     return app

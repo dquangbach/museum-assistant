@@ -24,6 +24,41 @@ class MuseumGroup {
       );
 }
 
+class MuseumChatSource {
+  final String chunkId;
+  final String title;
+  final List<String> imageNames;
+
+  const MuseumChatSource(
+      {required this.chunkId, required this.title, required this.imageNames});
+
+  factory MuseumChatSource.fromJson(Map<String, dynamic> json) =>
+      MuseumChatSource(
+        chunkId: json['chunk_id'] as String,
+        title: json['title'] as String,
+        imageNames: (json['image_names'] as List<dynamic>).cast<String>(),
+      );
+}
+
+class MuseumChatResponse {
+  final String answer;
+  final bool answered;
+  final List<MuseumChatSource> sources;
+
+  const MuseumChatResponse(
+      {required this.answer, required this.answered, required this.sources});
+
+  factory MuseumChatResponse.fromJson(Map<String, dynamic> json) =>
+      MuseumChatResponse(
+        answer: json['answer'] as String,
+        answered: json['answered'] as bool,
+        sources: (json['sources'] as List<dynamic>)
+            .map((item) =>
+                MuseumChatSource.fromJson(item as Map<String, dynamic>))
+            .toList(),
+      );
+}
+
 class MuseumApiException implements Exception {
   final String message;
   const MuseumApiException(this.message);
@@ -75,6 +110,40 @@ class MuseumCatalogApi {
       throw const MuseumApiException('Dữ liệu API không đúng định dạng.');
     }
     return data;
+  }
+
+  Future<MuseumChatResponse> askQuestion(String question,
+      {String? topicId}) async {
+    final client = HttpClient()..connectionTimeout = const Duration(seconds: 8);
+    try {
+      final request = await client
+          .postUrl(_url('chat'))
+          .timeout(const Duration(seconds: 8));
+      request.headers.contentType = ContentType.json;
+      request.write(jsonEncode({'question': question, 'topic_id': topicId}));
+      final response =
+          await request.close().timeout(const Duration(seconds: 35));
+      final body = await utf8.decoder.bind(response).join();
+      final decoded = jsonDecode(body);
+      if (response.statusCode != HttpStatus.ok) {
+        final detail = decoded is Map ? decoded['detail'] : null;
+        throw MuseumApiException(
+            detail is String ? detail : 'API trả mã ${response.statusCode}.');
+      }
+      if (decoded is! Map<String, dynamic>) {
+        throw const MuseumApiException('Câu trả lời API không đúng định dạng.');
+      }
+      return MuseumChatResponse.fromJson(decoded);
+    } on SocketException {
+      throw MuseumApiException(
+          'Không kết nối được backend tại ${baseUri.origin}.');
+    } on TimeoutException {
+      throw const MuseumApiException('Trợ lý phản hồi quá lâu.');
+    } on FormatException {
+      throw const MuseumApiException('Câu trả lời API không phải JSON hợp lệ.');
+    } finally {
+      client.close(force: true);
+    }
   }
 
   Future<List<MuseumGroup>> getGroups() async {

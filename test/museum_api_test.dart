@@ -59,6 +59,23 @@ void main() {
           'limit': 100,
           'offset': 0,
         };
+      } else if (path == '/api/v1/chat' && request.method == 'POST') {
+        final payload = jsonDecode(await utf8.decoder.bind(request).join())
+            as Map<String, dynamic>;
+        expect(payload['topic_id'], 'TOPIC005');
+        response = {
+          'answer': 'Người cổ săn bắt và hái lượm.',
+          'answered': true,
+          'sources': [
+            {
+              'chunk_id': 'DOC001_v1_001',
+              'topic_id': 'TOPIC005',
+              'title': 'Đà Nẵng thời tiền - sơ sử',
+              'image_urls': ['/api/v1/assets/asset-1/file'],
+              'image_names': ['IMG_8798.JPG'],
+            }
+          ],
+        };
       } else if (path == '/api/v1/qr/resolve' &&
           request.uri.queryParameters['value'] == 'museum://topic/TOPIC005') {
         response = {
@@ -86,6 +103,7 @@ void main() {
     final topic = await api.getTopic('TOPIC005');
     final assets = await api.getTopicAssets('TOPIC005');
     final qr = await api.resolveQr('museum://topic/TOPIC005');
+    final chat = await api.askQuestion('Bàu Dũ là gì?', topicId: 'TOPIC005');
 
     expect(groups.single.title, 'Lịch sử Đà Nẵng');
     expect(topics.single.id, 'TOPIC005');
@@ -95,5 +113,7 @@ void main() {
         'http://127.0.0.1:${server.port}/api/v1/assets/asset-1/file');
     expect(qr.kind, MuseumQrKind.topic);
     expect(qr.id, 'TOPIC005');
+    expect(chat.answer, 'Người cổ săn bắt và hái lượm.');
+    expect(chat.sources.single.imageNames, ['IMG_8798.JPG']);
   });
 }

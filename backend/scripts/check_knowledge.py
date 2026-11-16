@@ -34,6 +34,15 @@ def main():
         if len({c['chunk_id'] for c in chunks})!=len(chunks):raise ValueError('Duplicate chunk IDs')
         if name=='chunks.json' and any(c['review_status']!='verified' for c in chunks):raise ValueError('Draft leaked into verified index')
         print(name,':',len(chunks),'chunks,',len({t for c in chunks for t in c['topic_ids']}),'topics')
+    catalog=load('processed/catalog_chunks.json')
+    if len(catalog)!=len(topics) or {c['topic_id'] for c in catalog}!=topics:
+        raise ValueError('Catalog index does not cover every topic exactly once')
+    for chunk in catalog:
+        if chunk.get('source_type')!='catalog_metadata' or chunk['review_status']!='needs_review':
+            raise ValueError('Catalog metadata must stay marked as unverified')
+        if any((chunk['topic_id'],asset_id) not in links for asset_id in chunk['source_asset_ids']):
+            raise ValueError('Catalog source mapping is invalid')
+    print('catalog_chunks.json :',len(catalog),'chunks,',len(topics),'topics (review only)')
     print('All source mappings and review boundaries passed.')
     print('OCR:',dict(Counter(q['ocr_status'] for q in queue)))
     print('Original evaluation questions are not expanded automatically.')

@@ -15,6 +15,8 @@ class Settings(BaseSettings):
     postgres_db: str = "museum"
     dataset_dir: Path = Path(__file__).resolve().parents[3] / "Dataset"
     admin_api_key: str = ""
+    gemini_api_key: str = ""
+    gemini_model: str = "gemini-3.1-flash-lite"
     cors_origins: list[str] = []
 
     @model_validator(mode="after")
