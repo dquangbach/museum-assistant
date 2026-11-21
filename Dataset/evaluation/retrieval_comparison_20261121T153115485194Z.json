@@ -1,0 +1,646 @@
+{
+  "answerable_count": 7,
+  "question_count": 10,
+  "stats": {
+    "keyword": {
+      "hit_at_1": 6,
+      "hit_at_3": 7
+    },
+    "embedding": {
+      "hit_at_1": 7,
+      "hit_at_3": 7
+    },
+    "reranking": {
+      "hit_at_1": 7,
+      "hit_at_3": 7
+    }
+  },
+  "details": [
+    {
+      "id": "Q001",
+      "question": "Người cổ ở Bàu Dũ sinh sống bằng phương thức nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Người cổ sinh sống chủ yếu bằng săn bắt và hái lượm.",
+      "expected_chunk_ids": [
+        "DOC001_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "DOC002_v1_002"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "DOC001_v1_002",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "DOC001_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.6408188587310022
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.42280847817313044
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.40996900853882634
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.40495841385008235
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.28144872229180906
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.99915147
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.0026876123
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.0019512381
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Các di chỉ Sa Huỳnh tiêu biểu gồm những nơi nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Hậu Xá, Tam Mỹ và Vườn Đình Khuê Bắc.",
+      "expected_chunk_ids": [
+        "DOC002_v1_002"
+      ],
+      "results": {
+        "keyword": [
+          "DOC002_v1_002",
+          "DOC001_v1_003",
+          "DOC001_v1_002"
+        ],
+        "embedding": [
+          "DOC002_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_002"
+        ],
+        "reranking": [
+          "DOC002_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.6414289228971894
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6119930710577351
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5861984034973251
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.541832921978061
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.37526627384055655
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.99755317
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.7564914
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.7380263
+        }
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Di chỉ Bàu Dũ được phát hiện bởi nhà khảo cổ nào?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa nêu nhà khảo cổ phát hiện di chỉ Bàu Dũ.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_002",
+          "DOC001_v1_003"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "DOC001_v1_003",
+          "DOC002_v1_002"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "DOC002_v1_002",
+          "DOC001_v1_003"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.560999489106146
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.39927965399850524
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3525072042732371
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.3407963974405061
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3219886867970787
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.8324997
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.0010443381
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.00086542044
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Người xưa tại Bàu Dũ kiếm thức ăn bằng cách nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Chủ yếu bằng săn bắt và hái lượm.",
+      "expected_chunk_ids": [
+        "DOC001_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "DOC001_v1_002",
+          "DOC002_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "DOC001_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.5912860078739078
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3772736356001067
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.37124989514187223
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.35872660471330553
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.27322689973034525
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.9133247
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.0010782912
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.00072148954
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Cư dân Sa Huỳnh thường định cư ở những khu vực nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Vùng cửa sông và ven biển.",
+      "expected_chunk_ids": [
+        "DOC001_v1_002"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_002",
+          "DOC001_v1_003",
+          "DOC002_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC001_v1_002",
+          "DOC001_v1_003",
+          "DOC002_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5971646471254172
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.5574818789734983
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.5026168131205744
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.48943617462221495
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.3399358403096518
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.9030114
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.37000322
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.27784556
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Người Sa Huỳnh chôn người chết theo hình thức gì?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Táng thức bằng mộ chum.",
+      "expected_chunk_ids": [
+        "DOC002_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC001_v1_003",
+          "DOC002_v1_001"
+        ],
+        "embedding": [
+          "DOC002_v1_001",
+          "DOC001_v1_002",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC002_v1_001",
+          "DOC001_v1_001",
+          "DOC001_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6173207223318634
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5239494822206059
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.44117554602858583
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.4160337029627655
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.41136971735247463
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.69305426
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.009522765
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.0037653171
+        }
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Di chỉ Vườn Đình Khuê Bắc có niên đại bao nhiêu năm?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Theo bảng thuyết minh, khoảng 3.000 đến 3.500 năm cách nay.",
+      "expected_chunk_ids": [
+        "DOC001_v1_003"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_003",
+          "DOC002_v1_002",
+          "DOC001_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_003",
+          "DOC002_v1_002",
+          "DOC001_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_003",
+          "DOC002_v1_002",
+          "DOC001_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.705896918978669
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.5170148977300899
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.42990668818208855
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.39238007594551677
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.38883323347804133
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.9999435
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.067892335
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.03364467
+        }
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Văn hóa Sa Huỳnh có thành tựu nổi bật nào về chế tác thủy tinh?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Kỹ thuật làm thủy tinh nhân tạo với kiểu dáng và màu sắc phong phú.",
+      "expected_chunk_ids": [
+        "DOC002_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC002_v1_001",
+          "DOC001_v1_002",
+          "DOC001_v1_003"
+        ],
+        "embedding": [
+          "DOC002_v1_001",
+          "DOC001_v1_002",
+          "DOC002_v1_002"
+        ],
+        "reranking": [
+          "DOC002_v1_001",
+          "DOC001_v1_002",
+          "DOC002_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6945699466879766
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5942860261534102
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3960388244631655
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.37924427305604974
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.2979133297717802
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.9966473
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3878286
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.011674817
+        }
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Giá vé tham quan bảo tàng là bao nhiêu?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa cung cấp giá vé.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC002_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_003",
+          "DOC002_v1_001",
+          "DOC001_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_003",
+          "DOC002_v1_001",
+          "DOC002_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.36620246433452275
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.3599622061750321
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.3290840708694541
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.32899866979132175
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.2865784841256832
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.00015390983
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 6.166395e-05
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 2.2801605e-05
+        }
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Di chỉ Bàu Dũ đã phát hiện tổng cộng bao nhiêu bộ di cốt người?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa nêu tổng số bộ di cốt người.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC001_v1_002",
+          "DOC001_v1_003"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "DOC002_v1_002",
+          "DOC001_v1_003"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.578160903895053
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.39251309857410316
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.3820758749695346
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3456839937005902
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.31215139536157577
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.4999743
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.00026819578
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.00022683153
+        }
+      ]
+    }
+  ],
+  "candidate_limit": 20,
+  "created_at": "2026-11-21T15:31:15.485194+00:00",
+  "source_sha256": "97c8d39014906ad2c801860c7dde9b905de85330701b566339eca19226d0a9e6",
+  "embedding_model": "BAAI/bge-m3"
+}

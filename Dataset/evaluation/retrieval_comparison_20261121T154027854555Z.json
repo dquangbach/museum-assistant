@@ -1,0 +1,1247 @@
+{
+  "answerable_count": 7,
+  "question_count": 10,
+  "stats": {
+    "keyword": {
+      "hit_at_1": 6,
+      "hit_at_3": 7
+    },
+    "embedding": {
+      "hit_at_1": 7,
+      "hit_at_3": 7
+    },
+    "reranking": {
+      "hit_at_1": 7,
+      "hit_at_3": 7
+    }
+  },
+  "details": [
+    {
+      "id": "Q001",
+      "question": "Người cổ ở Bàu Dũ sinh sống bằng phương thức nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Người cổ sinh sống chủ yếu bằng săn bắt và hái lượm.",
+      "expected_chunk_ids": [
+        "DOC001_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "DOC001_v1_002",
+          "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.6408188587310022
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.42280847817313044
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.41290602544337973
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.40996900853882634
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.40495841385008235
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.39011034226683416
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.38539983329604166
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.3793591889985792
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.37560941555833116
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.3542734562224836
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.32474494643303353
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.3197599472774475
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.30852254987039035
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.28144872229180906
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.2696147218804572
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.23106943956313492
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.23051770996382878
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.2184059224687483
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.19616230883802355
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.16366813434918856
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.99915147
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.0071271025
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.0033272125
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "Các di chỉ Sa Huỳnh tiêu biểu gồm những nơi nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Hậu Xá, Tam Mỹ và Vườn Đình Khuê Bắc.",
+      "expected_chunk_ids": [
+        "DOC002_v1_002"
+      ],
+      "results": {
+        "keyword": [
+          "DOC002_v1_002",
+          "DOC001_v1_003",
+          "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001"
+        ],
+        "embedding": [
+          "DOC002_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_002"
+        ],
+        "reranking": [
+          "DOC002_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.6414289228971894
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6119930710577351
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5861984034973251
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.541832921978061
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.498217495466589
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.4809985692992195
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.4546269200238879
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.41340641538014483
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.3935929137618226
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.3781655828868218
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.37526627384055655
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.321443948809411
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.26552365652392035
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.2552174354381706
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.2333132921195378
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.21102780080676883
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.2003285262889348
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.19909645798419526
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.19529521743313574
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.16194471729223608
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.99755317
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.7564914
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.7380264
+        }
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "Di chỉ Bàu Dũ được phát hiện bởi nhà khảo cổ nào?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa nêu nhà khảo cổ phát hiện di chỉ Bàu Dũ.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_002",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "DOC002_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.560999489106146
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.40782551830681274
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.39927965399850524
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.3784197607913209
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3525072042732371
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.3522751007384029
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.3407963974405061
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3219886867970787
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.2536256959041145
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.2526903424086911
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.24922609686085076
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.24537867925755244
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.23183973536137634
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.2040340059438519
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.20112330060340627
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.1938115164344878
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.18994630048677072
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.18230263601666694
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.1777927238351919
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.14973963359322792
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.8324995
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.0019902315
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.0010443376
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "Người xưa tại Bàu Dũ kiếm thức ăn bằng cách nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Chủ yếu bằng săn bắt và hái lượm.",
+      "expected_chunk_ids": [
+        "DOC001_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC002_v1_001",
+          "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.5912860078739078
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.3971675287837017
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.3957705752438051
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.38943692274833497
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3772736356001067
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.3718501941616422
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.37124989514187223
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.35872660471330553
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.35757731181718166
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.3387487112187178
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.32818580173895234
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.3184743707907968
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.2924176094313984
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.2874277843512095
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.27322689973034525
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.24799085468249496
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.24155863703378194
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.20844924793481537
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.20815605872530563
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.18531965533412384
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.9133247
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.00278777
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.0014783527
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "Cư dân Sa Huỳnh thường định cư ở những khu vực nào?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Vùng cửa sông và ven biển.",
+      "expected_chunk_ids": [
+        "DOC001_v1_002"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_002",
+          "DOC001_v1_003",
+          "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_002",
+          "DOC002_v1_001",
+          "DOC001_v1_003"
+        ],
+        "reranking": [
+          "DOC001_v1_002",
+          "DOC001_v1_003",
+          "DOC002_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5971646471254172
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.5574818789734983
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.5026168131205744
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.48943617462221495
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.46773977684170376
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.42326051068054527
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.4114875581800287
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.4079350749897644
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.3941288959893404
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.3767198978615014
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.3399358403096518
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.3323272952814525
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.2686327727895294
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.2560244192103595
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.20703487846478294
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.2018912217653392
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.18728141317894154
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.18488078066060942
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.1593340032584581
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.15431519160186108
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.9030114
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.37000322
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.27784535
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "Người Sa Huỳnh chôn người chết theo hình thức gì?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Táng thức bằng mộ chum.",
+      "expected_chunk_ids": [
+        "DOC002_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "DOC001_v1_003",
+          "DOC002_v1_001"
+        ],
+        "embedding": [
+          "DOC002_v1_001",
+          "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001"
+        ],
+        "reranking": [
+          "DOC002_v1_001",
+          "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6173207223318634
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.5639867321799305
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.5256894686002844
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5239494822206059
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.492318278539344
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.45396710504209353
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.44117554602858583
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.4160337029627655
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.41136971735247463
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.40753597966861876
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.39685963763912563
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.35105314004003124
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.3138720395821567
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.28079487854294727
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.25638578325631856
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.2337806894719005
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.21807295935258794
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.2163494584889625
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.20800287275738327
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.15548391901376435
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.693055
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.69054914
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.05094571
+        }
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "Di chỉ Vườn Đình Khuê Bắc có niên đại bao nhiêu năm?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Theo bảng thuyết minh, khoảng 3.000 đến 3.500 năm cách nay.",
+      "expected_chunk_ids": [
+        "DOC001_v1_003"
+      ],
+      "results": {
+        "keyword": [
+          "DOC001_v1_003",
+          "DOC002_v1_002",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001"
+        ],
+        "embedding": [
+          "DOC001_v1_003",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC002_v1_002"
+        ],
+        "reranking": [
+          "DOC001_v1_003",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC002_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.705896918978669
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.6194142239618005
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.5170148977300899
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.42990668818208855
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.4199548356959713
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.39238007594551677
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.38883323347804133
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.33211476815735697
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.31321784450379636
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.30397847486051904
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.29366761938352565
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.28187561232307107
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.281240797686764
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.24788464026255067
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.22344397164700014
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.21392805999925982
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.21371790582879255
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.19287781423763792
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.17962979700377354
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.17174356349237088
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.9999435
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.56890804
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.067892365
+        }
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "Văn hóa Sa Huỳnh có thành tựu nổi bật nào về chế tác thủy tinh?",
+      "topic_id": "TOPIC005",
+      "answerable": true,
+      "expected_answer": "Kỹ thuật làm thủy tinh nhân tạo với kiểu dáng và màu sắc phong phú.",
+      "expected_chunk_ids": [
+        "DOC002_v1_001"
+      ],
+      "results": {
+        "keyword": [
+          "DOC002_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC001_v1_002"
+        ],
+        "embedding": [
+          "DOC002_v1_001",
+          "DOC001_v1_002",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001"
+        ],
+        "reranking": [
+          "DOC002_v1_001",
+          "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "DOC001_v1_002"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.6945699466879766
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.5942860261534102
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.5821999912338514
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.49760731100414884
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.48829985065363474
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.47969178235693066
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.410566840942298
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3960388244631655
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.37924427305604974
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.37246733081775807
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.3226973916667022
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.2979133297717802
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.26854669751228144
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.2473414364737543
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.22935933659606356
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.21583033399500276
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.2018250890007033
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.19346116954034542
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.18155369369834526
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.17322581862793687
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.9966473
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.6804336
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.3878281
+        }
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "Giá vé tham quan bảo tàng là bao nhiêu?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa cung cấp giá vé.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC002_v1_001"
+        ],
+        "embedding": [
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001"
+        ],
+        "reranking": [
+          "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC001_v1_003"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.4272352916205043
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.3862472196880844
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.37142336609018034
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.36620246433452275
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.3599622061750321
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.3552881287344706
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.352311433731433
+        },
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.3290840708694541
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.32899866979132175
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.322223177175145
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.3176417603958642
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.31300296983674863
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.31153509148106656
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.29082612089416526
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.2865784841256832
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.28450634393229685
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.27808529385335756
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.2574591934383586
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.2573320873574357
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.2505298177398951
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.0012456373
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.00019840126
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.00015390967
+        }
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "Di chỉ Bàu Dũ đã phát hiện tổng cộng bao nhiêu bộ di cốt người?",
+      "topic_id": "TOPIC005",
+      "answerable": false,
+      "expected_answer": "Tư liệu hiện có chưa nêu tổng số bộ di cốt người.",
+      "expected_chunk_ids": [],
+      "results": {
+        "keyword": [
+          "DOC001_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "DOC001_v1_002"
+        ],
+        "embedding": [
+          "DOC001_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001"
+        ],
+        "reranking": [
+          "DOC001_v1_001",
+          "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001"
+        ]
+      },
+      "embedding_candidates": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.578160903895053
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.4445094272166024
+        },
+        {
+          "chunk_id": "OCR_331ed62a-6957-513a-8f53-d86757ba04cf_v1_001",
+          "score": 0.40637780110420935
+        },
+        {
+          "chunk_id": "DOC002_v1_001",
+          "score": 0.39251309857410316
+        },
+        {
+          "chunk_id": "DOC001_v1_003",
+          "score": 0.3820758749695346
+        },
+        {
+          "chunk_id": "OCR_887310b0-b146-5df7-95d1-65c5562914af_v1_001",
+          "score": 0.3692524884750868
+        },
+        {
+          "chunk_id": "DOC002_v1_002",
+          "score": 0.3456839937005902
+        },
+        {
+          "chunk_id": "OCR_da841b79-9feb-56c2-8160-4d6618a88ee5_v1_001",
+          "score": 0.33136254936241083
+        },
+        {
+          "chunk_id": "DOC001_v1_002",
+          "score": 0.31215139536157577
+        },
+        {
+          "chunk_id": "OCR_85ea7841-81b8-5f5e-a26d-4ef1f0c6f4b3_v1_001",
+          "score": 0.279643365950404
+        },
+        {
+          "chunk_id": "OCR_51c592d2-9f80-5211-9bbc-7a672f22f67e_v1_001",
+          "score": 0.27094217644652346
+        },
+        {
+          "chunk_id": "OCR_aae3a990-57b4-5c87-afbe-2fc75d701aed_v1_001",
+          "score": 0.26519583871959973
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.2626804180402435
+        },
+        {
+          "chunk_id": "OCR_53e5b27a-bf9f-520f-8194-49e2851f1e5f_v1_001",
+          "score": 0.2381449300203429
+        },
+        {
+          "chunk_id": "OCR_63b9d2c8-7a68-5cdf-9e55-a72c91892e46_v1_001",
+          "score": 0.23060519796019738
+        },
+        {
+          "chunk_id": "OCR_5ecfada2-ee31-5e0b-bc73-4d3ae88573e3_v1_001",
+          "score": 0.20879693926443482
+        },
+        {
+          "chunk_id": "OCR_308b6b10-df2d-5225-bbf2-a45c76284dc5_v1_001",
+          "score": 0.19660534218051381
+        },
+        {
+          "chunk_id": "OCR_a5b49eae-97ef-5a10-8e52-9f198aebd20e_v1_001",
+          "score": 0.1952313724472661
+        },
+        {
+          "chunk_id": "OCR_40bbb38b-6c3b-519d-a54a-4f93862e971a_v1_001",
+          "score": 0.19252253263415442
+        },
+        {
+          "chunk_id": "OCR_49a5f047-d947-5a74-b099-12dfa1640a11_v1_001",
+          "score": 0.18157265551010507
+        }
+      ],
+      "reranking_scores": [
+        {
+          "chunk_id": "DOC001_v1_001",
+          "score": 0.49997497
+        },
+        {
+          "chunk_id": "OCR_390d6f22-c812-5ccb-8de7-91d5c28ed734_v1_001",
+          "score": 0.0042340094
+        },
+        {
+          "chunk_id": "OCR_0cf57294-efa0-55c9-8726-8b9c72c71846_v1_001",
+          "score": 0.0016201425
+        }
+      ]
+    }
+  ],
+  "candidate_limit": 20,
+  "created_at": "2026-11-21T15:40:27.854555+00:00",
+  "source_sha256": "6163634054a1c47f7a65c7f59d3699c8021bcc9535d6b71bc62eeeed3b1e7d5f",
+  "embedding_model": "BAAI/bge-m3",
+  "scope": "review"
+}
