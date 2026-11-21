@@ -1,0 +1,175 @@
+{
+  "scope": "review_only",
+  "chunks": 252,
+  "topics": 38,
+  "total_images": 236,
+  "images_with_searchable_chunks": 203,
+  "images_without_searchable_chunks": [
+    {
+      "id": "cdf70340-cdaf-53e8-abd8-46665d2c3e09",
+      "filename": "IMG_8797.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "bf65c635-c666-529e-b6dd-ae66b62c3e90",
+      "filename": "IMG_8820.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "56efad48-fac0-545d-8b0f-7cfbcb21bd3f",
+      "filename": "IMG_8821.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "87e1a76d-d830-5753-b2a1-89037a889965",
+      "filename": "IMG_8835.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "637b5cbb-962e-53b4-810c-d750ef87d05c",
+      "filename": "IMG_8836.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "cbb6ec92-7dab-5ef4-afc5-bc60c9b330fd",
+      "filename": "IMG_8841.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "64ceaf61-9bf2-5ec2-b148-1a5144816328",
+      "filename": "IMG_8842.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "3f6e3678-319a-5f0f-a22e-2118a3e3f13a",
+      "filename": "IMG_8846.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "894fe211-5af4-5543-a412-66ea20143277",
+      "filename": "IMG_8847.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "6192efc9-79fa-5e6d-a639-c9f5718347f1",
+      "filename": "IMG_8848.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "b279af60-f672-5d96-88e5-d5616ad5b20b",
+      "filename": "IMG_8849.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "7a53cb89-91b4-5608-adc7-3f090f65a37b",
+      "filename": "IMG_8862.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "10686b27-1462-57dc-abe7-84743cf43211",
+      "filename": "IMG_8869.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "d12b067e-4f78-573f-a0dc-cb57dcdaf61f",
+      "filename": "IMG_8871.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "99adc23f-04fd-5611-a9de-408d4a1f44e9",
+      "filename": "IMG_8876.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "ac1fed92-0187-56da-bf6e-b00340bb3493",
+      "filename": "IMG_8877.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "5655418a-648c-5eb7-88b4-2707cd9bb39a",
+      "filename": "IMG_8878.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "46096b2e-1f4c-5c1b-b51e-1b31355c6619",
+      "filename": "IMG_8879.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "9b586258-14e1-51f8-8697-fde909259f2e",
+      "filename": "IMG_8880.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "7d48ba87-e183-5418-b104-0849ab479fcb",
+      "filename": "IMG_8881.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "d9a5f8ae-9a68-5e76-8e30-6a857315462d",
+      "filename": "IMG_8892.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "0a7cefb7-723a-5c45-8ee8-5844b19f616b",
+      "filename": "IMG_8901.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "67f60b26-a0f4-5eae-913d-43cac2323914",
+      "filename": "IMG_8922.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "27a55f37-2172-51bc-aeab-13a3361328c5",
+      "filename": "IMG_8928.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "5314db19-f5b5-5eed-a850-2bba631462af",
+      "filename": "IMG_8953.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "60e2147e-de48-5e81-aaf0-a7c3b0a72b31",
+      "filename": "IMG_8954.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "588d013c-4112-5c64-868b-fd243d9ad6ed",
+      "filename": "IMG_8986.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "9c587d91-6217-5383-9075-f9b9b1335ad5",
+      "filename": "IMG_8989.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "8b62f67a-a6ff-5e05-9f50-4c67ca446f26",
+      "filename": "IMG_8991.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "612d6039-9fb0-5df8-acca-f7016475a20f",
+      "filename": "IMG_9026.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "c3ef9bc7-d24f-5e44-ad54-f65140af247f",
+      "filename": "IMG_9050.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "6da89693-4b8a-5c1c-8ebc-eb13e4960824",
+      "filename": "IMG_9055.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    },
+    {
+      "id": "007b0c4e-c1a9-5dd8-9a1c-f7532e6a8d86",
+      "filename": "IMG_9056.JPG",
+      "reason": "No searchable OCR text or unassigned topic; requires manual transcription/classification"
+    }
+  ],
+  "verified_chunks": 5
+}
